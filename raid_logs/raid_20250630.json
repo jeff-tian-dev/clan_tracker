@@ -2,9 +2,9 @@
   "state": "ongoing",
   "startTime": "20250627T070000.000Z",
   "endTime": "20250630T070000.000Z",
-  "capitalTotalLoot": 577723,
+  "capitalTotalLoot": 581863,
   "raidsCompleted": 8,
-  "totalAttacks": 164,
+  "totalAttacks": 165,
   "enemyDistrictsDestroyed": 49,
   "offensiveReward": 0,
   "defensiveReward": 0,
@@ -160,6 +160,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 29004
+    },
+    {
+      "tag": "#QGLJCPU8G",
+      "name": "JSomeGuy",
+      "attacks": 1,
+      "attackLimit": 5,
+      "bonusAttackLimit": 0,
+      "capitalResourcesLooted": 4140
     },
     {
       "tag": "#Y0QP9VRGJ",
@@ -2010,7 +2018,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/hCPjoIkUQAKy3w6ZT-ml6bnIl0987b8m1aBZyZOu8Ec.png"
         }
       },
-      "attackCount": 17,
+      "attackCount": 18,
       "districtCount": 9,
       "districtsDestroyed": 4,
       "districts": [
@@ -2240,10 +2248,20 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
+          "destructionPercent": 40,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 1,
+          "totalLooted": 4140,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QGLJCPU8G",
+                "name": "JSomeGuy"
+              },
+              "destructionPercent": 40,
+              "stars": 0
+            }
+          ]
         }
       ]
     }
@@ -3226,6 +3244,142 @@
               "stars": 2
             }
           ]
+        }
+      ]
+    },
+    {
+      "attacker": {
+        "tag": "#V0Q0QRJP",
+        "name": "DRAGARYS",
+        "level": 22,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/2NZZjDezV-p910y0eZWWT82bK-E-lESYWOMDgK4qRLg.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/2NZZjDezV-p910y0eZWWT82bK-E-lESYWOMDgK4qRLg.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/2NZZjDezV-p910y0eZWWT82bK-E-lESYWOMDgK4qRLg.png"
+        }
+      },
+      "attackCount": 4,
+      "districtCount": 9,
+      "districtsDestroyed": 0,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 10,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 77,
+          "stars": 1,
+          "attackCount": 2,
+          "totalLooted": 8600,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#L2VYP9L2Q",
+                "name": "MrDonizete"
+              },
+              "destructionPercent": 77,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#L2VYP9L2Q",
+                "name": "MrDonizete"
+              },
+              "destructionPercent": 32,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 5,
+          "destructionPercent": 38,
+          "stars": 1,
+          "attackCount": 1,
+          "totalLooted": 3215,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#L2VYP9L2Q",
+                "name": "MrDonizete"
+              },
+              "destructionPercent": 38,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 5,
+          "destructionPercent": 48,
+          "stars": 1,
+          "attackCount": 1,
+          "totalLooted": 3880,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#L2VYP9L2Q",
+                "name": "MrDonizete"
+              },
+              "destructionPercent": 48,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 4,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 4,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
         }
       ]
     }
