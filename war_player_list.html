@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>War Player List</title>
+  <style>
+    body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; padding: 30px; background-color: #f9f9f9; color: #333; }
+    h1 { text-align: center; color: #2c3e50; margin-bottom: 30px; }
+    .controls { text-align: center; margin-bottom: 30px; }
+    .controls button, .controls select {
+      margin: 0 8px; padding: 10px 18px; font-size: 14px; border-radius: 6px;
+      border: 1px solid #ccc; background-color: #fff;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+    .controls select:hover, .controls button:hover { background-color: #f0f0f0; }
+    details { width: 100%; margin: 12px 0; background: #ffffff; padding: 20px;
+              border-radius: 12px; box-shadow: 0 3px 10px rgba(0,0,0,0.1); }
+    summary { font-size: 1.2em; font-weight: bold; cursor: pointer; margin-bottom: 10px; }
+    table { width: 100%; border-collapse: collapse; margin-top: 10px; }
+    th, td { padding: 10px; text-align: center; border-bottom: 1px solid #ddd; }
+    th { background-color: #f7f7f7; font-weight: 600; }
+    .bg-placeholder { background-color: #e0e0e0; }
+  </style>
+</head>
+<body>
+<h1>War Player Stats</h1>
+<div class="controls">
+  <button onclick="expandAll()">Expand All</button>
+  <button onclick="collapseAll()">Collapse All</button>
+  <label for="showFilter">Show:</label>
+  <select id="showFilter" onchange="loadPlayers()">
+    <option value="1">Most Recent</option>
+    <option value="3">Last 3 Wars</option>
+    <option value="5">Last 5 Wars</option>
+    <option value="all">All Wars</option>
+  </select>
+  <label for="sortFilter">Sort:</label>
+  <select id="sortFilter" onchange="loadPlayers()">
+    <option value="best" selected>Best Attackers</option>
+    <option value="worst">Worst Attackers</option>
+  </select>
+</div>
+<div id="playerList"></div>
+
+<script>
+function formatDate(yyyymmdd) {
+  if (!yyyymmdd || yyyymmdd.length !== 8) return yyyymmdd;
+  return `${yyyymmdd.slice(0, 4)}-${yyyymmdd.slice(4, 6)}-${yyyymmdd.slice(6)}`;
+}
+
+function isValidEntry(entry) {
+  return entry && entry.starsEarned !== '---';
+}
+
+function getColorForStars(stars) {
+  if (stars === '---') return 'background-color: #e0e0e0';
+  const s = Number(stars);
+  if (isNaN(s)) return '';
+
+  const shades = {
+    6: '#d4f4dd',     // light green
+    5: '#e8f5c8',     // green with hint of yellow
+    4: '#f4f2b9',     // yellow with hint of green
+    3: '#fdf6b2',     // light yellow
+    2: '#fde4b2',     // yellow with hint of red
+    1: '#f8c6c6',     // light red with hint of yellow
+    0: '#f8d0d0'      // light red
+  };
+  return `background-color: ${shades[s] || '#ffffff'}`;
+}
+
+async function loadPlayers() {
+  const res = await fetch('war_logs/player_stats_war.json?t=' + Date.now());
+  const data = await res.json();
+  const container = document.getElementById('playerList');
+  container.innerHTML = '';
+
+  const filterValue = document.getElementById('showFilter')?.value || 'all';
+  let players = Object.values(data);
+  const sortValue = document.getElementById('sortFilter')?.value || 'best';
+
+  players.forEach(p => {
+    const fullHistory = p.history || [];
+    const validHistory = fullHistory.filter(isValidEntry);
+    const filteredHistory = (filterValue === 'all') ? validHistory : validHistory.slice(-parseInt(filterValue));
+    const stars = filteredHistory.reduce((sum, h) => sum + (h.starsEarned || 0), 0);
+    const destruction = filteredHistory.reduce((sum, h) => sum + (h.destruction || 0), 0);
+    p._sortMetric = { stars, destruction, count: filteredHistory.length };
+  });
+
+  if (sortValue === 'best') {
+    players.sort((a, b) => (b._sortMetric.stars / (b._sortMetric.count || 1)) - (a._sortMetric.stars / (a._sortMetric.count || 1)));
+  } else if (sortValue === 'worst') {
+    players.sort((a, b) => (a._sortMetric.stars / (a._sortMetric.count || 1)) - (b._sortMetric.stars / (b._sortMetric.count || 1)));
+  }
+
+  players.forEach(player => {
+    const section = document.createElement('details');
+    const summary = document.createElement('summary');
+    const rawHistory = player.history || [];
+    const validHistory = rawHistory.filter(isValidEntry);
+    const filteredHistory = (filterValue === 'all') ? validHistory : validHistory.slice(-parseInt(filterValue));
+    const avgStars = (filteredHistory.reduce((sum, w) => sum + (w.starsEarned || 0), 0) / (filteredHistory.length || 1)).toFixed(1);
+
+    summary.innerHTML = `<span style='display: inline-block; margin-left: 6px;'>${player.name}</span>` +
+      `<span style='float: right; font-size: 0.9em;'>Avg Stars/War: ${avgStars}</span>`;
+    section.appendChild(summary);
+
+    const table = document.createElement('table');
+    table.innerHTML = `
+      <thead>
+        <tr>
+          <th>Date</th>
+          <th>Attacks Used</th>
+          <th>Stars Earned</th>
+          <th>Destruction %</th>
+          <th>Missed Attacks</th>
+        </tr>
+      </thead>
+      <tbody>
+        ${rawHistory.map(week => {
+          const style = getColorForStars(week.starsEarned);
+          return `
+            <tr style='${style}'>
+              <td>${formatDate(week.date)}</td>
+              <td>${week.attacksUsed}</td>
+              <td>${week.starsEarned}</td>
+              <td>${week.destruction}%</td>
+              <td>${week.attacksMissed}</td>
+            </tr>
+          `;
+        }).join('')}
+      </tbody>
+    `;
+    section.appendChild(table);
+    container.appendChild(section);
+  });
+}
+
+function expandAll() { document.querySelectorAll('details').forEach(el => el.open = true); }
+function collapseAll() { document.querySelectorAll('details').forEach(el => el.open = false); }
+loadPlayers();
+</script>
+</body>
+</html>

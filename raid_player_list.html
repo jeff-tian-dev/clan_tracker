@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Raid Player List</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      padding: 30px;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    h1 {
+      text-align: center;
+      color: #2c3e50;
+      margin-bottom: 30px;
+    }
+    .controls {
+      text-align: center;
+      margin-bottom: 30px;
+    }
+    .controls button, .controls select {
+      margin: 0 8px;
+      padding: 10px 18px;
+      font-size: 14px;
+      border-radius: 6px;
+      border: 1px solid #ccc;
+      background-color: #fff;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+    .controls select:hover, .controls button:hover {
+      background-color: #f0f0f0;
+    }
+    details {
+      width: 100%;
+      margin: 12px 0;
+      background: #ffffff;
+      padding: 20px;
+      border-radius: 12px;
+      box-shadow: 0 3px 10px rgba(0,0,0,0.1);
+    }
+    summary {
+      font-size: 1.2em;
+      font-weight: bold;
+      cursor: pointer;
+      margin-bottom: 10px;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 10px;
+    }
+    th, td {
+      padding: 10px;
+      text-align: center;
+      border-bottom: 1px solid #ddd;
+    }
+    th {
+      background-color: #f7f7f7;
+      font-weight: 600;
+    }
+    .bg-red {
+      background-color: #ffe5e5;
+    }
+    .bg-yellow {
+      background-color: #fff9d1;
+    }
+    .bg-green {
+      background-color: #e5ffe5;
+    }
+  </style>
+</head>
+<body>
+  <h1>Raid Player Stats</h1>
+  <div class="controls">
+    <button onclick="expandAll()">Expand All</button>
+    <button onclick="collapseAll()">Collapse All</button>
+    <label for="filterSelect">Show:</label>
+    <select id="filterSelect" onchange="loadPlayers()">
+      <option value="1">Most Recent</option>
+      <option value="3">Last 3 Raids</option>
+      <option value="5">Last 5 Raids</option>
+      <option value="all" selected>All Raids</option>
+    </select>
+    <label for="sortSelect">Sort:</label>
+    <select id="sortSelect" onchange="loadPlayers()">
+      <option value="best" selected>Best Looters</option>
+      <option value="worst">Worst Looters</option>
+    </select>
+  </div>
+  <div id="playerList"></div>
+
+  <script>
+    function formatDate(yyyymmdd) {
+      if (!yyyymmdd || yyyymmdd.length !== 8) return yyyymmdd;
+      return `${yyyymmdd.slice(0, 4)}-${yyyymmdd.slice(4, 6)}-${yyyymmdd.slice(6)}`;
+    }
+
+    function expandAll() {
+      document.querySelectorAll('details').forEach(d => d.open = true);
+    }
+
+    function collapseAll() {
+      document.querySelectorAll('details').forEach(d => d.open = false);
+    }
+
+    async function loadPlayers() {
+      const res = await fetch(`raid_logs/player_stats_raid.json?t=${Date.now()}`);
+      const data = await res.json();
+      const container = document.getElementById('playerList');
+      container.innerHTML = '';
+
+      const filter = document.getElementById('filterSelect').value;
+      const sort = document.getElementById('sortSelect').value;
+
+      const players = Object.values(data);
+
+      players.forEach(player => {
+        player.filteredHistory = [...player.history];
+        player.filteredHistory.sort((a, b) => b.date.localeCompare(a.date));
+
+        if (filter !== 'all') {
+          const limit = parseInt(filter);
+          player.filteredHistory = player.filteredHistory.slice(0, limit);
+        }
+
+        player.totalGold = player.filteredHistory.reduce((sum, w) => sum + (w.capitalGold || 0), 0);
+      });
+
+      if (sort === 'worst') {
+        players.sort((a, b) => a.totalGold - b.totalGold);
+      } else {
+        players.sort((a, b) => b.totalGold - a.totalGold);
+      }
+
+      players.forEach(player => {
+        const section = document.createElement('details');
+        const summary = document.createElement('summary');
+        const avgLoot = (player.filteredHistory.reduce((sum, w) => sum + (w.capitalGold || 0), 0) / player.filteredHistory.length || 0).toFixed(1);
+        summary.innerHTML = `<span style='display: inline-block; margin-left: 6px;'>${player.name}</span><span style='float: right; font-size: 0.9em;'>Avg Loot/Week: ${avgLoot}</span>`;
+        section.appendChild(summary);
+
+        const table = document.createElement('table');
+        const thead = document.createElement('thead');
+        thead.innerHTML = `
+          <tr>
+            <th>Date</th>
+            <th>Attacks Used</th>
+            <th>Capital Gold</th>
+            <th>Avg Loot/Attack</th>
+            <th>Missed Attacks</th>
+          </tr>
+        `;
+        table.appendChild(thead);
+
+        const tbody = document.createElement('tbody');
+        player.filteredHistory.forEach(week => {
+          const row = document.createElement('tr');
+          let bgClass = '';
+          if (week.attacksUsed === 0) bgClass = 'bg-red';
+          else if (week.attacksUsed >= 1 && week.attacksUsed <= 5) bgClass = 'bg-yellow';
+          else if (week.attacksUsed === 6) bgClass = 'bg-green';
+          row.className = bgClass;
+
+          row.innerHTML = `
+            <td>${formatDate(week.date)}</td>
+            <td>${week.attacksUsed}</td>
+            <td>${week.capitalGold}</td>
+            <td>${week.avgLootPerAttack}</td>
+            <td>${week.attacksMissed}</td>
+          `;
+          tbody.appendChild(row);
+        });
+        table.appendChild(tbody);
+        section.appendChild(table);
+
+        container.appendChild(section);
+      });
+    }
+
+    loadPlayers();
+  </script>
+</body>
+</html>
