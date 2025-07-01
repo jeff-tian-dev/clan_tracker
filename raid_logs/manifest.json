@@ -2,10 +2,11 @@
   {
     "file": "raid_20250630.json",
     "date": "20250630",
-    "attacks": 0,
+    "totalAttacks": 210,
+    "attacksPerDistrict": 3.23,
     "enemyDistrictsDestroyed": 65,
     "offensiveReward": 171,
     "defensiveReward": 221,
-    "members": 37
+    "participants": 37
   }
 ]

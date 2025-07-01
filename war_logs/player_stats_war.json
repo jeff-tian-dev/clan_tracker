@@ -1,99 +1,27 @@
 {
-  "#QPQGQCR2U": {
-    "name": "Chopsticks",
-    "tag": "#QPQGQCR2U",
-    "history": [
-      {
-        "date": "20250628",
-        "attacksUsed": 2,
-        "starsEarned": 5,
-        "destruction": 191,
-        "attacksMissed": 0,
-        "zeroParticipation": false
-      }
-    ]
-  },
-  "#LV2Q082C": {
-    "name": "\u24c2\ufe0fCOCHY\u24c2\ufe0f",
-    "tag": "#LV2Q082C",
-    "history": [
-      {
-        "date": "20250628",
-        "attacksUsed": 2,
-        "starsEarned": 6,
-        "destruction": 200,
-        "attacksMissed": 0,
-        "zeroParticipation": false
-      }
-    ]
-  },
-  "#Y2PVPPU8C": {
-    "name": "\u2b50\u2b505 StarFree\u2b50\u2b50\u2b50",
-    "tag": "#Y2PVPPU8C",
-    "history": [
-      {
-        "date": "20250628",
-        "attacksUsed": 2,
-        "starsEarned": 6,
-        "destruction": 200,
-        "attacksMissed": 0,
-        "zeroParticipation": false
-      }
-    ]
-  },
-  "#Q9QU8L8YV": {
-    "name": "je suis excit\u00e9",
-    "tag": "#Q9QU8L8YV",
-    "history": [
-      {
-        "date": "20250628",
-        "attacksUsed": 2,
-        "starsEarned": 4,
-        "destruction": 186,
-        "attacksMissed": 0,
-        "zeroParticipation": false
-      }
-    ]
-  },
-  "#LYJJ9PLV9": {
-    "name": "Phantom",
-    "tag": "#LYJJ9PLV9",
-    "history": [
-      {
-        "date": "20250628",
-        "attacksUsed": 2,
-        "starsEarned": 3,
-        "destruction": 114,
-        "attacksMissed": 0,
-        "zeroParticipation": false
-      }
-    ]
-  },
   "#UJP2UYRY": {
     "name": "destroyer",
     "tag": "#UJP2UYRY",
     "history": [
       {
-        "date": "20250628",
-        "attacksUsed": 2,
-        "starsEarned": 5,
-        "destruction": 186,
-        "attacksMissed": 0,
-        "zeroParticipation": false
+        "date": "20250630",
+        "attacks_used": 2,
+        "stars_earned": 5,
+        "total_destruction": 159,
+        "missed_attacks": 0
       }
     ]
   },
-  "#9U2YP0RY": {
-    "name": "\u24c2\ufe0fBIG COCHY3\u24c2\ufe0f",
-    "tag": "#9U2YP0RY",
+  "#QPQGQCR2U": {
+    "name": "Chopsticks",
+    "tag": "#QPQGQCR2U",
     "history": [
       {
-        "date": "20250628",
-        "attacksUsed": 2,
-        "starsEarned": 6,
-        "destruction": 200,
-        "attacksMissed": 0,
-        "zeroParticipation": false
+        "date": "20250630",
+        "attacks_used": 2,
+        "stars_earned": 5,
+        "total_destruction": 194,
+        "missed_attacks": 0
       }
     ]
   },
@@ -102,12 +30,90 @@
     "tag": "#YQ8L9JVJ2",
     "history": [
       {
-        "date": "20250628",
-        "attacksUsed": 2,
-        "starsEarned": 5,
-        "destruction": 197,
-        "attacksMissed": 0,
-        "zeroParticipation": false
+        "date": "20250630",
+        "attacks_used": 2,
+        "stars_earned": 5,
+        "total_destruction": 192,
+        "missed_attacks": 0
+      }
+    ]
+  },
+  "#LYJJ9PLV9": {
+    "name": "Phantom",
+    "tag": "#LYJJ9PLV9",
+    "history": [
+      {
+        "date": "20250630",
+        "attacks_used": 2,
+        "stars_earned": 5,
+        "total_destruction": 193,
+        "missed_attacks": 0
+      }
+    ]
+  },
+  "#Q9QU8L8YV": {
+    "name": "je suis excit\u00e9",
+    "tag": "#Q9QU8L8YV",
+    "history": [
+      {
+        "date": "20250630",
+        "attacks_used": 2,
+        "stars_earned": 6,
+        "total_destruction": 200,
+        "missed_attacks": 0
+      }
+    ]
+  },
+  "#Y2PVPPU8C": {
+    "name": "\u2b50\u2b505 StarFree\u2b50\u2b50\u2b50",
+    "tag": "#Y2PVPPU8C",
+    "history": [
+      {
+        "date": "20250630",
+        "attacks_used": 2,
+        "stars_earned": 6,
+        "total_destruction": 200,
+        "missed_attacks": 0
+      }
+    ]
+  },
+  "#GU9YPRYJ": {
+    "name": "Master Baker",
+    "tag": "#GU9YPRYJ",
+    "history": [
+      {
+        "date": "20250630",
+        "attacksUsed": "---",
+        "starsEarned": "---",
+        "destruction": "---",
+        "attacksMissed": "---",
+        "zeroParticipation": "---"
+      }
+    ]
+  },
+  "#9U2YP0RY": {
+    "name": "\u24c2\ufe0fBIG COCHY3\u24c2\ufe0f",
+    "tag": "#9U2YP0RY",
+    "history": [
+      {
+        "date": "20250630",
+        "attacks_used": 2,
+        "stars_earned": 6,
+        "total_destruction": 200,
+        "missed_attacks": 0
+      }
+    ]
+  },
+  "#LV2Q082C": {
+    "name": "\u24c2\ufe0fCOCHY\u24c2\ufe0f",
+    "tag": "#LV2Q082C",
+    "history": [
+      {
+        "date": "20250630",
+        "attacks_used": 2,
+        "stars_earned": 5,
+        "total_destruction": 172,
+        "missed_attacks": 0
       }
     ]
   },
@@ -116,12 +122,11 @@
     "tag": "#LYCPGVQ28",
     "history": [
       {
-        "date": "20250628",
-        "attacksUsed": 2,
-        "starsEarned": 6,
-        "destruction": 200,
-        "attacksMissed": 0,
-        "zeroParticipation": false
+        "date": "20250630",
+        "attacks_used": 2,
+        "stars_earned": 5,
+        "total_destruction": 180,
+        "missed_attacks": 0
       }
     ]
   },
@@ -130,12 +135,11 @@
     "tag": "#PRGGL2J2V",
     "history": [
       {
-        "date": "20250628",
-        "attacksUsed": 2,
-        "starsEarned": 6,
-        "destruction": 200,
-        "attacksMissed": 0,
-        "zeroParticipation": false
+        "date": "20250630",
+        "attacks_used": 2,
+        "stars_earned": 5,
+        "total_destruction": 157,
+        "missed_attacks": 0
       }
     ]
   },
@@ -144,21 +148,60 @@
     "tag": "#LCUL88JLG",
     "history": [
       {
-        "date": "20250628",
-        "attacksUsed": 2,
-        "starsEarned": 6,
-        "destruction": 200,
-        "attacksMissed": 0,
-        "zeroParticipation": false
+        "date": "20250630",
+        "attacks_used": 0,
+        "stars_earned": 0,
+        "total_destruction": 0,
+        "missed_attacks": 2
       }
     ]
   },
-  "#GR0CL2R8V": {
-    "name": "bhe",
-    "tag": "#GR0CL2R8V",
+  "#9VU0VU90G": {
+    "name": "Edison123",
+    "tag": "#9VU0VU90G",
     "history": [
       {
-        "date": "20250628",
+        "date": "20250630",
+        "attacks_used": 2,
+        "stars_earned": 4,
+        "total_destruction": 161,
+        "missed_attacks": 0
+      }
+    ]
+  },
+  "#JPUVC8R8": {
+    "name": "enard'z+21",
+    "tag": "#JPUVC8R8",
+    "history": [
+      {
+        "date": "20250630",
+        "attacksUsed": "---",
+        "starsEarned": "---",
+        "destruction": "---",
+        "attacksMissed": "---",
+        "zeroParticipation": "---"
+      }
+    ]
+  },
+  "#GLU9LC2LG": {
+    "name": "JLai",
+    "tag": "#GLU9LC2LG",
+    "history": [
+      {
+        "date": "20250630",
+        "attacks_used": 2,
+        "stars_earned": 4,
+        "total_destruction": 187,
+        "missed_attacks": 0
+      }
+    ]
+  },
+  "#90R2YR2QJ": {
+    "name": "\u2606GENERAL RALPH\u2606",
+    "tag": "#90R2YR2QJ",
+    "history": [
+      {
+        "date": "20250630",
         "attacksUsed": "---",
         "starsEarned": "---",
         "destruction": "---",
@@ -172,82 +215,11 @@
     "tag": "#Y0QP9VRGJ",
     "history": [
       {
-        "date": "20250628",
-        "attacksUsed": 2,
-        "starsEarned": 6,
-        "destruction": 200,
-        "attacksMissed": 0,
-        "zeroParticipation": false
-      }
-    ]
-  },
-  "#9VU0VU90G": {
-    "name": "Edison123",
-    "tag": "#9VU0VU90G",
-    "history": [
-      {
-        "date": "20250628",
-        "attacksUsed": 2,
-        "starsEarned": 5,
-        "destruction": 197,
-        "attacksMissed": 0,
-        "zeroParticipation": false
-      }
-    ]
-  },
-  "#V0JYCPRR": {
-    "name": "bmuff2002",
-    "tag": "#V0JYCPRR",
-    "history": [
-      {
-        "date": "20250628",
-        "attacksUsed": 2,
-        "starsEarned": 4,
-        "destruction": 157,
-        "attacksMissed": 0,
-        "zeroParticipation": false
-      }
-    ]
-  },
-  "#2QC22920Y": {
-    "name": "LordOfPyskers",
-    "tag": "#2QC22920Y",
-    "history": [
-      {
-        "date": "20250628",
-        "attacksUsed": 2,
-        "starsEarned": 4,
-        "destruction": 156,
-        "attacksMissed": 0,
-        "zeroParticipation": false
-      }
-    ]
-  },
-  "#GLU9LC2LG": {
-    "name": "JLai",
-    "tag": "#GLU9LC2LG",
-    "history": [
-      {
-        "date": "20250628",
-        "attacksUsed": 2,
-        "starsEarned": 6,
-        "destruction": 200,
-        "attacksMissed": 0,
-        "zeroParticipation": false
-      }
-    ]
-  },
-  "#YJ2UV2GY": {
-    "name": "Sir Hazelnut\u2122\ufe0f",
-    "tag": "#YJ2UV2GY",
-    "history": [
-      {
-        "date": "20250628",
-        "attacksUsed": 2,
-        "starsEarned": 5,
-        "destruction": 188,
-        "attacksMissed": 0,
-        "zeroParticipation": false
+        "date": "20250630",
+        "attacks_used": 2,
+        "stars_earned": 5,
+        "total_destruction": 193,
+        "missed_attacks": 0
       }
     ]
   },
@@ -256,12 +228,24 @@
     "tag": "#8VQYULVQQ",
     "history": [
       {
-        "date": "20250628",
-        "attacksUsed": 2,
-        "starsEarned": 5,
-        "destruction": 177,
-        "attacksMissed": 0,
-        "zeroParticipation": false
+        "date": "20250630",
+        "attacks_used": 2,
+        "stars_earned": 2,
+        "total_destruction": 161,
+        "missed_attacks": 0
+      }
+    ]
+  },
+  "#V0JYCPRR": {
+    "name": "bmuff2002",
+    "tag": "#V0JYCPRR",
+    "history": [
+      {
+        "date": "20250630",
+        "attacks_used": 2,
+        "stars_earned": 6,
+        "total_destruction": 200,
+        "missed_attacks": 0
       }
     ]
   },
@@ -270,40 +254,25 @@
     "tag": "#RPUUGRUC",
     "history": [
       {
-        "date": "20250628",
-        "attacksUsed": 2,
-        "starsEarned": 4,
-        "destruction": 173,
-        "attacksMissed": 0,
-        "zeroParticipation": false
+        "date": "20250630",
+        "attacks_used": 2,
+        "stars_earned": 6,
+        "total_destruction": 200,
+        "missed_attacks": 0
       }
     ]
   },
-  "#QLJCLQGC2": {
-    "name": "Reality.wala",
-    "tag": "#QLJCLQGC2",
+  "#2QC22920Y": {
+    "name": "LordOfPyskers",
+    "tag": "#2QC22920Y",
     "history": [
       {
-        "date": "20250628",
-        "attacksUsed": 2,
-        "starsEarned": 6,
-        "destruction": 200,
-        "attacksMissed": 0,
-        "zeroParticipation": false
-      }
-    ]
-  },
-  "#G82800RQR": {
-    "name": "Deepak_w005",
-    "tag": "#G82800RQR",
-    "history": [
-      {
-        "date": "20250628",
-        "attacksUsed": 0,
-        "starsEarned": 0,
-        "destruction": 0,
-        "attacksMissed": 2,
-        "zeroParticipation": true
+        "date": "20250630",
+        "attacksUsed": "---",
+        "starsEarned": "---",
+        "destruction": "---",
+        "attacksMissed": "---",
+        "zeroParticipation": "---"
       }
     ]
   },
@@ -312,77 +281,33 @@
     "tag": "#8RJ28GQ2",
     "history": [
       {
-        "date": "20250628",
-        "attacksUsed": 2,
-        "starsEarned": 6,
-        "destruction": 200,
-        "attacksMissed": 0,
-        "zeroParticipation": false
+        "date": "20250630",
+        "attacks_used": 2,
+        "stars_earned": 6,
+        "total_destruction": 200,
+        "missed_attacks": 0
       }
     ]
   },
-  "#G22JJUUY0": {
-    "name": "Indranil Jashu",
-    "tag": "#G22JJUUY0",
+  "#YJ2UV2GY": {
+    "name": "Sir Hazelnut\u2122\ufe0f",
+    "tag": "#YJ2UV2GY",
     "history": [
       {
-        "date": "20250628",
-        "attacksUsed": 0,
-        "starsEarned": 0,
-        "destruction": 0,
-        "attacksMissed": 2,
-        "zeroParticipation": true
+        "date": "20250630",
+        "attacks_used": 2,
+        "stars_earned": 5,
+        "total_destruction": 163,
+        "missed_attacks": 0
       }
     ]
   },
-  "#90RYCLULG": {
-    "name": "Omatic",
-    "tag": "#90RYCLULG",
+  "#PRR0V2L8C": {
+    "name": "&&&\u0110HR\u00dcV&&&",
+    "tag": "#PRR0V2L8C",
     "history": [
       {
-        "date": "20250628",
-        "attacksUsed": "---",
-        "starsEarned": "---",
-        "destruction": "---",
-        "attacksMissed": "---",
-        "zeroParticipation": "---"
-      }
-    ]
-  },
-  "#QRP2RLV02": {
-    "name": "JT",
-    "tag": "#QRP2RLV02",
-    "history": [
-      {
-        "date": "20250628",
-        "attacksUsed": 2,
-        "starsEarned": 6,
-        "destruction": 200,
-        "attacksMissed": 0,
-        "zeroParticipation": false
-      }
-    ]
-  },
-  "#RUVPQQR0": {
-    "name": "Badboy101",
-    "tag": "#RUVPQQR0",
-    "history": [
-      {
-        "date": "20250628",
-        "attacksUsed": "---",
-        "starsEarned": "---",
-        "destruction": "---",
-        "attacksMissed": "---",
-        "zeroParticipation": "---"
-      }
-    ]
-  },
-  "#LQ08LQRRG": {
-    "name": "Electrofile",
-    "tag": "#LQ08LQRRG",
-    "history": [
-      {
-        "date": "20250628",
+        "date": "20250630",
         "attacksUsed": "---",
         "starsEarned": "---",
         "destruction": "---",
@@ -396,7 +321,60 @@
     "tag": "#YJ09R8L0P",
     "history": [
       {
-        "date": "20250628",
+        "date": "20250630",
+        "attacks_used": 2,
+        "stars_earned": 5,
+        "total_destruction": 151,
+        "missed_attacks": 0
+      }
+    ]
+  },
+  "#G22JJUUY0": {
+    "name": "Indranil Jashu",
+    "tag": "#G22JJUUY0",
+    "history": [
+      {
+        "date": "20250630",
+        "attacks_used": 0,
+        "stars_earned": 0,
+        "total_destruction": 0,
+        "missed_attacks": 2
+      }
+    ]
+  },
+  "#RUVPQQR0": {
+    "name": "Badboy101",
+    "tag": "#RUVPQQR0",
+    "history": [
+      {
+        "date": "20250630",
+        "attacksUsed": "---",
+        "starsEarned": "---",
+        "destruction": "---",
+        "attacksMissed": "---",
+        "zeroParticipation": "---"
+      }
+    ]
+  },
+  "#QRP2RLV02": {
+    "name": "JT",
+    "tag": "#QRP2RLV02",
+    "history": [
+      {
+        "date": "20250630",
+        "attacks_used": 2,
+        "stars_earned": 5,
+        "total_destruction": 165,
+        "missed_attacks": 0
+      }
+    ]
+  },
+  "#90RYCLULG": {
+    "name": "Omatic",
+    "tag": "#90RYCLULG",
+    "history": [
+      {
+        "date": "20250630",
         "attacksUsed": "---",
         "starsEarned": "---",
         "destruction": "---",
@@ -410,12 +388,38 @@
     "tag": "#PVGG0YV8R",
     "history": [
       {
-        "date": "20250628",
-        "attacksUsed": 2,
-        "starsEarned": 4,
-        "destruction": 144,
-        "attacksMissed": 0,
-        "zeroParticipation": false
+        "date": "20250630",
+        "attacks_used": 2,
+        "stars_earned": 4,
+        "total_destruction": 160,
+        "missed_attacks": 0
+      }
+    ]
+  },
+  "#LQ08LQRRG": {
+    "name": "Electrofile",
+    "tag": "#LQ08LQRRG",
+    "history": [
+      {
+        "date": "20250630",
+        "attacksUsed": "---",
+        "starsEarned": "---",
+        "destruction": "---",
+        "attacksMissed": "---",
+        "zeroParticipation": "---"
+      }
+    ]
+  },
+  "#P2G8RJ2YV": {
+    "name": "luki",
+    "tag": "#P2G8RJ2YV",
+    "history": [
+      {
+        "date": "20250630",
+        "attacks_used": 0,
+        "stars_earned": 0,
+        "total_destruction": 0,
+        "missed_attacks": 2
       }
     ]
   },
@@ -424,26 +428,11 @@
     "tag": "#J88YJGY9",
     "history": [
       {
-        "date": "20250628",
-        "attacksUsed": 0,
-        "starsEarned": 0,
-        "destruction": 0,
-        "attacksMissed": 2,
-        "zeroParticipation": true
-      }
-    ]
-  },
-  "#YCYP2CCQ0": {
-    "name": "MiLu\u2713247",
-    "tag": "#YCYP2CCQ0",
-    "history": [
-      {
-        "date": "20250628",
-        "attacksUsed": 2,
-        "starsEarned": 5,
-        "destruction": 194,
-        "attacksMissed": 0,
-        "zeroParticipation": false
+        "date": "20250630",
+        "attacks_used": 0,
+        "stars_earned": 0,
+        "total_destruction": 0,
+        "missed_attacks": 2
       }
     ]
   },
@@ -452,12 +441,11 @@
     "tag": "#Y8PL2C8G",
     "history": [
       {
-        "date": "20250628",
-        "attacksUsed": 2,
-        "starsEarned": 4,
-        "destruction": 138,
-        "attacksMissed": 0,
-        "zeroParticipation": false
+        "date": "20250630",
+        "attacks_used": 2,
+        "stars_earned": 3,
+        "total_destruction": 151,
+        "missed_attacks": 0
       }
     ]
   },
@@ -466,12 +454,11 @@
     "tag": "#YU00CRCUG",
     "history": [
       {
-        "date": "20250628",
-        "attacksUsed": 2,
-        "starsEarned": 2,
-        "destruction": 163,
-        "attacksMissed": 0,
-        "zeroParticipation": false
+        "date": "20250630",
+        "attacks_used": 2,
+        "stars_earned": 2,
+        "total_destruction": 151,
+        "missed_attacks": 0
       }
     ]
   },
@@ -480,96 +467,12 @@
     "tag": "#QGLJCPU8G",
     "history": [
       {
-        "date": "20250628",
+        "date": "20250630",
         "attacksUsed": "---",
         "starsEarned": "---",
         "destruction": "---",
         "attacksMissed": "---",
         "zeroParticipation": "---"
-      }
-    ]
-  },
-  "#Q0YCR2R9Y": {
-    "name": "Michie",
-    "tag": "#Q0YCR2R9Y",
-    "history": [
-      {
-        "date": "20250628",
-        "attacksUsed": "---",
-        "starsEarned": "---",
-        "destruction": "---",
-        "attacksMissed": "---",
-        "zeroParticipation": "---"
-      }
-    ]
-  },
-  "#GQGRJP8CC": {
-    "name": "Schuywalker",
-    "tag": "#GQGRJP8CC",
-    "history": [
-      {
-        "date": "20250628",
-        "attacksUsed": 0,
-        "starsEarned": 0,
-        "destruction": 0,
-        "attacksMissed": 2,
-        "zeroParticipation": true
-      }
-    ]
-  },
-  "#PC8JPVCRQ": {
-    "name": "Queen07",
-    "tag": "#PC8JPVCRQ",
-    "history": [
-      {
-        "date": "20250628",
-        "attacksUsed": 2,
-        "starsEarned": 3,
-        "destruction": 143,
-        "attacksMissed": 0,
-        "zeroParticipation": false
-      }
-    ]
-  },
-  "#QU0L8RJU8": {
-    "name": "min yga",
-    "tag": "#QU0L8RJU8",
-    "history": [
-      {
-        "date": "20250628",
-        "attacksUsed": 0,
-        "starsEarned": 0,
-        "destruction": 0,
-        "attacksMissed": 2,
-        "zeroParticipation": true
-      }
-    ]
-  },
-  "#QQVY9088U": {
-    "name": "MANDEEP JAAT",
-    "tag": "#QQVY9088U",
-    "history": [
-      {
-        "date": "20250628",
-        "attacksUsed": 0,
-        "starsEarned": 0,
-        "destruction": 0,
-        "attacksMissed": 2,
-        "zeroParticipation": true
-      }
-    ]
-  },
-  "#YQ9VYCRJ2": {
-    "name": "Moegamat yazeed",
-    "tag": "#YQ9VYCRJ2",
-    "history": [
-      {
-        "date": "20250628",
-        "attacksUsed": 0,
-        "starsEarned": 0,
-        "destruction": 0,
-        "attacksMissed": 2,
-        "zeroParticipation": true
       }
     ]
   },
@@ -578,26 +481,37 @@
     "tag": "#JCJ9V8V",
     "history": [
       {
-        "date": "20250628",
-        "attacksUsed": 2,
-        "starsEarned": 5,
-        "destruction": 184,
-        "attacksMissed": 0,
-        "zeroParticipation": false
+        "date": "20250630",
+        "attacks_used": 2,
+        "stars_earned": 5,
+        "total_destruction": 174,
+        "missed_attacks": 0
       }
     ]
   },
-  "#90GJLLUG8": {
-    "name": "cam",
-    "tag": "#90GJLLUG8",
+  "#QU0L8RJU8": {
+    "name": "min yga",
+    "tag": "#QU0L8RJU8",
     "history": [
       {
-        "date": "20250628",
-        "attacksUsed": 0,
-        "starsEarned": 0,
-        "destruction": 0,
-        "attacksMissed": 2,
-        "zeroParticipation": true
+        "date": "20250630",
+        "attacks_used": 0,
+        "stars_earned": 0,
+        "total_destruction": 0,
+        "missed_attacks": 2
+      }
+    ]
+  },
+  "#Y9PL29U2C": {
+    "name": "Lion1246",
+    "tag": "#Y9PL29U2C",
+    "history": [
+      {
+        "date": "20250630",
+        "attacks_used": 1,
+        "stars_earned": 2,
+        "total_destruction": 98,
+        "missed_attacks": 1
       }
     ]
   },
@@ -606,7 +520,7 @@
     "tag": "#YVGGJLPRJ",
     "history": [
       {
-        "date": "20250628",
+        "date": "20250630",
         "attacksUsed": "---",
         "starsEarned": "---",
         "destruction": "---",
@@ -616,72 +530,132 @@
     ]
   },
   "#LC009CGYP": {
-    "name": "felix",
-    "tag": "#LC009CGYP",
+    "name": "",
+    "tag": "",
     "history": [
       {
-        "date": "20250628",
-        "attacksUsed": 0,
-        "starsEarned": 0,
-        "destruction": 0,
-        "attacksMissed": 2,
-        "zeroParticipation": true
+        "date": "20250630",
+        "attacks_used": 0,
+        "stars_earned": 0,
+        "total_destruction": 0,
+        "missed_attacks": 2
       }
     ]
   },
-  "#Y9PL29U2C": {
-    "name": "Lion1246",
-    "tag": "#Y9PL29U2C",
+  "#QG08LULV2": {
+    "name": "",
+    "tag": "",
     "history": [
       {
-        "date": "20250628",
-        "attacksUsed": "---",
-        "starsEarned": "---",
-        "destruction": "---",
-        "attacksMissed": "---",
-        "zeroParticipation": "---"
+        "date": "20250630",
+        "attacks_used": 0,
+        "stars_earned": 0,
+        "total_destruction": 0,
+        "missed_attacks": 2
+      }
+    ]
+  },
+  "#90GJLLUG8": {
+    "name": "",
+    "tag": "",
+    "history": [
+      {
+        "date": "20250630",
+        "attacks_used": 0,
+        "stars_earned": 0,
+        "total_destruction": 0,
+        "missed_attacks": 2
       }
     ]
   },
   "#Q29PY8C9P": {
-    "name": "MACKENZIE",
-    "tag": "#Q29PY8C9P",
+    "name": "",
+    "tag": "",
     "history": [
       {
-        "date": "20250628",
-        "attacksUsed": 1,
-        "starsEarned": 1,
-        "destruction": 71,
-        "attacksMissed": 1,
-        "zeroParticipation": false
+        "date": "20250630",
+        "attacks_used": 2,
+        "stars_earned": 6,
+        "total_destruction": 200,
+        "missed_attacks": 0
       }
     ]
   },
-  "#GGYGQ8098": {
-    "name": "Aurelian",
-    "tag": "#GGYGQ8098",
+  "#QLJCLQGC2": {
+    "name": "",
+    "tag": "",
     "history": [
       {
-        "date": "20250628",
-        "attacksUsed": 2,
-        "starsEarned": 5,
-        "destruction": 185,
-        "attacksMissed": 0,
-        "zeroParticipation": false
+        "date": "20250630",
+        "attacks_used": 2,
+        "stars_earned": 5,
+        "total_destruction": 191,
+        "missed_attacks": 0
       }
     ]
   },
-  "#G0VVRLPGQ": {
-    "name": "Suyodhan",
-    "tag": "#G0VVRLPGQ",
+  "#GL9229RRC": {
+    "name": "",
+    "tag": "",
     "history": [
       {
-        "date": "20250628",
-        "attacksUsed": 2,
-        "starsEarned": 6,
-        "destruction": 200,
-        "attacksMissed": 0,
-        "zeroParticipation": false
+        "date": "20250630",
+        "attacks_used": 2,
+        "stars_earned": 4,
+        "total_destruction": 191,
+        "missed_attacks": 0
+      }
+    ]
+  },
+  "#GR0CL2R8V": {
+    "name": "",
+    "tag": "",
+    "history": [
+      {
+        "date": "20250630",
+        "attacks_used": 0,
+        "stars_earned": 0,
+        "total_destruction": 0,
+        "missed_attacks": 2
+      }
+    ]
+  },
+  "#PC8JPVCRQ": {
+    "name": "",
+    "tag": "",
+    "history": [
+      {
+        "date": "20250630",
+        "attacks_used": 2,
+        "stars_earned": 3,
+        "total_destruction": 163,
+        "missed_attacks": 0
+      }
+    ]
+  },
+  "#G82800RQR": {
+    "name": "",
+    "tag": "",
+    "history": [
+      {
+        "date": "20250630",
+        "attacks_used": 2,
+        "stars_earned": 5,
+        "total_destruction": 168,
+        "missed_attacks": 0
+      }
+    ]
+  },
+  "#QQ2088V2Q": {
+    "name": "",
+    "tag": "",
+    "history": [
+      {
+        "date": "20250630",
+        "attacks_used": 0,
+        "stars_earned": 0,
+        "total_destruction": 0,
+        "missed_attacks": 2
       }
     ]
   }

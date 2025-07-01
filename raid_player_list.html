@@ -51,9 +51,12 @@
       margin-top: 10px;
     }
     th, td {
-      padding: 10px;
+      padding: 0;
+      height: 40px;
+      line-height: 40px;
       text-align: center;
       border-bottom: 1px solid #ddd;
+      overflow: hidden;
     }
     th {
       background-color: #f7f7f7;
@@ -68,6 +71,14 @@
     .bg-green {
       background-color: #e5ffe5;
     }
+    details summary {
+      padding: 2px 6px;
+      margin: 0;
+      line-height: 20px;
+      font-size: 17px;
+      height: 20px;
+    }
+
   </style>
 </head>
 <body>
@@ -136,6 +147,7 @@
       players.forEach(player => {
         const section = document.createElement('details');
         const summary = document.createElement('summary');
+
         const avgLoot = (player.filteredHistory.reduce((sum, w) => sum + (w.capitalGold || 0), 0) / player.filteredHistory.length || 0).toFixed(1);
         summary.innerHTML = `<span style='display: inline-block; margin-left: 6px;'>${player.name}</span><span style='float: right; font-size: 0.9em;'>Avg Loot/Week: ${avgLoot}</span>`;
         section.appendChild(summary);

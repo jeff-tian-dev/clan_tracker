@@ -1,13 +1,15 @@
 [
   {
-    "file": "war_20250628_Bd_Best_Clan.json",
-    "date": "20250628",
-    "opponent": "Bd Best Clan",
-    "result": "win",
+    "file": "war_20250630_THE_REVOLUTION.json",
+    "date": "20250630",
+    "opponent": "THE REVOLUTION",
+    "result": "lose",
     "teamSize": 40,
-    "clanStars": 115,
-    "clanDestruction": 96.425,
-    "opponentStars": 110,
-    "opponentDestruction": 96.45
+    "clanStars": 110,
+    "clanDestruction": 95.7,
+    "clanAttacks": 59,
+    "opponentStars": 112,
+    "opponentDestruction": 96.5,
+    "opponentAttacks": 52
   }
 ]
