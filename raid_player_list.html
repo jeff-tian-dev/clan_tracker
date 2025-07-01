@@ -27,6 +27,7 @@
       border: 1px solid #ccc;
       background-color: #fff;
       box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+      cursor: pointer;
     }
     .controls select:hover, .controls button:hover {
       background-color: #f0f0f0;
@@ -58,19 +59,43 @@
       border-bottom: 1px solid #ddd;
       overflow: hidden;
     }
-    th {
-      background-color: #f7f7f7;
-      font-weight: 600;
+    th { background-color: #f7f7f7; font-weight: 600; }
+    .bg-red { background-color: #ffe5e5; }
+    .bg-yellow { background-color: #fff9d1; }
+    .bg-green { background-color: #e5ffe5; }
+    /* Modal styles */
+    #filterModal {
+      position: fixed;
+      top: 0; left: 0;
+      width: 100%; height: 100%;
+      background: rgba(0,0,0,0.5);
+      display: none;
+      justify-content: center;
+      align-items: center;
+      z-index: 1000;
     }
-    .bg-red {
-      background-color: #ffe5e5;
+    #filterContent {
+      background: #fff;
+      padding: 20px;
+      border-radius: 8px;
+      max-height: 80%;
+      overflow-y: auto;
+      width: 300px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+      text-align: left;
     }
-    .bg-yellow {
-      background-color: #fff9d1;
+    #filterContent h2 {
+      margin-top: 0;
+      font-size: 1.2em;
+      margin-bottom: 10px;
     }
-    .bg-green {
-      background-color: #e5ffe5;
+    #filterList {
+      list-style: none;
+      padding: 0;
+      margin: 0;
     }
+    #filterList li { margin-bottom: 8px; }
+    .non-clan { font-style: italic; color: #888; }
     details summary {
       padding: 2px 6px;
       margin: 0;
@@ -78,7 +103,6 @@
       font-size: 17px;
       height: 20px;
     }
-
   </style>
 </head>
 <body>
@@ -86,6 +110,7 @@
   <div class="controls">
     <button onclick="expandAll()">Expand All</button>
     <button onclick="collapseAll()">Collapse All</button>
+    <button onclick="showFilterModal()">Filter Members</button>
     <label for="filterSelect">Show:</label>
     <select id="filterSelect" onchange="loadPlayers()">
       <option value="1">Most Recent</option>
@@ -99,81 +124,136 @@
       <option value="worst">Worst Looters</option>
     </select>
   </div>
+
   <div id="playerList"></div>
 
+  <!-- Filter Modal -->
+  <div id="filterModal">
+    <div id="filterContent">
+      <h2>Filter Members</h2>
+      <ul id="filterList"></ul>
+    </div>
+  </div>
+
   <script>
+    let memberPositions = {};
+    let clanNames = new Set();
+    let hideMembers = {};
+    let allNames = [];
+
+    async function loadMemberPositions() {
+      clanNames.clear();
+      try {
+        const resp = await fetch(`clan_logs/clan_members.json?t=${Date.now()}`);
+        const clanData = await resp.json();
+        clanData.members.forEach(member => {
+          memberPositions[member.Tag] = member.Position;
+          clanNames.add(member.Name);
+        });
+      } catch (err) {
+        console.error('Could not load clan member positions:', err);
+      }
+    }
+
     function formatDate(yyyymmdd) {
       if (!yyyymmdd || yyyymmdd.length !== 8) return yyyymmdd;
-      return `${yyyymmdd.slice(0, 4)}-${yyyymmdd.slice(4, 6)}-${yyyymmdd.slice(6)}`;
+      return `${yyyymmdd.slice(0,4)}-${yyyymmdd.slice(4,6)}-${yyyymmdd.slice(6)}`;
     }
 
-    function expandAll() {
-      document.querySelectorAll('details').forEach(d => d.open = true);
+    function expandAll() { document.querySelectorAll('details').forEach(d => d.open = true); }
+    function collapseAll() { document.querySelectorAll('details').forEach(d => d.open = false); }
+
+    function showFilterModal() {
+      const list = document.getElementById('filterList');
+      list.innerHTML = '';
+      const sortedNames = [...allNames].sort((a, b) => a.localeCompare(b));
+      const clanList = sortedNames.filter(n => clanNames.has(n));
+      const nonClanList = sortedNames.filter(n => !clanNames.has(n));
+      // Render clan members first
+      clanList.concat(nonClanList).forEach(name => {
+        const isClan = clanNames.has(name);
+        hideMembers[name] = hideMembers[name] !== undefined ? hideMembers[name] : !isClan;
+        const li = document.createElement('li');
+        li.className = isClan ? '' : 'non-clan';
+        const checkbox = document.createElement('input');
+        checkbox.type = 'checkbox';
+        checkbox.value = name;
+        checkbox.checked = !hideMembers[name];
+        checkbox.addEventListener('change', () => {
+          hideMembers[name] = !checkbox.checked;
+          filterMembers();
+        });
+        li.appendChild(checkbox);
+        li.appendChild(document.createTextNode(' ' + name));
+        list.appendChild(li);
+      });
+      document.getElementById('filterModal').style.display = 'flex';
     }
 
-    function collapseAll() {
-      document.querySelectorAll('details').forEach(d => d.open = false);
+    // Close modal when clicking outside content
+    document.getElementById('filterModal').addEventListener('click', function(e) {
+      if (e.target === this) closeFilterModal();
+    });
+
+    function closeFilterModal() { document.getElementById('filterModal').style.display = 'none'; }
+
+    function filterMembers() {
+      document.querySelectorAll('details[data-name]').forEach(sec => {
+        sec.style.display = hideMembers[sec.dataset.name] ? 'none' : '';
+      });
     }
 
     async function loadPlayers() {
+      await loadMemberPositions();
       const res = await fetch(`raid_logs/player_stats_raid.json?t=${Date.now()}`);
       const data = await res.json();
       const container = document.getElementById('playerList');
       container.innerHTML = '';
 
-      const filter = document.getElementById('filterSelect').value;
-      const sort = document.getElementById('sortSelect').value;
+      const filterValue = document.getElementById('filterSelect').value;
+      const sortValue = document.getElementById('sortSelect').value;
 
-      const players = Object.values(data);
-
-      players.forEach(player => {
-        player.filteredHistory = [...player.history];
-        player.filteredHistory.sort((a, b) => b.date.localeCompare(a.date));
-
-        if (filter !== 'all') {
-          const limit = parseInt(filter);
-          player.filteredHistory = player.filteredHistory.slice(0, limit);
-        }
-
-        player.totalGold = player.filteredHistory.reduce((sum, w) => sum + (w.capitalGold || 0), 0);
+      const players = Object.values(data).map(player => {
+        const history = [...player.history].sort((a, b) => b.date.localeCompare(a.date));
+        const filtered = filterValue === 'all' ? history : history.slice(0, parseInt(filterValue));
+        const totalGold = filtered.reduce((sum, w) => sum + (w.capitalGold || 0), 0);
+        return { ...player, filteredHistory: filtered, totalGold };
       });
+      players.sort((a, b) => sortValue === 'worst' ? a.totalGold - b.totalGold : b.totalGold - a.totalGold);
 
-      if (sort === 'worst') {
-        players.sort((a, b) => a.totalGold - b.totalGold);
-      } else {
-        players.sort((a, b) => b.totalGold - a.totalGold);
-      }
+      allNames = players.map(p => p.name);
+      allNames.forEach(name => {
+        if (hideMembers[name] === undefined) hideMembers[name] = !clanNames.has(name);
+      });
 
       players.forEach(player => {
         const section = document.createElement('details');
+        section.dataset.name = player.name;
         const summary = document.createElement('summary');
-
-        const avgLoot = (player.filteredHistory.reduce((sum, w) => sum + (w.capitalGold || 0), 0) / player.filteredHistory.length || 0).toFixed(1);
-        summary.innerHTML = `<span style='display: inline-block; margin-left: 6px;'>${player.name}</span><span style='float: right; font-size: 0.9em;'>Avg Loot/Week: ${avgLoot}</span>`;
+        const avgLoot = (player.filteredHistory.reduce((sum, w) => sum + (w.capitalGold || 0), 0) / (player.filteredHistory.length || 1)).toFixed(1);
+        const pos = memberPositions[player.tag] ? `${memberPositions[player.tag]}. ` : '';
+        summary.innerHTML = `
+          <span style='display:inline-block;margin-left:6px;'>${pos}${player.name}</span>
+          <span style='float:right;font-size:0.9em;'>Avg Loot/Week: ${avgLoot}</span>
+        `;
         section.appendChild(summary);
 
         const table = document.createElement('table');
-        const thead = document.createElement('thead');
-        thead.innerHTML = `
-          <tr>
-            <th>Date</th>
-            <th>Attacks Used</th>
-            <th>Capital Gold</th>
-            <th>Avg Loot/Attack</th>
-            <th>Missed Attacks</th>
-          </tr>
+        table.innerHTML = `
+          <thead>
+            <tr>
+              <th>Date</th>
+              <th>Attacks Used</th>
+              <th>Capital Gold</th>
+              <th>Avg Loot/Attack</th>
+              <th>Missed Attacks</th>
+            </tr>
+          </thead>
         `;
-        table.appendChild(thead);
-
         const tbody = document.createElement('tbody');
         player.filteredHistory.forEach(week => {
           const row = document.createElement('tr');
-          let bgClass = '';
-          if (week.attacksUsed === 0) bgClass = 'bg-red';
-          else if (week.attacksUsed >= 1 && week.attacksUsed <= 5) bgClass = 'bg-yellow';
-          else if (week.attacksUsed === 6) bgClass = 'bg-green';
-          row.className = bgClass;
-
+          row.className = week.attacksUsed === 0 ? 'bg-red' : week.attacksUsed < 6 ? 'bg-yellow' : 'bg-green';
           row.innerHTML = `
             <td>${formatDate(week.date)}</td>
             <td>${week.attacksUsed}</td>
@@ -185,9 +265,10 @@
         });
         table.appendChild(tbody);
         section.appendChild(table);
-
         container.appendChild(section);
       });
+
+      filterMembers();
     }
 
     loadPlayers();
