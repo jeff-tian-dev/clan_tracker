@@ -11,135 +11,188 @@
       margin: 0 8px; padding: 10px 18px; font-size: 14px; border-radius: 6px;
       border: 1px solid #ccc; background-color: #fff;
       box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+      cursor: pointer;
     }
     .controls select:hover, .controls button:hover { background-color: #f0f0f0; }
+    .non-clan { font-style: italic; color: #888; }
     details { width: 100%; margin: 12px 0; background: #ffffff; padding: 20px;
               border-radius: 12px; box-shadow: 0 3px 10px rgba(0,0,0,0.1); }
-    summary { font-size: 1.2em; font-weight: bold; cursor: pointer; margin-bottom: 10px; }
+    details summary { cursor: pointer; padding: 2px 6px; margin: 0; line-height: 20px; font-size: 17px; height: 20px; }
+    summary { font-size: 1.2em; font-weight: bold; margin-bottom: 10px; }
     table { width: 100%; border-collapse: collapse; margin-top: 10px; }
     th, td { padding: 10px; text-align: center; border-bottom: 1px solid #ddd; }
     th { background-color: #f7f7f7; font-weight: 600; }
-    .bg-placeholder { background-color: #e0e0e0; }
+    /* Modal styles */
+    #filterModal { position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.5); display: none; justify-content: center; align-items: center; z-index: 1000; }
+    #filterContent { background: #fff; padding: 20px; border-radius: 8px; max-height: 80%; overflow-y: auto; width: 300px; box-shadow: 0 4px 12px rgba(0,0,0,0.2); text-align: left; }
+    #filterContent h2 { margin-top: 0; font-size: 1.2em; margin-bottom: 10px; }
+    #filterList { list-style: none; padding: 0; margin: 0; }
+    #filterList li { margin-bottom: 8px; }
   </style>
 </head>
 <body>
-<h1>War Player Stats</h1>
-<div class="controls">
-  <button onclick="expandAll()">Expand All</button>
-  <button onclick="collapseAll()">Collapse All</button>
-  <label for="showFilter">Show:</label>
-  <select id="showFilter" onchange="loadPlayers()">
-    <option value="1">Most Recent</option>
-    <option value="3">Last 3 Wars</option>
-    <option value="5">Last 5 Wars</option>
-    <option value="all">All Wars</option>
-  </select>
-  <label for="sortFilter">Sort:</label>
-  <select id="sortFilter" onchange="loadPlayers()">
-    <option value="best" selected>Best Attackers</option>
-    <option value="worst">Worst Attackers</option>
-  </select>
-</div>
-<div id="playerList"></div>
+  <h1>War Player Stats</h1>
+  <div class="controls">
+    <button onclick="expandAll()">Expand All</button>
+    <button onclick="collapseAll()">Collapse All</button>
+    <button onclick="showFilterModal()">Filter Members</button>
+    <label for="showFilter">Show:</label>
+    <select id="showFilter" onchange="loadPlayers()">
+      <option value="1">Most Recent</option>
+      <option value="3">Last 3 Wars</option>
+      <option value="5">Last 5 Wars</option>
+      <option value="all">All Wars</option>
+    </select>
+    <label for="sortFilter">Sort:</label>
+    <select id="sortFilter" onchange="loadPlayers()">
+      <option value="best" selected>Best Attackers</option>
+      <option value="worst">Worst Attackers</option>
+    </select>
+  </div>
+  <div id="playerList"></div>
 
-<script>
-function formatDate(yyyymmdd) {
-  if (!yyyymmdd || yyyymmdd.length !== 8) return yyyymmdd;
-  return `${yyyymmdd.slice(0, 4)}-${yyyymmdd.slice(4, 6)}-${yyyymmdd.slice(6)}`;
-}
+  <!-- Filter Modal -->
+  <div id="filterModal">
+    <div id="filterContent">
+      <h2>Filter Members</h2>
+      <ul id="filterList"></ul>
+    </div>
+  </div>
 
-function isValidEntry(entry) {
-  return entry && entry.starsEarned !== '---';
-}
+  <script>
+    let clanNames = new Set();
+    let hideMembers = {};
+    let allNames = [];
 
-function getColorForStars(stars) {
-  if (stars === '---') return 'background-color: #e0e0e0';
-  const s = Number(stars);
-  if (isNaN(s)) return '';
+    async function loadMemberPositions() {
+      clanNames.clear();
+      try {
+        const resp = await fetch(`clan_logs/clan_members.json?t=${Date.now()}`);
+        const clanData = await resp.json();
+        clanData.members.forEach(member => clanNames.add(member.Name));
+      } catch (err) {
+        console.error('Could not load clan members:', err);
+      }
+    }
 
-  const shades = {
-    6: '#d4f4dd',     // light green
-    5: '#e8f5c8',     // green with hint of yellow
-    4: '#f4f2b9',     // yellow with hint of green
-    3: '#fdf6b2',     // light yellow
-    2: '#fde4b2',     // yellow with hint of red
-    1: '#f8c6c6',     // light red with hint of yellow
-    0: '#f8d0d0'      // light red
-  };
-  return `background-color: ${shades[s] || '#ffffff'}`;
-}
+    function formatDate(yyyymmdd) {
+      if (!yyyymmdd || yyyymmdd.length !== 8) return yyyymmdd;
+      return `${yyyymmdd.slice(0, 4)}-${yyyymmdd.slice(4, 6)}-${yyyymmdd.slice(6)}`;
+    }
 
-async function loadPlayers() {
-  const res = await fetch('war_logs/player_stats_war.json?t=' + Date.now());
-  const data = await res.json();
-  const container = document.getElementById('playerList');
-  container.innerHTML = '';
+    function isValidEntry(entry) {
+      return entry && entry.starsEarned !== '---';
+    }
 
-  const filterValue = document.getElementById('showFilter')?.value || 'all';
-  let players = Object.values(data);
-  const sortValue = document.getElementById('sortFilter')?.value || 'best';
+    function getColorForStars(stars) {
+      if (stars === '---') return 'background-color: #e0e0e0';
+      const s = Number(stars);
+      if (isNaN(s)) return '';
+      const shades = { 6: '#d4f4dd', 5: '#e8f5c8', 4: '#f4f2b9', 3: '#fdf6b2', 2: '#fde4b2', 1: '#f8c6c6', 0: '#f8d0d0' };
+      return `background-color: ${shades[s] || '#ffffff'}`;
+    }
 
-  players.forEach(p => {
-    const fullHistory = p.history || [];
-    const validHistory = fullHistory.filter(isValidEntry);
-    const filteredHistory = (filterValue === 'all') ? validHistory : validHistory.slice(-parseInt(filterValue));
-    const stars = filteredHistory.reduce((sum, h) => sum + (h.starsEarned || 0), 0);
-    const destruction = filteredHistory.reduce((sum, h) => sum + (h.destruction || 0), 0);
-    p._sortMetric = { stars, destruction, count: filteredHistory.length };
-  });
+    async function loadPlayers() {
+      await loadMemberPositions();
+      const res = await fetch('war_logs/player_stats_war.json?t=' + Date.now());
+      const data = await res.json();
+      const container = document.getElementById('playerList');
+      container.innerHTML = '';
 
-  if (sortValue === 'best') {
-    players.sort((a, b) => (b._sortMetric.stars / (b._sortMetric.count || 1)) - (a._sortMetric.stars / (a._sortMetric.count || 1)));
-  } else if (sortValue === 'worst') {
-    players.sort((a, b) => (a._sortMetric.stars / (a._sortMetric.count || 1)) - (b._sortMetric.stars / (b._sortMetric.count || 1)));
-  }
+      const filterValue = document.getElementById('showFilter')?.value || 'all';
+      const sortValue   = document.getElementById('sortFilter')?.value || 'best';
+      let players = Object.values(data);
 
-  players.forEach(player => {
-    const section = document.createElement('details');
-    const summary = document.createElement('summary');
-    const rawHistory = player.history || [];
-    const validHistory = rawHistory.filter(isValidEntry);
-    const filteredHistory = (filterValue === 'all') ? validHistory : validHistory.slice(-parseInt(filterValue));
-    const avgStars = (filteredHistory.reduce((sum, w) => sum + (w.starsEarned || 0), 0) / (filteredHistory.length || 1)).toFixed(1);
+      // Compute sort metrics based solely on the most recent N raw wars
+      players.forEach(p => {
+        const rawHistory = p.history || [];
+        const limitedRaw = filterValue === 'all' ? rawHistory : rawHistory.slice(-parseInt(filterValue));
+        const validLimited = limitedRaw.filter(isValidEntry);
+        const stars = validLimited.reduce((sum, h) => sum + (h.starsEarned || 0), 0);
+        p._sortMetric = { stars, count: validLimited.length };
+        p._limitedRaw = limitedRaw;
+        p._validLimited = validLimited;
+      });
 
-    summary.innerHTML = `<span style='display: inline-block; margin-left: 6px;'>${player.name}</span>` +
-      `<span style='float: right; font-size: 0.9em;'>Avg Stars/War: ${avgStars}</span>`;
-    section.appendChild(summary);
+      // Separate fighters (count>0) and non-fighters
+      const foughtPlayers   = players.filter(p => p._sortMetric.count > 0);
+      const noFoughtPlayers = players.filter(p => p._sortMetric.count === 0);
 
-    const table = document.createElement('table');
-    table.innerHTML = `
-      <thead>
-        <tr>
-          <th>Date</th>
-          <th>Attacks Used</th>
-          <th>Stars Earned</th>
-          <th>Destruction %</th>
-          <th>Missed Attacks</th>
-        </tr>
-      </thead>
-      <tbody>
-        ${rawHistory.map(week => {
-          const style = getColorForStars(week.starsEarned);
-          return `
-            <tr style='${style}'>
-              <td>${formatDate(week.date)}</td>
-              <td>${week.attacksUsed}</td>
-              <td>${week.starsEarned}</td>
-              <td>${week.destruction}%</td>
-              <td>${week.attacksMissed}</td>
-            </tr>
-          `;
-        }).join('')}
-      </tbody>
-    `;
-    section.appendChild(table);
-    container.appendChild(section);
-  });
-}
+      // Sort only fighters by average stars in that window
+      if (sortValue === 'best') {
+        foughtPlayers.sort((a, b) => 
+          (b._sortMetric.stars / b._sortMetric.count) - (a._sortMetric.stars / a._sortMetric.count)
+        );
+      } else {
+        foughtPlayers.sort((a, b) => 
+          (a._sortMetric.stars / a._sortMetric.count) - (b._sortMetric.stars / b._sortMetric.count)
+        );
+      }
 
-function expandAll() { document.querySelectorAll('details').forEach(el => el.open = true); }
-function collapseAll() { document.querySelectorAll('details').forEach(el => el.open = false); }
-loadPlayers();
-</script>
+      // Combine, pushing non-fighters to bottom
+      const sortedPlayers = foughtPlayers.concat(noFoughtPlayers);
+
+      // Prepare filtering state
+      allNames = sortedPlayers.map(p => p.name);
+      allNames.forEach(name => { if (hideMembers[name] === undefined) hideMembers[name] = !clanNames.has(name); });
+
+      // Render each player
+      sortedPlayers.forEach(player => {
+        const section = document.createElement('details');
+        section.dataset.name = player.name;
+        const summary = document.createElement('summary');
+        const validLimited = player._validLimited || [];
+        const avgStars = (validLimited.reduce((sum, w) => sum + (w.starsEarned || 0), 0) / (validLimited.length || 1)).toFixed(1);
+        summary.innerHTML = `
+          <span style='display:inline-block;margin-left:6px;'>${player.name}</span>
+          <span style='float:right;font-size:0.9em;'>Avg Stars/Window: ${avgStars}</span>
+        `;
+        section.appendChild(summary);
+
+        const table = document.createElement('table');
+        table.innerHTML = `
+          <thead><tr>
+            <th>Date</th><th>Attacks Used</th><th>Stars Earned</th><th>Destruction %</th><th>Missed Attacks</th>
+          </tr></thead>
+          <tbody>
+            ${(player.history || []).map(week => `
+              <tr style='${getColorForStars(week.starsEarned)}'>
+                <td>${formatDate(week.date)}</td><td>${week.attacksUsed}</td>
+                <td>${week.starsEarned}</td><td>${week.destruction}%</td><td>${week.attacksMissed}</td>
+              </tr>
+            `).join('')}
+          </tbody>
+        `;
+        section.appendChild(table);
+        container.appendChild(section);
+      });
+
+      filterMembers();
+    }
+
+    function showFilterModal() {
+      const list = document.getElementById('filterList'); list.innerHTML = '';
+      const sorted = [...allNames].sort((a, b) => a.localeCompare(b));
+      const clanList = sorted.filter(n => clanNames.has(n));
+      const others   = sorted.filter(n => !clanNames.has(n));
+      clanList.concat(others).forEach(name => {
+        hideMembers[name] = hideMembers[name] !== undefined ? hideMembers[name] : !clanNames.has(name);
+        const li = document.createElement('li'), cb = document.createElement('input');
+        cb.type='checkbox'; cb.value=name; cb.checked=!hideMembers[name];
+        cb.addEventListener('change', () => { hideMembers[name] = !cb.checked; filterMembers(); });
+        li.appendChild(cb); li.appendChild(document.createTextNode(' ' + name));
+        if (!clanNames.has(name)) li.className='non-clan';
+        list.appendChild(li);
+      });
+      document.getElementById('filterModal').style.display = 'flex';
+    }
+
+    document.getElementById('filterModal').addEventListener('click', e => { if (e.target === e.currentTarget) closeFilterModal(); });
+    function closeFilterModal() { document.getElementById('filterModal').style.display = 'none'; }
+    function filterMembers() { document.querySelectorAll('details[data-name]').forEach(sec => { sec.style.display = hideMembers[sec.dataset.name] ? 'none' : ''; }); }
+    function expandAll() { document.querySelectorAll('details').forEach(el => el.open = true); }
+    function collapseAll() { document.querySelectorAll('details').forEach(el => el.open = false); }
+    loadPlayers();
+  </script>
 </body>
 </html>
