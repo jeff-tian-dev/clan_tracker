@@ -4,105 +4,50 @@
   <meta charset="UTF-8">
   <title>Raid Player List</title>
   <style>
-    body {
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      padding: 30px;
-      background-color: #f9f9f9;
-      color: #333;
-    }
-    h1 {
-      text-align: center;
-      color: #2c3e50;
-      margin-bottom: 30px;
-    }
-    .controls {
-      text-align: center;
-      margin-bottom: 30px;
-    }
-    .controls button, .controls select {
+    body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; padding: 30px; background-color: #f9f9f9; color: #333; }
+    h1 { text-align: center; color: #2c3e50; margin-bottom: 30px; }
+    .controls { text-align: center; margin-bottom: 30px; }
+    /* Unified styling for buttons and selects */
+    .controls button,
+    .controls select {
       margin: 0 8px;
       padding: 10px 18px;
       font-size: 14px;
-      border-radius: 6px;
       border: 1px solid #ccc;
+      border-radius: 6px;
       background-color: #fff;
+      background-clip: padding-box;
+      -webkit-appearance: none;
+      -moz-appearance: none;
+      appearance: none;
       box-shadow: 0 2px 4px rgba(0,0,0,0.1);
       cursor: pointer;
     }
-    .controls select:hover, .controls button:hover {
-      background-color: #f0f0f0;
+    /* reinforce bottom border on selects */
+    .controls select {
+      border-bottom: 1px solid #ccc;
     }
-    details {
-      width: 100%;
-      margin: 12px 0;
-      background: #ffffff;
-      padding: 20px;
-      border-radius: 12px;
-      box-shadow: 0 3px 10px rgba(0,0,0,0.1);
-    }
-    summary {
-      font-size: 1.2em;
-      font-weight: bold;
-      cursor: pointer;
-      margin-bottom: 10px;
-    }
-    table {
-      width: 100%;
-      border-collapse: collapse;
-      margin-top: 10px;
-    }
-    th, td {
-      padding: 0;
-      height: 40px;
-      line-height: 40px;
-      text-align: center;
-      border-bottom: 1px solid #ddd;
-      overflow: hidden;
-    }
+    .controls select:hover,
+    .controls button:hover { background-color: #f0f0f0; }
+
+    details { width: 100%; margin: 12px 0; background: #fff; padding: 20px; border-radius: 12px; box-shadow: 0 3px 10px rgba(0,0,0,0.1); }
+    summary { font-size: 1.2em; font-weight: bold; cursor: pointer; margin-bottom: 10px; }
+    table { width: 100%; border-collapse: collapse; margin-top: 10px; }
+    th, td { padding: 0; height: 40px; line-height: 40px; text-align: center; border-bottom: 1px solid #ddd; overflow: hidden; }
     th { background-color: #f7f7f7; font-weight: 600; }
     .bg-red { background-color: #ffe5e5; }
     .bg-yellow { background-color: #fff9d1; }
     .bg-green { background-color: #e5ffe5; }
+    .bg-grey { background-color: #e0e0e0; }
+
     /* Modal styles */
-    #filterModal {
-      position: fixed;
-      top: 0; left: 0;
-      width: 100%; height: 100%;
-      background: rgba(0,0,0,0.5);
-      display: none;
-      justify-content: center;
-      align-items: center;
-      z-index: 1000;
-    }
-    #filterContent {
-      background: #fff;
-      padding: 20px;
-      border-radius: 8px;
-      max-height: 80%;
-      overflow-y: auto;
-      width: 300px;
-      box-shadow: 0 4px 12px rgba(0,0,0,0.2);
-      text-align: left;
-    }
-    #filterContent h2 {
-      margin-top: 0;
-      font-size: 1.2em;
-      margin-bottom: 10px;
-    }
-    #filterList {
-      list-style: none;
-      padding: 0;
-      margin: 0;
-    }
-    #filterList li { margin-bottom: 8px; }
-    .non-clan { font-style: italic; color: #888; }
-    details summary {
-      padding: 2px 6px;
-      margin: 0;
-      line-height: 20px;
-      font-size: 17px;
-      height: 20px;
-    }
+    #filterModal { position: fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.5); display:none; justify-content:center; align-items:center; z-index:1000; }
+    #filterContent { background:#fff; padding:20px; border-radius:8px; max-height:80%; overflow-y:auto; width:300px; box-shadow:0 4px 12px rgba(0,0,0,0.2); text-align:left; }
+    #filterContent h2 { margin-top:0; font-size:1.2em; margin-bottom:10px; }
+    #filterList { list-style:none; padding:0; margin:0; }
+    #filterList li { margin-bottom:8px; }
+    .non-clan { font-style:italic; color:#888; }
+    details summary { padding:2px 6px; margin:0; line-height:20px; font-size:17px; height:20px; }
   </style>
 </head>
 <body>
@@ -120,11 +65,10 @@
     </select>
     <label for="sortSelect">Sort:</label>
     <select id="sortSelect" onchange="loadPlayers()">
-      <option value="best" selected>Best Looters</option>
-      <option value="worst">Worst Looters</option>
+      <option value="best" selected>Best Avg Loot</option>
+      <option value="worst">Worst Avg Loot</option>
     </select>
   </div>
-
   <div id="playerList"></div>
 
   <!-- Filter Modal -->
@@ -136,66 +80,46 @@
   </div>
 
   <script>
-    let memberPositions = {};
-    let clanNames = new Set();
-    let hideMembers = {};
-    let allNames = [];
-
+    let memberPositions = {}, clanNames = new Set(), hideMembers = {}, allNames = [];
     async function loadMemberPositions() {
       clanNames.clear();
       try {
         const resp = await fetch(`clan_logs/clan_members.json?t=${Date.now()}`);
         const clanData = await resp.json();
-        clanData.members.forEach(member => {
-          memberPositions[member.Tag] = member.Position;
-          clanNames.add(member.Name);
-        });
-      } catch (err) {
-        console.error('Could not load clan member positions:', err);
-      }
+        clanData.members.forEach(m => { memberPositions[m.Tag] = m.Position; clanNames.add(m.name); });
+      } catch (err) { console.error('Could not load clan member positions:', err); }
     }
 
-    function formatDate(yyyymmdd) {
-      if (!yyyymmdd || yyyymmdd.length !== 8) return yyyymmdd;
-      return `${yyyymmdd.slice(0,4)}-${yyyymmdd.slice(4,6)}-${yyyymmdd.slice(6)}`;
+    function formatDate(d) {
+      return d && d.length === 8 ? `${d.slice(0,4)}-${d.slice(4,6)}-${d.slice(6)}` : d;
     }
-
     function expandAll() { document.querySelectorAll('details').forEach(d => d.open = true); }
     function collapseAll() { document.querySelectorAll('details').forEach(d => d.open = false); }
 
     function showFilterModal() {
       const list = document.getElementById('filterList');
       list.innerHTML = '';
-      const sortedNames = [...allNames].sort((a, b) => a.localeCompare(b));
-      const clanList = sortedNames.filter(n => clanNames.has(n));
-      const nonClanList = sortedNames.filter(n => !clanNames.has(n));
-      // Render clan members first
+      // Separate clan and non-clan names
+      const clanList = allNames.filter(name => clanNames.has(name)).sort((a, b) => a.localeCompare(b));
+      const nonClanList = allNames.filter(name => !clanNames.has(name)).sort((a, b) => a.localeCompare(b));
+      // Combine, with clan members first
       clanList.concat(nonClanList).forEach(name => {
-        const isClan = clanNames.has(name);
-        hideMembers[name] = hideMembers[name] !== undefined ? hideMembers[name] : !isClan;
+        hideMembers[name] = hideMembers[name] !== undefined ? hideMembers[name] : !clanNames.has(name);
         const li = document.createElement('li');
-        li.className = isClan ? '' : 'non-clan';
-        const checkbox = document.createElement('input');
-        checkbox.type = 'checkbox';
-        checkbox.value = name;
-        checkbox.checked = !hideMembers[name];
-        checkbox.addEventListener('change', () => {
-          hideMembers[name] = !checkbox.checked;
-          filterMembers();
-        });
-        li.appendChild(checkbox);
+        li.className = clanNames.has(name) ? '' : 'non-clan';
+        const cb = document.createElement('input');
+        cb.type = 'checkbox';
+        cb.value = name;
+        cb.checked = !hideMembers[name];
+        cb.addEventListener('change', () => { hideMembers[name] = !cb.checked; filterMembers(); });
+        li.appendChild(cb);
         li.appendChild(document.createTextNode(' ' + name));
         list.appendChild(li);
       });
       document.getElementById('filterModal').style.display = 'flex';
     }
 
-    // Close modal when clicking outside content
-    document.getElementById('filterModal').addEventListener('click', function(e) {
-      if (e.target === this) closeFilterModal();
-    });
-
-    function closeFilterModal() { document.getElementById('filterModal').style.display = 'none'; }
+    document.getElementById('filterModal').addEventListener('click', e => { if (e.target === e.currentTarget) e.currentTarget.style.display = 'none'; });
 
     function filterMembers() {
       document.querySelectorAll('details[data-name]').forEach(sec => {
@@ -216,51 +140,30 @@
       const players = Object.values(data).map(player => {
         const history = [...player.history].sort((a, b) => b.date.localeCompare(a.date));
         const filtered = filterValue === 'all' ? history : history.slice(0, parseInt(filterValue));
-        const totalGold = filtered.reduce((sum, w) => sum + (w.capitalGold || 0), 0);
-        return { ...player, filteredHistory: filtered, totalGold };
+        const validWeeks = filtered.filter(w => !w.missedRaid);
+        const avgLoot = validWeeks.reduce((sum, w) => sum + (w.capitalGold || 0), 0) / (validWeeks.length || 1);
+        return { ...player, filteredHistory: filtered, avgLoot };
       });
-      players.sort((a, b) => sortValue === 'worst' ? a.totalGold - b.totalGold : b.totalGold - a.totalGold);
 
+      players.sort((a, b) => sortValue === 'worst' ? a.avgLoot - b.avgLoot : b.avgLoot - a.avgLoot);
       allNames = players.map(p => p.name);
-      allNames.forEach(name => {
-        if (hideMembers[name] === undefined) hideMembers[name] = !clanNames.has(name);
-      });
+      allNames.forEach(name => { if (hideMembers[name] === undefined) hideMembers[name] = !clanNames.has(name); });
 
       players.forEach(player => {
         const section = document.createElement('details');
         section.dataset.name = player.name;
         const summary = document.createElement('summary');
-        const avgLoot = (player.filteredHistory.reduce((sum, w) => sum + (w.capitalGold || 0), 0) / (player.filteredHistory.length || 1)).toFixed(1);
         const pos = memberPositions[player.tag] ? `${memberPositions[player.tag]}. ` : '';
-        summary.innerHTML = `
-          <span style='display:inline-block;margin-left:6px;'>${pos}${player.name}</span>
-          <span style='float:right;font-size:0.9em;'>Avg Loot/Week: ${avgLoot}</span>
-        `;
+        summary.innerHTML = `<span style='margin-left:6px;'>${pos}${player.name}</span><span style='float:right;font-size:0.9em;'>Avg Loot/Week: ${player.avgLoot.toFixed(1)}</span>`;
         section.appendChild(summary);
 
         const table = document.createElement('table');
-        table.innerHTML = `
-          <thead>
-            <tr>
-              <th>Date</th>
-              <th>Attacks Used</th>
-              <th>Capital Gold</th>
-              <th>Avg Loot/Attack</th>
-              <th>Missed Attacks</th>
-            </tr>
-          </thead>
-        `;
+        table.innerHTML = `<thead><tr><th>Date</th><th>Attacks Used</th><th>Capital Gold</th><th>Avg Loot/Attack</th><th>Missed Attacks</th></tr></thead>`;
         const tbody = document.createElement('tbody');
         player.filteredHistory.forEach(week => {
           const row = document.createElement('tr');
-          row.className = week.attacksUsed === 0 ? 'bg-red' : week.attacksUsed < 6 ? 'bg-yellow' : 'bg-green';
-          row.innerHTML = `
-            <td>${formatDate(week.date)}</td>
-            <td>${week.attacksUsed}</td>
-            <td>${week.capitalGold}</td>
-            <td>${week.avgLootPerAttack}</td>
-            <td>${week.attacksMissed}</td>
-          `;
+          row.className = week.missedRaid ? 'bg-grey' : week.attacksUsed === 0 ? 'bg-red' : week.attacksUsed < 6 ? 'bg-yellow' : 'bg-green';
+          row.innerHTML = `<td>${formatDate(week.date)}</td><td>${week.attacksUsed}</td><td>${week.capitalGold}</td><td>${week.avgLootPerAttack}</td><td>${week.attacksMissed}</td>`;
           tbody.appendChild(row);
         });
         table.appendChild(tbody);
