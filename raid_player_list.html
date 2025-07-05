@@ -58,14 +58,15 @@
     <button onclick="showFilterModal()">Filter Members</button>
     <label for="filterSelect">Show:</label>
     <select id="filterSelect" onchange="loadPlayers()">
-      <option value="1">Most Recent</option>
+      <option value="1" selected>Most Recent</option>
       <option value="3">Last 3 Raids</option>
       <option value="5">Last 5 Raids</option>
-      <option value="all" selected>All Raids</option>
+      <option value="all">All Raids</option>
     </select>
     <label for="sortSelect">Sort:</label>
     <select id="sortSelect" onchange="loadPlayers()">
-      <option value="best" selected>Best Avg Loot</option>
+      <option value="position" selected>By Position</option>
+      <option value="best">Best Avg Loot</option>
       <option value="worst">Worst Avg Loot</option>
     </select>
   </div>
@@ -86,8 +87,13 @@
       try {
         const resp = await fetch(`clan_logs/clan_members.json?t=${Date.now()}`);
         const clanData = await resp.json();
-        clanData.members.forEach(m => { memberPositions[m.Tag] = m.Position; clanNames.add(m.name); });
-      } catch (err) { console.error('Could not load clan member positions:', err); }
+        clanData.members.forEach(m => {
+          memberPositions[m.tag] = m.position;
+          clanNames.add(m.name);
+        });
+      } catch (err) {
+        console.error('Could not load clan member positions:', err);
+      }
     }
 
     function formatDate(d) {
@@ -97,20 +103,14 @@
     function collapseAll() { document.querySelectorAll('details').forEach(d => d.open = false); }
 
     function showFilterModal() {
-      const list = document.getElementById('filterList');
-      list.innerHTML = '';
-      // Separate clan and non-clan names
-      const clanList = allNames.filter(name => clanNames.has(name)).sort((a, b) => a.localeCompare(b));
-      const nonClanList = allNames.filter(name => !clanNames.has(name)).sort((a, b) => a.localeCompare(b));
-      // Combine, with clan members first
+      const list = document.getElementById('filterList'); list.innerHTML = '';
+      const clanList = allNames.filter(n => clanNames.has(n)).sort((a,b) => a.localeCompare(b));
+      const nonClanList = allNames.filter(n => !clanNames.has(n)).sort((a,b) => a.localeCompare(b));
       clanList.concat(nonClanList).forEach(name => {
         hideMembers[name] = hideMembers[name] !== undefined ? hideMembers[name] : !clanNames.has(name);
         const li = document.createElement('li');
         li.className = clanNames.has(name) ? '' : 'non-clan';
-        const cb = document.createElement('input');
-        cb.type = 'checkbox';
-        cb.value = name;
-        cb.checked = !hideMembers[name];
+        const cb = document.createElement('input'); cb.type = 'checkbox'; cb.value = name; cb.checked = !hideMembers[name];
         cb.addEventListener('change', () => { hideMembers[name] = !cb.checked; filterMembers(); });
         li.appendChild(cb);
         li.appendChild(document.createTextNode(' ' + name));
@@ -118,43 +118,43 @@
       });
       document.getElementById('filterModal').style.display = 'flex';
     }
-
     document.getElementById('filterModal').addEventListener('click', e => { if (e.target === e.currentTarget) e.currentTarget.style.display = 'none'; });
-
     function filterMembers() {
-      document.querySelectorAll('details[data-name]').forEach(sec => {
-        sec.style.display = hideMembers[sec.dataset.name] ? 'none' : '';
-      });
+      document.querySelectorAll('details[data-name]').forEach(sec => { sec.style.display = hideMembers[sec.dataset.name] ? 'none' : ''; });
     }
 
     async function loadPlayers() {
       await loadMemberPositions();
       const res = await fetch(`raid_logs/player_stats_raid.json?t=${Date.now()}`);
-      const data = await res.json();
-      const container = document.getElementById('playerList');
-      container.innerHTML = '';
+      const data = await res.json(); const container = document.getElementById('playerList'); container.innerHTML = '';
 
       const filterValue = document.getElementById('filterSelect').value;
-      const sortValue = document.getElementById('sortSelect').value;
+      const sortValue   = document.getElementById('sortSelect').value;
 
       const players = Object.values(data).map(player => {
-        const history = [...player.history].sort((a, b) => b.date.localeCompare(a.date));
+        const history = [...player.history].sort((a,b) => b.date.localeCompare(a.date));
         const filtered = filterValue === 'all' ? history : history.slice(0, parseInt(filterValue));
         const validWeeks = filtered.filter(w => !w.missedRaid);
-        const avgLoot = validWeeks.reduce((sum, w) => sum + (w.capitalGold || 0), 0) / (validWeeks.length || 1);
+        const avgLoot = validWeeks.reduce((sum,w) => sum + (w.capitalGold||0), 0) / (validWeeks.length||1);
         return { ...player, filteredHistory: filtered, avgLoot };
       });
 
-      players.sort((a, b) => sortValue === 'worst' ? a.avgLoot - b.avgLoot : b.avgLoot - a.avgLoot);
+      // Sort by avgLoot or by position
+      if (sortValue === 'position') {
+        players.sort((a,b) => (memberPositions[a.tag] || Infinity) - (memberPositions[b.tag] || Infinity));
+      } else {
+        players.sort((a,b) => sortValue === 'worst' ? a.avgLoot - b.avgLoot : b.avgLoot - a.avgLoot);
+      }
+
       allNames = players.map(p => p.name);
       allNames.forEach(name => { if (hideMembers[name] === undefined) hideMembers[name] = !clanNames.has(name); });
 
       players.forEach(player => {
-        const section = document.createElement('details');
-        section.dataset.name = player.name;
+        const section = document.createElement('details'); section.dataset.name = player.name;
         const summary = document.createElement('summary');
         const pos = memberPositions[player.tag] ? `${memberPositions[player.tag]}. ` : '';
-        summary.innerHTML = `<span style='margin-left:6px;'>${pos}${player.name}</span><span style='float:right;font-size:0.9em;'>Avg Loot/Week: ${player.avgLoot.toFixed(1)}</span>`;
+        summary.innerHTML = `<span style='margin-left:6px;'>${pos}${player.name}</span>` +
+                            `<span style='float:right;font-size:0.9em;'>Avg Loot/Week: ${player.avgLoot.toFixed(1)}</span>`;
         section.appendChild(summary);
 
         const table = document.createElement('table');
@@ -162,8 +162,11 @@
         const tbody = document.createElement('tbody');
         player.filteredHistory.forEach(week => {
           const row = document.createElement('tr');
-          row.className = week.missedRaid ? 'bg-grey' : week.attacksUsed === 0 ? 'bg-red' : week.attacksUsed < 6 ? 'bg-yellow' : 'bg-green';
-          row.innerHTML = `<td>${formatDate(week.date)}</td><td>${week.attacksUsed}</td><td>${week.capitalGold}</td><td>${week.avgLootPerAttack}</td><td>${week.attacksMissed}</td>`;
+          row.className = week.missedRaid ? 'bg-grey' :
+                          week.attacksUsed === 0 ? 'bg-red' :
+                          week.attacksUsed < 6  ? 'bg-yellow' : 'bg-green';
+          row.innerHTML = `<td>${formatDate(week.date)}</td><td>${week.attacksUsed}</td>` +
+                          `<td>${week.capitalGold}</td><td>${week.avgLootPerAttack}</td><td>${week.attacksMissed}</td>`;
           tbody.appendChild(row);
         });
         table.appendChild(tbody);

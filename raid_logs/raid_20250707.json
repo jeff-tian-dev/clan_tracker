@@ -2,9 +2,9 @@
   "state": "ongoing",
   "startTime": "20250704T070000.000Z",
   "endTime": "20250707T070000.000Z",
-  "capitalTotalLoot": 639253,
+  "capitalTotalLoot": 645978,
   "raidsCompleted": 8,
-  "totalAttacks": 173,
+  "totalAttacks": 175,
   "enemyDistrictsDestroyed": 59,
   "offensiveReward": 0,
   "defensiveReward": 0,
@@ -180,10 +180,10 @@
     {
       "tag": "#GRG9JQVRL",
       "name": "annkok265",
-      "attacks": 4,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 18449
+      "capitalResourcesLooted": 25174
     },
     {
       "tag": "#Y9PL29U2C",
@@ -2278,7 +2278,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/0A85ZJSi6JxCTE1gwUtazkuXHkgeFS8Qqwd7tZm_nkE.png"
         }
       },
-      "attackCount": 10,
+      "attackCount": 12,
       "districtCount": 9,
       "districtsDestroyed": 5,
       "districts": [
@@ -2367,10 +2367,28 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 69,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 6725,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GRG9JQVRL",
+                "name": "annkok265"
+              },
+              "destructionPercent": 69,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#GRG9JQVRL",
+                "name": "annkok265"
+              },
+              "destructionPercent": 39,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000006,
