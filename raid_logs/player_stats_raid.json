@@ -1781,10 +1781,32 @@
       }
     ]
   },
-  "timestamp": "2025-07-06 23:17:42",
+  "timestamp": "2025-07-07 09:32:23",
   "#LJVP0GRUG": {
     "name": "Agi",
     "tag": "#LJVP0GRUG",
+    "history": [
+      {
+        "date": "20250630",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250707",
+        "attacksUsed": 0,
+        "capitalGold": 0,
+        "avgLootPerAttack": "---",
+        "attacksMissed": 6,
+        "missedRaid": false
+      }
+    ]
+  },
+  "#LPCGYP98P": {
+    "name": "Aki",
+    "tag": "#LPCGYP98P",
     "history": [
       {
         "date": "20250630",
