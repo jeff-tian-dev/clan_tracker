@@ -5,7 +5,7 @@
   <title>War Player List</title>
   <style>
     body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; padding: 30px; background-color: #f9f9f9; color: #333; }
-    h1 { text-align: center; color: #2c3e50; margin-bottom: 30px; }
+    h1 { text-align: center; color: #2c3e50; margin-bottom: 10px; }
     .controls { text-align: center; margin-bottom: 30px; }
     .controls button, .controls select {
       margin: 0 8px; padding: 10px 18px; font-size: 14px; border-radius: 6px;
@@ -46,7 +46,8 @@
     </select>
     <label for="sortFilter">Sort:</label>
     <select id="sortFilter" onchange="loadPlayers()">
-      <option value="best" selected>Best Attackers</option>
+      <option value="position" selected>By Position</option>
+      <option value="best">Best Attackers</option>
       <option value="worst">Worst Attackers</option>
     </select>
   </div>
@@ -61,22 +62,18 @@
   </div>
 
   <script>
-    let clanNames = new Set();
-    let hideMembers = {};
-    let allNames = [];
+    let memberPositions = {}, clanNames = new Set(), hideMembers = {}, allNames = [];
 
-    // Fetch and cache clan members once
-    let clanMembersLoaded = false;
     async function loadMemberPositions() {
-      if (clanMembersLoaded) return;
+      clanNames.clear();
       try {
         const resp = await fetch(`clan_logs/clan_members.json?t=${Date.now()}`);
         const clanData = await resp.json();
-        clanData.members.forEach(member => clanNames.add(member.name));
-        clanMembersLoaded = true;
-      } catch (err) {
-        console.error('Could not load clan members:', err);
-      }
+        clanData.members.forEach(m => {
+          memberPositions[m.tag] = m.position;
+          clanNames.add(m.name);
+        });
+      } catch (err) { console.error('Could not load clan member positions:', err); }
     }
 
     function formatDate(yyyymmdd) {
@@ -133,18 +130,27 @@
         p._validLimited = validLimited;
       });
 
-      // Separate fighters and non-fighters
-      const foughtPlayers   = players.filter(p => p._sortMetric.count > 0);
-      const noFoughtPlayers = players.filter(p => p._sortMetric.count === 0);
+      let sortedPlayers;
+      if (sortValue === 'position') {
+        // Pure position sort (members without a position go to the bottom)
+        sortedPlayers = players.sort((a, b) =>
+          (memberPositions[a.tag] || Infinity)
+            - (memberPositions[b.tag] || Infinity)
+        );
+      } else {
+        // Fallback: fighters first, then sort by best/worst
+        const fought   = players.filter(p => p._sortMetric.count > 0);
+        const unfought = players.filter(p => p._sortMetric.count === 0);
 
-      // Sort fighters by average stars
-      foughtPlayers.sort((a, b) => {
-        const avgA = a._sortMetric.stars / a._sortMetric.count;
-        const avgB = b._sortMetric.stars / b._sortMetric.count;
-        return sortValue === 'best' ? avgB - avgA : avgA - avgB;
-      });
+        fought.sort((a, b) => {
+          const avgA = a._sortMetric.stars / a._sortMetric.count;
+          const avgB = b._sortMetric.stars / b._sortMetric.count;
+          return sortValue === 'best' ? (avgB - avgA) : (avgA - avgB);
+        });
 
-      const sortedPlayers = foughtPlayers.concat(noFoughtPlayers);
+        sortedPlayers = fought.concat(unfought);
+      }
+
 
       // Prepare hide state
       allNames = sortedPlayers.map(p => p.name);
@@ -162,10 +168,14 @@
         const avgStars = player._validLimited.length
           ? (totalStars / player._validLimited.length).toFixed(1)
           : '0.0';
+        const pos = memberPositions[player.tag] 
+          ? `${memberPositions[player.tag]}. ` 
+          : '';
         summary.innerHTML = `
-          <span style='margin-left:6px;'>${player.name}</span>
+          <span style='margin-left:6px;'>${pos}${player.name}</span>
           <span style='float:right;font-size:0.9em;'>Avg Stars/War: ${avgStars}</span>
         `;
+
 
         section.appendChild(summary);
 
