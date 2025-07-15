@@ -32,6 +32,7 @@
 </head>
 <body>
   <h1>War Player Stats</h1>
+  <div id="lastUpdated" style="text-align:center; color:#555; margin-bottom:20px;"></div>
   <div class="controls">
     <button onclick="expandAll()">Expand All</button>
     <button onclick="collapseAll()">Collapse All</button>
@@ -64,12 +65,15 @@
     let hideMembers = {};
     let allNames = [];
 
+    // Fetch and cache clan members once
+    let clanMembersLoaded = false;
     async function loadMemberPositions() {
-      clanNames.clear();
+      if (clanMembersLoaded) return;
       try {
         const resp = await fetch(`clan_logs/clan_members.json?t=${Date.now()}`);
         const clanData = await resp.json();
-        clanData.members.forEach(member => clanNames.add(member.Name));
+        clanData.members.forEach(member => clanNames.add(member.name));
+        clanMembersLoaded = true;
       } catch (err) {
         console.error('Could not load clan members:', err);
       }
@@ -96,43 +100,53 @@
       await loadMemberPositions();
       const res = await fetch('war_logs/player_stats_war.json?t=' + Date.now());
       const data = await res.json();
+      const { timestamp, ...playersData } = data;
+      if (timestamp) {
+        document.getElementById('lastUpdated').textContent = `Last updated: ${timestamp}`;
+      }
       const container = document.getElementById('playerList');
       container.innerHTML = '';
 
-      const filterValue = document.getElementById('showFilter')?.value || 'all';
-      const sortValue   = document.getElementById('sortFilter')?.value || 'best';
-      let players = Object.values(data);
+      const filterValue = document.getElementById('showFilter').value;
+      const sortValue   = document.getElementById('sortFilter').value;
 
-      // Compute sort metrics based solely on the most recent N raw wars
+      let players = Object.values(playersData);
+
+      // Normalize property names
+      players.forEach(p => {
+        (p.history || []).forEach(w => {
+          w.destructionPercent = w.destructionPercent ?? w.destruction;
+          w.missedAttacks     = w.missedAttacks     ?? w.attacksMissed;
+        });
+      });
+
+      // Compute sort metrics and limited history based on selection
       players.forEach(p => {
         const rawHistory = p.history || [];
-        const limitedRaw = filterValue === 'all' ? rawHistory : rawHistory.slice(-parseInt(filterValue));
+        const limitedRaw = filterValue === 'all'
+          ? rawHistory
+          : rawHistory.slice(-Number(filterValue));
         const validLimited = limitedRaw.filter(isValidEntry);
         const stars = validLimited.reduce((sum, h) => sum + (h.starsEarned || 0), 0);
-        p._sortMetric = { stars, count: validLimited.length };
-        p._limitedRaw = limitedRaw;
+        p._sortMetric   = { stars, count: validLimited.length };
+        p._limitedRaw   = limitedRaw;
         p._validLimited = validLimited;
       });
 
-      // Separate fighters (count>0) and non-fighters
+      // Separate fighters and non-fighters
       const foughtPlayers   = players.filter(p => p._sortMetric.count > 0);
       const noFoughtPlayers = players.filter(p => p._sortMetric.count === 0);
 
-      // Sort only fighters by average stars in that window
-      if (sortValue === 'best') {
-        foughtPlayers.sort((a, b) => 
-          (b._sortMetric.stars / b._sortMetric.count) - (a._sortMetric.stars / a._sortMetric.count)
-        );
-      } else {
-        foughtPlayers.sort((a, b) => 
-          (a._sortMetric.stars / a._sortMetric.count) - (b._sortMetric.stars / b._sortMetric.count)
-        );
-      }
+      // Sort fighters by average stars
+      foughtPlayers.sort((a, b) => {
+        const avgA = a._sortMetric.stars / a._sortMetric.count;
+        const avgB = b._sortMetric.stars / b._sortMetric.count;
+        return sortValue === 'best' ? avgB - avgA : avgA - avgB;
+      });
 
-      // Combine, pushing non-fighters to bottom
       const sortedPlayers = foughtPlayers.concat(noFoughtPlayers);
 
-      // Prepare filtering state
+      // Prepare hide state
       allNames = sortedPlayers.map(p => p.name);
       allNames.forEach(name => { if (hideMembers[name] === undefined) hideMembers[name] = !clanNames.has(name); });
 
@@ -140,59 +154,73 @@
       sortedPlayers.forEach(player => {
         const section = document.createElement('details');
         section.dataset.name = player.name;
+        // Hide sections for filtered-out members on initial render
+        if (hideMembers[player.name]) section.style.display = 'none';
+
         const summary = document.createElement('summary');
-        const validLimited = player._validLimited || [];
-        const avgStars = (validLimited.reduce((sum, w) => sum + (w.starsEarned || 0), 0) / (validLimited.length || 1)).toFixed(1);
+        const totalStars = player._validLimited.reduce((sum, w) => sum + (w.starsEarned || 0), 0);
+        const avgStars = player._validLimited.length
+          ? (totalStars / player._validLimited.length).toFixed(1)
+          : '0.0';
         summary.innerHTML = `
-          <span style='display:inline-block;margin-left:6px;'>${player.name}</span>
-          <span style='float:right;font-size:0.9em;'>Avg Stars/Window: ${avgStars}</span>
+          <span style='margin-left:6px;'>${player.name}</span>
+          <span style='float:right;font-size:0.9em;'>Avg Stars/War: ${avgStars}</span>
         `;
+
         section.appendChild(summary);
 
         const table = document.createElement('table');
+        const rows = player._limitedRaw.map(week => `
+          <tr style='${getColorForStars(week.starsEarned)}'>
+            <td>${formatDate(week.date)}</td>
+            <td>${week.attacksUsed}</td>
+            <td>${week.starsEarned}</td>
+            <td>${week.destructionPercent}</td>
+            <td>${week.missedAttacks}</td>
+          </tr>
+        `).join('');
+
         table.innerHTML = `
           <thead><tr>
             <th>Date</th><th>Attacks Used</th><th>Stars Earned</th><th>Destruction %</th><th>Missed Attacks</th>
           </tr></thead>
-          <tbody>
-            ${(player.history || []).map(week => `
-              <tr style='${getColorForStars(week.starsEarned)}'>
-                <td>${formatDate(week.date)}</td><td>${week.attacksUsed}</td>
-                <td>${week.starsEarned}</td><td>${week.destruction}%</td><td>${week.attacksMissed}</td>
-              </tr>
-            `).join('')}
-          </tbody>
+          <tbody>${rows}</tbody>
         `;
+
         section.appendChild(table);
         container.appendChild(section);
       });
 
-      filterMembers();
-    }
-
-    function showFilterModal() {
-      const list = document.getElementById('filterList'); list.innerHTML = '';
-      const sorted = [...allNames].sort((a, b) => a.localeCompare(b));
-      const clanList = sorted.filter(n => clanNames.has(n));
-      const others   = sorted.filter(n => !clanNames.has(n));
-      clanList.concat(others).forEach(name => {
-        hideMembers[name] = hideMembers[name] !== undefined ? hideMembers[name] : !clanNames.has(name);
-        const li = document.createElement('li'), cb = document.createElement('input');
-        cb.type='checkbox'; cb.value=name; cb.checked=!hideMembers[name];
-        cb.addEventListener('change', () => { hideMembers[name] = !cb.checked; filterMembers(); });
-        li.appendChild(cb); li.appendChild(document.createTextNode(' ' + name));
-        if (!clanNames.has(name)) li.className='non-clan';
-        list.appendChild(li);
+      // Update filter list
+      const filterList = document.getElementById('filterList');
+      filterList.innerHTML = '';
+      allNames.forEach(name => {
+        const li = document.createElement('li');
+        const cb = document.createElement('input');
+        cb.type = 'checkbox';
+        cb.checked = !hideMembers[name];
+        cb.onchange = () => {
+          hideMembers[name] = !cb.checked;
+          document.querySelectorAll(`details[data-name='${name}']`).forEach(d => d.style.display = hideMembers[name] ? 'none' : 'block');
+        };
+        li.appendChild(cb);
+        const span = document.createElement('span');
+        span.textContent = name;
+        if (!clanNames.has(name)) span.classList.add('non-clan');
+        li.appendChild(span);
+        filterList.appendChild(li);
       });
-      document.getElementById('filterModal').style.display = 'flex';
     }
 
-    document.getElementById('filterModal').addEventListener('click', e => { if (e.target === e.currentTarget) closeFilterModal(); });
-    function closeFilterModal() { document.getElementById('filterModal').style.display = 'none'; }
-    function filterMembers() { document.querySelectorAll('details[data-name]').forEach(sec => { sec.style.display = hideMembers[sec.dataset.name] ? 'none' : ''; }); }
-    function expandAll() { document.querySelectorAll('details').forEach(el => el.open = true); }
-    function collapseAll() { document.querySelectorAll('details').forEach(el => el.open = false); }
-    loadPlayers();
+    function expandAll() { document.querySelectorAll('details').forEach(d => d.open = true); }
+    function collapseAll() { document.querySelectorAll('details').forEach(d => d.open = false); }
+    function showFilterModal() { document.getElementById('filterModal').style.display = 'flex'; }
+    function hideFilterModal() { document.getElementById('filterModal').style.display = 'none'; }
+
+    document.addEventListener('DOMContentLoaded', () => {
+      document.addEventListener('click', e => { if (e.target.id === 'filterModal') hideFilterModal(); });
+      loadPlayers();
+    });
   </script>
 </body>
 </html>
