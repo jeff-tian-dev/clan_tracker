@@ -2,9 +2,9 @@
   "state": "ongoing",
   "startTime": "20250718T070000.000Z",
   "endTime": "20250721T070000.000Z",
-  "capitalTotalLoot": 84464,
+  "capitalTotalLoot": 87104,
   "raidsCompleted": 0,
-  "totalAttacks": 20,
+  "totalAttacks": 21,
   "enemyDistrictsDestroyed": 7,
   "offensiveReward": 0,
   "defensiveReward": 0,
@@ -28,10 +28,10 @@
     {
       "tag": "#YJUYGR9GP",
       "name": "dipranjan",
-      "attacks": 5,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 14414
+      "capitalResourcesLooted": 17054
     },
     {
       "tag": "#Y2PVPPU8C",
@@ -40,6 +40,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 18911
+    },
+    {
+      "tag": "#228J9V02L",
+      "name": "arvin",
+      "attacks": 0,
+      "attackLimit": 5,
+      "bonusAttackLimit": 0,
+      "capitalResourcesLooted": 0
     }
   ],
   "attackLog": [
@@ -54,7 +62,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/dfvQzIUt-k8QJUaOU9jkC7tZAWV5_MpqFO7sGeCwBKY.png"
         }
       },
-      "attackCount": 20,
+      "attackCount": 21,
       "districtCount": 9,
       "districtsDestroyed": 7,
       "districts": [
@@ -71,11 +79,19 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 27,
+          "destructionPercent": 49,
           "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 3810,
+          "attackCount": 2,
+          "totalLooted": 6450,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#YJUYGR9GP",
+                "name": "dipranjan"
+              },
+              "destructionPercent": 49,
+              "stars": 0
+            },
             {
               "attacker": {
                 "tag": "#YJUYGR9GP",
