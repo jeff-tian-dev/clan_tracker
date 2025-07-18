@@ -10,7 +10,7 @@ python_cmd = "python3" if platform.system() != "Windows" else "python"
 
 def run(script):
     print(f"Running {script}...")
-    subprocess.run([python_cmd, f"_scripts/{script}"])
+    subprocess.run([python_cmd, f"{script}"])
 
 run("api_clan_tracker.py")
 run("api_war_tracker.py")
