@@ -2,13 +2,21 @@
   "state": "ongoing",
   "startTime": "20250718T070000.000Z",
   "endTime": "20250721T070000.000Z",
-  "capitalTotalLoot": 87104,
-  "raidsCompleted": 0,
-  "totalAttacks": 21,
-  "enemyDistrictsDestroyed": 7,
+  "capitalTotalLoot": 112438,
+  "raidsCompleted": 1,
+  "totalAttacks": 30,
+  "enemyDistrictsDestroyed": 9,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
+    {
+      "tag": "#JCJ9V8V",
+      "name": "master darsh",
+      "attacks": 3,
+      "attackLimit": 5,
+      "bonusAttackLimit": 0,
+      "capitalResourcesLooted": 8410
+    },
     {
       "tag": "#9U2YP0RY",
       "name": "\u24c2\ufe0fBIG COCHY3\u24c2\ufe0f",
@@ -44,10 +52,10 @@
     {
       "tag": "#228J9V02L",
       "name": "arvin",
-      "attacks": 0,
+      "attacks": 6,
       "attackLimit": 5,
-      "bonusAttackLimit": 0,
-      "capitalResourcesLooted": 0
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 16924
     }
   ],
   "attackLog": [
@@ -62,28 +70,94 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/dfvQzIUt-k8QJUaOU9jkC7tZAWV5_MpqFO7sGeCwBKY.png"
         }
       },
-      "attackCount": 21,
+      "attackCount": 29,
       "districtCount": 9,
-      "districtsDestroyed": 7,
+      "districtsDestroyed": 9,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 6,
+          "totalLooted": 14096,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#228J9V02L",
+                "name": "arvin"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#JCJ9V8V",
+                "name": "master darsh"
+              },
+              "destructionPercent": 99,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#JCJ9V8V",
+                "name": "master darsh"
+              },
+              "destructionPercent": 82,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#JCJ9V8V",
+                "name": "master darsh"
+              },
+              "destructionPercent": 72,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#228J9V02L",
+                "name": "arvin"
+              },
+              "destructionPercent": 58,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#228J9V02L",
+                "name": "arvin"
+              },
+              "destructionPercent": 32,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 49,
-          "stars": 0,
-          "attackCount": 2,
-          "totalLooted": 6450,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 11673,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#228J9V02L",
+                "name": "arvin"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#228J9V02L",
+                "name": "arvin"
+              },
+              "destructionPercent": 77,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#YJUYGR9GP",
@@ -328,6 +402,114 @@
               },
               "destructionPercent": 57,
               "stars": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "defender": {
+        "tag": "#2YQ29CUUC",
+        "name": "Covis",
+        "level": 23,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/s3PbXyc8UZHfLnoVIxvQMlKvv7tUnJEkweIO_1iBccg.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/s3PbXyc8UZHfLnoVIxvQMlKvv7tUnJEkweIO_1iBccg.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/s3PbXyc8UZHfLnoVIxvQMlKvv7tUnJEkweIO_1iBccg.png"
+        }
+      },
+      "attackCount": 1,
+      "districtCount": 9,
+      "districtsDestroyed": 0,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 10,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 4,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 4,
+          "destructionPercent": 49,
+          "stars": 1,
+          "attackCount": 1,
+          "totalLooted": 6015,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#228J9V02L",
+                "name": "arvin"
+              },
+              "destructionPercent": 49,
+              "stars": 1
             }
           ]
         }
