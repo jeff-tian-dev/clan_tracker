@@ -9,7 +9,7 @@ export $(grep -v '^#' .env | xargs)
 /usr/bin/python3 _scripts/controller.py
 
 # Commit any changes
-git add *.json
+find . -name "*.json" -exec git add {} +
 git commit -m "Auto update: $(date)" || echo "Nothing to commit"
 
 # Push to GitHub
