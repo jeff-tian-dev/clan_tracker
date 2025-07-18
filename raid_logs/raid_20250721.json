@@ -2,20 +2,20 @@
   "state": "ongoing",
   "startTime": "20250718T070000.000Z",
   "endTime": "20250721T070000.000Z",
-  "capitalTotalLoot": 141285,
+  "capitalTotalLoot": 170187,
   "raidsCompleted": 1,
-  "totalAttacks": 36,
-  "enemyDistrictsDestroyed": 11,
+  "totalAttacks": 44,
+  "enemyDistrictsDestroyed": 13,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
     {
       "tag": "#JCJ9V8V",
       "name": "master darsh",
-      "attacks": 3,
+      "attacks": 5,
       "attackLimit": 5,
       "bonusAttackLimit": 0,
-      "capitalResourcesLooted": 8410
+      "capitalResourcesLooted": 16270
     },
     {
       "tag": "#8VQYULVQQ",
@@ -56,6 +56,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 17139
+    },
+    {
+      "tag": "#G09YYYRLY",
+      "name": "alphachupapa",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 21042
     },
     {
       "tag": "#Y2PVPPU8C",
@@ -434,9 +442,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/s3PbXyc8UZHfLnoVIxvQMlKvv7tUnJEkweIO_1iBccg.png"
         }
       },
-      "attackCount": 7,
+      "attackCount": 15,
       "districtCount": 9,
-      "districtsDestroyed": 2,
+      "districtsDestroyed": 4,
       "districts": [
         {
           "id": 70000000,
@@ -469,11 +477,27 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 47,
-          "stars": 1,
-          "attackCount": 2,
-          "totalLooted": 5845,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 11436,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#G09YYYRLY",
+                "name": "alphachupapa"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#G09YYYRLY",
+                "name": "alphachupapa"
+              },
+              "destructionPercent": 76,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#QRP2RLV02",
@@ -496,10 +520,28 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 65,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 7860,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#JCJ9V8V",
+                "name": "master darsh"
+              },
+              "destructionPercent": 65,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#JCJ9V8V",
+                "name": "master darsh"
+              },
+              "destructionPercent": 36,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000005,
@@ -532,10 +574,36 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 90,
+          "stars": 2,
+          "attackCount": 3,
+          "totalLooted": 9865,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#G09YYYRLY",
+                "name": "alphachupapa"
+              },
+              "destructionPercent": 90,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#G09YYYRLY",
+                "name": "alphachupapa"
+              },
+              "destructionPercent": 63,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#G09YYYRLY",
+                "name": "alphachupapa"
+              },
+              "destructionPercent": 32,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000007,
@@ -568,11 +636,19 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 49,
-          "stars": 1,
-          "attackCount": 1,
-          "totalLooted": 6015,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11601,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#G09YYYRLY",
+                "name": "alphachupapa"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#228J9V02L",
@@ -864,6 +940,150 @@
               },
               "destructionPercent": 17,
               "stars": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "attacker": {
+        "tag": "#2L20J90P2",
+        "name": "EMPIRE ACADEMY",
+        "level": 23,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/1maoCmGWm3eScWvt4diwuPkjNu5wkFIY7RHZLKCLcvA.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/1maoCmGWm3eScWvt4diwuPkjNu5wkFIY7RHZLKCLcvA.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/1maoCmGWm3eScWvt4diwuPkjNu5wkFIY7RHZLKCLcvA.png"
+        }
+      },
+      "attackCount": 5,
+      "districtCount": 9,
+      "districtsDestroyed": 2,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 10,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 5,
+          "destructionPercent": 64,
+          "stars": 2,
+          "attackCount": 1,
+          "totalLooted": 7200,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#8C9VPY8YC",
+                "name": "Soumyadeep"
+              },
+              "destructionPercent": 64,
+              "stars": 2
+            }
+          ]
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11663,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#8C9VPY8YC",
+                "name": "Soumyadeep"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#8C9VPY8YC",
+                "name": "Soumyadeep"
+              },
+              "destructionPercent": 52,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11565,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#8C9VPY8YC",
+                "name": "Soumyadeep"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#8C9VPY8YC",
+                "name": "Soumyadeep"
+              },
+              "destructionPercent": 54,
+              "stars": 2
             }
           ]
         }
