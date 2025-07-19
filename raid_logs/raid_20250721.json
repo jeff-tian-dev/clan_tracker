@@ -2,9 +2,9 @@
   "state": "ongoing",
   "startTime": "20250718T070000.000Z",
   "endTime": "20250721T070000.000Z",
-  "capitalTotalLoot": 473218,
+  "capitalTotalLoot": 479743,
   "raidsCompleted": 6,
-  "totalAttacks": 137,
+  "totalAttacks": 139,
   "enemyDistrictsDestroyed": 41,
   "offensiveReward": 0,
   "defensiveReward": 0,
@@ -12,10 +12,10 @@
     {
       "tag": "#RUVPQQR0",
       "name": "Badboy101",
-      "attacks": 4,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 8790
+      "capitalResourcesLooted": 15315
     },
     {
       "tag": "#JCJ9V8V",
@@ -1654,7 +1654,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/yzEGPFP5T5XQ_GNFE993EMjGEJHFgE0lYrkNvWkGnrw.png"
         }
       },
-      "attackCount": 18,
+      "attackCount": 20,
       "districtCount": 9,
       "districtsDestroyed": 5,
       "districts": [
@@ -1671,10 +1671,28 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 67,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 6525,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#RUVPQQR0",
+                "name": "Badboy101"
+              },
+              "destructionPercent": 67,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#RUVPQQR0",
+                "name": "Badboy101"
+              },
+              "destructionPercent": 29,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000002,
@@ -2556,18 +2574,28 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/BwVAW9MYBqXP1rdHJhnlaI8Yq5mDpadk_WqMfywOGFU.png"
         }
       },
-      "attackCount": 18,
+      "attackCount": 24,
       "districtCount": 9,
-      "districtsDestroyed": 6,
+      "districtsDestroyed": 8,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
+          "destructionPercent": 43,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 1,
+          "totalLooted": 3140,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#P8UL0P8UC",
+                "name": "HarleyQuinn"
+              },
+              "destructionPercent": 43,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
@@ -2713,11 +2741,27 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 26,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 1605,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11330,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#P8UL0P8UC",
+                "name": "HarleyQuinn"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#P8UL0P8UC",
+                "name": "HarleyQuinn"
+              },
+              "destructionPercent": 62,
+              "stars": 1
+            },
             {
               "attacker": {
                 "tag": "#YYJU9Y8GV",
@@ -2794,10 +2838,36 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 12006,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#P8UL0P8UC",
+                "name": "HarleyQuinn"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#P8UL0P8UC",
+                "name": "HarleyQuinn"
+              },
+              "destructionPercent": 87,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#P8UL0P8UC",
+                "name": "HarleyQuinn"
+              },
+              "destructionPercent": 31,
+              "stars": 0
+            }
+          ]
         }
       ]
     }
