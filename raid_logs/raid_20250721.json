@@ -2,13 +2,21 @@
   "state": "ongoing",
   "startTime": "20250718T070000.000Z",
   "endTime": "20250721T070000.000Z",
-  "capitalTotalLoot": 392910,
-  "raidsCompleted": 4,
-  "totalAttacks": 111,
-  "enemyDistrictsDestroyed": 32,
+  "capitalTotalLoot": 431225,
+  "raidsCompleted": 6,
+  "totalAttacks": 124,
+  "enemyDistrictsDestroyed": 37,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
+    {
+      "tag": "#RUVPQQR0",
+      "name": "Badboy101",
+      "attacks": 4,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 8790
+    },
     {
       "tag": "#JCJ9V8V",
       "name": "master darsh",
@@ -122,6 +130,14 @@
       "capitalResourcesLooted": 22666
     },
     {
+      "tag": "#QLLLULYJY",
+      "name": "Xosri",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 17316
+    },
+    {
       "tag": "#QRP2RLV02",
       "name": "JT",
       "attacks": 4,
@@ -172,10 +188,10 @@
     {
       "tag": "#Y2PVPPU8C",
       "name": "\u2b50\u2b505 StarFree\u2b50\u2b50\u2b50",
-      "attacks": 3,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 18911
+      "capitalResourcesLooted": 31120
     },
     {
       "tag": "#228J9V02L",
@@ -1282,28 +1298,78 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/bFlK6wSjPGLpE0WvcvEiN5tw66gOi8mvqasqRpeRcro.png"
         }
       },
-      "attackCount": 19,
+      "attackCount": 27,
       "districtCount": 9,
-      "districtsDestroyed": 5,
+      "districtsDestroyed": 9,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 5,
+          "totalLooted": 14030,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#RUVPQQR0",
+                "name": "Badboy101"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#RUVPQQR0",
+                "name": "Badboy101"
+              },
+              "destructionPercent": 91,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#QLLLULYJY",
+                "name": "Xosri"
+              },
+              "destructionPercent": 64,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#QLLLULYJY",
+                "name": "Xosri"
+              },
+              "destructionPercent": 56,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#QLLLULYJY",
+                "name": "Xosri"
+              },
+              "destructionPercent": 35,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 69,
-          "stars": 1,
-          "attackCount": 2,
-          "totalLooted": 6880,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11151,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#QLLLULYJY",
+                "name": "Xosri"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#QYYVY0R8",
@@ -1326,11 +1392,19 @@
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 82,
-          "stars": 1,
-          "attackCount": 2,
-          "totalLooted": 7165,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 9688,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#QLLLULYJY",
+                "name": "Xosri"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#LGGLYVUPP",
@@ -1353,11 +1427,19 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 92,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 9380,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10752,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#QLLLULYJY",
+                "name": "Xosri"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#LGGLYVUPP",
@@ -1534,6 +1616,148 @@
               "stars": 0
             }
           ]
+        }
+      ]
+    },
+    {
+      "defender": {
+        "tag": "#2QYJ9J2QU",
+        "name": "\u534a\u590f\u534a\u5fc3",
+        "level": 15,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/yzEGPFP5T5XQ_GNFE993EMjGEJHFgE0lYrkNvWkGnrw.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/yzEGPFP5T5XQ_GNFE993EMjGEJHFgE0lYrkNvWkGnrw.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/yzEGPFP5T5XQ_GNFE993EMjGEJHFgE0lYrkNvWkGnrw.png"
+        }
+      },
+      "attackCount": 5,
+      "districtCount": 9,
+      "districtsDestroyed": 1,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 10,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 12209,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Y2PVPPU8C",
+                "name": "\u2b50\u2b505 StarFree\u2b50\u2b50\u2b50"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Y2PVPPU8C",
+                "name": "\u2b50\u2b505 StarFree\u2b50\u2b50\u2b50"
+              },
+              "destructionPercent": 81,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#Y2PVPPU8C",
+                "name": "\u2b50\u2b505 StarFree\u2b50\u2b50\u2b50"
+              },
+              "destructionPercent": 41,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 4,
+          "destructionPercent": 43,
+          "stars": 1,
+          "attackCount": 2,
+          "totalLooted": 3910,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#RUVPQQR0",
+                "name": "Badboy101"
+              },
+              "destructionPercent": 43,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#RUVPQQR0",
+                "name": "Badboy101"
+              },
+              "destructionPercent": 22,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 4,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
         }
       ]
     }
@@ -1882,19 +2106,43 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/1maoCmGWm3eScWvt4diwuPkjNu5wkFIY7RHZLKCLcvA.png"
         }
       },
-      "attackCount": 22,
+      "attackCount": 25,
       "districtCount": 9,
-      "districtsDestroyed": 8,
+      "districtsDestroyed": 9,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 65,
-          "stars": 1,
-          "attackCount": 2,
-          "totalLooted": 5890,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 5,
+          "totalLooted": 14099,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q2C0LVJQ8",
+                "name": "M. s Star\u2605"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Q2C0LVJQ8",
+                "name": "M. s Star\u2605"
+              },
+              "destructionPercent": 99,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#Q2C0LVJQ8",
+                "name": "M. s Star\u2605"
+              },
+              "destructionPercent": 82,
+              "stars": 1
+            },
             {
               "attacker": {
                 "tag": "#GYYGPPLVR",
