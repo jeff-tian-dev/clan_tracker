@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250718T070000.000Z",
   "endTime": "20250721T070000.000Z",
-  "capitalTotalLoot": 282275,
-  "raidsCompleted": 3,
-  "totalAttacks": 81,
-  "enemyDistrictsDestroyed": 24,
+  "capitalTotalLoot": 320250,
+  "raidsCompleted": 4,
+  "totalAttacks": 93,
+  "enemyDistrictsDestroyed": 27,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -114,12 +114,20 @@
       "capitalResourcesLooted": 21042
     },
     {
+      "tag": "#Q0V0L8VPU",
+      "name": "amusudude",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 17576
+    },
+    {
       "tag": "#JR02U0Q8",
       "name": "Bhargab (Jumon)",
-      "attacks": 0,
+      "attacks": 6,
       "attackLimit": 5,
-      "bonusAttackLimit": 0,
-      "capitalResourcesLooted": 0
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 20399
     },
     {
       "tag": "#LCUL88JLG",
@@ -854,18 +862,60 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/xXro3-How4UeBogChbE8uiFRM8iCM1jAQEKbGKKGhmU.png"
         }
       },
-      "attackCount": 23,
+      "attackCount": 34,
       "districtCount": 9,
-      "districtsDestroyed": 6,
+      "districtsDestroyed": 9,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 5,
+          "totalLooted": 14081,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q0V0L8VPU",
+                "name": "amusudude"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Q0V0L8VPU",
+                "name": "amusudude"
+              },
+              "destructionPercent": 91,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#Q0V0L8VPU",
+                "name": "amusudude"
+              },
+              "destructionPercent": 49,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#Q0V0L8VPU",
+                "name": "amusudude"
+              },
+              "destructionPercent": 16,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#Q0V0L8VPU",
+                "name": "amusudude"
+              },
+              "destructionPercent": 9,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000001,
@@ -914,10 +964,36 @@
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10259,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#JR02U0Q8",
+                "name": "Bhargab (Jumon)"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#JR02U0Q8",
+                "name": "Bhargab (Jumon)"
+              },
+              "destructionPercent": 60,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#JR02U0Q8",
+                "name": "Bhargab (Jumon)"
+              },
+              "destructionPercent": 31,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000003,
@@ -1001,10 +1077,36 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10140,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#JR02U0Q8",
+                "name": "Bhargab (Jumon)"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#JR02U0Q8",
+                "name": "Bhargab (Jumon)"
+              },
+              "destructionPercent": 67,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#JR02U0Q8",
+                "name": "Bhargab (Jumon)"
+              },
+              "destructionPercent": 29,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000006,
@@ -1134,6 +1236,114 @@
               "stars": 0
             }
           ]
+        }
+      ]
+    },
+    {
+      "defender": {
+        "tag": "#GQVYRYQU",
+        "name": "Rising Phoenix!",
+        "level": 24,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/bFlK6wSjPGLpE0WvcvEiN5tw66gOi8mvqasqRpeRcro.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/bFlK6wSjPGLpE0WvcvEiN5tw66gOi8mvqasqRpeRcro.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/bFlK6wSjPGLpE0WvcvEiN5tw66gOi8mvqasqRpeRcro.png"
+        }
+      },
+      "attackCount": 1,
+      "districtCount": 9,
+      "districtsDestroyed": 0,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 10,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 5,
+          "destructionPercent": 48,
+          "stars": 0,
+          "attackCount": 1,
+          "totalLooted": 3495,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q0V0L8VPU",
+                "name": "amusudude"
+              },
+              "destructionPercent": 48,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 4,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 4,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
         }
       ]
     }
@@ -1482,9 +1692,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/1maoCmGWm3eScWvt4diwuPkjNu5wkFIY7RHZLKCLcvA.png"
         }
       },
-      "attackCount": 11,
+      "attackCount": 17,
       "districtCount": 9,
-      "districtsDestroyed": 4,
+      "districtsDestroyed": 7,
       "districts": [
         {
           "id": 70000000,
@@ -1499,29 +1709,81 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11886,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LGJYPP02G",
+                "name": "dzego"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LGJYPP02G",
+                "name": "dzego"
+              },
+              "destructionPercent": 75,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#LGJYPP02G",
+                "name": "dzego"
+              },
+              "destructionPercent": 33,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10217,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LGJYPP02G",
+                "name": "dzego"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LGJYPP02G",
+                "name": "dzego"
+              },
+              "destructionPercent": 46,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 58,
-          "stars": 1,
-          "attackCount": 2,
-          "totalLooted": 6995,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11415,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#LGJYPP02G",
+                "name": "dzego"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#LL0PPYJ98",
