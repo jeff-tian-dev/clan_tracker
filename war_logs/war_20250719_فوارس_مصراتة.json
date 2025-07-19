@@ -450,7 +450,15 @@
             "duration": 161
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#CG0CLCY9",
+          "defenderTag": "#YUJLJ2V8Y",
+          "stars": 1,
+          "destructionPercentage": 82,
+          "order": 57,
+          "duration": 157
+        }
       },
       {
         "tag": "#YJ2UV2GY",
@@ -686,7 +694,15 @@
             "duration": 162
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#CG0CLCY9",
+          "defenderTag": "#Y2PVPPU8C",
+          "stars": 2,
+          "destructionPercentage": 75,
+          "order": 58,
+          "duration": 143
+        }
       },
       {
         "tag": "#PRGGL2J2V",
@@ -732,9 +748,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/0jzAHixS8VrUhVMW_UqJr52vCkExiwwMh5rTjnIRLXQ.png"
     },
     "clanLevel": 21,
-    "attacks": 13,
-    "stars": 28,
-    "destructionPercentage": 36.133335,
+    "attacks": 15,
+    "stars": 31,
+    "destructionPercentage": 41.366665,
     "members": [
       {
         "tag": "#L0YPGLC0P",
@@ -1052,6 +1068,24 @@
         "name": "BIDA",
         "townhallLevel": 17,
         "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#CG0CLCY9",
+            "defenderTag": "#YUJLJ2V8Y",
+            "stars": 1,
+            "destructionPercentage": 82,
+            "order": 57,
+            "duration": 157
+          },
+          {
+            "attackerTag": "#CG0CLCY9",
+            "defenderTag": "#Y2PVPPU8C",
+            "stars": 2,
+            "destructionPercentage": 75,
+            "order": 58,
+            "duration": 143
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#YUJLJ2V8Y",

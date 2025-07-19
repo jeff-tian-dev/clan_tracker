@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250718T070000.000Z",
   "endTime": "20250721T070000.000Z",
-  "capitalTotalLoot": 320250,
+  "capitalTotalLoot": 352404,
   "raidsCompleted": 4,
-  "totalAttacks": 93,
-  "enemyDistrictsDestroyed": 27,
+  "totalAttacks": 99,
+  "enemyDistrictsDestroyed": 30,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -64,6 +64,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 23701
+    },
+    {
+      "tag": "#9U0VYLP0Q",
+      "name": "THUNDERER.THOR",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 32154
     },
     {
       "tag": "#G2R9YGCP9",
@@ -1250,9 +1258,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/bFlK6wSjPGLpE0WvcvEiN5tw66gOi8mvqasqRpeRcro.png"
         }
       },
-      "attackCount": 1,
+      "attackCount": 7,
       "districtCount": 9,
-      "districtsDestroyed": 0,
+      "districtsDestroyed": 3,
       "districts": [
         {
           "id": 70000000,
@@ -1285,10 +1293,20 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 43,
+          "stars": 1,
+          "attackCount": 1,
+          "totalLooted": 4595,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#9U0VYLP0Q",
+                "name": "THUNDERER.THOR"
+              },
+              "destructionPercent": 43,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000004,
@@ -1303,20 +1321,46 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10284,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#9U0VYLP0Q",
+                "name": "THUNDERER.THOR"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#9U0VYLP0Q",
+                "name": "THUNDERER.THOR"
+              },
+              "destructionPercent": 41,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 48,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 3495,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9948,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#9U0VYLP0Q",
+                "name": "THUNDERER.THOR"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#Q0V0L8VPU",
@@ -1331,10 +1375,28 @@
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10822,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#9U0VYLP0Q",
+                "name": "THUNDERER.THOR"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#9U0VYLP0Q",
+                "name": "THUNDERER.THOR"
+              },
+              "destructionPercent": 39,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000008,
@@ -1692,18 +1754,36 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/1maoCmGWm3eScWvt4diwuPkjNu5wkFIY7RHZLKCLcvA.png"
         }
       },
-      "attackCount": 17,
+      "attackCount": 22,
       "districtCount": 9,
-      "districtsDestroyed": 7,
+      "districtsDestroyed": 8,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 65,
+          "stars": 1,
+          "attackCount": 2,
+          "totalLooted": 5890,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GYYGPPLVR",
+                "name": "xBrasion"
+              },
+              "destructionPercent": 65,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#GYYGPPLVR",
+                "name": "xBrasion"
+              },
+              "destructionPercent": 38,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
@@ -1841,10 +1921,36 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 12020,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GYYGPPLVR",
+                "name": "xBrasion"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GYYGPPLVR",
+                "name": "xBrasion"
+              },
+              "destructionPercent": 96,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#GYYGPPLVR",
+                "name": "xBrasion"
+              },
+              "destructionPercent": 60,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000006,
