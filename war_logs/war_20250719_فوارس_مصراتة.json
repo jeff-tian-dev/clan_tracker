@@ -122,7 +122,15 @@
             "duration": 180
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#22R22R8RQ",
+          "defenderTag": "#GLU9LC2LG",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 63,
+          "duration": 99
+        }
       },
       {
         "tag": "#9GUP0P0U2",
@@ -139,7 +147,15 @@
             "duration": 114
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#22R22R8RQ",
+          "defenderTag": "#9GUP0P0U2",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 64,
+          "duration": 101
+        }
       },
       {
         "tag": "#Q9QU8L8YV",
@@ -403,7 +419,15 @@
             "duration": 152
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LPPL0RLV0",
+          "defenderTag": "#YQ8L9JVJ2",
+          "stars": 2,
+          "destructionPercentage": 83,
+          "order": 62,
+          "duration": 111
+        }
       },
       {
         "tag": "#LYJJ9PLV9",
@@ -748,9 +772,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/0jzAHixS8VrUhVMW_UqJr52vCkExiwwMh5rTjnIRLXQ.png"
     },
     "clanLevel": 21,
-    "attacks": 18,
-    "stars": 35,
-    "destructionPercentage": 44.333332,
+    "attacks": 21,
+    "stars": 43,
+    "destructionPercentage": 53.766666,
     "members": [
       {
         "tag": "#L0YPGLC0P",
@@ -812,6 +836,16 @@
         "name": "\u062c\u0646",
         "townhallLevel": 17,
         "mapPosition": 20,
+        "attacks": [
+          {
+            "attackerTag": "#LPPL0RLV0",
+            "defenderTag": "#YQ8L9JVJ2",
+            "stars": 2,
+            "destructionPercentage": 83,
+            "order": 62,
+            "duration": 111
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#GLU9LC2LG",
@@ -1111,6 +1145,24 @@
         "name": "SANAD",
         "townhallLevel": 14,
         "mapPosition": 19,
+        "attacks": [
+          {
+            "attackerTag": "#22R22R8RQ",
+            "defenderTag": "#GLU9LC2LG",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 63,
+            "duration": 99
+          },
+          {
+            "attackerTag": "#22R22R8RQ",
+            "defenderTag": "#9GUP0P0U2",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 64,
+            "duration": 101
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#2JJ2PR9VL",

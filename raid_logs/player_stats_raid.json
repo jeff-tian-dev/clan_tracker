@@ -3077,7 +3077,7 @@
       }
     ]
   },
-  "timestamp": "2025-07-19 10:00:03",
+  "timestamp": "2025-07-19 11:00:03",
   "#LJVP0GRUG": {
     "name": "Agi",
     "tag": "#LJVP0GRUG",
@@ -4594,6 +4594,44 @@
         "capitalGold": 6880,
         "avgLootPerAttack": 3440.0,
         "attacksMissed": 3,
+        "missedRaid": false
+      }
+    ]
+  },
+  "#2908GYPU2": {
+    "name": "bdhbeheh",
+    "tag": "#2908GYPU2",
+    "history": [
+      {
+        "date": "20250630",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250707",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250714",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250721",
+        "attacksUsed": 5,
+        "capitalGold": 13516,
+        "avgLootPerAttack": 2703.2,
+        "attacksMissed": 1,
         "missedRaid": false
       }
     ]

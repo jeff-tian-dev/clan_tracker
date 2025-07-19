@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250718T070000.000Z",
   "endTime": "20250721T070000.000Z",
-  "capitalTotalLoot": 379394,
+  "capitalTotalLoot": 392910,
   "raidsCompleted": 4,
-  "totalAttacks": 106,
-  "enemyDistrictsDestroyed": 30,
+  "totalAttacks": 111,
+  "enemyDistrictsDestroyed": 32,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -56,6 +56,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 4061
+    },
+    {
+      "tag": "#2908GYPU2",
+      "name": "bdhbeheh",
+      "attacks": 5,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 13516
     },
     {
       "tag": "#9U2YP0RY",
@@ -1274,9 +1282,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/bFlK6wSjPGLpE0WvcvEiN5tw66gOi8mvqasqRpeRcro.png"
         }
       },
-      "attackCount": 14,
+      "attackCount": 19,
       "districtCount": 9,
-      "districtsDestroyed": 3,
+      "districtsDestroyed": 5,
       "districts": [
         {
           "id": 70000000,
@@ -1372,11 +1380,19 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 89,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 8160,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10234,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#2908GYPU2",
+                "name": "bdhbeheh"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#LGGLYVUPP",
@@ -1480,10 +1496,44 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 11442,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2908GYPU2",
+                "name": "bdhbeheh"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2908GYPU2",
+                "name": "bdhbeheh"
+              },
+              "destructionPercent": 94,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#2908GYPU2",
+                "name": "bdhbeheh"
+              },
+              "destructionPercent": 55,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#2908GYPU2",
+                "name": "bdhbeheh"
+              },
+              "destructionPercent": 22,
+              "stars": 0
+            }
+          ]
         }
       ]
     }
