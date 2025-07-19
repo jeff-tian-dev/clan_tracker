@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/LAOSoW5vwK0ztgHMhs2jYAsjkLmigWNB0ttIjoV0RjU.png"
     },
     "clanLevel": 7,
-    "attacks": 28,
-    "stars": 62,
-    "destructionPercentage": 72.2,
+    "attacks": 30,
+    "stars": 68,
+    "destructionPercentage": 78.86667,
     "members": [
       {
         "tag": "#8RJ28GQ2",
@@ -457,6 +457,24 @@
         "name": "Aurelian",
         "townhallLevel": 11,
         "mapPosition": 30,
+        "attacks": [
+          {
+            "attackerTag": "#GGYGQ8098",
+            "defenderTag": "#GQC2GLGPQ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 36,
+            "duration": 119
+          },
+          {
+            "attackerTag": "#GGYGQ8098",
+            "defenderTag": "#GJ89PP20J",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 37,
+            "duration": 89
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#GJ89PP20J",
@@ -691,7 +709,15 @@
             "duration": 71
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GGYGQ8098",
+          "defenderTag": "#GJ89PP20J",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 37,
+          "duration": 89
+        }
       },
       {
         "tag": "#L09VCV9C9",
@@ -987,7 +1013,15 @@
         "name": "reyad20",
         "townhallLevel": 11,
         "mapPosition": 30,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GGYGQ8098",
+          "defenderTag": "#GQC2GLGPQ",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 36,
+          "duration": 119
+        }
       },
       {
         "tag": "#VUUQLRUG",
