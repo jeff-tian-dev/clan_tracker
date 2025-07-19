@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250718T070000.000Z",
   "endTime": "20250721T070000.000Z",
-  "capitalTotalLoot": 252850,
+  "capitalTotalLoot": 282275,
   "raidsCompleted": 2,
-  "totalAttacks": 71,
-  "enemyDistrictsDestroyed": 20,
+  "totalAttacks": 81,
+  "enemyDistrictsDestroyed": 24,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -66,6 +66,14 @@
       "capitalResourcesLooted": 23701
     },
     {
+      "tag": "#G2R9YGCP9",
+      "name": "Aerystockrat",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 14954
+    },
+    {
       "tag": "#YJUYGR9GP",
       "name": "dipranjan",
       "attacks": 6,
@@ -84,10 +92,10 @@
     {
       "tag": "#R90098P0",
       "name": "DARK MATTER",
-      "attacks": 2,
+      "attacks": 6,
       "attackLimit": 5,
-      "bonusAttackLimit": 0,
-      "capitalResourcesLooted": 8195
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 22666
     },
     {
       "tag": "#QRP2RLV02",
@@ -838,9 +846,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/xXro3-How4UeBogChbE8uiFRM8iCM1jAQEKbGKKGhmU.png"
         }
       },
-      "attackCount": 13,
+      "attackCount": 23,
       "districtCount": 9,
-      "districtsDestroyed": 2,
+      "districtsDestroyed": 6,
       "districts": [
         {
           "id": 70000000,
@@ -855,10 +863,44 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 12060,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#G2R9YGCP9",
+                "name": "Aerystockrat"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#R90098P0",
+                "name": "DARK MATTER"
+              },
+              "destructionPercent": 99,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#R90098P0",
+                "name": "DARK MATTER"
+              },
+              "destructionPercent": 49,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#R90098P0",
+                "name": "DARK MATTER"
+              },
+              "destructionPercent": 23,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000002,
@@ -873,20 +915,62 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 11081,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#G2R9YGCP9",
+                "name": "Aerystockrat"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#G2R9YGCP9",
+                "name": "Aerystockrat"
+              },
+              "destructionPercent": 92,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#G2R9YGCP9",
+                "name": "Aerystockrat"
+              },
+              "destructionPercent": 50,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#G2R9YGCP9",
+                "name": "Aerystockrat"
+              },
+              "destructionPercent": 31,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 72,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 8195,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11376,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#R90098P0",
+                "name": "DARK MATTER"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#R90098P0",
@@ -918,11 +1002,19 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 71,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 7995,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11098,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#G2R9YGCP9",
+                "name": "Aerystockrat"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#Q9QU8L8YV",
@@ -1050,9 +1142,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/gcZtPX9Fe1OG8DFdCs96nPIrzVZ2QI38V5FLQiYYIKw.png"
         }
       },
-      "attackCount": 21,
+      "attackCount": 22,
       "districtCount": 9,
-      "districtsDestroyed": 7,
+      "districtsDestroyed": 8,
       "districts": [
         {
           "id": 70000000,
@@ -1261,11 +1353,19 @@
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 98,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 11255,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 12200,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#P8GJGP8R2",
+                "name": "\u0414\u0418\u0421\u041f\u0415\u0422\u0427\u0415\u0420"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#8UPU8VCUG",
@@ -1332,9 +1432,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/1maoCmGWm3eScWvt4diwuPkjNu5wkFIY7RHZLKCLcvA.png"
         }
       },
-      "attackCount": 6,
+      "attackCount": 11,
       "districtCount": 9,
-      "districtsDestroyed": 3,
+      "districtsDestroyed": 4,
       "districts": [
         {
           "id": 70000000,
@@ -1367,19 +1467,63 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 58,
+          "stars": 1,
+          "attackCount": 2,
+          "totalLooted": 6995,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LL0PPYJ98",
+                "name": "Little Air"
+              },
+              "destructionPercent": 58,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#LL0PPYJ98",
+                "name": "Little Air"
+              },
+              "destructionPercent": 30,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11774,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LL0PPYJ98",
+                "name": "Little Air"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LL0PPYJ98",
+                "name": "Little Air"
+              },
+              "destructionPercent": 69,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#LL0PPYJ98",
+                "name": "Little Air"
+              },
+              "destructionPercent": 21,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000005,
