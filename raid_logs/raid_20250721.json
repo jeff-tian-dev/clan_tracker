@@ -2,9 +2,9 @@
   "state": "ongoing",
   "startTime": "20250718T070000.000Z",
   "endTime": "20250721T070000.000Z",
-  "capitalTotalLoot": 479743,
-  "raidsCompleted": 6,
-  "totalAttacks": 139,
+  "capitalTotalLoot": 480843,
+  "raidsCompleted": 7,
+  "totalAttacks": 140,
   "enemyDistrictsDestroyed": 41,
   "offensiveReward": 0,
   "defensiveReward": 0,
@@ -32,6 +32,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 0,
       "capitalResourcesLooted": 7520
+    },
+    {
+      "tag": "#G0GR02C09",
+      "name": "king",
+      "attacks": 1,
+      "attackLimit": 5,
+      "bonusAttackLimit": 0,
+      "capitalResourcesLooted": 1100
     },
     {
       "tag": "#QYYVY0R8",
@@ -1654,7 +1662,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/yzEGPFP5T5XQ_GNFE993EMjGEJHFgE0lYrkNvWkGnrw.png"
         }
       },
-      "attackCount": 20,
+      "attackCount": 21,
       "districtCount": 9,
       "districtsDestroyed": 5,
       "districts": [
@@ -1906,10 +1914,20 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
+          "destructionPercent": 17,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 1,
+          "totalLooted": 1100,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#G0GR02C09",
+                "name": "king"
+              },
+              "destructionPercent": 17,
+              "stars": 0
+            }
+          ]
         }
       ]
     }
@@ -2574,19 +2592,35 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/BwVAW9MYBqXP1rdHJhnlaI8Yq5mDpadk_WqMfywOGFU.png"
         }
       },
-      "attackCount": 24,
+      "attackCount": 26,
       "districtCount": 9,
-      "districtsDestroyed": 8,
+      "districtsDestroyed": 9,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 43,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 3140,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 13406,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#Y2P9UL8YC",
+                "name": "\u2660\ufe0f\u2665\ufe0fQUEEN\u2665\ufe0f\u2660\ufe0f"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Y2P9UL8YC",
+                "name": "\u2660\ufe0f\u2665\ufe0fQUEEN\u2665\ufe0f\u2660\ufe0f"
+              },
+              "destructionPercent": 77,
+              "stars": 1
+            },
             {
               "attacker": {
                 "tag": "#P8UL0P8UC",

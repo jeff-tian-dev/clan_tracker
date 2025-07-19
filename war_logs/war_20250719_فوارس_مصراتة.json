@@ -502,14 +502,14 @@
             "duration": 138
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#G9C90L2PL",
+          "attackerTag": "#2RRRPUL9Y",
           "defenderTag": "#LYJJ9PLV9",
-          "stars": 1,
-          "destructionPercentage": 63,
-          "order": 65,
-          "duration": 72
+          "stars": 2,
+          "destructionPercentage": 94,
+          "order": 78,
+          "duration": 180
         }
       },
       {
@@ -754,7 +754,15 @@
         "name": "Goujii",
         "townhallLevel": 14,
         "mapPosition": 17,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2JVVJJC8U",
+          "defenderTag": "#GPPQ0JCJR",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 77,
+          "duration": 101
+        }
       },
       {
         "tag": "#LCUL88JLG",
@@ -866,9 +874,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/0jzAHixS8VrUhVMW_UqJr52vCkExiwwMh5rTjnIRLXQ.png"
     },
     "clanLevel": 21,
-    "attacks": 27,
-    "stars": 56,
-    "destructionPercentage": 69.2,
+    "attacks": 29,
+    "stars": 60,
+    "destructionPercentage": 73.566666,
     "members": [
       {
         "tag": "#L0YPGLC0P",
@@ -913,6 +921,14 @@
             "destructionPercentage": 86,
             "order": 52,
             "duration": 140
+          },
+          {
+            "attackerTag": "#2JVVJJC8U",
+            "defenderTag": "#GPPQ0JCJR",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 77,
+            "duration": 101
           }
         ],
         "opponentAttacks": 3,
@@ -1492,6 +1508,14 @@
             "stars": 2,
             "destructionPercentage": 94,
             "order": 2,
+            "duration": 180
+          },
+          {
+            "attackerTag": "#2RRRPUL9Y",
+            "defenderTag": "#LYJJ9PLV9",
+            "stars": 2,
+            "destructionPercentage": 94,
+            "order": 78,
             "duration": 180
           }
         ],
