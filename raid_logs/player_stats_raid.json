@@ -2385,11 +2385,11 @@
       },
       {
         "date": "20250721",
-        "attacksUsed": "---",
-        "capitalGold": "---",
-        "avgLootPerAttack": "---",
+        "attacksUsed": 5,
+        "capitalGold": 20110,
+        "avgLootPerAttack": 4022.0,
         "attacksMissed": 0,
-        "missedRaid": true
+        "missedRaid": false
       }
     ]
   },
@@ -3077,7 +3077,7 @@
       }
     ]
   },
-  "timestamp": "2025-07-19 05:00:04",
+  "timestamp": "2025-07-19 06:00:04",
   "#LJVP0GRUG": {
     "name": "Agi",
     "tag": "#LJVP0GRUG",
@@ -4525,6 +4525,44 @@
   "#G0GR02C09": {
     "name": "king",
     "tag": "#G0GR02C09",
+    "history": [
+      {
+        "date": "20250630",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250707",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250714",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250721",
+        "attacksUsed": 0,
+        "capitalGold": 0,
+        "avgLootPerAttack": "---",
+        "attacksMissed": 6,
+        "missedRaid": false
+      }
+    ]
+  },
+  "#QYYVY0R8": {
+    "name": "bossbaby",
+    "tag": "#QYYVY0R8",
     "history": [
       {
         "date": "20250630",

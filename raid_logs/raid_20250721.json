@@ -2,9 +2,9 @@
   "state": "ongoing",
   "startTime": "20250718T070000.000Z",
   "endTime": "20250721T070000.000Z",
-  "capitalTotalLoot": 352404,
+  "capitalTotalLoot": 372514,
   "raidsCompleted": 4,
-  "totalAttacks": 99,
+  "totalAttacks": 104,
   "enemyDistrictsDestroyed": 30,
   "offensiveReward": 0,
   "defensiveReward": 0,
@@ -136,6 +136,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 20399
+    },
+    {
+      "tag": "#LGGLYVUPP",
+      "name": "siwi2isuus2",
+      "attacks": 5,
+      "attackLimit": 5,
+      "bonusAttackLimit": 0,
+      "capitalResourcesLooted": 20110
     },
     {
       "tag": "#LCUL88JLG",
@@ -1258,7 +1266,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/bFlK6wSjPGLpE0WvcvEiN5tw66gOi8mvqasqRpeRcro.png"
         }
       },
-      "attackCount": 7,
+      "attackCount": 12,
       "districtCount": 9,
       "districtsDestroyed": 3,
       "districts": [
@@ -1284,20 +1292,46 @@
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 82,
+          "stars": 1,
+          "attackCount": 2,
+          "totalLooted": 7165,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LGGLYVUPP",
+                "name": "siwi2isuus2"
+              },
+              "destructionPercent": 82,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#LGGLYVUPP",
+                "name": "siwi2isuus2"
+              },
+              "destructionPercent": 41,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 43,
-          "stars": 1,
-          "attackCount": 1,
-          "totalLooted": 4595,
+          "destructionPercent": 92,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 9380,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#LGGLYVUPP",
+                "name": "siwi2isuus2"
+              },
+              "destructionPercent": 92,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#9U0VYLP0Q",
@@ -1312,10 +1346,28 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 89,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 8160,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LGGLYVUPP",
+                "name": "siwi2isuus2"
+              },
+              "destructionPercent": 89,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#LGGLYVUPP",
+                "name": "siwi2isuus2"
+              },
+              "destructionPercent": 36,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000005,
