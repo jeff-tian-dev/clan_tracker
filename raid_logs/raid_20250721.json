@@ -3,7 +3,7 @@
   "startTime": "20250718T070000.000Z",
   "endTime": "20250721T070000.000Z",
   "capitalTotalLoot": 282275,
-  "raidsCompleted": 2,
+  "raidsCompleted": 3,
   "totalAttacks": 81,
   "enemyDistrictsDestroyed": 24,
   "offensiveReward": 0,
@@ -112,6 +112,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 21042
+    },
+    {
+      "tag": "#JR02U0Q8",
+      "name": "Bhargab (Jumon)",
+      "attacks": 0,
+      "attackLimit": 5,
+      "bonusAttackLimit": 0,
+      "capitalResourcesLooted": 0
     },
     {
       "tag": "#LCUL88JLG",
@@ -1142,18 +1150,60 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/gcZtPX9Fe1OG8DFdCs96nPIrzVZ2QI38V5FLQiYYIKw.png"
         }
       },
-      "attackCount": 22,
+      "attackCount": 27,
       "districtCount": 9,
-      "districtsDestroyed": 8,
+      "districtsDestroyed": 9,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 5,
+          "totalLooted": 13712,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#PV89R08R8",
+                "name": "_DaGeStAnEc_"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#PV89R08R8",
+                "name": "_DaGeStAnEc_"
+              },
+              "destructionPercent": 96,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#PV89R08R8",
+                "name": "_DaGeStAnEc_"
+              },
+              "destructionPercent": 70,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#PV89R08R8",
+                "name": "_DaGeStAnEc_"
+              },
+              "destructionPercent": 42,
+              "stars": 0
+            },
+            {
+              "attacker": {
+                "tag": "#PV89R08R8",
+                "name": "_DaGeStAnEc_"
+              },
+              "destructionPercent": 33,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,

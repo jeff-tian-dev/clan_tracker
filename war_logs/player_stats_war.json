@@ -1503,11 +1503,11 @@
       },
       {
         "date": "20250719",
-        "attacksUsed": 0,
-        "starsEarned": 0,
-        "destruction": 0,
-        "attacksMissed": 2,
-        "zeroParticipation": true
+        "attacksUsed": 2,
+        "starsEarned": 2,
+        "destruction": 8,
+        "attacksMissed": 0,
+        "zeroParticipation": false
       }
     ]
   },
@@ -4795,7 +4795,7 @@
       }
     ]
   },
-  "timestamp": "2025-07-19 02:00:03",
+  "timestamp": "2025-07-19 03:00:03",
   "#GPPQ0JCJR": {
     "name": "Goujii",
     "tag": "#GPPQ0JCJR",
@@ -5019,6 +5019,20 @@
   "#QLLLULYJY": {
     "name": "Xosri",
     "tag": "#QLLLULYJY",
+    "history": [
+      {
+        "date": "20250719",
+        "attacksUsed": "---",
+        "starsEarned": "---",
+        "destruction": "---",
+        "attacksMissed": 0,
+        "zeroParticipation": true
+      }
+    ]
+  },
+  "#JR02U0Q8": {
+    "name": "Bhargab (Jumon)",
+    "tag": "#JR02U0Q8",
     "history": [
       {
         "date": "20250719",
