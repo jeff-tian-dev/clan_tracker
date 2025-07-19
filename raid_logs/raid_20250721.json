@@ -2,9 +2,9 @@
   "state": "ongoing",
   "startTime": "20250718T070000.000Z",
   "endTime": "20250721T070000.000Z",
-  "capitalTotalLoot": 431225,
+  "capitalTotalLoot": 438745,
   "raidsCompleted": 6,
-  "totalAttacks": 124,
+  "totalAttacks": 125,
   "enemyDistrictsDestroyed": 37,
   "offensiveReward": 0,
   "defensiveReward": 0,
@@ -24,6 +24,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 0,
       "capitalResourcesLooted": 16270
+    },
+    {
+      "tag": "#UJP2UYRY",
+      "name": "destroyer",
+      "attacks": 1,
+      "attackLimit": 5,
+      "bonusAttackLimit": 0,
+      "capitalResourcesLooted": 7520
     },
     {
       "tag": "#QYYVY0R8",
@@ -1630,7 +1638,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/yzEGPFP5T5XQ_GNFE993EMjGEJHFgE0lYrkNvWkGnrw.png"
         }
       },
-      "attackCount": 5,
+      "attackCount": 6,
       "districtCount": 9,
       "districtsDestroyed": 1,
       "districts": [
@@ -1727,11 +1735,19 @@
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 43,
-          "stars": 1,
-          "attackCount": 2,
-          "totalLooted": 3910,
+          "destructionPercent": 99,
+          "stars": 2,
+          "attackCount": 3,
+          "totalLooted": 11430,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#UJP2UYRY",
+                "name": "destroyer"
+              },
+              "destructionPercent": 99,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#RUVPQQR0",
