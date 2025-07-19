@@ -66,6 +66,14 @@
       "capitalResourcesLooted": 21042
     },
     {
+      "tag": "#LCUL88JLG",
+      "name": "Cookies",
+      "attacks": 0,
+      "attackLimit": 5,
+      "bonusAttackLimit": 0,
+      "capitalResourcesLooted": 0
+    },
+    {
       "tag": "#Y2PVPPU8C",
       "name": "\u2b50\u2b505 StarFree\u2b50\u2b50\u2b50",
       "attacks": 3,
@@ -956,9 +964,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/1maoCmGWm3eScWvt4diwuPkjNu5wkFIY7RHZLKCLcvA.png"
         }
       },
-      "attackCount": 5,
+      "attackCount": 6,
       "districtCount": 9,
-      "districtsDestroyed": 2,
+      "districtsDestroyed": 3,
       "districts": [
         {
           "id": 70000000,
@@ -1018,11 +1026,19 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 64,
-          "stars": 2,
-          "attackCount": 1,
-          "totalLooted": 7200,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11811,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#8C9VPY8YC",
+                "name": "Soumyadeep"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#8C9VPY8YC",
