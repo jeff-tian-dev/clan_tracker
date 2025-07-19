@@ -516,14 +516,14 @@
             "duration": 15
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#GJQ9CYVCL",
+          "attackerTag": "#GJYV82QLY",
           "defenderTag": "#QRP2RLV02",
           "stars": 2,
-          "destructionPercentage": 52,
-          "order": 46,
-          "duration": 68
+          "destructionPercentage": 72,
+          "order": 61,
+          "duration": 110
         }
       },
       {
@@ -748,9 +748,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/0jzAHixS8VrUhVMW_UqJr52vCkExiwwMh5rTjnIRLXQ.png"
     },
     "clanLevel": 21,
-    "attacks": 17,
+    "attacks": 18,
     "stars": 35,
-    "destructionPercentage": 43.666668,
+    "destructionPercentage": 44.333332,
     "members": [
       {
         "tag": "#L0YPGLC0P",
@@ -1038,6 +1038,16 @@
         "name": "yusuf",
         "townhallLevel": 11,
         "mapPosition": 27,
+        "attacks": [
+          {
+            "attackerTag": "#GJYV82QLY",
+            "defenderTag": "#QRP2RLV02",
+            "stars": 2,
+            "destructionPercentage": 72,
+            "order": 61,
+            "duration": 110
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#RPUUGRUC",
