@@ -2,9 +2,9 @@
   "state": "ongoing",
   "startTime": "20250718T070000.000Z",
   "endTime": "20250721T070000.000Z",
-  "capitalTotalLoot": 372514,
+  "capitalTotalLoot": 379394,
   "raidsCompleted": 4,
-  "totalAttacks": 104,
+  "totalAttacks": 106,
   "enemyDistrictsDestroyed": 30,
   "offensiveReward": 0,
   "defensiveReward": 0,
@@ -16,6 +16,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 0,
       "capitalResourcesLooted": 16270
+    },
+    {
+      "tag": "#QYYVY0R8",
+      "name": "bossbaby",
+      "attacks": 2,
+      "attackLimit": 5,
+      "bonusAttackLimit": 0,
+      "capitalResourcesLooted": 6880
     },
     {
       "tag": "#YVGGJLPRJ",
@@ -1266,7 +1274,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/bFlK6wSjPGLpE0WvcvEiN5tw66gOi8mvqasqRpeRcro.png"
         }
       },
-      "attackCount": 12,
+      "attackCount": 14,
       "districtCount": 9,
       "districtsDestroyed": 3,
       "districts": [
@@ -1283,10 +1291,28 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 69,
+          "stars": 1,
+          "attackCount": 2,
+          "totalLooted": 6880,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QYYVY0R8",
+                "name": "bossbaby"
+              },
+              "destructionPercent": 69,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#QYYVY0R8",
+                "name": "bossbaby"
+              },
+              "destructionPercent": 33,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000002,
