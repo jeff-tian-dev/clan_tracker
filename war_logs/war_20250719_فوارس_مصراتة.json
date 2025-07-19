@@ -15,15 +15,33 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/LAOSoW5vwK0ztgHMhs2jYAsjkLmigWNB0ttIjoV0RjU.png"
     },
     "clanLevel": 7,
-    "attacks": 12,
-    "stars": 31,
-    "destructionPercentage": 35.7,
+    "attacks": 16,
+    "stars": 39,
+    "destructionPercentage": 47.666668,
     "members": [
       {
         "tag": "#8RJ28GQ2",
         "name": "peter qiu rocks",
         "townhallLevel": 13,
         "mapPosition": 25,
+        "attacks": [
+          {
+            "attackerTag": "#8RJ28GQ2",
+            "defenderTag": "#YL9GLC000",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 21,
+            "duration": 126
+          },
+          {
+            "attackerTag": "#8RJ28GQ2",
+            "defenderTag": "#YC9QVGLC",
+            "stars": 2,
+            "destructionPercentage": 89,
+            "order": 23,
+            "duration": 180
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -85,6 +103,16 @@
         "name": "Captain Levii",
         "townhallLevel": 14,
         "mapPosition": 23,
+        "attacks": [
+          {
+            "attackerTag": "#9GUP0P0U2",
+            "defenderTag": "#LPPL0RLV0",
+            "stars": 1,
+            "destructionPercentage": 80,
+            "order": 20,
+            "duration": 114
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -173,6 +201,14 @@
             "destructionPercentage": 100,
             "order": 13,
             "duration": 130
+          },
+          {
+            "attackerTag": "#V0JYCPRR",
+            "defenderTag": "#QPLLUU8J9",
+            "stars": 2,
+            "destructionPercentage": 90,
+            "order": 22,
+            "duration": 173
           }
         ],
         "opponentAttacks": 0
@@ -444,14 +480,30 @@
         "name": "\u062c\u0646",
         "townhallLevel": 17,
         "mapPosition": 20,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#9GUP0P0U2",
+          "defenderTag": "#LPPL0RLV0",
+          "stars": 1,
+          "destructionPercentage": 80,
+          "order": 20,
+          "duration": 114
+        }
       },
       {
         "tag": "#YL9GLC000",
         "name": "sanjo0p",
         "townhallLevel": 12,
         "mapPosition": 26,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#8RJ28GQ2",
+          "defenderTag": "#YL9GLC000",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 21,
+          "duration": 126
+        }
       },
       {
         "tag": "#RVJV09QC",
@@ -573,7 +625,15 @@
         "name": "+ATLANTS+",
         "townhallLevel": 13,
         "mapPosition": 23,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#8RJ28GQ2",
+          "defenderTag": "#YC9QVGLC",
+          "stars": 2,
+          "destructionPercentage": 89,
+          "order": 23,
+          "duration": 180
+        }
       },
       {
         "tag": "#GJYV82QLY",
@@ -639,7 +699,15 @@
         "name": "hunter",
         "townhallLevel": 13,
         "mapPosition": 24,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#V0JYCPRR",
+          "defenderTag": "#QPLLUU8J9",
+          "stars": 2,
+          "destructionPercentage": 90,
+          "order": 22,
+          "duration": 173
+        }
       },
       {
         "tag": "#QCRUVLQG",

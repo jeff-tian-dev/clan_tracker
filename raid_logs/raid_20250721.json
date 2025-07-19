@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250718T070000.000Z",
   "endTime": "20250721T070000.000Z",
-  "capitalTotalLoot": 190347,
+  "capitalTotalLoot": 212012,
   "raidsCompleted": 1,
-  "totalAttacks": 50,
-  "enemyDistrictsDestroyed": 14,
+  "totalAttacks": 57,
+  "enemyDistrictsDestroyed": 17,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -18,12 +18,28 @@
       "capitalResourcesLooted": 16270
     },
     {
+      "tag": "#YVGGJLPRJ",
+      "name": "Smog",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 17604
+    },
+    {
       "tag": "#8VQYULVQQ",
       "name": "Sir Chestnut\u2122\ufe0f",
       "attacks": 2,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 11708
+    },
+    {
+      "tag": "#V0JYCPRR",
+      "name": "bmuff2002",
+      "attacks": 1,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 4061
     },
     {
       "tag": "#9U2YP0RY",
@@ -450,28 +466,70 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/s3PbXyc8UZHfLnoVIxvQMlKvv7tUnJEkweIO_1iBccg.png"
         }
       },
-      "attackCount": 21,
+      "attackCount": 28,
       "districtCount": 9,
-      "districtsDestroyed": 5,
+      "districtsDestroyed": 8,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 98,
+          "stars": 2,
+          "attackCount": 4,
+          "totalLooted": 13310,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YVGGJLPRJ",
+                "name": "Smog"
+              },
+              "destructionPercent": 98,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#YVGGJLPRJ",
+                "name": "Smog"
+              },
+              "destructionPercent": 82,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#YVGGJLPRJ",
+                "name": "Smog"
+              },
+              "destructionPercent": 64,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#YVGGJLPRJ",
+                "name": "Smog"
+              },
+              "destructionPercent": 49,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 90,
-          "stars": 2,
-          "attackCount": 3,
-          "totalLooted": 9760,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 12006,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#YVGGJLPRJ",
+                "name": "Smog"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#LCUL88JLG",
@@ -580,11 +638,19 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 65,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 7860,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11921,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#V0JYCPRR",
+                "name": "bmuff2002"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#JCJ9V8V",
@@ -634,11 +700,19 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 90,
-          "stars": 2,
-          "attackCount": 3,
-          "totalLooted": 9865,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 11913,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#YVGGJLPRJ",
+                "name": "Smog"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#G09YYYRLY",
