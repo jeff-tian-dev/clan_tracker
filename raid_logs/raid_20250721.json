@@ -2,9 +2,9 @@
   "state": "ongoing",
   "startTime": "20250718T070000.000Z",
   "endTime": "20250721T070000.000Z",
-  "capitalTotalLoot": 244655,
+  "capitalTotalLoot": 252850,
   "raidsCompleted": 2,
-  "totalAttacks": 69,
+  "totalAttacks": 71,
   "enemyDistrictsDestroyed": 20,
   "offensiveReward": 0,
   "defensiveReward": 0,
@@ -80,6 +80,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 12448
+    },
+    {
+      "tag": "#R90098P0",
+      "name": "DARK MATTER",
+      "attacks": 2,
+      "attackLimit": 5,
+      "bonusAttackLimit": 0,
+      "capitalResourcesLooted": 8195
     },
     {
       "tag": "#QRP2RLV02",
@@ -830,7 +838,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/xXro3-How4UeBogChbE8uiFRM8iCM1jAQEKbGKKGhmU.png"
         }
       },
-      "attackCount": 11,
+      "attackCount": 13,
       "districtCount": 9,
       "districtsDestroyed": 2,
       "districts": [
@@ -874,10 +882,28 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 72,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 8195,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#R90098P0",
+                "name": "DARK MATTER"
+              },
+              "destructionPercent": 72,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#R90098P0",
+                "name": "DARK MATTER"
+              },
+              "destructionPercent": 34,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000005,
