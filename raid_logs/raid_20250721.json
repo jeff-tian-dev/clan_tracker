@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250718T070000.000Z",
   "endTime": "20250721T070000.000Z",
-  "capitalTotalLoot": 438745,
+  "capitalTotalLoot": 473218,
   "raidsCompleted": 6,
-  "totalAttacks": 125,
-  "enemyDistrictsDestroyed": 37,
+  "totalAttacks": 137,
+  "enemyDistrictsDestroyed": 41,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -48,6 +48,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 17604
+    },
+    {
+      "tag": "#2920V9PV",
+      "name": "Ryan",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 21980
     },
     {
       "tag": "#Q9QU8L8YV",
@@ -152,6 +160,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 17139
+    },
+    {
+      "tag": "#YU00CRCUG",
+      "name": "ChampionHZ",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 12493
     },
     {
       "tag": "#G09YYYRLY",
@@ -1638,9 +1654,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/yzEGPFP5T5XQ_GNFE993EMjGEJHFgE0lYrkNvWkGnrw.png"
         }
       },
-      "attackCount": 6,
+      "attackCount": 18,
       "districtCount": 9,
-      "districtsDestroyed": 1,
+      "districtsDestroyed": 5,
       "districts": [
         {
           "id": 70000000,
@@ -1664,19 +1680,71 @@
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10865,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2920V9PV",
+                "name": "Ryan"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2920V9PV",
+                "name": "Ryan"
+              },
+              "destructionPercent": 92,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#2920V9PV",
+                "name": "Ryan"
+              },
+              "destructionPercent": 56,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11115,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2920V9PV",
+                "name": "Ryan"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2920V9PV",
+                "name": "Ryan"
+              },
+              "destructionPercent": 70,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#2920V9PV",
+                "name": "Ryan"
+              },
+              "destructionPercent": 30,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000004,
@@ -1717,10 +1785,52 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 5,
+          "totalLooted": 11723,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YU00CRCUG",
+                "name": "ChampionHZ"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#YU00CRCUG",
+                "name": "ChampionHZ"
+              },
+              "destructionPercent": 72,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#YU00CRCUG",
+                "name": "ChampionHZ"
+              },
+              "destructionPercent": 54,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#YU00CRCUG",
+                "name": "ChampionHZ"
+              },
+              "destructionPercent": 40,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#YU00CRCUG",
+                "name": "ChampionHZ"
+              },
+              "destructionPercent": 19,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000006,
@@ -1735,11 +1845,19 @@
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 99,
-          "stars": 2,
-          "attackCount": 3,
-          "totalLooted": 11430,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 12200,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#YU00CRCUG",
+                "name": "ChampionHZ"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#UJP2UYRY",
@@ -2438,9 +2556,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/BwVAW9MYBqXP1rdHJhnlaI8Yq5mDpadk_WqMfywOGFU.png"
         }
       },
-      "attackCount": 6,
+      "attackCount": 18,
       "districtCount": 9,
-      "districtsDestroyed": 2,
+      "districtsDestroyed": 6,
       "districts": [
         {
           "id": 70000000,
@@ -2455,29 +2573,97 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11688,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YYJU9Y8GV",
+                "name": "\u0414\u041e\u043d\u0430\u0442"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#YYJU9Y8GV",
+                "name": "\u0414\u041e\u043d\u0430\u0442"
+              },
+              "destructionPercent": 69,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#PQ0GQV8G8",
+                "name": "\u274c\u274cTORCH\u274c\u274c"
+              },
+              "destructionPercent": 20,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10640,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#PQ0GQV8G8",
+                "name": "\u274c\u274cTORCH\u274c\u274c"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#PQ0GQV8G8",
+                "name": "\u274c\u274cTORCH\u274c\u274c"
+              },
+              "destructionPercent": 85,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#PQ0GQV8G8",
+                "name": "\u274c\u274cTORCH\u274c\u274c"
+              },
+              "destructionPercent": 44,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 39,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 3840,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11637,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#PQ0GQV8G8",
+                "name": "\u274c\u274cTORCH\u274c\u274c"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#PQ0GQV8G8",
+                "name": "\u274c\u274cTORCH\u274c\u274c"
+              },
+              "destructionPercent": 86,
+              "stars": 1
+            },
             {
               "attacker": {
                 "tag": "#P89QJCLYG",
@@ -2492,19 +2678,55 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11837,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YYJU9Y8GV",
+                "name": "\u0414\u041e\u043d\u0430\u0442"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#YYJU9Y8GV",
+                "name": "\u0414\u041e\u043d\u0430\u0442"
+              },
+              "destructionPercent": 52,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#YYJU9Y8GV",
+                "name": "\u0414\u041e\u043d\u0430\u0442"
+              },
+              "destructionPercent": 23,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
+          "destructionPercent": 26,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 1,
+          "totalLooted": 1605,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YYJU9Y8GV",
+                "name": "\u0414\u041e\u043d\u0430\u0442"
+              },
+              "destructionPercent": 26,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000006,
