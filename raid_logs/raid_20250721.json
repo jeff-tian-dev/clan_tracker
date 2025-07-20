@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250718T070000.000Z",
   "endTime": "20250721T070000.000Z",
-  "capitalTotalLoot": 480843,
+  "capitalTotalLoot": 507934,
   "raidsCompleted": 7,
-  "totalAttacks": 140,
-  "enemyDistrictsDestroyed": 41,
+  "totalAttacks": 146,
+  "enemyDistrictsDestroyed": 44,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -44,10 +44,10 @@
     {
       "tag": "#QYYVY0R8",
       "name": "bossbaby",
-      "attacks": 2,
+      "attacks": 6,
       "attackLimit": 5,
-      "bonusAttackLimit": 0,
-      "capitalResourcesLooted": 6880
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 23533
     },
     {
       "tag": "#YVGGJLPRJ",
@@ -164,10 +164,10 @@
     {
       "tag": "#QRP2RLV02",
       "name": "JT",
-      "attacks": 4,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 17139
+      "capitalResourcesLooted": 27577
     },
     {
       "tag": "#YU00CRCUG",
@@ -1662,9 +1662,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/yzEGPFP5T5XQ_GNFE993EMjGEJHFgE0lYrkNvWkGnrw.png"
         }
       },
-      "attackCount": 21,
+      "attackCount": 27,
       "districtCount": 9,
-      "districtsDestroyed": 5,
+      "districtsDestroyed": 8,
       "districts": [
         {
           "id": 70000000,
@@ -1679,11 +1679,19 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 67,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 6525,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11490,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#QYYVY0R8",
+                "name": "bossbaby"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#RUVPQQR0",
@@ -1862,10 +1870,36 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11688,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QYYVY0R8",
+                "name": "bossbaby"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QYYVY0R8",
+                "name": "bossbaby"
+              },
+              "destructionPercent": 83,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#QYYVY0R8",
+                "name": "bossbaby"
+              },
+              "destructionPercent": 32,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000007,
@@ -1914,11 +1948,27 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 17,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 1100,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11538,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#QRP2RLV02",
+                "name": "JT"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QRP2RLV02",
+                "name": "JT"
+              },
+              "destructionPercent": 41,
+              "stars": 0
+            },
             {
               "attacker": {
                 "tag": "#G0GR02C09",

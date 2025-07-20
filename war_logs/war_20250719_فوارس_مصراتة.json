@@ -1,5 +1,5 @@
 {
-  "state": "inWar",
+  "state": "warEnded",
   "teamSize": 30,
   "attacksPerMember": 2,
   "battleModifier": "none",
@@ -574,7 +574,7 @@
             "duration": 161
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#CG0CLCY9",
           "defenderTag": "#YUJLJ2V8Y",
@@ -640,14 +640,14 @@
             "duration": 15
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#GJYV82QLY",
+          "attackerTag": "#LVPR9VGPL",
           "defenderTag": "#QRP2RLV02",
-          "stars": 2,
-          "destructionPercentage": 72,
-          "order": 61,
-          "duration": 110
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 88,
+          "duration": 101
         }
       },
       {
@@ -688,7 +688,15 @@
         "name": "Edison123",
         "townhallLevel": 14,
         "mapPosition": 20,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LVPR9VGPL",
+          "defenderTag": "#9VU0VU90G",
+          "stars": 2,
+          "destructionPercentage": 84,
+          "order": 87,
+          "duration": 125
+        }
       },
       {
         "tag": "#YU00CRCUG",
@@ -860,7 +868,7 @@
             "duration": 162
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#CG0CLCY9",
           "defenderTag": "#Y2PVPPU8C",
@@ -914,9 +922,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/0jzAHixS8VrUhVMW_UqJr52vCkExiwwMh5rTjnIRLXQ.png"
     },
     "clanLevel": 21,
-    "attacks": 37,
-    "stars": 77,
-    "destructionPercentage": 90.63333,
+    "attacks": 41,
+    "stars": 80,
+    "destructionPercentage": 94.36667,
     "members": [
       {
         "tag": "#L0YPGLC0P",
@@ -938,6 +946,24 @@
         "name": "LEVRPOOL",
         "townhallLevel": 16,
         "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#2G8822LQ0",
+            "defenderTag": "#YUJLJ2V8Y",
+            "stars": 1,
+            "destructionPercentage": 70,
+            "order": 89,
+            "duration": 129
+          },
+          {
+            "attackerTag": "#2G8822LQ0",
+            "defenderTag": "#Y2PVPPU8C",
+            "stars": 2,
+            "destructionPercentage": 60,
+            "order": 90,
+            "duration": 107
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#YUJLJ2V8Y",
@@ -1565,6 +1591,24 @@
         "name": "om___3r",
         "townhallLevel": 14,
         "mapPosition": 17,
+        "attacks": [
+          {
+            "attackerTag": "#LVPR9VGPL",
+            "defenderTag": "#9VU0VU90G",
+            "stars": 2,
+            "destructionPercentage": 84,
+            "order": 87,
+            "duration": 125
+          },
+          {
+            "attackerTag": "#LVPR9VGPL",
+            "defenderTag": "#QRP2RLV02",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 88,
+            "duration": 101
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#LY0QGPJC2",
