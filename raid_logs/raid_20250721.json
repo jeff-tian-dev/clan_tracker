@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250718T070000.000Z",
   "endTime": "20250721T070000.000Z",
-  "capitalTotalLoot": 603833,
-  "raidsCompleted": 8,
-  "totalAttacks": 168,
-  "enemyDistrictsDestroyed": 52,
+  "capitalTotalLoot": 620880,
+  "raidsCompleted": 9,
+  "totalAttacks": 175,
+  "enemyDistrictsDestroyed": 54,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -32,6 +32,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 0,
       "capitalResourcesLooted": 7520
+    },
+    {
+      "tag": "#9L9G0P92V",
+      "name": "ScreaM-iwnl-",
+      "attacks": 3,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 7887
     },
     {
       "tag": "#G0GR02C09",
@@ -84,10 +92,10 @@
     {
       "tag": "#V0JYCPRR",
       "name": "bmuff2002",
-      "attacks": 1,
+      "attacks": 5,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 4061
+      "capitalResourcesLooted": 13221
     },
     {
       "tag": "#2908GYPU2",
@@ -2074,28 +2082,86 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/ISyB5wAm2v7B_rm-LJS360ga-83IFL8MABcjxft1RkA.png"
         }
       },
-      "attackCount": 17,
+      "attackCount": 24,
       "districtCount": 9,
-      "districtsDestroyed": 7,
+      "districtsDestroyed": 9,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 6,
+          "totalLooted": 14120,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#V0JYCPRR",
+                "name": "bmuff2002"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#V0JYCPRR",
+                "name": "bmuff2002"
+              },
+              "destructionPercent": 99,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#V0JYCPRR",
+                "name": "bmuff2002"
+              },
+              "destructionPercent": 88,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#V0JYCPRR",
+                "name": "bmuff2002"
+              },
+              "destructionPercent": 81,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#9L9G0P92V",
+                "name": "ScreaM-iwnl-"
+              },
+              "destructionPercent": 40,
+              "stars": 0
+            },
+            {
+              "attacker": {
+                "tag": "#9L9G0P92V",
+                "name": "ScreaM-iwnl-"
+              },
+              "destructionPercent": 16,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 87,
-          "stars": 1,
-          "attackCount": 2,
-          "totalLooted": 8410,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11337,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#9L9G0P92V",
+                "name": "ScreaM-iwnl-"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#QVPJG8JPJ",
@@ -2310,6 +2376,104 @@
               "stars": 2
             }
           ]
+        }
+      ]
+    },
+    {
+      "defender": {
+        "tag": "#GLGRQYPR",
+        "name": "the warriors",
+        "level": 23,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/3gNmTVL9IZuYOmRVLZpl5M137yQpgTHwDNpVuvNZ0HM.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/3gNmTVL9IZuYOmRVLZpl5M137yQpgTHwDNpVuvNZ0HM.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/3gNmTVL9IZuYOmRVLZpl5M137yQpgTHwDNpVuvNZ0HM.png"
+        }
+      },
+      "attackCount": 0,
+      "districtCount": 9,
+      "districtsDestroyed": 0,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 10,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 4,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 4,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
         }
       ]
     }
