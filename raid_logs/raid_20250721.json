@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250718T070000.000Z",
   "endTime": "20250721T070000.000Z",
-  "capitalTotalLoot": 626535,
+  "capitalTotalLoot": 661775,
   "raidsCompleted": 9,
-  "totalAttacks": 177,
-  "enemyDistrictsDestroyed": 54,
+  "totalAttacks": 185,
+  "enemyDistrictsDestroyed": 56,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -44,10 +44,10 @@
     {
       "tag": "#G0GR02C09",
       "name": "king",
-      "attacks": 1,
+      "attacks": 5,
       "attackLimit": 5,
       "bonusAttackLimit": 0,
-      "capitalResourcesLooted": 1100
+      "capitalResourcesLooted": 15735
     },
     {
       "tag": "#QYYVY0R8",
@@ -84,10 +84,10 @@
     {
       "tag": "#8VQYULVQQ",
       "name": "Sir Chestnut\u2122\ufe0f",
-      "attacks": 2,
+      "attacks": 4,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 11708
+      "capitalResourcesLooted": 21215
     },
     {
       "tag": "#V0JYCPRR",
@@ -164,10 +164,10 @@
     {
       "tag": "#YQ8L9JVJ2",
       "name": "Sir Walnut\u2122\ufe0f",
-      "attacks": 4,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 20448
+      "capitalResourcesLooted": 31546
     },
     {
       "tag": "#QGLJCPU8G",
@@ -2390,9 +2390,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/3gNmTVL9IZuYOmRVLZpl5M137yQpgTHwDNpVuvNZ0HM.png"
         }
       },
-      "attackCount": 2,
+      "attackCount": 10,
       "districtCount": 9,
-      "districtsDestroyed": 0,
+      "districtsDestroyed": 2,
       "districts": [
         {
           "id": 70000000,
@@ -2407,19 +2407,55 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 69,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 7420,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#8VQYULVQQ",
+                "name": "Sir Chestnut\u2122\ufe0f"
+              },
+              "destructionPercent": 69,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#G0GR02C09",
+                "name": "king"
+              },
+              "destructionPercent": 39,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10022,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#8VQYULVQQ",
+                "name": "Sir Chestnut\u2122\ufe0f"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#YQ8L9JVJ2",
+                "name": "Sir Walnut\u2122\ufe0f"
+              },
+              "destructionPercent": 38,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000003,
@@ -2461,20 +2497,54 @@
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 99,
+          "stars": 2,
+          "attackCount": 3,
+          "totalLooted": 11435,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#G0GR02C09",
+                "name": "king"
+              },
+              "destructionPercent": 99,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#G0GR02C09",
+                "name": "king"
+              },
+              "destructionPercent": 56,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#G0GR02C09",
+                "name": "king"
+              },
+              "destructionPercent": 37,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 56,
-          "stars": 1,
-          "attackCount": 2,
-          "totalLooted": 5655,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 12018,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#YQ8L9JVJ2",
+                "name": "Sir Walnut\u2122\ufe0f"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#2JJ2PR9VL",
