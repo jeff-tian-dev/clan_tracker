@@ -3077,7 +3077,7 @@
       }
     ]
   },
-  "timestamp": "2025-07-20 09:00:03",
+  "timestamp": "2025-07-20 10:00:03",
   "#LJVP0GRUG": {
     "name": "Agi",
     "tag": "#LJVP0GRUG",
@@ -4746,6 +4746,44 @@
         "capitalGold": 0,
         "avgLootPerAttack": "---",
         "attacksMissed": 6,
+        "missedRaid": false
+      }
+    ]
+  },
+  "#9JU0PRPYQ": {
+    "name": "LevelDown",
+    "tag": "#9JU0PRPYQ",
+    "history": [
+      {
+        "date": "20250630",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250707",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250714",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250721",
+        "attacksUsed": 1,
+        "capitalGold": 3574,
+        "avgLootPerAttack": 3574.0,
+        "attacksMissed": 5,
         "missedRaid": false
       }
     ]
