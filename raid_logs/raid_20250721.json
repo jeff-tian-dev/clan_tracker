@@ -2,9 +2,9 @@
   "state": "ongoing",
   "startTime": "20250718T070000.000Z",
   "endTime": "20250721T070000.000Z",
-  "capitalTotalLoot": 620880,
+  "capitalTotalLoot": 626535,
   "raidsCompleted": 9,
-  "totalAttacks": 175,
+  "totalAttacks": 177,
   "enemyDistrictsDestroyed": 54,
   "offensiveReward": 0,
   "defensiveReward": 0,
@@ -92,10 +92,10 @@
     {
       "tag": "#V0JYCPRR",
       "name": "bmuff2002",
-      "attacks": 5,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 13221
+      "capitalResourcesLooted": 16176
     },
     {
       "tag": "#2908GYPU2",
@@ -156,10 +156,10 @@
     {
       "tag": "#2JJ2PR9VL",
       "name": "SPIRIToFbANANA",
-      "attacks": 5,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 13820
+      "capitalResourcesLooted": 16520
     },
     {
       "tag": "#YQ8L9JVJ2",
@@ -2390,7 +2390,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/3gNmTVL9IZuYOmRVLZpl5M137yQpgTHwDNpVuvNZ0HM.png"
         }
       },
-      "attackCount": 0,
+      "attackCount": 2,
       "districtCount": 9,
       "districtsDestroyed": 0,
       "districts": [
@@ -2470,10 +2470,28 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 56,
+          "stars": 1,
+          "attackCount": 2,
+          "totalLooted": 5655,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2JJ2PR9VL",
+                "name": "SPIRIToFbANANA"
+              },
+              "destructionPercent": 56,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#V0JYCPRR",
+                "name": "bmuff2002"
+              },
+              "destructionPercent": 30,
+              "stars": 0
+            }
+          ]
         }
       ]
     }
