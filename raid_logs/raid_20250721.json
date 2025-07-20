@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250718T070000.000Z",
   "endTime": "20250721T070000.000Z",
-  "capitalTotalLoot": 661775,
+  "capitalTotalLoot": 707392,
   "raidsCompleted": 9,
-  "totalAttacks": 185,
-  "enemyDistrictsDestroyed": 56,
+  "totalAttacks": 193,
+  "enemyDistrictsDestroyed": 59,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -84,10 +84,10 @@
     {
       "tag": "#8VQYULVQQ",
       "name": "Sir Chestnut\u2122\ufe0f",
-      "attacks": 4,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 21215
+      "capitalResourcesLooted": 32635
     },
     {
       "tag": "#V0JYCPRR",
@@ -192,6 +192,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 30489
+    },
+    {
+      "tag": "#YJ2UV2GY",
+      "name": "Sir Hazelnut\u2122\ufe0f",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 34197
     },
     {
       "tag": "#QLLLULYJY",
@@ -2390,9 +2398,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/3gNmTVL9IZuYOmRVLZpl5M137yQpgTHwDNpVuvNZ0HM.png"
         }
       },
-      "attackCount": 10,
+      "attackCount": 18,
       "districtCount": 9,
-      "districtsDestroyed": 2,
+      "districtsDestroyed": 5,
       "districts": [
         {
           "id": 70000000,
@@ -2407,11 +2415,19 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 69,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 7420,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11790,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#8VQYULVQQ",
+                "name": "Sir Chestnut\u2122\ufe0f"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#8VQYULVQQ",
@@ -2461,37 +2477,101 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 79,
+          "stars": 1,
+          "attackCount": 1,
+          "totalLooted": 7440,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YJ2UV2GY",
+                "name": "Sir Hazelnut\u2122\ufe0f"
+              },
+              "destructionPercent": 79,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 12089,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YJ2UV2GY",
+                "name": "Sir Hazelnut\u2122\ufe0f"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#8VQYULVQQ",
+                "name": "Sir Chestnut\u2122\ufe0f"
+              },
+              "destructionPercent": 63,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 92,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 10225,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YJ2UV2GY",
+                "name": "Sir Hazelnut\u2122\ufe0f"
+              },
+              "destructionPercent": 92,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#YJ2UV2GY",
+                "name": "Sir Hazelnut\u2122\ufe0f"
+              },
+              "destructionPercent": 44,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11493,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YJ2UV2GY",
+                "name": "Sir Hazelnut\u2122\ufe0f"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#YJ2UV2GY",
+                "name": "Sir Hazelnut\u2122\ufe0f"
+              },
+              "destructionPercent": 62,
+              "stars": 2
+            }
+          ]
         },
         {
           "id": 70000007,
