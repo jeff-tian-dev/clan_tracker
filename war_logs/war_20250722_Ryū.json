@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/LAOSoW5vwK0ztgHMhs2jYAsjkLmigWNB0ttIjoV0RjU.png"
     },
     "clanLevel": 7,
-    "attacks": 53,
+    "attacks": 54,
     "stars": 116,
-    "destructionPercentage": 98.1,
+    "destructionPercentage": 98.325,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -188,7 +188,15 @@
         "name": "JLai",
         "townhallLevel": 13,
         "mapPosition": 30,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QC9YVL90C",
+          "defenderTag": "#GLU9LC2LG",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 87,
+          "duration": 119
+        }
       },
       {
         "tag": "#Q0YQURYCY",
@@ -213,7 +221,15 @@
             "duration": 124
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LJUV922YL",
+          "defenderTag": "#Q0YQURYCY",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 88,
+          "duration": 80
+        }
       },
       {
         "tag": "#Q9QU8L8YV",
@@ -425,7 +441,15 @@
             "duration": 132
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#9Q2VPUPY0",
+          "defenderTag": "#G2R9YGCP9",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 86,
+          "duration": 110
+        }
       },
       {
         "tag": "#YJUYGR9GP",
@@ -506,6 +530,14 @@
             "destructionPercentage": 79,
             "order": 46,
             "duration": 145
+          },
+          {
+            "attackerTag": "#2JJ2PR9VL",
+            "defenderTag": "#LUYYVL2RP",
+            "stars": 2,
+            "destructionPercentage": 91,
+            "order": 85,
+            "duration": 180
           }
         ],
         "opponentAttacks": 1,
@@ -1024,9 +1056,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/D86XuEJ_yoqCfQnyk0O6CQoRvdGB5bvCRS2EST9t23A.png"
     },
     "clanLevel": 15,
-    "attacks": 31,
-    "stars": 80,
-    "destructionPercentage": 69.375,
+    "attacks": 34,
+    "stars": 89,
+    "destructionPercentage": 76.875,
     "members": [
       {
         "tag": "#LJ8GR8UYU",
@@ -1066,14 +1098,14 @@
         "name": "Holy Empire",
         "townhallLevel": 14,
         "mapPosition": 18,
-        "opponentAttacks": 3,
+        "opponentAttacks": 4,
         "bestOpponentAttack": {
-          "attackerTag": "#YJUYGR9GP",
+          "attackerTag": "#2JJ2PR9VL",
           "defenderTag": "#LUYYVL2RP",
           "stars": 2,
-          "destructionPercentage": 82,
-          "order": 33,
-          "duration": 87
+          "destructionPercentage": 91,
+          "order": 85,
+          "duration": 180
         }
       },
       {
@@ -1221,6 +1253,14 @@
             "destructionPercentage": 85,
             "order": 78,
             "duration": 88
+          },
+          {
+            "attackerTag": "#QC9YVL90C",
+            "defenderTag": "#GLU9LC2LG",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 87,
+            "duration": 119
           }
         ],
         "opponentAttacks": 1,
@@ -1855,6 +1895,14 @@
             "destructionPercentage": 100,
             "order": 84,
             "duration": 126
+          },
+          {
+            "attackerTag": "#9Q2VPUPY0",
+            "defenderTag": "#G2R9YGCP9",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 86,
+            "duration": 110
           }
         ],
         "opponentAttacks": 1,
@@ -1887,6 +1935,16 @@
         "name": "Xanny_Bars",
         "townhallLevel": 13,
         "mapPosition": 27,
+        "attacks": [
+          {
+            "attackerTag": "#LJUV922YL",
+            "defenderTag": "#Q0YQURYCY",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 88,
+            "duration": 80
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#QRP2RLV02",
