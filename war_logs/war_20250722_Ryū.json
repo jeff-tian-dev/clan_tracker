@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/LAOSoW5vwK0ztgHMhs2jYAsjkLmigWNB0ttIjoV0RjU.png"
     },
     "clanLevel": 7,
-    "attacks": 58,
-    "stars": 118,
-    "destructionPercentage": 99.25,
+    "attacks": 61,
+    "stars": 119,
+    "destructionPercentage": 99.95,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -196,6 +196,24 @@
         "name": "JLai",
         "townhallLevel": 13,
         "mapPosition": 30,
+        "attacks": [
+          {
+            "attackerTag": "#GLU9LC2LG",
+            "defenderTag": "#9YCCYLCQY",
+            "stars": 2,
+            "destructionPercentage": 98,
+            "order": 105,
+            "duration": 175
+          },
+          {
+            "attackerTag": "#GLU9LC2LG",
+            "defenderTag": "#LUYYVL2RP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 106,
+            "duration": 148
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#QC9YVL90C",
@@ -401,6 +419,16 @@
         "name": "Chopsticks",
         "townhallLevel": 16,
         "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#QPQGQCR2U",
+            "defenderTag": "#YJU0VV28L",
+            "stars": 1,
+            "destructionPercentage": 90,
+            "order": 107,
+            "duration": 174
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#YJU0VV28L",
@@ -1180,14 +1208,14 @@
         "name": "Holy Empire",
         "townhallLevel": 14,
         "mapPosition": 18,
-        "opponentAttacks": 5,
+        "opponentAttacks": 6,
         "bestOpponentAttack": {
-          "attackerTag": "#2JJ2PR9VL",
+          "attackerTag": "#GLU9LC2LG",
           "defenderTag": "#LUYYVL2RP",
-          "stars": 2,
-          "destructionPercentage": 91,
-          "order": 85,
-          "duration": 180
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 106,
+          "duration": 148
         }
       },
       {
@@ -1312,7 +1340,7 @@
             "duration": 156
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#YUJLJ2V8Y",
           "defenderTag": "#YJU0VV28L",
@@ -2028,14 +2056,14 @@
         "name": "Master\u2122Boy",
         "townhallLevel": 14,
         "mapPosition": 19,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#2JJ2PR9VL",
+          "attackerTag": "#GLU9LC2LG",
           "defenderTag": "#9YCCYLCQY",
           "stars": 2,
-          "destructionPercentage": 79,
-          "order": 46,
-          "duration": 145
+          "destructionPercentage": 98,
+          "order": 105,
+          "duration": 175
         }
       },
       {
