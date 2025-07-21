@@ -1,5 +1,5 @@
 {
-  "state": "preparation",
+  "state": "inWar",
   "teamSize": 40,
   "attacksPerMember": 2,
   "battleModifier": "none",
@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/LAOSoW5vwK0ztgHMhs2jYAsjkLmigWNB0ttIjoV0RjU.png"
     },
     "clanLevel": 7,
-    "attacks": 0,
-    "stars": 0,
-    "destructionPercentage": 0.0,
+    "attacks": 3,
+    "stars": 9,
+    "destructionPercentage": 7.5,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -94,6 +94,24 @@
         "name": "bmuff2002",
         "townhallLevel": 13,
         "mapPosition": 34,
+        "attacks": [
+          {
+            "attackerTag": "#V0JYCPRR",
+            "defenderTag": "#GLJ9VGRC8",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 1,
+            "duration": 100
+          },
+          {
+            "attackerTag": "#V0JYCPRR",
+            "defenderTag": "#QVCJQQGUJ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 2,
+            "duration": 151
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -108,6 +126,16 @@
         "name": "\u24c2\ufe0fBIG COCHY3\u24c2\ufe0f",
         "townhallLevel": 15,
         "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#9U2YP0RY",
+            "defenderTag": "#92JVRG9PY",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 3,
+            "duration": 102
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -431,7 +459,15 @@
         "name": "ninay",
         "townhallLevel": 13,
         "mapPosition": 34,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#V0JYCPRR",
+          "defenderTag": "#GLJ9VGRC8",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 1,
+          "duration": 100
+        }
       },
       {
         "tag": "#9V88Q0R8P",
@@ -480,7 +516,15 @@
         "name": "GENERAL JOE",
         "townhallLevel": 15,
         "mapPosition": 6,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#9U2YP0RY",
+          "defenderTag": "#92JVRG9PY",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 3,
+          "duration": 102
+        }
       },
       {
         "tag": "#GJLYPP0P2",
@@ -529,7 +573,15 @@
         "name": "Pogi",
         "townhallLevel": 13,
         "mapPosition": 32,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#V0JYCPRR",
+          "defenderTag": "#QVCJQQGUJ",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 2,
+          "duration": 151
+        }
       },
       {
         "tag": "#2GVG2CR9Y",
