@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/LAOSoW5vwK0ztgHMhs2jYAsjkLmigWNB0ttIjoV0RjU.png"
     },
     "clanLevel": 7,
-    "attacks": 32,
-    "stars": 80,
-    "destructionPercentage": 68.7,
+    "attacks": 33,
+    "stars": 82,
+    "destructionPercentage": 70.675,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -378,6 +378,16 @@
         "name": "SPIRIToFbANANA",
         "townhallLevel": 14,
         "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#2JJ2PR9VL",
+            "defenderTag": "#9YCCYLCQY",
+            "stars": 2,
+            "destructionPercentage": 79,
+            "order": 46,
+            "duration": 145
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -605,14 +615,30 @@
         "name": "Bhargab (Jumon)",
         "townhallLevel": 14,
         "mapPosition": 13,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2GVG2CR9Y",
+          "defenderTag": "#JR02U0Q8",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 48,
+          "duration": 160
+        }
       },
       {
         "tag": "#L80PYCRV8",
         "name": "Mac and Cheeks",
         "townhallLevel": 14,
         "mapPosition": 14,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2GVG2CR9Y",
+          "defenderTag": "#L80PYCRV8",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 47,
+          "duration": 149
+        }
       },
       {
         "tag": "#LGGLYVUPP",
@@ -704,9 +730,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/D86XuEJ_yoqCfQnyk0O6CQoRvdGB5bvCRS2EST9t23A.png"
     },
     "clanLevel": 15,
-    "attacks": 13,
-    "stars": 33,
-    "destructionPercentage": 29.75,
+    "attacks": 15,
+    "stars": 39,
+    "destructionPercentage": 34.75,
     "members": [
       {
         "tag": "#LJ8GR8UYU",
@@ -1232,6 +1258,24 @@
         "name": "dagskhulet",
         "townhallLevel": 14,
         "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#2GVG2CR9Y",
+            "defenderTag": "#L80PYCRV8",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 47,
+            "duration": 149
+          },
+          {
+            "attackerTag": "#2GVG2CR9Y",
+            "defenderTag": "#JR02U0Q8",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 48,
+            "duration": 160
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -1286,7 +1330,15 @@
         "name": "Master\u2122Boy",
         "townhallLevel": 14,
         "mapPosition": 19,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2JJ2PR9VL",
+          "defenderTag": "#9YCCYLCQY",
+          "stars": 2,
+          "destructionPercentage": 79,
+          "order": 46,
+          "duration": 145
+        }
       },
       {
         "tag": "#9Q2VPUPY0",
