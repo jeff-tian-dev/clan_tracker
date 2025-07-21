@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/LAOSoW5vwK0ztgHMhs2jYAsjkLmigWNB0ttIjoV0RjU.png"
     },
     "clanLevel": 7,
-    "attacks": 45,
-    "stars": 110,
-    "destructionPercentage": 93.6,
+    "attacks": 49,
+    "stars": 114,
+    "destructionPercentage": 96.425,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -381,6 +381,14 @@
             "destructionPercentage": 82,
             "order": 65,
             "duration": 165
+          },
+          {
+            "attackerTag": "#G2R9YGCP9",
+            "defenderTag": "#QCUQV9VCR",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 68,
+            "duration": 132
           }
         ],
         "opponentAttacks": 0
@@ -652,6 +660,16 @@
         "name": "Gladiator",
         "townhallLevel": 14,
         "mapPosition": 24,
+        "attacks": [
+          {
+            "attackerTag": "#LY0QGPJC2",
+            "defenderTag": "#YPQLCJQ2Y",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 69,
+            "duration": 73
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -731,6 +749,24 @@
         "name": "Bhargab (Jumon)",
         "townhallLevel": 14,
         "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#JR02U0Q8",
+            "defenderTag": "#QCRPPC9QP",
+            "stars": 1,
+            "destructionPercentage": 47,
+            "order": 66,
+            "duration": 64
+          },
+          {
+            "attackerTag": "#JR02U0Q8",
+            "defenderTag": "#LUYYVL2RP",
+            "stars": 1,
+            "destructionPercentage": 76,
+            "order": 67,
+            "duration": 88
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#2GVG2CR9Y",
@@ -896,7 +932,7 @@
         "name": "Holy Empire",
         "townhallLevel": 14,
         "mapPosition": 18,
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
           "attackerTag": "#YJUYGR9GP",
           "defenderTag": "#LUYYVL2RP",
@@ -1106,7 +1142,7 @@
         "name": "Sachi",
         "townhallLevel": 14,
         "mapPosition": 16,
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
           "attackerTag": "#G2R9YGCP9",
           "defenderTag": "#QCRPPC9QP",
@@ -1214,7 +1250,15 @@
         "name": "naysu",
         "townhallLevel": 13,
         "mapPosition": 28,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#G2R9YGCP9",
+          "defenderTag": "#QCUQV9VCR",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 68,
+          "duration": 132
+        }
       },
       {
         "tag": "#GLJ9VGRC8",
@@ -1540,14 +1584,14 @@
         "name": "Vincetzy?",
         "townhallLevel": 11,
         "mapPosition": 40,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#YVGGJLPRJ",
+          "attackerTag": "#LY0QGPJC2",
           "defenderTag": "#YPQLCJQ2Y",
-          "stars": 2,
-          "destructionPercentage": 87,
-          "order": 25,
-          "duration": 175
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 69,
+          "duration": 73
         }
       },
       {
