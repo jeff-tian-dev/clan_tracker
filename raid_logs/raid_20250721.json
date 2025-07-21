@@ -3,7 +3,7 @@
   "startTime": "20250718T070000.000Z",
   "endTime": "20250721T070000.000Z",
   "capitalTotalLoot": 849755,
-  "raidsCompleted": 11,
+  "raidsCompleted": 12,
   "totalAttacks": 229,
   "enemyDistrictsDestroyed": 74,
   "offensiveReward": 0,
@@ -4180,19 +4180,51 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/zAh2c6jXbsJTqwoNNQQt1a8oSWlflCvjWhUtEPh8ip4.png"
         }
       },
-      "attackCount": 24,
+      "attackCount": 28,
       "districtCount": 9,
-      "districtsDestroyed": 8,
+      "districtsDestroyed": 9,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 44,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 2360,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 5,
+          "totalLooted": 13946,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#YJYJVV9VG",
+                "name": "\u2764\ufe0fLAVE\u2764\ufe0f"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#YJYJVV9VG",
+                "name": "\u2764\ufe0fLAVE\u2764\ufe0f"
+              },
+              "destructionPercent": 89,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#YJYJVV9VG",
+                "name": "\u2764\ufe0fLAVE\u2764\ufe0f"
+              },
+              "destructionPercent": 77,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#YJYJVV9VG",
+                "name": "\u2764\ufe0fLAVE\u2764\ufe0f"
+              },
+              "destructionPercent": 66,
+              "stars": 1
+            },
             {
               "attacker": {
                 "tag": "#GLJ80G0YP",
