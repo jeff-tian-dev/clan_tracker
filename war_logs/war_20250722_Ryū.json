@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/LAOSoW5vwK0ztgHMhs2jYAsjkLmigWNB0ttIjoV0RjU.png"
     },
     "clanLevel": 7,
-    "attacks": 29,
-    "stars": 76,
-    "destructionPercentage": 66.225,
+    "attacks": 32,
+    "stars": 80,
+    "destructionPercentage": 68.7,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -329,6 +329,24 @@
         "name": "Geno",
         "townhallLevel": 14,
         "mapPosition": 18,
+        "attacks": [
+          {
+            "attackerTag": "#LC0VJQQP9",
+            "defenderTag": "#LUYYVL2RP",
+            "stars": 1,
+            "destructionPercentage": 61,
+            "order": 41,
+            "duration": 143
+          },
+          {
+            "attackerTag": "#LC0VJQQP9",
+            "defenderTag": "#8R9Q9Y089",
+            "stars": 2,
+            "destructionPercentage": 67,
+            "order": 42,
+            "duration": 171
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -422,6 +440,14 @@
             "destructionPercentage": 100,
             "order": 5,
             "duration": 83
+          },
+          {
+            "attackerTag": "#YJ2UV2GY",
+            "defenderTag": "#QYLYYGL29",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 40,
+            "duration": 78
           }
         ],
         "opponentAttacks": 0
@@ -678,7 +704,7 @@
         "name": "Holy Empire",
         "townhallLevel": 14,
         "mapPosition": 18,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#YJUYGR9GP",
           "defenderTag": "#LUYYVL2RP",
@@ -803,7 +829,15 @@
         "name": "Uzaw Latt",
         "townhallLevel": 15,
         "mapPosition": 14,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YJ2UV2GY",
+          "defenderTag": "#QYLYYGL29",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 40,
+          "duration": 78
+        }
       },
       {
         "tag": "#QCRPPC9QP",
@@ -1109,14 +1143,14 @@
         "name": "weak",
         "townhallLevel": 14,
         "mapPosition": 17,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#2908GYPU2",
+          "attackerTag": "#LC0VJQQP9",
           "defenderTag": "#8R9Q9Y089",
-          "stars": 1,
-          "destructionPercentage": 68,
-          "order": 30,
-          "duration": 101
+          "stars": 2,
+          "destructionPercentage": 67,
+          "order": 42,
+          "duration": 171
         }
       },
       {
