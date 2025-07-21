@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/LAOSoW5vwK0ztgHMhs2jYAsjkLmigWNB0ttIjoV0RjU.png"
     },
     "clanLevel": 7,
-    "attacks": 43,
-    "stars": 108,
-    "destructionPercentage": 93.425,
+    "attacks": 45,
+    "stars": 110,
+    "destructionPercentage": 93.6,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -32,6 +32,14 @@
             "destructionPercentage": 100,
             "order": 62,
             "duration": 139
+          },
+          {
+            "attackerTag": "#RUVPQQR0",
+            "defenderTag": "#LGCJVGLJ0",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 64,
+            "duration": 96
           }
         ],
         "opponentAttacks": 0
@@ -365,6 +373,16 @@
         "name": "Aerystockrat",
         "townhallLevel": 14,
         "mapPosition": 20,
+        "attacks": [
+          {
+            "attackerTag": "#G2R9YGCP9",
+            "defenderTag": "#QCRPPC9QP",
+            "stars": 2,
+            "destructionPercentage": 82,
+            "order": 65,
+            "duration": 165
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -1088,14 +1106,14 @@
         "name": "Sachi",
         "townhallLevel": 14,
         "mapPosition": 16,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#PRGGL2J2V",
+          "attackerTag": "#G2R9YGCP9",
           "defenderTag": "#QCRPPC9QP",
-          "stars": 1,
-          "destructionPercentage": 77,
-          "order": 56,
-          "duration": 112
+          "stars": 2,
+          "destructionPercentage": 82,
+          "order": 65,
+          "duration": 165
         }
       },
       {
@@ -1233,14 +1251,14 @@
         "name": "\u00d0\u0159\u00ea",
         "townhallLevel": 12,
         "mapPosition": 37,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#YJ09R8L0P",
+          "attackerTag": "#RUVPQQR0",
           "defenderTag": "#LGCJVGLJ0",
-          "stars": 2,
-          "destructionPercentage": 98,
-          "order": 11,
-          "duration": 180
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 64,
+          "duration": 96
         }
       },
       {
