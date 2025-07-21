@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250718T070000.000Z",
   "endTime": "20250721T070000.000Z",
-  "capitalTotalLoot": 809315,
+  "capitalTotalLoot": 822880,
   "raidsCompleted": 10,
-  "totalAttacks": 217,
-  "enemyDistrictsDestroyed": 69,
+  "totalAttacks": 223,
+  "enemyDistrictsDestroyed": 71,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -248,6 +248,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 27577
+    },
+    {
+      "tag": "#YJ09R8L0P",
+      "name": "TheRealRHZ",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 13565
     },
     {
       "tag": "#9VU0VU90G",
@@ -2746,28 +2754,70 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/v4jGBVWYQvhMXOD_mPrw8vzz7uAFadQJUWsglmrLD0Q.png"
         }
       },
-      "attackCount": 17,
+      "attackCount": 23,
       "districtCount": 9,
-      "districtsDestroyed": 6,
+      "districtsDestroyed": 8,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 94,
+          "stars": 1,
+          "attackCount": 4,
+          "totalLooted": 11210,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YJ09R8L0P",
+                "name": "TheRealRHZ"
+              },
+              "destructionPercent": 94,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#YJ09R8L0P",
+                "name": "TheRealRHZ"
+              },
+              "destructionPercent": 83,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#YJ09R8L0P",
+                "name": "TheRealRHZ"
+              },
+              "destructionPercent": 70,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#YJ09R8L0P",
+                "name": "TheRealRHZ"
+              },
+              "destructionPercent": 41,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 93,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 9940,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11530,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#YJ09R8L0P",
+                "name": "TheRealRHZ"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#9VU0VU90G",
@@ -2960,11 +3010,19 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 99,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 10000,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10765,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#YJ09R8L0P",
+                "name": "TheRealRHZ"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#8RJ28GQ2",
