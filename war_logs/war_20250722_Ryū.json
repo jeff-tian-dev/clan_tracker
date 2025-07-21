@@ -15,15 +15,25 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/LAOSoW5vwK0ztgHMhs2jYAsjkLmigWNB0ttIjoV0RjU.png"
     },
     "clanLevel": 7,
-    "attacks": 40,
-    "stars": 99,
-    "destructionPercentage": 85.925,
+    "attacks": 43,
+    "stars": 108,
+    "destructionPercentage": 93.425,
     "members": [
       {
         "tag": "#RUVPQQR0",
         "name": "Badboy101",
         "townhallLevel": 13,
         "mapPosition": 32,
+        "attacks": [
+          {
+            "attackerTag": "#RUVPQQR0",
+            "defenderTag": "#QC9YVL90C",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 62,
+            "duration": 139
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -631,6 +641,24 @@
         "name": "Edison123",
         "townhallLevel": 14,
         "mapPosition": 23,
+        "attacks": [
+          {
+            "attackerTag": "#9VU0VU90G",
+            "defenderTag": "#GGRP9UYVV",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 60,
+            "duration": 140
+          },
+          {
+            "attackerTag": "#9VU0VU90G",
+            "defenderTag": "#L9LUUUUPP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 61,
+            "duration": 154
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -740,14 +768,14 @@
             "duration": 118
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#LYVJVQPCQ",
+          "attackerTag": "#QYLYYGL29",
           "defenderTag": "#LCUL88JLG",
-          "stars": 1,
-          "destructionPercentage": 81,
-          "order": 22,
-          "duration": 155
+          "stars": 2,
+          "destructionPercentage": 88,
+          "order": 63,
+          "duration": 148
         }
       },
       {
@@ -826,9 +854,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/D86XuEJ_yoqCfQnyk0O6CQoRvdGB5bvCRS2EST9t23A.png"
     },
     "clanLevel": 15,
-    "attacks": 19,
-    "stars": 49,
-    "destructionPercentage": 44.025,
+    "attacks": 20,
+    "stars": 50,
+    "destructionPercentage": 44.2,
     "members": [
       {
         "tag": "#LJ8GR8UYU",
@@ -997,7 +1025,15 @@
         "name": "aurey",
         "townhallLevel": 12,
         "mapPosition": 36,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#RUVPQQR0",
+          "defenderTag": "#QC9YVL90C",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 62,
+          "duration": 139
+        }
       },
       {
         "tag": "#QQR88LYL0",
@@ -1027,6 +1063,14 @@
             "destructionPercentage": 54,
             "order": 43,
             "duration": 109
+          },
+          {
+            "attackerTag": "#QYLYYGL29",
+            "defenderTag": "#LCUL88JLG",
+            "stars": 2,
+            "destructionPercentage": 88,
+            "order": 63,
+            "duration": 148
           }
         ],
         "opponentAttacks": 1,
@@ -1074,7 +1118,15 @@
         "name": "MarThings",
         "townhallLevel": 16,
         "mapPosition": 20,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#9VU0VU90G",
+          "defenderTag": "#GGRP9UYVV",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 60,
+          "duration": 140
+        }
       },
       {
         "tag": "#YU2Y8P0RV",
@@ -1455,7 +1507,15 @@
         "name": "Saaaki",
         "townhallLevel": 13,
         "mapPosition": 26,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#9VU0VU90G",
+          "defenderTag": "#L9LUUUUPP",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 61,
+          "duration": 154
+        }
       },
       {
         "tag": "#YPQLCJQ2Y",
