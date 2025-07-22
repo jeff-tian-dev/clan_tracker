@@ -42,7 +42,15 @@
             "duration": 96
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QVCJQQGUJ",
+          "defenderTag": "#RUVPQQR0",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 116,
+          "duration": 160
+        }
       },
       {
         "tag": "#8RJ28GQ2",
@@ -870,7 +878,15 @@
             "duration": 138
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QVCJQQGUJ",
+          "defenderTag": "#LY0QGPJC2",
+          "stars": 2,
+          "destructionPercentage": 94,
+          "order": 117,
+          "duration": 180
+        }
       },
       {
         "tag": "#9VU0VU90G",
@@ -1238,9 +1254,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/D86XuEJ_yoqCfQnyk0O6CQoRvdGB5bvCRS2EST9t23A.png"
     },
     "clanLevel": 15,
-    "attacks": 46,
-    "stars": 109,
-    "destructionPercentage": 93.925,
+    "attacks": 48,
+    "stars": 114,
+    "destructionPercentage": 98.775,
     "members": [
       {
         "tag": "#LJ8GR8UYU",
@@ -2007,6 +2023,24 @@
         "name": "Pogi",
         "townhallLevel": 13,
         "mapPosition": 32,
+        "attacks": [
+          {
+            "attackerTag": "#QVCJQQGUJ",
+            "defenderTag": "#RUVPQQR0",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 116,
+            "duration": 160
+          },
+          {
+            "attackerTag": "#QVCJQQGUJ",
+            "defenderTag": "#LY0QGPJC2",
+            "stars": 2,
+            "destructionPercentage": 94,
+            "order": 117,
+            "duration": 180
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#V0JYCPRR",
