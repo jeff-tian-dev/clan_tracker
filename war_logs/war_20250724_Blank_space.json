@@ -15,15 +15,25 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/LAOSoW5vwK0ztgHMhs2jYAsjkLmigWNB0ttIjoV0RjU.png"
     },
     "clanLevel": 7,
-    "attacks": 12,
-    "stars": 30,
-    "destructionPercentage": 41.72,
+    "attacks": 16,
+    "stars": 37,
+    "destructionPercentage": 56.2,
     "members": [
       {
         "tag": "#RUVPQQR0",
         "name": "Badboy101",
         "townhallLevel": 13,
         "mapPosition": 19,
+        "attacks": [
+          {
+            "attackerTag": "#RUVPQQR0",
+            "defenderTag": "#YPUGUJJVY",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 19,
+            "duration": 144
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#YPUGUJJVY",
@@ -159,6 +169,24 @@
         "name": "SPIRIToFbANANA",
         "townhallLevel": 14,
         "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#2JJ2PR9VL",
+            "defenderTag": "#2UVV28RY8",
+            "stars": 1,
+            "destructionPercentage": 93,
+            "order": 17,
+            "duration": 161
+          },
+          {
+            "attackerTag": "#2JJ2PR9VL",
+            "defenderTag": "#YRGCUVUCU",
+            "stars": 1,
+            "destructionPercentage": 95,
+            "order": 18,
+            "duration": 164
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#YPUGUJJVY",
@@ -237,6 +265,16 @@
         "name": "TheRealRHZ",
         "townhallLevel": 12,
         "mapPosition": 23,
+        "attacks": [
+          {
+            "attackerTag": "#YJ09R8L0P",
+            "defenderTag": "#QL9UU2809",
+            "stars": 2,
+            "destructionPercentage": 74,
+            "order": 20,
+            "duration": 173
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#Q09Q90JYJ",
@@ -395,7 +433,15 @@
         "name": "\ua730\u1d00\u0274\u0262\u2605\u026a\u026a\u026a",
         "townhallLevel": 15,
         "mapPosition": 14,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2JJ2PR9VL",
+          "defenderTag": "#YRGCUVUCU",
+          "stars": 1,
+          "destructionPercentage": 95,
+          "order": 18,
+          "duration": 164
+        }
       },
       {
         "tag": "#Q8RV0JVYU",
@@ -519,7 +565,15 @@
         "name": "\ua730\u1d00\u0274\u0262\u2605\u026a\u026a",
         "townhallLevel": 14,
         "mapPosition": 17,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YJ09R8L0P",
+          "defenderTag": "#QL9UU2809",
+          "stars": 2,
+          "destructionPercentage": 74,
+          "order": 20,
+          "duration": 173
+        }
       },
       {
         "tag": "#GUCPUV8QL",
@@ -555,7 +609,15 @@
         "name": "BeefyRingmaster",
         "townhallLevel": 14,
         "mapPosition": 13,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2JJ2PR9VL",
+          "defenderTag": "#2UVV28RY8",
+          "stars": 1,
+          "destructionPercentage": 93,
+          "order": 17,
+          "duration": 161
+        }
       },
       {
         "tag": "#28LUJ09QY",
@@ -595,7 +657,15 @@
             "duration": 106
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#RUVPQQR0",
+          "defenderTag": "#YPUGUJJVY",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 19,
+          "duration": 144
+        }
       },
       {
         "tag": "#LCGY908VL",
