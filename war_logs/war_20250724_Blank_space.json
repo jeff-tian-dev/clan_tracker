@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/LAOSoW5vwK0ztgHMhs2jYAsjkLmigWNB0ttIjoV0RjU.png"
     },
     "clanLevel": 7,
-    "attacks": 26,
-    "stars": 56,
-    "destructionPercentage": 77.72,
+    "attacks": 27,
+    "stars": 59,
+    "destructionPercentage": 81.72,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -238,6 +238,16 @@
         "name": "Phantom",
         "townhallLevel": 15,
         "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#LYJJ9PLV9",
+            "defenderTag": "#L9VVY09Q2",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 33,
+            "duration": 141
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -640,7 +650,15 @@
         "name": "Pampeyo",
         "townhallLevel": 15,
         "mapPosition": 8,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LYJJ9PLV9",
+          "defenderTag": "#L9VVY09Q2",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 33,
+          "duration": 141
+        }
       },
       {
         "tag": "#9Q0C22P9P",
