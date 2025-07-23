@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/LAOSoW5vwK0ztgHMhs2jYAsjkLmigWNB0ttIjoV0RjU.png"
     },
     "clanLevel": 7,
-    "attacks": 16,
-    "stars": 37,
-    "destructionPercentage": 56.2,
+    "attacks": 18,
+    "stars": 43,
+    "destructionPercentage": 64.2,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -216,6 +216,24 @@
         "name": "\u26a1\ufe0fBENIMARU\u26a1\ufe0f",
         "townhallLevel": 17,
         "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#YUJLJ2V8Y",
+            "defenderTag": "#YR2JJJL9L",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 21,
+            "duration": 147
+          },
+          {
+            "attackerTag": "#YUJLJ2V8Y",
+            "defenderTag": "#LRPC90QR8",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 22,
+            "duration": 163
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -463,7 +481,15 @@
         "name": "\ua731\u026a\u029f\u1d20\u1d07\u0280 \ua730\u1d00\u0274\u0262",
         "townhallLevel": 17,
         "mapPosition": 1,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YUJLJ2V8Y",
+          "defenderTag": "#YR2JJJL9L",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 21,
+          "duration": 147
+        }
       },
       {
         "tag": "#QP8QJ9PCJ",
@@ -529,7 +555,15 @@
         "name": "Wohlf",
         "townhallLevel": 16,
         "mapPosition": 2,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YUJLJ2V8Y",
+          "defenderTag": "#LRPC90QR8",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 22,
+          "duration": 163
+        }
       },
       {
         "tag": "#9CUL80G9Q",
