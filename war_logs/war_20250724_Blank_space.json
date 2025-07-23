@@ -15,7 +15,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/LAOSoW5vwK0ztgHMhs2jYAsjkLmigWNB0ttIjoV0RjU.png"
     },
     "clanLevel": 7,
-    "attacks": 32,
+    "attacks": 33,
     "stars": 68,
     "destructionPercentage": 93.2,
     "members": [
@@ -166,14 +166,14 @@
             "duration": 132
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#LCUQ29JRG",
+          "attackerTag": "#LRPC90QR8",
           "defenderTag": "#QPQGQCR2U",
-          "stars": 1,
-          "destructionPercentage": 88,
-          "order": 26,
-          "duration": 180
+          "stars": 2,
+          "destructionPercentage": 71,
+          "order": 45,
+          "duration": 123
         }
       },
       {
@@ -306,7 +306,7 @@
             "duration": 163
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
           "attackerTag": "#YR2JJJL9L",
           "defenderTag": "#YUJLJ2V8Y",
@@ -379,6 +379,14 @@
             "destructionPercentage": 74,
             "order": 20,
             "duration": 173
+          },
+          {
+            "attackerTag": "#YJ09R8L0P",
+            "defenderTag": "#PP2U2CU9V",
+            "stars": 1,
+            "destructionPercentage": 40,
+            "order": 43,
+            "duration": 115
           }
         ],
         "opponentAttacks": 1,
@@ -545,9 +553,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/wnMYn_FmUfWKxEG57nCGfp61vu4o_BWKUX0ubzL5pH4.png"
     },
     "clanLevel": 17,
-    "attacks": 10,
-    "stars": 14,
-    "destructionPercentage": 22.12,
+    "attacks": 12,
+    "stars": 15,
+    "destructionPercentage": 21.44,
     "members": [
       {
         "tag": "#222J8JJJ2",
@@ -713,7 +721,7 @@
         "name": "\u25e4\u1d40\u1d52\u02e3\u2071\u1d9c\u00b0ABhAy",
         "townhallLevel": 14,
         "mapPosition": 15,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#Q0YQURYCY",
           "defenderTag": "#PP2U2CU9V",
@@ -773,6 +781,24 @@
         "name": "Wohlf",
         "townhallLevel": 16,
         "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#LRPC90QR8",
+            "defenderTag": "#YUJLJ2V8Y",
+            "stars": 1,
+            "destructionPercentage": 44,
+            "order": 44,
+            "duration": 94
+          },
+          {
+            "attackerTag": "#LRPC90QR8",
+            "defenderTag": "#QPQGQCR2U",
+            "stars": 2,
+            "destructionPercentage": 71,
+            "order": 45,
+            "duration": 123
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#YUJLJ2V8Y",
