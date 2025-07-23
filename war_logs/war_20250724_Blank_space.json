@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/LAOSoW5vwK0ztgHMhs2jYAsjkLmigWNB0ttIjoV0RjU.png"
     },
     "clanLevel": 7,
-    "attacks": 31,
-    "stars": 67,
-    "destructionPercentage": 92.04,
+    "attacks": 32,
+    "stars": 68,
+    "destructionPercentage": 93.2,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -271,6 +271,16 @@
         "name": "King Killer",
         "townhallLevel": 15,
         "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#J88YJGY9",
+            "defenderTag": "#9CUL80G9Q",
+            "stars": 2,
+            "destructionPercentage": 65,
+            "order": 42,
+            "duration": 129
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -778,14 +788,14 @@
         "name": "hunter x hunter",
         "townhallLevel": 14,
         "mapPosition": 11,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#G2R9YGCP9",
+          "attackerTag": "#J88YJGY9",
           "defenderTag": "#9CUL80G9Q",
-          "stars": 1,
-          "destructionPercentage": 36,
-          "order": 36,
-          "duration": 48
+          "stars": 2,
+          "destructionPercentage": 65,
+          "order": 42,
+          "duration": 129
         }
       },
       {
