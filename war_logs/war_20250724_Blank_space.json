@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/LAOSoW5vwK0ztgHMhs2jYAsjkLmigWNB0ttIjoV0RjU.png"
     },
     "clanLevel": 7,
-    "attacks": 33,
-    "stars": 68,
-    "destructionPercentage": 93.2,
+    "attacks": 35,
+    "stars": 69,
+    "destructionPercentage": 94.24,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -404,6 +404,24 @@
         "name": "alphachupapa",
         "townhallLevel": 14,
         "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#G09YYYRLY",
+            "defenderTag": "#QL9UU2809",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 46,
+            "duration": 136
+          },
+          {
+            "attackerTag": "#G09YYYRLY",
+            "defenderTag": "#PP2U2CU9V",
+            "stars": 2,
+            "destructionPercentage": 56,
+            "order": 47,
+            "duration": 73
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -721,7 +739,7 @@
         "name": "\u25e4\u1d40\u1d52\u02e3\u2071\u1d9c\u00b0ABhAy",
         "townhallLevel": 14,
         "mapPosition": 15,
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
           "attackerTag": "#Q0YQURYCY",
           "defenderTag": "#PP2U2CU9V",
@@ -859,14 +877,14 @@
         "name": "\ua730\u1d00\u0274\u0262\u2605\u026a\u026a",
         "townhallLevel": 14,
         "mapPosition": 17,
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#YJ09R8L0P",
+          "attackerTag": "#G09YYYRLY",
           "defenderTag": "#QL9UU2809",
-          "stars": 2,
-          "destructionPercentage": 74,
-          "order": 20,
-          "duration": 173
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 46,
+          "duration": 136
         }
       },
       {
