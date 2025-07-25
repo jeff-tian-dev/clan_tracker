@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250725T070000.000Z",
   "endTime": "20250728T070000.000Z",
-  "capitalTotalLoot": 222056,
+  "capitalTotalLoot": 232296,
   "raidsCompleted": 3,
-  "totalAttacks": 65,
-  "enemyDistrictsDestroyed": 18,
+  "totalAttacks": 67,
+  "enemyDistrictsDestroyed": 19,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -36,10 +36,10 @@
     {
       "tag": "#QY0UGQGQY",
       "name": "TheFish",
-      "attacks": 4,
+      "attacks": 5,
       "attackLimit": 5,
       "bonusAttackLimit": 0,
-      "capitalResourcesLooted": 17705
+      "capitalResourcesLooted": 22025
     },
     {
       "tag": "#9U2YP0RY",
@@ -68,10 +68,10 @@
     {
       "tag": "#J88YJGY9",
       "name": "King Killer",
-      "attacks": 2,
+      "attacks": 3,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 3851
+      "capitalResourcesLooted": 9771
     },
     {
       "tag": "#QJ28QQ89Q",
@@ -830,9 +830,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/Phrxy31wG91AMjULWTROgLCqFZMDTJiFVXq_KBmbSM0.png"
         }
       },
-      "attackCount": 6,
+      "attackCount": 8,
       "districtCount": 9,
-      "districtsDestroyed": 0,
+      "districtsDestroyed": 1,
       "districts": [
         {
           "id": 70000000,
@@ -902,10 +902,28 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10240,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#J88YJGY9",
+                "name": "King Killer"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QY0UGQGQY",
+                "name": "TheFish"
+              },
+              "destructionPercent": 43,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000005,
@@ -1318,9 +1336,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/4_bMnXiNL1yUKmn0-XSxtaF2bmdksAlbo7RiuoAkKRY.png"
         }
       },
-      "attackCount": 8,
+      "attackCount": 14,
       "districtCount": 9,
-      "districtsDestroyed": 2,
+      "districtsDestroyed": 3,
       "districts": [
         {
           "id": 70000000,
@@ -1362,10 +1380,36 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 76,
+          "stars": 2,
+          "attackCount": 3,
+          "totalLooted": 9265,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#CLUPYGCJ",
+                "name": "Itachi_Uchiha"
+              },
+              "destructionPercent": 76,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#CLUPYGCJ",
+                "name": "Itachi_Uchiha"
+              },
+              "destructionPercent": 29,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#CLUPYGCJ",
+                "name": "Itachi_Uchiha"
+              },
+              "destructionPercent": 13,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000005,
@@ -1380,11 +1424,35 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 35,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 2925,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 11859,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#CLUPYGCJ",
+                "name": "Itachi_Uchiha"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#CLUPYGCJ",
+                "name": "Itachi_Uchiha"
+              },
+              "destructionPercent": 80,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#CLUPYGCJ",
+                "name": "Itachi_Uchiha"
+              },
+              "destructionPercent": 66,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#LJUJLQP0Y",
