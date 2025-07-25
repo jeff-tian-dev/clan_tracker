@@ -2,13 +2,21 @@
   "state": "ongoing",
   "startTime": "20250725T070000.000Z",
   "endTime": "20250728T070000.000Z",
-  "capitalTotalLoot": 102061,
+  "capitalTotalLoot": 135826,
   "raidsCompleted": 2,
-  "totalAttacks": 33,
-  "enemyDistrictsDestroyed": 9,
+  "totalAttacks": 42,
+  "enemyDistrictsDestroyed": 12,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
+    {
+      "tag": "#JCJ9V8V",
+      "name": "master darsh",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 21226
+    },
     {
       "tag": "#Q0YQURYCY",
       "name": "Sushant Bhaita",
@@ -20,10 +28,10 @@
     {
       "tag": "#G2R9YGCP9",
       "name": "Aerystockrat",
-      "attacks": 3,
+      "attacks": 6,
       "attackLimit": 5,
-      "bonusAttackLimit": 0,
-      "capitalResourcesLooted": 7375
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 19914
     },
     {
       "tag": "#YJUYGR9GP",
@@ -426,9 +434,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/fZzfQp9Q0T40u5m6d9J7I-m2vZXG4BCm6bb9BctQEC0.png"
         }
       },
-      "attackCount": 3,
+      "attackCount": 12,
       "districtCount": 9,
-      "districtsDestroyed": 0,
+      "districtsDestroyed": 3,
       "districts": [
         {
           "id": 70000000,
@@ -470,10 +478,28 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 81,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 7670,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#JCJ9V8V",
+                "name": "master darsh"
+              },
+              "destructionPercent": 81,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#JCJ9V8V",
+                "name": "master darsh"
+              },
+              "destructionPercent": 36,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000005,
@@ -488,11 +514,19 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 71,
-          "stars": 2,
-          "attackCount": 3,
-          "totalLooted": 7375,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 10849,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#G2R9YGCP9",
+                "name": "Aerystockrat"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#G2R9YGCP9",
@@ -523,19 +557,71 @@
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11475,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#JCJ9V8V",
+                "name": "master darsh"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#G2R9YGCP9",
+                "name": "Aerystockrat"
+              },
+              "destructionPercent": 78,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#G2R9YGCP9",
+                "name": "Aerystockrat"
+              },
+              "destructionPercent": 50,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11146,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#JCJ9V8V",
+                "name": "master darsh"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#JCJ9V8V",
+                "name": "master darsh"
+              },
+              "destructionPercent": 69,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#JCJ9V8V",
+                "name": "master darsh"
+              },
+              "destructionPercent": 26,
+              "stars": 0
+            }
+          ]
         }
       ]
     }
