@@ -138,7 +138,15 @@
             "duration": 133
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GC98LGRPR",
+          "defenderTag": "#QRP2RLV02",
+          "stars": 2,
+          "destructionPercentage": 54,
+          "order": 12,
+          "duration": 96
+        }
       },
       {
         "tag": "#G0GV280QP",
@@ -170,7 +178,15 @@
         "name": "Aurelian",
         "townhallLevel": 11,
         "mapPosition": 10,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GC98LGRPR",
+          "defenderTag": "#GGYGQ8098",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 11,
+          "duration": 109
+        }
       },
       {
         "tag": "#Y2PVPPU8C",
@@ -190,9 +206,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3dior_FhDpjDP-gmmZo2OghspksVrvJ8aMmEy5T37qw.png"
     },
     "clanLevel": 16,
-    "attacks": 1,
-    "stars": 2,
-    "destructionPercentage": 8.6,
+    "attacks": 3,
+    "stars": 7,
+    "destructionPercentage": 24.0,
     "members": [
       {
         "tag": "#CJ9JQJ2U",
@@ -296,6 +312,24 @@
         "name": "Bertram",
         "townhallLevel": 11,
         "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#GC98LGRPR",
+            "defenderTag": "#GGYGQ8098",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 11,
+            "duration": 109
+          },
+          {
+            "attackerTag": "#GC98LGRPR",
+            "defenderTag": "#QRP2RLV02",
+            "stars": 2,
+            "destructionPercentage": 54,
+            "order": 12,
+            "duration": 96
+          }
+        ],
         "opponentAttacks": 0
       },
       {

@@ -1354,18 +1354,36 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/4_bMnXiNL1yUKmn0-XSxtaF2bmdksAlbo7RiuoAkKRY.png"
         }
       },
-      "attackCount": 20,
+      "attackCount": 29,
       "districtCount": 9,
-      "districtsDestroyed": 5,
+      "districtsDestroyed": 8,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 57,
+          "stars": 1,
+          "attackCount": 2,
+          "totalLooted": 5430,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#9PP92RCCP",
+                "name": "somajico"
+              },
+              "destructionPercent": 57,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#9PP92RCCP",
+                "name": "somajico"
+              },
+              "destructionPercent": 41,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
@@ -1441,20 +1459,54 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11793,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GV0Q20808",
+                "name": "SOM2"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GV0Q20808",
+                "name": "SOM2"
+              },
+              "destructionPercent": 79,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#GV0Q20808",
+                "name": "SOM2"
+              },
+              "destructionPercent": 43,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 76,
-          "stars": 2,
-          "attackCount": 3,
-          "totalLooted": 9265,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 12203,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#9PP92RCCP",
+                "name": "somajico"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#CLUPYGCJ",
@@ -1485,10 +1537,36 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11285,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GV0Q20808",
+                "name": "SOM2"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GV0Q20808",
+                "name": "SOM2"
+              },
+              "destructionPercent": 65,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#GV0Q20808",
+                "name": "SOM2"
+              },
+              "destructionPercent": 27,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000006,
