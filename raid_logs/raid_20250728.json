@@ -2,9 +2,9 @@
   "state": "ongoing",
   "startTime": "20250725T070000.000Z",
   "endTime": "20250728T070000.000Z",
-  "capitalTotalLoot": 232296,
+  "capitalTotalLoot": 236791,
   "raidsCompleted": 3,
-  "totalAttacks": 67,
+  "totalAttacks": 68,
   "enemyDistrictsDestroyed": 19,
   "offensiveReward": 0,
   "defensiveReward": 0,
@@ -100,10 +100,10 @@
     {
       "tag": "#LGGLYVUPP",
       "name": "siwi2isuus2",
-      "attacks": 4,
+      "attacks": 5,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 14348
+      "capitalResourcesLooted": 18843
     },
     {
       "tag": "#228J9V02L",
@@ -830,7 +830,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/Phrxy31wG91AMjULWTROgLCqFZMDTJiFVXq_KBmbSM0.png"
         }
       },
-      "attackCount": 8,
+      "attackCount": 9,
       "districtCount": 9,
       "districtsDestroyed": 1,
       "districts": [
@@ -965,10 +965,20 @@
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
+          "destructionPercent": 49,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 1,
+          "totalLooted": 4495,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LGGLYVUPP",
+                "name": "siwi2isuus2"
+              },
+              "destructionPercent": 49,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000008,
