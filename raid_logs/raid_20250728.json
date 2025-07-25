@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250725T070000.000Z",
   "endTime": "20250728T070000.000Z",
-  "capitalTotalLoot": 135826,
+  "capitalTotalLoot": 153884,
   "raidsCompleted": 2,
-  "totalAttacks": 42,
-  "enemyDistrictsDestroyed": 12,
+  "totalAttacks": 48,
+  "enemyDistrictsDestroyed": 14,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -64,6 +64,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 16383
+    },
+    {
+      "tag": "#228J9V02L",
+      "name": "arvin",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 18058
     }
   ],
   "attackLog": [
@@ -434,9 +442,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/fZzfQp9Q0T40u5m6d9J7I-m2vZXG4BCm6bb9BctQEC0.png"
         }
       },
-      "attackCount": 12,
+      "attackCount": 18,
       "districtCount": 9,
-      "districtsDestroyed": 3,
+      "districtsDestroyed": 5,
       "districts": [
         {
           "id": 70000000,
@@ -469,20 +477,54 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10482,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#228J9V02L",
+                "name": "arvin"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#228J9V02L",
+                "name": "arvin"
+              },
+              "destructionPercent": 82,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#228J9V02L",
+                "name": "arvin"
+              },
+              "destructionPercent": 40,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 81,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 7670,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10611,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#228J9V02L",
+                "name": "arvin"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#JCJ9V8V",
@@ -505,10 +547,28 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 55,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 4635,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#228J9V02L",
+                "name": "arvin"
+              },
+              "destructionPercent": 55,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#228J9V02L",
+                "name": "arvin"
+              },
+              "destructionPercent": 22,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000006,
