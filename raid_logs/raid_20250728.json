@@ -2,9 +2,9 @@
   "state": "ongoing",
   "startTime": "20250725T070000.000Z",
   "endTime": "20250728T070000.000Z",
-  "capitalTotalLoot": 236791,
+  "capitalTotalLoot": 241076,
   "raidsCompleted": 3,
-  "totalAttacks": 68,
+  "totalAttacks": 69,
   "enemyDistrictsDestroyed": 19,
   "offensiveReward": 0,
   "defensiveReward": 0,
@@ -100,10 +100,10 @@
     {
       "tag": "#LGGLYVUPP",
       "name": "siwi2isuus2",
-      "attacks": 5,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 18843
+      "capitalResourcesLooted": 23128
     },
     {
       "tag": "#228J9V02L",
@@ -830,7 +830,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/Phrxy31wG91AMjULWTROgLCqFZMDTJiFVXq_KBmbSM0.png"
         }
       },
-      "attackCount": 9,
+      "attackCount": 10,
       "districtCount": 9,
       "districtsDestroyed": 1,
       "districts": [
@@ -965,11 +965,19 @@
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 49,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 4495,
+          "destructionPercent": 79,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 8780,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#LGGLYVUPP",
+                "name": "siwi2isuus2"
+              },
+              "destructionPercent": 79,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#LGGLYVUPP",
@@ -1346,9 +1354,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/4_bMnXiNL1yUKmn0-XSxtaF2bmdksAlbo7RiuoAkKRY.png"
         }
       },
-      "attackCount": 14,
+      "attackCount": 20,
       "districtCount": 9,
-      "districtsDestroyed": 3,
+      "districtsDestroyed": 5,
       "districts": [
         {
           "id": 70000000,
@@ -1363,19 +1371,71 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11583,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YUYRYY8R",
+                "name": "Wally World"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#YUYRYY8R",
+                "name": "Wally World"
+              },
+              "destructionPercent": 75,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#YUYRYY8R",
+                "name": "Wally World"
+              },
+              "destructionPercent": 30,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10439,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YUYRYY8R",
+                "name": "Wally World"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#YUYRYY8R",
+                "name": "Wally World"
+              },
+              "destructionPercent": 74,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#YUYRYY8R",
+                "name": "Wally World"
+              },
+              "destructionPercent": 35,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000003,

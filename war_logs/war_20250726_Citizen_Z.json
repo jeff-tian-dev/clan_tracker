@@ -31,7 +31,15 @@
         "name": "JLai",
         "townhallLevel": 14,
         "mapPosition": 8,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LL0UUVPUQ",
+          "defenderTag": "#GLU9LC2LG",
+          "stars": 2,
+          "destructionPercentage": 86,
+          "order": 10,
+          "duration": 159
+        }
       },
       {
         "tag": "#QPQGQCR2U",
@@ -182,9 +190,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3dior_FhDpjDP-gmmZo2OghspksVrvJ8aMmEy5T37qw.png"
     },
     "clanLevel": 16,
-    "attacks": 0,
-    "stars": 0,
-    "destructionPercentage": 0.0,
+    "attacks": 1,
+    "stars": 2,
+    "destructionPercentage": 8.6,
     "members": [
       {
         "tag": "#CJ9JQJ2U",
@@ -302,6 +310,16 @@
         "name": "gold_theif",
         "townhallLevel": 13,
         "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#LL0UUVPUQ",
+            "defenderTag": "#GLU9LC2LG",
+            "stars": 2,
+            "destructionPercentage": 86,
+            "order": 10,
+            "duration": 159
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#G0GV280QP",
