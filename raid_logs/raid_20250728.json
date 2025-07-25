@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250725T070000.000Z",
   "endTime": "20250728T070000.000Z",
-  "capitalTotalLoot": 69742,
-  "raidsCompleted": 1,
-  "totalAttacks": 24,
-  "enemyDistrictsDestroyed": 7,
+  "capitalTotalLoot": 102061,
+  "raidsCompleted": 2,
+  "totalAttacks": 33,
+  "enemyDistrictsDestroyed": 9,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -18,12 +18,28 @@
       "capitalResourcesLooted": 12507
     },
     {
+      "tag": "#G2R9YGCP9",
+      "name": "Aerystockrat",
+      "attacks": 3,
+      "attackLimit": 5,
+      "bonusAttackLimit": 0,
+      "capitalResourcesLooted": 7375
+    },
+    {
       "tag": "#YJUYGR9GP",
       "name": "dipranjan",
       "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 18115
+    },
+    {
+      "tag": "#QJ28QQ89Q",
+      "name": "welcome\u221a",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 24944
     },
     {
       "tag": "#G0GV280QP",
@@ -54,27 +70,79 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/9-q8WMWAU-Fs1KoPmO0Sz2ygVFdoKJHmKnKadmusFzU.png"
         }
       },
-      "attackCount": 24,
+      "attackCount": 30,
       "districtCount": 9,
-      "districtsDestroyed": 7,
+      "districtsDestroyed": 9,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 13740,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QJ28QQ89Q",
+                "name": "welcome\u221a"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QJ28QQ89Q",
+                "name": "welcome\u221a"
+              },
+              "destructionPercent": 96,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#QJ28QQ89Q",
+                "name": "welcome\u221a"
+              },
+              "destructionPercent": 54,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#QJ28QQ89Q",
+                "name": "welcome\u221a"
+              },
+              "destructionPercent": 19,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11204,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QJ28QQ89Q",
+                "name": "welcome\u221a"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QJ28QQ89Q",
+                "name": "welcome\u221a"
+              },
+              "destructionPercent": 30,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000002,
@@ -344,6 +412,130 @@
               "stars": 0
             }
           ]
+        }
+      ]
+    },
+    {
+      "defender": {
+        "tag": "#PVC8GVJV",
+        "name": "THE SWAT RANGER",
+        "level": 22,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/fZzfQp9Q0T40u5m6d9J7I-m2vZXG4BCm6bb9BctQEC0.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/fZzfQp9Q0T40u5m6d9J7I-m2vZXG4BCm6bb9BctQEC0.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/fZzfQp9Q0T40u5m6d9J7I-m2vZXG4BCm6bb9BctQEC0.png"
+        }
+      },
+      "attackCount": 3,
+      "districtCount": 9,
+      "districtsDestroyed": 0,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 10,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 5,
+          "destructionPercent": 71,
+          "stars": 2,
+          "attackCount": 3,
+          "totalLooted": 7375,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#G2R9YGCP9",
+                "name": "Aerystockrat"
+              },
+              "destructionPercent": 71,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#G2R9YGCP9",
+                "name": "Aerystockrat"
+              },
+              "destructionPercent": 54,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#G2R9YGCP9",
+                "name": "Aerystockrat"
+              },
+              "destructionPercent": 32,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 4,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 4,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
         }
       ]
     }
