@@ -2512,9 +2512,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/OU3s0O_AuscIaBFfbe3fkt0pj1ccYGpgSmkcKa_DQy0.png"
         }
       },
-      "attackCount": 3,
+      "attackCount": 7,
       "districtCount": 9,
-      "districtsDestroyed": 1,
+      "districtsDestroyed": 2,
       "districts": [
         {
           "id": 70000000,
@@ -2538,10 +2538,20 @@
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 48,
+          "stars": 1,
+          "attackCount": 1,
+          "totalLooted": 4670,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#CGC20Y2J",
+                "name": "blizzard\u26a1\ufe0f"
+              },
+              "destructionPercent": 48,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000003,
@@ -2565,10 +2575,36 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11588,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QR0VL0YPQ",
+                "name": "Maria 2"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QR0VL0YPQ",
+                "name": "Maria 2"
+              },
+              "destructionPercent": 86,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#QR0VL0YPQ",
+                "name": "Maria 2"
+              },
+              "destructionPercent": 37,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000006,

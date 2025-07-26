@@ -142,7 +142,15 @@
             "duration": 167
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#29P8JV8P",
+          "defenderTag": "#YUJLJ2V8Y",
+          "stars": 2,
+          "destructionPercentage": 76,
+          "order": 26,
+          "duration": 150
+        }
       },
       {
         "tag": "#QJ28QQ89Q",
@@ -312,9 +320,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3dior_FhDpjDP-gmmZo2OghspksVrvJ8aMmEy5T37qw.png"
     },
     "clanLevel": 16,
-    "attacks": 7,
-    "stars": 10,
-    "destructionPercentage": 49.6,
+    "attacks": 8,
+    "stars": 12,
+    "destructionPercentage": 57.2,
     "members": [
       {
         "tag": "#CJ9JQJ2U",
@@ -361,6 +369,16 @@
         "name": "vodkadrink",
         "townhallLevel": 17,
         "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#29P8JV8P",
+            "defenderTag": "#YUJLJ2V8Y",
+            "stars": 2,
+            "destructionPercentage": 76,
+            "order": 26,
+            "duration": 150
+          }
+        ],
         "opponentAttacks": 3,
         "bestOpponentAttack": {
           "attackerTag": "#YUJLJ2V8Y",
