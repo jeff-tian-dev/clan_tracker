@@ -15,15 +15,25 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/virBrcS50-Sn7recipNNVOrSFtiXsnQqnDVFgRvawlY.png"
     },
     "clanLevel": 8,
-    "attacks": 9,
-    "stars": 16,
-    "destructionPercentage": 62.5,
+    "attacks": 14,
+    "stars": 25,
+    "destructionPercentage": 87.8,
     "members": [
       {
         "tag": "#UJP2UYRY",
         "name": "destroyer",
         "townhallLevel": 16,
         "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#UJP2UYRY",
+            "defenderTag": "#QR2UQCCYP",
+            "stars": 2,
+            "destructionPercentage": 86,
+            "order": 16,
+            "duration": 180
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -96,6 +106,24 @@
         "name": "\u26a1\ufe0fBENIMARU\u26a1\ufe0f",
         "townhallLevel": 17,
         "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#YUJLJ2V8Y",
+            "defenderTag": "#29P8JV8P",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 13,
+            "duration": 147
+          },
+          {
+            "attackerTag": "#YUJLJ2V8Y",
+            "defenderTag": "#CJ9JQJ2U",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 14,
+            "duration": 167
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -178,6 +206,16 @@
         "name": "Aurelian",
         "townhallLevel": 11,
         "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#GGYGQ8098",
+            "defenderTag": "#GRL29PP9Y",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 17,
+            "duration": 48
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#GC98LGRPR",
@@ -193,6 +231,16 @@
         "name": "\u2b50\u2b505 StarFree\u2b50\u2b50\u2b50",
         "townhallLevel": 17,
         "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#Y2PVPPU8C",
+            "defenderTag": "#89JCPCUU",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 15,
+            "duration": 171
+          }
+        ],
         "opponentAttacks": 0
       }
     ]
@@ -215,14 +263,14 @@
         "name": "Av41",
         "townhallLevel": 17,
         "mapPosition": 2,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#QPQGQCR2U",
+          "attackerTag": "#YUJLJ2V8Y",
           "defenderTag": "#CJ9JQJ2U",
-          "stars": 2,
-          "destructionPercentage": 77,
-          "order": 4,
-          "duration": 180
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 14,
+          "duration": 167
         }
       },
       {
@@ -245,14 +293,14 @@
         "name": "vodkadrink",
         "townhallLevel": 17,
         "mapPosition": 1,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#QPQGQCR2U",
+          "attackerTag": "#YUJLJ2V8Y",
           "defenderTag": "#29P8JV8P",
-          "stars": 1,
-          "destructionPercentage": 75,
-          "order": 5,
-          "duration": 180
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 13,
+          "duration": 147
         }
       },
       {
@@ -260,21 +308,29 @@
         "name": "Apple_theif",
         "townhallLevel": 8,
         "mapPosition": 10,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GGYGQ8098",
+          "defenderTag": "#GRL29PP9Y",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 17,
+          "duration": 48
+        }
       },
       {
         "tag": "#89JCPCUU",
         "name": "vodka jelly",
         "townhallLevel": 16,
         "mapPosition": 3,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#YQ8L9JVJ2",
+          "attackerTag": "#Y2PVPPU8C",
           "defenderTag": "#89JCPCUU",
-          "stars": 2,
-          "destructionPercentage": 81,
-          "order": 6,
-          "duration": 131
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 15,
+          "duration": 171
         }
       },
       {
@@ -337,7 +393,15 @@
         "name": "Cassoulet",
         "townhallLevel": 16,
         "mapPosition": 5,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#UJP2UYRY",
+          "defenderTag": "#QR2UQCCYP",
+          "stars": 2,
+          "destructionPercentage": 86,
+          "order": 16,
+          "duration": 180
+        }
       },
       {
         "tag": "#LL0UUVPUQ",
