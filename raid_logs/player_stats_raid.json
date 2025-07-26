@@ -1233,10 +1233,10 @@
       },
       {
         "date": "20250728",
-        "attacksUsed": 3,
-        "capitalGold": 13036,
-        "avgLootPerAttack": 4345.3,
-        "attacksMissed": 3,
+        "attacksUsed": 6,
+        "capitalGold": 22624,
+        "avgLootPerAttack": 3770.7,
+        "attacksMissed": 0,
         "missedRaid": false
       }
     ]
@@ -3725,7 +3725,7 @@
       }
     ]
   },
-  "timestamp": "2025-07-26 06:00:03",
+  "timestamp": "2025-07-26 07:00:03",
   "#LJVP0GRUG": {
     "name": "Agi",
     "tag": "#LJVP0GRUG",
@@ -6581,6 +6581,52 @@
   "#G2PJJQP8U": {
     "name": "LEGEND NAVI",
     "tag": "#G2PJJQP8U",
+    "history": [
+      {
+        "date": "20250630",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250707",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250714",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250721",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250728",
+        "attacksUsed": 0,
+        "capitalGold": 0,
+        "avgLootPerAttack": "---",
+        "attacksMissed": 6,
+        "missedRaid": false
+      }
+    ]
+  },
+  "#QY229GVRP": {
+    "name": "Saurabh",
+    "tag": "#QY229GVRP",
     "history": [
       {
         "date": "20250630",
