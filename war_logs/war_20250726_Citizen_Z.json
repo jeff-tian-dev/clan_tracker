@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/virBrcS50-Sn7recipNNVOrSFtiXsnQqnDVFgRvawlY.png"
     },
     "clanLevel": 8,
-    "attacks": 18,
+    "attacks": 19,
     "stars": 28,
-    "destructionPercentage": 97.8,
+    "destructionPercentage": 98.4,
     "members": [
       {
         "tag": "#UJP2UYRY",
@@ -32,6 +32,14 @@
             "destructionPercentage": 86,
             "order": 16,
             "duration": 180
+          },
+          {
+            "attackerTag": "#UJP2UYRY",
+            "defenderTag": "#GVQGYL0Q",
+            "stars": 2,
+            "destructionPercentage": 98,
+            "order": 34,
+            "duration": 135
           }
         ],
         "opponentAttacks": 1,
@@ -166,7 +174,7 @@
             "duration": 167
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#29P8JV8P",
           "defenderTag": "#YUJLJ2V8Y",
@@ -344,7 +352,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3dior_FhDpjDP-gmmZo2OghspksVrvJ8aMmEy5T37qw.png"
     },
     "clanLevel": 16,
-    "attacks": 14,
+    "attacks": 15,
     "stars": 23,
     "destructionPercentage": 88.3,
     "members": [
@@ -361,6 +369,14 @@
             "destructionPercentage": 44,
             "order": 25,
             "duration": 134
+          },
+          {
+            "attackerTag": "#CJ9JQJ2U",
+            "defenderTag": "#YUJLJ2V8Y",
+            "stars": 1,
+            "destructionPercentage": 40,
+            "order": 33,
+            "duration": 123
           }
         ],
         "opponentAttacks": 2,
@@ -388,14 +404,14 @@
             "duration": 94
           }
         ],
-        "opponentAttacks": 3,
+        "opponentAttacks": 4,
         "bestOpponentAttack": {
-          "attackerTag": "#QRP2RLV02",
+          "attackerTag": "#UJP2UYRY",
           "defenderTag": "#GVQGYL0Q",
           "stars": 2,
-          "destructionPercentage": 92,
-          "order": 9,
-          "duration": 133
+          "destructionPercentage": 98,
+          "order": 34,
+          "duration": 135
         }
       },
       {
