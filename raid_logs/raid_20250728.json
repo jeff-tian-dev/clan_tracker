@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250725T070000.000Z",
   "endTime": "20250728T070000.000Z",
-  "capitalTotalLoot": 453113,
+  "capitalTotalLoot": 472080,
   "raidsCompleted": 6,
-  "totalAttacks": 127,
-  "enemyDistrictsDestroyed": 41,
+  "totalAttacks": 133,
+  "enemyDistrictsDestroyed": 44,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -120,6 +120,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 5574
+    },
+    {
+      "tag": "#R90098P0",
+      "name": "DARK MATTER",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 18967
     },
     {
       "tag": "#J88YJGY9",
@@ -1566,9 +1574,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/Q_bAVevbt65ISz1aD-I01pX_Rkm3JuHBwTAU8MAR0pc.png"
         }
       },
-      "attackCount": 16,
+      "attackCount": 22,
       "districtCount": 9,
-      "districtsDestroyed": 5,
+      "districtsDestroyed": 8,
       "districts": [
         {
           "id": 70000000,
@@ -1583,11 +1591,27 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 29,
-          "stars": 1,
-          "attackCount": 1,
-          "totalLooted": 3660,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11261,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#R90098P0",
+                "name": "DARK MATTER"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#R90098P0",
+                "name": "DARK MATTER"
+              },
+              "destructionPercent": 83,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#QLLLULYJY",
@@ -1602,10 +1626,36 @@
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 9675,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#R90098P0",
+                "name": "DARK MATTER"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#R90098P0",
+                "name": "DARK MATTER"
+              },
+              "destructionPercent": 57,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#R90098P0",
+                "name": "DARK MATTER"
+              },
+              "destructionPercent": 41,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000003,
@@ -1646,11 +1696,19 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 94,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 9255,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10946,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#R90098P0",
+                "name": "DARK MATTER"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#RUVPQQR0",
