@@ -291,7 +291,15 @@
             "duration": 171
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#CJ9JQJ2U",
+          "defenderTag": "#Y2PVPPU8C",
+          "stars": 1,
+          "destructionPercentage": 44,
+          "order": 25,
+          "duration": 134
+        }
       }
     ]
   },
@@ -304,15 +312,25 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3dior_FhDpjDP-gmmZo2OghspksVrvJ8aMmEy5T37qw.png"
     },
     "clanLevel": 16,
-    "attacks": 6,
-    "stars": 9,
-    "destructionPercentage": 45.2,
+    "attacks": 7,
+    "stars": 10,
+    "destructionPercentage": 49.6,
     "members": [
       {
         "tag": "#CJ9JQJ2U",
         "name": "Av41",
         "townhallLevel": 17,
         "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#CJ9JQJ2U",
+            "defenderTag": "#Y2PVPPU8C",
+            "stars": 1,
+            "destructionPercentage": 44,
+            "order": 25,
+            "duration": 134
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#YUJLJ2V8Y",

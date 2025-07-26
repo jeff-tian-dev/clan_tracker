@@ -2,13 +2,21 @@
   "state": "ongoing",
   "startTime": "20250725T070000.000Z",
   "endTime": "20250728T070000.000Z",
-  "capitalTotalLoot": 410040,
+  "capitalTotalLoot": 443525,
   "raidsCompleted": 6,
-  "totalAttacks": 115,
-  "enemyDistrictsDestroyed": 36,
+  "totalAttacks": 124,
+  "enemyDistrictsDestroyed": 40,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
+    {
+      "tag": "#RUVPQQR0",
+      "name": "Badboy101",
+      "attacks": 3,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 13036
+    },
     {
       "tag": "#8RJ28GQ2",
       "name": "peter qiu rocks",
@@ -168,6 +176,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 21794
+    },
+    {
+      "tag": "#GY8LL0L82",
+      "name": "ahas tulog08",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 20449
     },
     {
       "tag": "#Y2PVPPU8C",
@@ -1550,9 +1566,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/Q_bAVevbt65ISz1aD-I01pX_Rkm3JuHBwTAU8MAR0pc.png"
         }
       },
-      "attackCount": 4,
+      "attackCount": 13,
       "districtCount": 9,
-      "districtsDestroyed": 0,
+      "districtsDestroyed": 4,
       "districts": [
         {
           "id": 70000000,
@@ -1595,19 +1611,63 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 9871,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#RUVPQQR0",
+                "name": "Badboy101"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GY8LL0L82",
+                "name": "ahas tulog08"
+              },
+              "destructionPercent": 66,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#GY8LL0L82",
+                "name": "ahas tulog08"
+              },
+              "destructionPercent": 24,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 94,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 9255,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#RUVPQQR0",
+                "name": "Badboy101"
+              },
+              "destructionPercent": 94,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#RUVPQQR0",
+                "name": "Badboy101"
+              },
+              "destructionPercent": 39,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000005,
@@ -1622,11 +1682,19 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 63,
-          "stars": 1,
-          "attackCount": 1,
-          "totalLooted": 6255,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10055,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#GY8LL0L82",
+                "name": "ahas tulog08"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#QLLLULYJY",
@@ -1641,11 +1709,27 @@
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 45,
-          "stars": 1,
-          "attackCount": 1,
-          "totalLooted": 5000,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11563,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#GY8LL0L82",
+                "name": "ahas tulog08"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GY8LL0L82",
+                "name": "ahas tulog08"
+              },
+              "destructionPercent": 77,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#QLLLULYJY",
@@ -1660,11 +1744,19 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 66,
-          "stars": 2,
-          "attackCount": 1,
-          "totalLooted": 6775,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10771,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#GY8LL0L82",
+                "name": "ahas tulog08"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#QLLLULYJY",
