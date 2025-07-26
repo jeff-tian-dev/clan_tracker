@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/virBrcS50-Sn7recipNNVOrSFtiXsnQqnDVFgRvawlY.png"
     },
     "clanLevel": 8,
-    "attacks": 14,
-    "stars": 25,
-    "destructionPercentage": 87.8,
+    "attacks": 16,
+    "stars": 28,
+    "destructionPercentage": 97.8,
     "members": [
       {
         "tag": "#UJP2UYRY",
@@ -139,6 +139,14 @@
             "destructionPercentage": 74,
             "order": 1,
             "duration": 90
+          },
+          {
+            "attackerTag": "#QJ28QQ89Q",
+            "defenderTag": "#QR2UQCCYP",
+            "stars": 1,
+            "destructionPercentage": 79,
+            "order": 19,
+            "duration": 129
           }
         ],
         "opponentAttacks": 0
@@ -214,6 +222,14 @@
             "destructionPercentage": 100,
             "order": 17,
             "duration": 48
+          },
+          {
+            "attackerTag": "#GGYGQ8098",
+            "defenderTag": "#GC98LGRPR",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 18,
+            "duration": 92
           }
         ],
         "opponentAttacks": 1,
@@ -386,14 +402,22 @@
             "duration": 96
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GGYGQ8098",
+          "defenderTag": "#GC98LGRPR",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 18,
+          "duration": 92
+        }
       },
       {
         "tag": "#QR2UQCCYP",
         "name": "Cassoulet",
         "townhallLevel": 16,
         "mapPosition": 5,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#UJP2UYRY",
           "defenderTag": "#QR2UQCCYP",
