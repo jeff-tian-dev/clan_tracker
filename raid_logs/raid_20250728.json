@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250725T070000.000Z",
   "endTime": "20250728T070000.000Z",
-  "capitalTotalLoot": 241076,
+  "capitalTotalLoot": 259555,
   "raidsCompleted": 4,
-  "totalAttacks": 69,
-  "enemyDistrictsDestroyed": 19,
+  "totalAttacks": 75,
+  "enemyDistrictsDestroyed": 21,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -64,6 +64,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 18115
+    },
+    {
+      "tag": "#2JJ2PR9VL",
+      "name": "SPIRIToFbANANA",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 18479
     },
     {
       "tag": "#J88YJGY9",
@@ -830,9 +838,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/Phrxy31wG91AMjULWTROgLCqFZMDTJiFVXq_KBmbSM0.png"
         }
       },
-      "attackCount": 10,
+      "attackCount": 16,
       "districtCount": 9,
-      "districtsDestroyed": 1,
+      "districtsDestroyed": 3,
       "districts": [
         {
           "id": 70000000,
@@ -847,20 +855,38 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
+          "destructionPercent": 39,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 1,
+          "totalLooted": 3085,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2JJ2PR9VL",
+                "name": "SPIRIToFbANANA"
+              },
+              "destructionPercent": 39,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 75,
-          "stars": 2,
-          "attackCount": 1,
-          "totalLooted": 5815,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9079,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#2JJ2PR9VL",
+                "name": "SPIRIToFbANANA"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#9U2YP0RY",
@@ -929,10 +955,36 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 93,
+          "stars": 2,
+          "attackCount": 3,
+          "totalLooted": 9700,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2JJ2PR9VL",
+                "name": "SPIRIToFbANANA"
+              },
+              "destructionPercent": 93,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#2JJ2PR9VL",
+                "name": "SPIRIToFbANANA"
+              },
+              "destructionPercent": 60,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#2JJ2PR9VL",
+                "name": "SPIRIToFbANANA"
+              },
+              "destructionPercent": 39,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000006,
@@ -992,11 +1044,19 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 2,
-          "destructionPercent": 76,
-          "stars": 2,
-          "attackCount": 1,
-          "totalLooted": 3705,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 6135,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#2JJ2PR9VL",
+                "name": "SPIRIToFbANANA"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#LGGLYVUPP",
