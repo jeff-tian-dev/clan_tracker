@@ -167,7 +167,15 @@
             "duration": 129
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q89JLLY9C",
+          "defenderTag": "#QJ28QQ89Q",
+          "stars": 1,
+          "destructionPercentage": 93,
+          "order": 24,
+          "duration": 119
+        }
       },
       {
         "tag": "#QRP2RLV02",
@@ -225,7 +233,15 @@
             "duration": 128
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q89JLLY9C",
+          "defenderTag": "#G0GV280QP",
+          "stars": 1,
+          "destructionPercentage": 82,
+          "order": 23,
+          "duration": 140
+        }
       },
       {
         "tag": "#GGYGQ8098",
@@ -288,9 +304,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3dior_FhDpjDP-gmmZo2OghspksVrvJ8aMmEy5T37qw.png"
     },
     "clanLevel": 16,
-    "attacks": 4,
-    "stars": 7,
-    "destructionPercentage": 27.7,
+    "attacks": 6,
+    "stars": 9,
+    "destructionPercentage": 45.2,
     "members": [
       {
         "tag": "#CJ9JQJ2U",
@@ -387,6 +403,24 @@
         "name": "proplayer",
         "townhallLevel": 14,
         "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#Q89JLLY9C",
+            "defenderTag": "#G0GV280QP",
+            "stars": 1,
+            "destructionPercentage": 82,
+            "order": 23,
+            "duration": 140
+          },
+          {
+            "attackerTag": "#Q89JLLY9C",
+            "defenderTag": "#QJ28QQ89Q",
+            "stars": 1,
+            "destructionPercentage": 93,
+            "order": 24,
+            "duration": 119
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#QRP2RLV02",

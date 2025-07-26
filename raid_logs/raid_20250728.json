@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250725T070000.000Z",
   "endTime": "20250728T070000.000Z",
-  "capitalTotalLoot": 382065,
-  "raidsCompleted": 5,
-  "totalAttacks": 109,
-  "enemyDistrictsDestroyed": 35,
+  "capitalTotalLoot": 410040,
+  "raidsCompleted": 6,
+  "totalAttacks": 115,
+  "enemyDistrictsDestroyed": 36,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -128,6 +128,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 24944
+    },
+    {
+      "tag": "#QLLLULYJY",
+      "name": "Xosri",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 27975
     },
     {
       "tag": "#G0GV280QP",
@@ -1210,19 +1218,35 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/LHbI04KJKImyECdGQyeiSM5YS79yco_Nj7ABHoJFbwg.png"
         }
       },
-      "attackCount": 25,
+      "attackCount": 27,
       "districtCount": 9,
-      "districtsDestroyed": 8,
+      "districtsDestroyed": 9,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 56,
-          "stars": 1,
-          "attackCount": 3,
-          "totalLooted": 7430,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 5,
+          "totalLooted": 13715,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#QLLLULYJY",
+                "name": "Xosri"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QLLLULYJY",
+                "name": "Xosri"
+              },
+              "destructionPercent": 67,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#8RJ28GQ2",
@@ -1510,6 +1534,144 @@
               },
               "destructionPercent": 41,
               "stars": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "defender": {
+        "tag": "#2YRR89YPU",
+        "name": "shamrocks",
+        "level": 16,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/Q_bAVevbt65ISz1aD-I01pX_Rkm3JuHBwTAU8MAR0pc.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/Q_bAVevbt65ISz1aD-I01pX_Rkm3JuHBwTAU8MAR0pc.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/Q_bAVevbt65ISz1aD-I01pX_Rkm3JuHBwTAU8MAR0pc.png"
+        }
+      },
+      "attackCount": 4,
+      "districtCount": 9,
+      "districtsDestroyed": 0,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 10,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 29,
+          "stars": 1,
+          "attackCount": 1,
+          "totalLooted": 3660,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QLLLULYJY",
+                "name": "Xosri"
+              },
+              "destructionPercent": 29,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 5,
+          "destructionPercent": 63,
+          "stars": 1,
+          "attackCount": 1,
+          "totalLooted": 6255,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QLLLULYJY",
+                "name": "Xosri"
+              },
+              "destructionPercent": 63,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 4,
+          "destructionPercent": 45,
+          "stars": 1,
+          "attackCount": 1,
+          "totalLooted": 5000,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QLLLULYJY",
+                "name": "Xosri"
+              },
+              "destructionPercent": 45,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 4,
+          "destructionPercent": 66,
+          "stars": 2,
+          "attackCount": 1,
+          "totalLooted": 6775,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QLLLULYJY",
+                "name": "Xosri"
+              },
+              "destructionPercent": 66,
+              "stars": 2
             }
           ]
         }
