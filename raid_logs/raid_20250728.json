@@ -3,7 +3,7 @@
   "startTime": "20250725T070000.000Z",
   "endTime": "20250728T070000.000Z",
   "capitalTotalLoot": 241076,
-  "raidsCompleted": 3,
+  "raidsCompleted": 4,
   "totalAttacks": 69,
   "enemyDistrictsDestroyed": 19,
   "offensiveReward": 0,
@@ -1354,19 +1354,43 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/4_bMnXiNL1yUKmn0-XSxtaF2bmdksAlbo7RiuoAkKRY.png"
         }
       },
-      "attackCount": 29,
+      "attackCount": 32,
       "districtCount": 9,
-      "districtsDestroyed": 8,
+      "districtsDestroyed": 9,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 57,
-          "stars": 1,
-          "attackCount": 2,
-          "totalLooted": 5430,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 5,
+          "totalLooted": 13946,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#9PP92RCCP",
+                "name": "somajico"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#9PP92RCCP",
+                "name": "somajico"
+              },
+              "destructionPercent": 94,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#9PP92RCCP",
+                "name": "somajico"
+              },
+              "destructionPercent": 75,
+              "stars": 1
+            },
             {
               "attacker": {
                 "tag": "#9PP92RCCP",
