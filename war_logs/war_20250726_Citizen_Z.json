@@ -191,14 +191,14 @@
             "duration": 129
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#Q89JLLY9C",
+          "attackerTag": "#GVQGYL0Q",
           "defenderTag": "#QJ28QQ89Q",
-          "stars": 1,
-          "destructionPercentage": 93,
-          "order": 24,
-          "duration": 119
+          "stars": 2,
+          "destructionPercentage": 75,
+          "order": 30,
+          "duration": 94
         }
       },
       {
@@ -257,14 +257,14 @@
             "duration": 128
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#Q89JLLY9C",
+          "attackerTag": "#QR2UQCCYP",
           "defenderTag": "#G0GV280QP",
-          "stars": 1,
-          "destructionPercentage": 82,
-          "order": 23,
-          "duration": 140
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 31,
+          "duration": 88
         }
       },
       {
@@ -336,8 +336,8 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3dior_FhDpjDP-gmmZo2OghspksVrvJ8aMmEy5T37qw.png"
     },
     "clanLevel": 16,
-    "attacks": 11,
-    "stars": 17,
+    "attacks": 13,
+    "stars": 20,
     "destructionPercentage": 78.3,
     "members": [
       {
@@ -370,6 +370,16 @@
         "name": "19-JCNB-96",
         "townhallLevel": 14,
         "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#GVQGYL0Q",
+            "defenderTag": "#QJ28QQ89Q",
+            "stars": 2,
+            "destructionPercentage": 75,
+            "order": 30,
+            "duration": 94
+          }
+        ],
         "opponentAttacks": 3,
         "bestOpponentAttack": {
           "attackerTag": "#QRP2RLV02",
@@ -547,6 +557,16 @@
         "name": "Cassoulet",
         "townhallLevel": 16,
         "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#QR2UQCCYP",
+            "defenderTag": "#G0GV280QP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 31,
+            "duration": 88
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#UJP2UYRY",
