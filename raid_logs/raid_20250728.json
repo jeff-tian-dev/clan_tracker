@@ -2694,28 +2694,46 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/OU3s0O_AuscIaBFfbe3fkt0pj1ccYGpgSmkcKa_DQy0.png"
         }
       },
-      "attackCount": 19,
+      "attackCount": 22,
       "districtCount": 9,
-      "districtsDestroyed": 6,
+      "districtsDestroyed": 8,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
+          "destructionPercent": 40,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 1,
+          "totalLooted": 2660,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QGC2L9Y8U",
+                "name": "Steffus 5"
+              },
+              "destructionPercent": 40,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 85,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 9245,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11952,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#QGC2L9Y8U",
+                "name": "Steffus 5"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#LCGPRVPYG",
@@ -2738,11 +2756,19 @@
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 94,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 9530,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10823,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#QGC2L9Y8U",
+                "name": "Steffus 5"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#LCGPRVPYG",
