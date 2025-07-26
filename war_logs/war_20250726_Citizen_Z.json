@@ -34,7 +34,15 @@
             "duration": 180
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#89JCPCUU",
+          "defenderTag": "#UJP2UYRY",
+          "stars": 2,
+          "destructionPercentage": 79,
+          "order": 29,
+          "duration": 149
+        }
       },
       {
         "tag": "#GLU9LC2LG",
@@ -92,7 +100,15 @@
             "duration": 180
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#89JCPCUU",
+          "defenderTag": "#QPQGQCR2U",
+          "stars": 2,
+          "destructionPercentage": 87,
+          "order": 28,
+          "duration": 180
+        }
       },
       {
         "tag": "#YQ8L9JVJ2",
@@ -299,14 +315,14 @@
             "duration": 171
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#CJ9JQJ2U",
+          "attackerTag": "#29P8JV8P",
           "defenderTag": "#Y2PVPPU8C",
-          "stars": 1,
-          "destructionPercentage": 44,
-          "order": 25,
-          "duration": 134
+          "stars": 2,
+          "destructionPercentage": 89,
+          "order": 27,
+          "duration": 180
         }
       }
     ]
@@ -320,9 +336,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3dior_FhDpjDP-gmmZo2OghspksVrvJ8aMmEy5T37qw.png"
     },
     "clanLevel": 16,
-    "attacks": 8,
-    "stars": 12,
-    "destructionPercentage": 57.2,
+    "attacks": 11,
+    "stars": 17,
+    "destructionPercentage": 78.3,
     "members": [
       {
         "tag": "#CJ9JQJ2U",
@@ -377,6 +393,14 @@
             "destructionPercentage": 76,
             "order": 26,
             "duration": 150
+          },
+          {
+            "attackerTag": "#29P8JV8P",
+            "defenderTag": "#Y2PVPPU8C",
+            "stars": 2,
+            "destructionPercentage": 89,
+            "order": 27,
+            "duration": 180
           }
         ],
         "opponentAttacks": 3,
@@ -409,6 +433,24 @@
         "name": "vodka jelly",
         "townhallLevel": 16,
         "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#89JCPCUU",
+            "defenderTag": "#QPQGQCR2U",
+            "stars": 2,
+            "destructionPercentage": 87,
+            "order": 28,
+            "duration": 180
+          },
+          {
+            "attackerTag": "#89JCPCUU",
+            "defenderTag": "#UJP2UYRY",
+            "stars": 2,
+            "destructionPercentage": 79,
+            "order": 29,
+            "duration": 149
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#Y2PVPPU8C",

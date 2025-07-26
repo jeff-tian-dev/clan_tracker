@@ -2512,9 +2512,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/OU3s0O_AuscIaBFfbe3fkt0pj1ccYGpgSmkcKa_DQy0.png"
         }
       },
-      "attackCount": 7,
+      "attackCount": 9,
       "districtCount": 9,
-      "districtsDestroyed": 2,
+      "districtsDestroyed": 3,
       "districts": [
         {
           "id": 70000000,
@@ -2610,10 +2610,28 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11877,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QR0VL0YPQ",
+                "name": "Maria 2"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QR0VL0YPQ",
+                "name": "Maria 2"
+              },
+              "destructionPercent": 63,
+              "stars": 2
+            }
+          ]
         },
         {
           "id": 70000007,
