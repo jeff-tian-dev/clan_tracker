@@ -2,13 +2,21 @@
   "state": "ongoing",
   "startTime": "20250725T070000.000Z",
   "endTime": "20250728T070000.000Z",
-  "capitalTotalLoot": 356493,
+  "capitalTotalLoot": 382065,
   "raidsCompleted": 5,
-  "totalAttacks": 102,
-  "enemyDistrictsDestroyed": 33,
+  "totalAttacks": 109,
+  "enemyDistrictsDestroyed": 35,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
+    {
+      "tag": "#8RJ28GQ2",
+      "name": "peter qiu rocks",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 19460
+    },
     {
       "tag": "#G2YL29J8Q",
       "name": "\u00ae\u00a9\u2122\u00a4\u00a4",
@@ -148,10 +156,10 @@
     {
       "tag": "#LCUL88JLG",
       "name": "Cookies",
-      "attacks": 5,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 15682
+      "capitalResourcesLooted": 21794
     },
     {
       "tag": "#Y2PVPPU8C",
@@ -1202,28 +1210,62 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/LHbI04KJKImyECdGQyeiSM5YS79yco_Nj7ABHoJFbwg.png"
         }
       },
-      "attackCount": 18,
+      "attackCount": 25,
       "districtCount": 9,
-      "districtsDestroyed": 6,
+      "districtsDestroyed": 8,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 56,
+          "stars": 1,
+          "attackCount": 3,
+          "totalLooted": 7430,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#8RJ28GQ2",
+                "name": "peter qiu rocks"
+              },
+              "destructionPercent": 56,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#8RJ28GQ2",
+                "name": "peter qiu rocks"
+              },
+              "destructionPercent": 36,
+              "stars": 0
+            },
+            {
+              "attacker": {
+                "tag": "#8RJ28GQ2",
+                "name": "peter qiu rocks"
+              },
+              "destructionPercent": 7,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 53,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 5285,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11397,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#LCUL88JLG",
+                "name": "Cookies"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#LCUL88JLG",
@@ -1440,10 +1482,36 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 12030,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#8RJ28GQ2",
+                "name": "peter qiu rocks"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#8RJ28GQ2",
+                "name": "peter qiu rocks"
+              },
+              "destructionPercent": 93,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#8RJ28GQ2",
+                "name": "peter qiu rocks"
+              },
+              "destructionPercent": 41,
+              "stars": 0
+            }
+          ]
         }
       ]
     }
