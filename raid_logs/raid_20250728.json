@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250725T070000.000Z",
   "endTime": "20250728T070000.000Z",
-  "capitalTotalLoot": 705524,
+  "capitalTotalLoot": 730033,
   "raidsCompleted": 11,
-  "totalAttacks": 196,
-  "enemyDistrictsDestroyed": 63,
+  "totalAttacks": 202,
+  "enemyDistrictsDestroyed": 66,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -96,6 +96,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 10186
+    },
+    {
+      "tag": "#22G2YLCCG",
+      "name": "Kyle",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 24509
     },
     {
       "tag": "#V0JYCPRR",
@@ -2682,9 +2690,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/oaygM0AU0VupNHITpoIcnWW9a6YMG-houO7GUmuYGlg.png"
         }
       },
-      "attackCount": 1,
+      "attackCount": 7,
       "districtCount": 9,
-      "districtsDestroyed": 0,
+      "districtsDestroyed": 3,
       "districts": [
         {
           "id": 70000000,
@@ -2735,29 +2743,81 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 8985,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#22G2YLCCG",
+                "name": "Kyle"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#22G2YLCCG",
+                "name": "Kyle"
+              },
+              "destructionPercent": 36,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9909,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#22G2YLCCG",
+                "name": "Kyle"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#22G2YLCCG",
+                "name": "Kyle"
+              },
+              "destructionPercent": 48,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 52,
-          "stars": 2,
-          "attackCount": 1,
-          "totalLooted": 5500,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11115,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#22G2YLCCG",
+                "name": "Kyle"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#22G2YLCCG",
+                "name": "Kyle"
+              },
+              "destructionPercent": 78,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#QVPJG8JPJ",
