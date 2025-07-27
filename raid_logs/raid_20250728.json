@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250725T070000.000Z",
   "endTime": "20250728T070000.000Z",
-  "capitalTotalLoot": 662417,
+  "capitalTotalLoot": 682409,
   "raidsCompleted": 10,
-  "totalAttacks": 184,
-  "enemyDistrictsDestroyed": 60,
+  "totalAttacks": 190,
+  "enemyDistrictsDestroyed": 61,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -96,6 +96,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 10186
+    },
+    {
+      "tag": "#V0JYCPRR",
+      "name": "bmuff2002",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 19992
     },
     {
       "tag": "#QY0UGQGQY",
@@ -2294,9 +2302,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/6iE-NFrDKxSfgGmRDAw_AWoGRV49AJgZ4JPch0Clg5c.png"
         }
       },
-      "attackCount": 21,
+      "attackCount": 27,
       "districtCount": 9,
-      "districtsDestroyed": 6,
+      "districtsDestroyed": 7,
       "districts": [
         {
           "id": 70000000,
@@ -2397,10 +2405,36 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11757,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#V0JYCPRR",
+                "name": "bmuff2002"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#V0JYCPRR",
+                "name": "bmuff2002"
+              },
+              "destructionPercent": 88,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#V0JYCPRR",
+                "name": "bmuff2002"
+              },
+              "destructionPercent": 35,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000004,
@@ -2476,10 +2510,36 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 68,
+          "stars": 2,
+          "attackCount": 3,
+          "totalLooted": 8235,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#V0JYCPRR",
+                "name": "bmuff2002"
+              },
+              "destructionPercent": 68,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#V0JYCPRR",
+                "name": "bmuff2002"
+              },
+              "destructionPercent": 47,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#V0JYCPRR",
+                "name": "bmuff2002"
+              },
+              "destructionPercent": 14,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000007,
