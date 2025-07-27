@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250725T070000.000Z",
   "endTime": "20250728T070000.000Z",
-  "capitalTotalLoot": 636443,
+  "capitalTotalLoot": 662417,
   "raidsCompleted": 10,
-  "totalAttacks": 176,
-  "enemyDistrictsDestroyed": 56,
+  "totalAttacks": 184,
+  "enemyDistrictsDestroyed": 60,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -52,10 +52,10 @@
     {
       "tag": "#UJP2UYRY",
       "name": "destroyer",
-      "attacks": 5,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 24082
+      "capitalResourcesLooted": 27797
     },
     {
       "tag": "#YVGGJLPRJ",
@@ -186,12 +186,28 @@
       "capitalResourcesLooted": 27975
     },
     {
+      "tag": "#QRP2RLV02",
+      "name": "JT",
+      "attacks": 1,
+      "attackLimit": 5,
+      "bonusAttackLimit": 0,
+      "capitalResourcesLooted": 6625
+    },
+    {
       "tag": "#YU00CRCUG",
       "name": "ChampionHZ",
       "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 20130
+    },
+    {
+      "tag": "#G09YYYRLY",
+      "name": "alphachupapa",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 15634
     },
     {
       "tag": "#G0GV280QP",
@@ -2278,9 +2294,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/6iE-NFrDKxSfgGmRDAw_AWoGRV49AJgZ4JPch0Clg5c.png"
         }
       },
-      "attackCount": 13,
+      "attackCount": 21,
       "districtCount": 9,
-      "districtsDestroyed": 2,
+      "districtsDestroyed": 6,
       "districts": [
         {
           "id": 70000000,
@@ -2295,11 +2311,19 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 90,
-          "stars": 2,
-          "attackCount": 4,
-          "totalLooted": 10055,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 5,
+          "totalLooted": 11775,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#G09YYYRLY",
+                "name": "alphachupapa"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#LQ0PUR8J9",
@@ -2338,11 +2362,19 @@
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 73,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 6880,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10373,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#G09YYYRLY",
+                "name": "alphachupapa"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#PR99RVP98",
@@ -2409,10 +2441,36 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11744,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#G09YYYRLY",
+                "name": "alphachupapa"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QRP2RLV02",
+                "name": "JT"
+              },
+              "destructionPercent": 93,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#UJP2UYRY",
+                "name": "destroyer"
+              },
+              "destructionPercent": 37,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000006,
@@ -2462,11 +2520,35 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 27,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 3115,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 12132,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#G09YYYRLY",
+                "name": "alphachupapa"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#G09YYYRLY",
+                "name": "alphachupapa"
+              },
+              "destructionPercent": 95,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#G09YYYRLY",
+                "name": "alphachupapa"
+              },
+              "destructionPercent": 64,
+              "stars": 1
+            },
             {
               "attacker": {
                 "tag": "#PR99RVP98",
