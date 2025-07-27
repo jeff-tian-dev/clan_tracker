@@ -2,9 +2,9 @@
   "state": "ongoing",
   "startTime": "20250725T070000.000Z",
   "endTime": "20250728T070000.000Z",
-  "capitalTotalLoot": 602306,
-  "raidsCompleted": 9,
-  "totalAttacks": 166,
+  "capitalTotalLoot": 612361,
+  "raidsCompleted": 10,
+  "totalAttacks": 171,
   "enemyDistrictsDestroyed": 54,
   "offensiveReward": 0,
   "defensiveReward": 0,
@@ -208,6 +208,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 27082
+    },
+    {
+      "tag": "#LQ0PUR8J9",
+      "name": "Vladi 17",
+      "attacks": 5,
+      "attackLimit": 5,
+      "bonusAttackLimit": 0,
+      "capitalResourcesLooted": 10055
     },
     {
       "tag": "#LGGLYVUPP",
@@ -2262,7 +2270,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/6iE-NFrDKxSfgGmRDAw_AWoGRV49AJgZ4JPch0Clg5c.png"
         }
       },
-      "attackCount": 3,
+      "attackCount": 8,
       "districtCount": 9,
       "districtsDestroyed": 0,
       "districts": [
@@ -2279,10 +2287,44 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 90,
+          "stars": 2,
+          "attackCount": 4,
+          "totalLooted": 10055,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LQ0PUR8J9",
+                "name": "Vladi 17"
+              },
+              "destructionPercent": 90,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#LQ0PUR8J9",
+                "name": "Vladi 17"
+              },
+              "destructionPercent": 39,
+              "stars": 0
+            },
+            {
+              "attacker": {
+                "tag": "#LQ0PUR8J9",
+                "name": "Vladi 17"
+              },
+              "destructionPercent": 22,
+              "stars": 0
+            },
+            {
+              "attacker": {
+                "tag": "#LQ0PUR8J9",
+                "name": "Vladi 17"
+              },
+              "destructionPercent": 10,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000002,
@@ -2326,8 +2368,18 @@
           "districtHallLevel": 5,
           "destructionPercent": 0,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 1,
+          "totalLooted": 0,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LQ0PUR8J9",
+                "name": "Vladi 17"
+              },
+              "destructionPercent": 0,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000005,
@@ -3402,18 +3454,52 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/853HnGUmn9pcejn7otDAEf-1gmEhJfFGD31ovXHj0nU.png"
         }
       },
-      "attackCount": 10,
+      "attackCount": 29,
       "districtCount": 9,
-      "districtsDestroyed": 2,
+      "districtsDestroyed": 9,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 13784,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#G8L82QJ0R",
+                "name": "\u5609\u9896\u5c0f\u590f"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GLP8000RP",
+                "name": "Yolo"
+              },
+              "destructionPercent": 87,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#G8L82QJ0R",
+                "name": "\u5609\u9896\u5c0f\u590f"
+              },
+              "destructionPercent": 75,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#GLP8000RP",
+                "name": "Yolo"
+              },
+              "destructionPercent": 44,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
@@ -3497,11 +3583,19 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 76,
-          "stars": 1,
-          "attackCount": 2,
-          "totalLooted": 8115,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11484,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#GGYQQJU22",
+                "name": "\u5143\u52cb\u96ea\u6674"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#QC8UPL298",
@@ -3524,11 +3618,27 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 16,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 1910,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11738,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#GLLJ2VC2V",
+                "name": "\u70e8\u71a0\u50b2\u4e4b"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GP0RJPCLY",
+                "name": "Yolo"
+              },
+              "destructionPercent": 60,
+              "stars": 1
+            },
             {
               "attacker": {
                 "tag": "#GGYQQJU22",
@@ -3543,37 +3653,141 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11786,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GLLJ2VC2V",
+                "name": "\u70e8\u71a0\u50b2\u4e4b"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GP0RJPCLY",
+                "name": "Yolo"
+              },
+              "destructionPercent": 84,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#GP0RJPCLY",
+                "name": "Yolo"
+              },
+              "destructionPercent": 27,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11844,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GP0RJPCLY",
+                "name": "Yolo"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GLLJ2VC2V",
+                "name": "\u70e8\u71a0\u50b2\u4e4b"
+              },
+              "destructionPercent": 91,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#GLLJ2VC2V",
+                "name": "\u70e8\u71a0\u50b2\u4e4b"
+              },
+              "destructionPercent": 43,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 12020,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GP0RJPCLY",
+                "name": "Yolo"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GP0RJPCLY",
+                "name": "Yolo"
+              },
+              "destructionPercent": 90,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#GLLJ2VC2V",
+                "name": "\u70e8\u71a0\u50b2\u4e4b"
+              },
+              "destructionPercent": 41,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11754,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#G8L82QJ0R",
+                "name": "\u5609\u9896\u5c0f\u590f"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#G8L82QJ0R",
+                "name": "\u5609\u9896\u5c0f\u590f"
+              },
+              "destructionPercent": 73,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#GLLJ2VC2V",
+                "name": "\u70e8\u71a0\u50b2\u4e4b"
+              },
+              "destructionPercent": 17,
+              "stars": 0
+            }
+          ]
         }
       ]
     }
