@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250725T070000.000Z",
   "endTime": "20250728T070000.000Z",
-  "capitalTotalLoot": 505658,
+  "capitalTotalLoot": 532740,
   "raidsCompleted": 8,
-  "totalAttacks": 142,
-  "enemyDistrictsDestroyed": 46,
+  "totalAttacks": 148,
+  "enemyDistrictsDestroyed": 47,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -176,6 +176,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 16383
+    },
+    {
+      "tag": "#GGYGQ8098",
+      "name": "Aurelian",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 27082
     },
     {
       "tag": "#LGGLYVUPP",
@@ -1898,9 +1906,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/a_AMlHKrUkzNGRhZPtdhstKW3sfO0KqzaVRQ_iZDKSk.png"
         }
       },
-      "attackCount": 6,
+      "attackCount": 12,
       "districtCount": 9,
-      "districtsDestroyed": 1,
+      "districtsDestroyed": 2,
       "districts": [
         {
           "id": 70000000,
@@ -1967,10 +1975,28 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 91,
+          "stars": 1,
+          "attackCount": 2,
+          "totalLooted": 9640,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GGYGQ8098",
+                "name": "Aurelian"
+              },
+              "destructionPercent": 91,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#GGYGQ8098",
+                "name": "Aurelian"
+              },
+              "destructionPercent": 31,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000004,
@@ -1985,11 +2011,19 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 74,
-          "stars": 1,
-          "attackCount": 2,
-          "totalLooted": 8235,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11612,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#GGYGQ8098",
+                "name": "Aurelian"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#YU00CRCUG",
@@ -2012,10 +2046,28 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 76,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 8825,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GGYGQ8098",
+                "name": "Aurelian"
+              },
+              "destructionPercent": 76,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#GGYGQ8098",
+                "name": "Aurelian"
+              },
+              "destructionPercent": 42,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000007,
@@ -2030,10 +2082,20 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
+          "destructionPercent": 37,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 1,
+          "totalLooted": 5240,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GGYGQ8098",
+                "name": "Aurelian"
+              },
+              "destructionPercent": 37,
+              "stars": 0
+            }
+          ]
         }
       ]
     }
