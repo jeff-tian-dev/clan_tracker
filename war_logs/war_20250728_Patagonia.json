@@ -1,5 +1,5 @@
 {
-  "state": "preparation",
+  "state": "inWar",
   "teamSize": 10,
   "attacksPerMember": 2,
   "battleModifier": "none",
@@ -15,15 +15,25 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/virBrcS50-Sn7recipNNVOrSFtiXsnQqnDVFgRvawlY.png"
     },
     "clanLevel": 8,
-    "attacks": 0,
-    "stars": 0,
-    "destructionPercentage": 0.0,
+    "attacks": 3,
+    "stars": 8,
+    "destructionPercentage": 27.0,
     "members": [
       {
         "tag": "#8RJ28GQ2",
         "name": "peter qiu rocks",
         "townhallLevel": 13,
         "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#8RJ28GQ2",
+            "defenderTag": "#8JV9CPVVL",
+            "stars": 2,
+            "destructionPercentage": 70,
+            "order": 3,
+            "duration": 122
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -45,6 +55,24 @@
         "name": "bmuff2002",
         "townhallLevel": 13,
         "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#V0JYCPRR",
+            "defenderTag": "#LVGLGPU0Y",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 1,
+            "duration": 100
+          },
+          {
+            "attackerTag": "#V0JYCPRR",
+            "defenderTag": "#QY0PY80QU",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 2,
+            "duration": 128
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -107,7 +135,7 @@
       {
         "tag": "#P8PG9C28U",
         "name": "Simple Times",
-        "townhallLevel": 16,
+        "townhallLevel": 17,
         "mapPosition": 5,
         "opponentAttacks": 0
       },
@@ -151,14 +179,30 @@
         "name": "Lethal Shanghai",
         "townhallLevel": 13,
         "mapPosition": 7,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#8RJ28GQ2",
+          "defenderTag": "#8JV9CPVVL",
+          "stars": 2,
+          "destructionPercentage": 70,
+          "order": 3,
+          "duration": 122
+        }
       },
       {
         "tag": "#QY0PY80QU",
         "name": "MahJong Ways 1",
         "townhallLevel": 13,
         "mapPosition": 8,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#V0JYCPRR",
+          "defenderTag": "#QY0PY80QU",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 2,
+          "duration": 128
+        }
       },
       {
         "tag": "#22LPRLQRQ",
@@ -172,7 +216,15 @@
         "name": "creepmeup",
         "townhallLevel": 13,
         "mapPosition": 9,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#V0JYCPRR",
+          "defenderTag": "#LVGLGPU0Y",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 1,
+          "duration": 100
+        }
       }
     ]
   }
