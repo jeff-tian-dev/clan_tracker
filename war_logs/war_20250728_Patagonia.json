@@ -97,14 +97,14 @@
             "duration": 128
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#LVGLGPU0Y",
+          "attackerTag": "#QY0PY80QU",
           "defenderTag": "#V0JYCPRR",
-          "stars": 1,
-          "destructionPercentage": 80,
-          "order": 5,
-          "duration": 119
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 15,
+          "duration": 102
         }
       },
       {
@@ -174,14 +174,14 @@
         "name": "Aurelian",
         "townhallLevel": 11,
         "mapPosition": 10,
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#P028LLRG2",
+          "attackerTag": "#QY0PY80QU",
           "defenderTag": "#GGYGQ8098",
-          "stars": 2,
-          "destructionPercentage": 55,
-          "order": 4,
-          "duration": 86
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 16,
+          "duration": 98
         }
       },
       {
@@ -202,9 +202,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ovTSMDeUJb7Lv0ep-h0ExHXRz7USeVMearNSZO33nH0.png"
     },
     "clanLevel": 16,
-    "attacks": 8,
-    "stars": 12,
-    "destructionPercentage": 49.8,
+    "attacks": 10,
+    "stars": 15,
+    "destructionPercentage": 56.3,
     "members": [
       {
         "tag": "#P8PG9C28U",
@@ -348,6 +348,24 @@
         "name": "MahJong Ways 1",
         "townhallLevel": 13,
         "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#QY0PY80QU",
+            "defenderTag": "#V0JYCPRR",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 15,
+            "duration": 102
+          },
+          {
+            "attackerTag": "#QY0PY80QU",
+            "defenderTag": "#GGYGQ8098",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 16,
+            "duration": 98
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#V0JYCPRR",
