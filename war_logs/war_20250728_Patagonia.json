@@ -145,7 +145,15 @@
         "name": "Sir Walnut\u2122\ufe0f",
         "townhallLevel": 17,
         "mapPosition": 4,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QCYRGY2J2",
+          "defenderTag": "#YQ8L9JVJ2",
+          "stars": 2,
+          "destructionPercentage": 89,
+          "order": 17,
+          "duration": 126
+        }
       },
       {
         "tag": "#LYJJ9PLV9",
@@ -202,9 +210,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ovTSMDeUJb7Lv0ep-h0ExHXRz7USeVMearNSZO33nH0.png"
     },
     "clanLevel": 16,
-    "attacks": 10,
-    "stars": 15,
-    "destructionPercentage": 56.3,
+    "attacks": 11,
+    "stars": 17,
+    "destructionPercentage": 65.2,
     "members": [
       {
         "tag": "#P8PG9C28U",
@@ -235,6 +243,16 @@
         "name": "Eman",
         "townhallLevel": 16,
         "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#QCYRGY2J2",
+            "defenderTag": "#YQ8L9JVJ2",
+            "stars": 2,
+            "destructionPercentage": 89,
+            "order": 17,
+            "duration": 126
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#QPQGQCR2U",
