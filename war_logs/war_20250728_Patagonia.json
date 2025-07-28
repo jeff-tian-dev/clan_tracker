@@ -110,7 +110,15 @@
         "name": "Phantom",
         "townhallLevel": 15,
         "mapPosition": 6,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YCCPYLGJR",
+          "defenderTag": "#LYJJ9PLV9",
+          "stars": 2,
+          "destructionPercentage": 86,
+          "order": 8,
+          "duration": 84
+        }
       },
       {
         "tag": "#YUJLJ2V8Y",
@@ -152,9 +160,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ovTSMDeUJb7Lv0ep-h0ExHXRz7USeVMearNSZO33nH0.png"
     },
     "clanLevel": 16,
-    "attacks": 3,
-    "stars": 3,
-    "destructionPercentage": 13.5,
+    "attacks": 4,
+    "stars": 5,
+    "destructionPercentage": 22.1,
     "members": [
       {
         "tag": "#P8PG9C28U",
@@ -199,6 +207,16 @@
         "name": "Destiny",
         "townhallLevel": 15,
         "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#YCCPYLGJR",
+            "defenderTag": "#LYJJ9PLV9",
+            "stars": 2,
+            "destructionPercentage": 86,
+            "order": 8,
+            "duration": 84
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#8RJ28GQ2",

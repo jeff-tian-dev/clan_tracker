@@ -2,9 +2,9 @@
   "state": "ongoing",
   "startTime": "20250725T070000.000Z",
   "endTime": "20250728T070000.000Z",
-  "capitalTotalLoot": 768902,
+  "capitalTotalLoot": 776372,
   "raidsCompleted": 11,
-  "totalAttacks": 210,
+  "totalAttacks": 212,
   "enemyDistrictsDestroyed": 69,
   "offensiveReward": 0,
   "defensiveReward": 0,
@@ -220,10 +220,10 @@
     {
       "tag": "#QRP2RLV02",
       "name": "JT",
-      "attacks": 1,
+      "attacks": 3,
       "attackLimit": 5,
       "bonusAttackLimit": 0,
-      "capitalResourcesLooted": 6625
+      "capitalResourcesLooted": 14095
     },
     {
       "tag": "#9VU0VU90G",
@@ -2706,7 +2706,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/oaygM0AU0VupNHITpoIcnWW9a6YMG-houO7GUmuYGlg.png"
         }
       },
-      "attackCount": 15,
+      "attackCount": 17,
       "districtCount": 9,
       "districtsDestroyed": 6,
       "districts": [
@@ -2723,10 +2723,28 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 75,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 7470,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QRP2RLV02",
+                "name": "JT"
+              },
+              "destructionPercent": 75,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#QRP2RLV02",
+                "name": "JT"
+              },
+              "destructionPercent": 52,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000002,
@@ -4286,6 +4304,130 @@
               "stars": 0
             }
           ]
+        }
+      ]
+    },
+    {
+      "attacker": {
+        "tag": "#2Y9PUU8JV",
+        "name": "new generation",
+        "level": 21,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/mWIuR3xlVsa3LQT9ZEnpren3w--mifJAeOflkczPgRQ.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/mWIuR3xlVsa3LQT9ZEnpren3w--mifJAeOflkczPgRQ.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/mWIuR3xlVsa3LQT9ZEnpren3w--mifJAeOflkczPgRQ.png"
+        }
+      },
+      "attackCount": 3,
+      "districtCount": 9,
+      "districtsDestroyed": 0,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 10,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 88,
+          "stars": 1,
+          "attackCount": 3,
+          "totalLooted": 10200,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Y8UGQJJ08",
+                "name": "Evanoz"
+              },
+              "destructionPercent": 88,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#8G0LJU0CC",
+                "name": "AdAm2205"
+              },
+              "destructionPercent": 38,
+              "stars": 0
+            },
+            {
+              "attacker": {
+                "tag": "#8G0LJU0CC",
+                "name": "AdAm2205"
+              },
+              "destructionPercent": 17,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 4,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 4,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
         }
       ]
     }
