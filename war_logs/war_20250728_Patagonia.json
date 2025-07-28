@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/virBrcS50-Sn7recipNNVOrSFtiXsnQqnDVFgRvawlY.png"
     },
     "clanLevel": 8,
-    "attacks": 6,
-    "stars": 15,
-    "destructionPercentage": 52.0,
+    "attacks": 8,
+    "stars": 17,
+    "destructionPercentage": 64.1,
     "members": [
       {
         "tag": "#8RJ28GQ2",
@@ -57,21 +57,29 @@
         "name": "destroyer",
         "townhallLevel": 16,
         "mapPosition": 5,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#P8PG9C28U",
+          "defenderTag": "#UJP2UYRY",
+          "stars": 2,
+          "destructionPercentage": 94,
+          "order": 20,
+          "duration": 115
+        }
       },
       {
         "tag": "#GLU9LC2LG",
         "name": "JLai",
         "townhallLevel": 14,
         "mapPosition": 7,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#8JV9CPVVL",
+          "attackerTag": "#YCCPYLGJR",
           "defenderTag": "#GLU9LC2LG",
-          "stars": 2,
-          "destructionPercentage": 96,
-          "order": 13,
-          "duration": 179
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 22,
+          "duration": 78
         }
       },
       {
@@ -145,6 +153,24 @@
         "name": "Sir Walnut\u2122\ufe0f",
         "townhallLevel": 17,
         "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#YQ8L9JVJ2",
+            "defenderTag": "#YCCPYLGJR",
+            "stars": 2,
+            "destructionPercentage": 94,
+            "order": 18,
+            "duration": 180
+          },
+          {
+            "attackerTag": "#YQ8L9JVJ2",
+            "defenderTag": "#P8PG9C28U",
+            "stars": 1,
+            "destructionPercentage": 77,
+            "order": 19,
+            "duration": 151
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#QCYRGY2J2",
@@ -160,14 +186,14 @@
         "name": "Phantom",
         "townhallLevel": 15,
         "mapPosition": 6,
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#YCCPYLGJR",
+          "attackerTag": "#P8PG9C28U",
           "defenderTag": "#LYJJ9PLV9",
-          "stars": 2,
-          "destructionPercentage": 86,
-          "order": 8,
-          "duration": 84
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 23,
+          "duration": 76
         }
       },
       {
@@ -197,7 +223,15 @@
         "name": "\u2b50\u2b505 StarFree\u2b50\u2b50\u2b50",
         "townhallLevel": 17,
         "mapPosition": 2,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#99YGQRRJ8",
+          "defenderTag": "#Y2PVPPU8C",
+          "stars": 2,
+          "destructionPercentage": 98,
+          "order": 21,
+          "duration": 148
+        }
       }
     ]
   },
@@ -210,16 +244,42 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ovTSMDeUJb7Lv0ep-h0ExHXRz7USeVMearNSZO33nH0.png"
     },
     "clanLevel": 16,
-    "attacks": 11,
-    "stars": 17,
-    "destructionPercentage": 65.2,
+    "attacks": 15,
+    "stars": 23,
+    "destructionPercentage": 86.2,
     "members": [
       {
         "tag": "#P8PG9C28U",
         "name": "Simple Times",
         "townhallLevel": 17,
         "mapPosition": 5,
-        "opponentAttacks": 0
+        "attacks": [
+          {
+            "attackerTag": "#P8PG9C28U",
+            "defenderTag": "#UJP2UYRY",
+            "stars": 2,
+            "destructionPercentage": 94,
+            "order": 20,
+            "duration": 115
+          },
+          {
+            "attackerTag": "#P8PG9C28U",
+            "defenderTag": "#LYJJ9PLV9",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 23,
+            "duration": 76
+          }
+        ],
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YQ8L9JVJ2",
+          "defenderTag": "#P8PG9C28U",
+          "stars": 1,
+          "destructionPercentage": 77,
+          "order": 19,
+          "duration": 151
+        }
       },
       {
         "tag": "#P028LLRG2",
@@ -309,16 +369,24 @@
             "destructionPercentage": 86,
             "order": 8,
             "duration": 84
+          },
+          {
+            "attackerTag": "#YCCPYLGJR",
+            "defenderTag": "#GLU9LC2LG",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 22,
+            "duration": 78
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#8RJ28GQ2",
+          "attackerTag": "#YQ8L9JVJ2",
           "defenderTag": "#YCCPYLGJR",
-          "stars": 1,
-          "destructionPercentage": 50,
-          "order": 7,
-          "duration": 84
+          "stars": 2,
+          "destructionPercentage": 94,
+          "order": 18,
+          "duration": 180
         }
       },
       {
@@ -326,6 +394,16 @@
         "name": "Wild Ranger",
         "townhallLevel": 17,
         "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#99YGQRRJ8",
+            "defenderTag": "#Y2PVPPU8C",
+            "stars": 2,
+            "destructionPercentage": 98,
+            "order": 21,
+            "duration": 148
+          }
+        ],
         "opponentAttacks": 0
       },
       {
