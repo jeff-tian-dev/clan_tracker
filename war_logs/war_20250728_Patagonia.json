@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/virBrcS50-Sn7recipNNVOrSFtiXsnQqnDVFgRvawlY.png"
     },
     "clanLevel": 8,
-    "attacks": 3,
-    "stars": 8,
-    "destructionPercentage": 27.0,
+    "attacks": 4,
+    "stars": 9,
+    "destructionPercentage": 32.0,
     "members": [
       {
         "tag": "#8RJ28GQ2",
@@ -32,6 +32,14 @@
             "destructionPercentage": 70,
             "order": 3,
             "duration": 122
+          },
+          {
+            "attackerTag": "#8RJ28GQ2",
+            "defenderTag": "#YCCPYLGJR",
+            "stars": 1,
+            "destructionPercentage": 50,
+            "order": 7,
+            "duration": 84
           }
         ],
         "opponentAttacks": 0
@@ -73,7 +81,15 @@
             "duration": 128
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LVGLGPU0Y",
+          "defenderTag": "#V0JYCPRR",
+          "stars": 1,
+          "destructionPercentage": 80,
+          "order": 5,
+          "duration": 119
+        }
       },
       {
         "tag": "#QPQGQCR2U",
@@ -108,7 +124,7 @@
         "name": "Aurelian",
         "townhallLevel": 11,
         "mapPosition": 10,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#P028LLRG2",
           "defenderTag": "#GGYGQ8098",
@@ -136,9 +152,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ovTSMDeUJb7Lv0ep-h0ExHXRz7USeVMearNSZO33nH0.png"
     },
     "clanLevel": 16,
-    "attacks": 1,
-    "stars": 2,
-    "destructionPercentage": 5.5,
+    "attacks": 3,
+    "stars": 3,
+    "destructionPercentage": 13.5,
     "members": [
       {
         "tag": "#P8PG9C28U",
@@ -183,7 +199,15 @@
         "name": "Destiny",
         "townhallLevel": 15,
         "mapPosition": 6,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#8RJ28GQ2",
+          "defenderTag": "#YCCPYLGJR",
+          "stars": 1,
+          "destructionPercentage": 50,
+          "order": 7,
+          "duration": 84
+        }
       },
       {
         "tag": "#99YGQRRJ8",
@@ -234,6 +258,24 @@
         "name": "creepmeup",
         "townhallLevel": 13,
         "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#LVGLGPU0Y",
+            "defenderTag": "#V0JYCPRR",
+            "stars": 1,
+            "destructionPercentage": 80,
+            "order": 5,
+            "duration": 119
+          },
+          {
+            "attackerTag": "#LVGLGPU0Y",
+            "defenderTag": "#GGYGQ8098",
+            "stars": 1,
+            "destructionPercentage": 89,
+            "order": 6,
+            "duration": 134
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#V0JYCPRR",
