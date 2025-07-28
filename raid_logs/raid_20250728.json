@@ -4520,9 +4520,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/mWIuR3xlVsa3LQT9ZEnpren3w--mifJAeOflkczPgRQ.png"
         }
       },
-      "attackCount": 9,
+      "attackCount": 15,
       "districtCount": 9,
-      "districtsDestroyed": 2,
+      "districtsDestroyed": 5,
       "districts": [
         {
           "id": 70000000,
@@ -4537,11 +4537,19 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 88,
-          "stars": 1,
-          "attackCount": 3,
-          "totalLooted": 10200,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 12021,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#2U09LC2JC",
+                "name": "BORJA23"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#Y8UGQJJ08",
@@ -4590,10 +4598,36 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11633,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2UJCVU0V8",
+                "name": "ian"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Y8UGQJJ08",
+                "name": "Evanoz"
+              },
+              "destructionPercent": 46,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#Y8UGQJJ08",
+                "name": "Evanoz"
+              },
+              "destructionPercent": 12,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000005,
@@ -4608,11 +4642,27 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 48,
-          "stars": 1,
-          "attackCount": 1,
-          "totalLooted": 5255,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 12012,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#2U09LC2JC",
+                "name": "BORJA23"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Y8UGQJJ08",
+                "name": "Evanoz"
+              },
+              "destructionPercent": 92,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#Q0CRCPV0V",
