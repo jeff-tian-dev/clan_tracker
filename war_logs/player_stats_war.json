@@ -1281,11 +1281,11 @@
       },
       {
         "date": "20250728",
-        "attacksUsed": 0,
-        "starsEarned": 0,
-        "destruction": 0,
-        "attacksMissed": 2,
-        "zeroParticipation": true
+        "attacksUsed": 2,
+        "starsEarned": 3,
+        "destruction": 95,
+        "attacksMissed": 0,
+        "zeroParticipation": false
       }
     ]
   },
@@ -8059,7 +8059,7 @@
       }
     ]
   },
-  "timestamp": "2025-07-28 16:00:03",
+  "timestamp": "2025-07-28 17:00:03",
   "#GPPQ0JCJR": {
     "name": "Goujii",
     "tag": "#GPPQ0JCJR",
@@ -8214,11 +8214,11 @@
       },
       {
         "date": "20250728",
-        "attacksUsed": 0,
-        "starsEarned": 0,
-        "destruction": 0,
-        "attacksMissed": 2,
-        "zeroParticipation": true
+        "attacksUsed": 2,
+        "starsEarned": 3,
+        "destruction": 100,
+        "attacksMissed": 0,
+        "zeroParticipation": false
       }
     ]
   },
@@ -9823,6 +9823,20 @@
   "#QGRG9C8L2": {
     "name": "JoJo RaBBiT",
     "tag": "#QGRG9C8L2",
+    "history": [
+      {
+        "date": "20250728",
+        "attacksUsed": "---",
+        "starsEarned": "---",
+        "destruction": "---",
+        "attacksMissed": 0,
+        "zeroParticipation": true
+      }
+    ]
+  },
+  "#YV9P0PYCR": {
+    "name": "Rabidking",
+    "tag": "#YV9P0PYCR",
     "history": [
       {
         "date": "20250728",
