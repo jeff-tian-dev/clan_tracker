@@ -57,14 +57,14 @@
         "name": "destroyer",
         "townhallLevel": 16,
         "mapPosition": 5,
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#P8PG9C28U",
+          "attackerTag": "#22LPRLQRQ",
           "defenderTag": "#UJP2UYRY",
           "stars": 2,
-          "destructionPercentage": 94,
-          "order": 20,
-          "duration": 115
+          "destructionPercentage": 96,
+          "order": 31,
+          "duration": 148
         }
       },
       {
@@ -219,7 +219,15 @@
         "name": "\u26a1\ufe0fBENIMARU\u26a1\ufe0f",
         "townhallLevel": 17,
         "mapPosition": 1,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#22LPRLQRQ",
+          "defenderTag": "#YUJLJ2V8Y",
+          "stars": 2,
+          "destructionPercentage": 69,
+          "order": 30,
+          "duration": 135
+        }
       },
       {
         "tag": "#GGYGQ8098",
@@ -280,9 +288,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ovTSMDeUJb7Lv0ep-h0ExHXRz7USeVMearNSZO33nH0.png"
     },
     "clanLevel": 16,
-    "attacks": 17,
-    "stars": 24,
-    "destructionPercentage": 88.1,
+    "attacks": 19,
+    "stars": 26,
+    "destructionPercentage": 95.2,
     "members": [
       {
         "tag": "#P8PG9C28U",
@@ -537,6 +545,24 @@
         "name": "jake",
         "townhallLevel": 17,
         "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#22LPRLQRQ",
+            "defenderTag": "#YUJLJ2V8Y",
+            "stars": 2,
+            "destructionPercentage": 69,
+            "order": 30,
+            "duration": 135
+          },
+          {
+            "attackerTag": "#22LPRLQRQ",
+            "defenderTag": "#UJP2UYRY",
+            "stars": 2,
+            "destructionPercentage": 96,
+            "order": 31,
+            "duration": 148
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#GLU9LC2LG",
