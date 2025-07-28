@@ -42,7 +42,15 @@
             "duration": 84
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#8JV9CPVVL",
+          "defenderTag": "#8RJ28GQ2",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 14,
+          "duration": 167
+        }
       },
       {
         "tag": "#UJP2UYRY",
@@ -56,7 +64,15 @@
         "name": "JLai",
         "townhallLevel": 14,
         "mapPosition": 7,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#8JV9CPVVL",
+          "defenderTag": "#GLU9LC2LG",
+          "stars": 2,
+          "destructionPercentage": 96,
+          "order": 13,
+          "duration": 179
+        }
       },
       {
         "tag": "#V0JYCPRR",
@@ -186,9 +202,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ovTSMDeUJb7Lv0ep-h0ExHXRz7USeVMearNSZO33nH0.png"
     },
     "clanLevel": 16,
-    "attacks": 6,
-    "stars": 7,
-    "destructionPercentage": 30.2,
+    "attacks": 8,
+    "stars": 12,
+    "destructionPercentage": 49.8,
     "members": [
       {
         "tag": "#P8PG9C28U",
@@ -299,6 +315,24 @@
         "name": "Lethal Shanghai",
         "townhallLevel": 13,
         "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#8JV9CPVVL",
+            "defenderTag": "#GLU9LC2LG",
+            "stars": 2,
+            "destructionPercentage": 96,
+            "order": 13,
+            "duration": 179
+          },
+          {
+            "attackerTag": "#8JV9CPVVL",
+            "defenderTag": "#8RJ28GQ2",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 14,
+            "duration": 167
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#8RJ28GQ2",
