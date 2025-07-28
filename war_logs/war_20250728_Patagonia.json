@@ -114,7 +114,15 @@
             "duration": 177
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LRLU8LG08",
+          "defenderTag": "#QPQGQCR2U",
+          "stars": 2,
+          "destructionPercentage": 81,
+          "order": 11,
+          "duration": 154
+        }
       },
       {
         "tag": "#YQ8L9JVJ2",
@@ -128,7 +136,7 @@
         "name": "Phantom",
         "townhallLevel": 15,
         "mapPosition": 6,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#YCCPYLGJR",
           "defenderTag": "#LYJJ9PLV9",
@@ -178,9 +186,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ovTSMDeUJb7Lv0ep-h0ExHXRz7USeVMearNSZO33nH0.png"
     },
     "clanLevel": 16,
-    "attacks": 4,
-    "stars": 5,
-    "destructionPercentage": 22.1,
+    "attacks": 6,
+    "stars": 7,
+    "destructionPercentage": 30.2,
     "members": [
       {
         "tag": "#P8PG9C28U",
@@ -226,6 +234,24 @@
         "name": "youpa",
         "townhallLevel": 16,
         "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#LRLU8LG08",
+            "defenderTag": "#QPQGQCR2U",
+            "stars": 2,
+            "destructionPercentage": 81,
+            "order": 11,
+            "duration": 154
+          },
+          {
+            "attackerTag": "#LRLU8LG08",
+            "defenderTag": "#LYJJ9PLV9",
+            "stars": 2,
+            "destructionPercentage": 71,
+            "order": 12,
+            "duration": 138
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#QPQGQCR2U",
