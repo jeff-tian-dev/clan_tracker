@@ -108,7 +108,15 @@
         "name": "Aurelian",
         "townhallLevel": 11,
         "mapPosition": 10,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#P028LLRG2",
+          "defenderTag": "#GGYGQ8098",
+          "stars": 2,
+          "destructionPercentage": 55,
+          "order": 4,
+          "duration": 86
+        }
       },
       {
         "tag": "#Y2PVPPU8C",
@@ -128,9 +136,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ovTSMDeUJb7Lv0ep-h0ExHXRz7USeVMearNSZO33nH0.png"
     },
     "clanLevel": 16,
-    "attacks": 0,
-    "stars": 0,
-    "destructionPercentage": 0.0,
+    "attacks": 1,
+    "stars": 2,
+    "destructionPercentage": 5.5,
     "members": [
       {
         "tag": "#P8PG9C28U",
@@ -144,6 +152,16 @@
         "name": "BrewerMountian",
         "townhallLevel": 10,
         "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#P028LLRG2",
+            "defenderTag": "#GGYGQ8098",
+            "stars": 2,
+            "destructionPercentage": 55,
+            "order": 4,
+            "duration": 86
+          }
+        ],
         "opponentAttacks": 0
       },
       {
