@@ -22,9 +22,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/WK4-5D2zNNp0VYAyajwh073VSqqRqDV7cvsYnd2zsGA.png"
         }
       },
-      "attackCount": 17,
+      "attackCount": 23,
       "districtCount": 9,
-      "districtsDestroyed": 6,
+      "districtsDestroyed": 8,
       "districts": [
         {
           "id": 70000000,
@@ -39,19 +39,71 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11742,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GL2UR2G88",
+                "name": "Cecilia"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GL2UR2G88",
+                "name": "Cecilia"
+              },
+              "destructionPercent": 50,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#GL2UR2G88",
+                "name": "Cecilia"
+              },
+              "destructionPercent": 18,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10763,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GL2UR2G88",
+                "name": "Cecilia"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GL2UR2G88",
+                "name": "Cecilia"
+              },
+              "destructionPercent": 87,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#GL2UR2G88",
+                "name": "Cecilia"
+              },
+              "destructionPercent": 46,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000003,
