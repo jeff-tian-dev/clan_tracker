@@ -1,0 +1,261 @@
+{
+  "state": "ongoing",
+  "startTime": "20250801T070000.000Z",
+  "endTime": "20250804T070000.000Z",
+  "capitalTotalLoot": 0,
+  "raidsCompleted": 0,
+  "totalAttacks": 0,
+  "enemyDistrictsDestroyed": 0,
+  "offensiveReward": 0,
+  "defensiveReward": 0,
+  "members": [],
+  "attackLog": [],
+  "defenseLog": [
+    {
+      "attacker": {
+        "tag": "#8QLPVVR8",
+        "name": "Sartorius",
+        "level": 23,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/WK4-5D2zNNp0VYAyajwh073VSqqRqDV7cvsYnd2zsGA.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/WK4-5D2zNNp0VYAyajwh073VSqqRqDV7cvsYnd2zsGA.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/WK4-5D2zNNp0VYAyajwh073VSqqRqDV7cvsYnd2zsGA.png"
+        }
+      },
+      "attackCount": 17,
+      "districtCount": 9,
+      "districtsDestroyed": 6,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 10,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11595,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#L08VG9GL",
+                "name": "TheFatPiggyLord"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#L08VG9GL",
+                "name": "TheFatPiggyLord"
+              },
+              "destructionPercent": 86,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#L08VG9GL",
+                "name": "TheFatPiggyLord"
+              },
+              "destructionPercent": 42,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 12119,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YJU9Q22J2",
+                "name": "AymenT"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#YJU9Q22J2",
+                "name": "AymenT"
+              },
+              "destructionPercent": 54,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#YJU9Q22J2",
+                "name": "AymenT"
+              },
+              "destructionPercent": 26,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11303,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#90RGQ8JY",
+                "name": "rob the goblin"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#90RGQ8JY",
+                "name": "rob the goblin"
+              },
+              "destructionPercent": 78,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#90RGQ8JY",
+                "name": "rob the goblin"
+              },
+              "destructionPercent": 29,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11454,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#L08VG9GL",
+                "name": "TheFatPiggyLord"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#L08VG9GL",
+                "name": "TheFatPiggyLord"
+              },
+              "destructionPercent": 39,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11666,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YJU9Q22J2",
+                "name": "AymenT"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#YJU9Q22J2",
+                "name": "AymenT"
+              },
+              "destructionPercent": 68,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#YJU9Q22J2",
+                "name": "AymenT"
+              },
+              "destructionPercent": 32,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 12030,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#90RGQ8JY",
+                "name": "rob the goblin"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#90RGQ8JY",
+                "name": "rob the goblin"
+              },
+              "destructionPercent": 87,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#90RGQ8JY",
+                "name": "rob the goblin"
+              },
+              "destructionPercent": 38,
+              "stars": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
