@@ -2,13 +2,21 @@
   "state": "ongoing",
   "startTime": "20250801T070000.000Z",
   "endTime": "20250804T070000.000Z",
-  "capitalTotalLoot": 38268,
+  "capitalTotalLoot": 99067,
   "raidsCompleted": 2,
-  "totalAttacks": 8,
-  "enemyDistrictsDestroyed": 3,
+  "totalAttacks": 24,
+  "enemyDistrictsDestroyed": 8,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
+    {
+      "tag": "#YVGGJLPRJ",
+      "name": "Smog",
+      "attacks": 5,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 17991
+    },
     {
       "tag": "#Q2QQL2YVV",
       "name": "cyan",
@@ -20,10 +28,18 @@
     {
       "tag": "#9CLCUP8",
       "name": "vince 20",
-      "attacks": 1,
+      "attacks": 6,
       "attackLimit": 5,
-      "bonusAttackLimit": 0,
-      "capitalResourcesLooted": 3295
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 23991
+    },
+    {
+      "tag": "#YJUYGR9GP",
+      "name": "dipranjan",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 22112
     },
     {
       "tag": "#QRP2RLV02",
@@ -46,45 +62,141 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/w7ICwsUO6lNxPmr4QFS70M7USEfgPP-jAB9_hibxtkM.png"
         }
       },
-      "attackCount": 8,
+      "attackCount": 24,
       "districtCount": 9,
-      "districtsDestroyed": 3,
+      "districtsDestroyed": 8,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 56,
+          "stars": 1,
+          "attackCount": 2,
+          "totalLooted": 5970,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YVGGJLPRJ",
+                "name": "Smog"
+              },
+              "destructionPercent": 56,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#YVGGJLPRJ",
+                "name": "Smog"
+              },
+              "destructionPercent": 30,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 12021,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YVGGJLPRJ",
+                "name": "Smog"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#YVGGJLPRJ",
+                "name": "Smog"
+              },
+              "destructionPercent": 83,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#YVGGJLPRJ",
+                "name": "Smog"
+              },
+              "destructionPercent": 34,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10796,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YJUYGR9GP",
+                "name": "dipranjan"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#YJUYGR9GP",
+                "name": "dipranjan"
+              },
+              "destructionPercent": 74,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#YJUYGR9GP",
+                "name": "dipranjan"
+              },
+              "destructionPercent": 37,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11316,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YJUYGR9GP",
+                "name": "dipranjan"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#YJUYGR9GP",
+                "name": "dipranjan"
+              },
+              "destructionPercent": 62,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#YJUYGR9GP",
+                "name": "dipranjan"
+              },
+              "destructionPercent": 31,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000004,
@@ -152,10 +264,36 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 12024,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#9CLCUP8",
+                "name": "vince 20"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#9CLCUP8",
+                "name": "vince 20"
+              },
+              "destructionPercent": 99,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#9CLCUP8",
+                "name": "vince 20"
+              },
+              "destructionPercent": 48,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000007,
@@ -188,11 +326,27 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 26,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 3295,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11967,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#9CLCUP8",
+                "name": "vince 20"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#9CLCUP8",
+                "name": "vince 20"
+              },
+              "destructionPercent": 87,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#9CLCUP8",
