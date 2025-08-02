@@ -3,7 +3,7 @@
   "startTime": "20250801T070000.000Z",
   "endTime": "20250804T070000.000Z",
   "capitalTotalLoot": 0,
-  "raidsCompleted": 0,
+  "raidsCompleted": 1,
   "totalAttacks": 0,
   "enemyDistrictsDestroyed": 0,
   "offensiveReward": 0,
@@ -22,19 +22,43 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/WK4-5D2zNNp0VYAyajwh073VSqqRqDV7cvsYnd2zsGA.png"
         }
       },
-      "attackCount": 24,
+      "attackCount": 27,
       "districtCount": 9,
-      "districtsDestroyed": 8,
+      "districtsDestroyed": 9,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 43,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 3730,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 13583,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#QCQ9UJPJ",
+                "name": "Heisenberg"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QCQ9UJPJ",
+                "name": "Heisenberg"
+              },
+              "destructionPercent": 91,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#QCQ9UJPJ",
+                "name": "Heisenberg"
+              },
+              "destructionPercent": 65,
+              "stars": 1
+            },
             {
               "attacker": {
                 "tag": "#L08VG9GL",
