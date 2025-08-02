@@ -354,9 +354,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/JBUBLVGWjtBlTxpbH3tu3pLOKC2YALqrCRfq79hqRkc.png"
         }
       },
-      "attackCount": 5,
+      "attackCount": 14,
       "districtCount": 9,
-      "districtsDestroyed": 1,
+      "districtsDestroyed": 4,
       "districts": [
         {
           "id": 70000000,
@@ -389,11 +389,19 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 43,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 3605,
+          "destructionPercent": 92,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 10270,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#29CCRGUVL",
+                "name": "FLOWER HORN"
+              },
+              "destructionPercent": 92,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#98CVVL8LP",
@@ -408,10 +416,28 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 82,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 9175,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#29CCRGUVL",
+                "name": "FLOWER HORN"
+              },
+              "destructionPercent": 82,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#29CCRGUVL",
+                "name": "FLOWER HORN"
+              },
+              "destructionPercent": 50,
+              "stars": 2
+            }
+          ]
         },
         {
           "id": 70000005,
@@ -452,11 +478,27 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 42,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 4010,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 12006,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#Y0J9J2CY9",
+                "name": "MooN"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Y0J9J2CY9",
+                "name": "MooN"
+              },
+              "destructionPercent": 80,
+              "stars": 1
+            },
             {
               "attacker": {
                 "tag": "#Y0J9J2CY9",
@@ -471,19 +513,55 @@
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11621,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#29CCRGUVL",
+                "name": "FLOWER HORN"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Y0J9J2CY9",
+                "name": "MooN"
+              },
+              "destructionPercent": 50,
+              "stars": 2
+            }
+          ]
         },
         {
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11586,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#29CCRGUVL",
+                "name": "FLOWER HORN"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#29CCRGUVL",
+                "name": "FLOWER HORN"
+              },
+              "destructionPercent": 59,
+              "stars": 2
+            }
+          ]
         }
       ]
     }
