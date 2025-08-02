@@ -3,7 +3,7 @@
   "startTime": "20250801T070000.000Z",
   "endTime": "20250804T070000.000Z",
   "capitalTotalLoot": 0,
-  "raidsCompleted": 1,
+  "raidsCompleted": 2,
   "totalAttacks": 0,
   "enemyDistrictsDestroyed": 0,
   "offensiveReward": 0,
@@ -354,36 +354,122 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/JBUBLVGWjtBlTxpbH3tu3pLOKC2YALqrCRfq79hqRkc.png"
         }
       },
-      "attackCount": 16,
+      "attackCount": 26,
       "districtCount": 9,
-      "districtsDestroyed": 6,
+      "districtsDestroyed": 9,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 14036,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2JUJPQUU",
+                "name": "Wolfcry"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2JUJPQUU",
+                "name": "Wolfcry"
+              },
+              "destructionPercent": 90,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#2JUJPQUU",
+                "name": "Wolfcry"
+              },
+              "destructionPercent": 73,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#2JUJPQUU",
+                "name": "Wolfcry"
+              },
+              "destructionPercent": 41,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 11715,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YQPR29G",
+                "name": "mikemikemike"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#YQPR29G",
+                "name": "mikemikemike"
+              },
+              "destructionPercent": 64,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#YQPR29G",
+                "name": "mikemikemike"
+              },
+              "destructionPercent": 40,
+              "stars": 0
+            },
+            {
+              "attacker": {
+                "tag": "#YQPR29G",
+                "name": "mikemikemike"
+              },
+              "destructionPercent": 18,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10403,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YQPR29G",
+                "name": "mikemikemike"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#YQPR29G",
+                "name": "mikemikemike"
+              },
+              "destructionPercent": 59,
+              "stars": 2
+            }
+          ]
         },
         {
           "id": 70000003,
