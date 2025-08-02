@@ -2,9 +2,9 @@
   "state": "ongoing",
   "startTime": "20250801T070000.000Z",
   "endTime": "20250804T070000.000Z",
-  "capitalTotalLoot": 99067,
+  "capitalTotalLoot": 104717,
   "raidsCompleted": 2,
-  "totalAttacks": 24,
+  "totalAttacks": 25,
   "enemyDistrictsDestroyed": 8,
   "offensiveReward": 0,
   "defensiveReward": 0,
@@ -12,10 +12,10 @@
     {
       "tag": "#YVGGJLPRJ",
       "name": "Smog",
-      "attacks": 5,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 17991
+      "capitalResourcesLooted": 23641
     },
     {
       "tag": "#Q2QQL2YVV",
@@ -62,7 +62,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/w7ICwsUO6lNxPmr4QFS70M7USEfgPP-jAB9_hibxtkM.png"
         }
       },
-      "attackCount": 24,
+      "attackCount": 25,
       "districtCount": 9,
       "districtsDestroyed": 8,
       "districts": [
@@ -70,11 +70,19 @@
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 56,
+          "destructionPercent": 95,
           "stars": 1,
-          "attackCount": 2,
-          "totalLooted": 5970,
+          "attackCount": 3,
+          "totalLooted": 11620,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#YVGGJLPRJ",
+                "name": "Smog"
+              },
+              "destructionPercent": 95,
+              "stars": 1
+            },
             {
               "attacker": {
                 "tag": "#YVGGJLPRJ",
