@@ -354,9 +354,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/JBUBLVGWjtBlTxpbH3tu3pLOKC2YALqrCRfq79hqRkc.png"
         }
       },
-      "attackCount": 14,
+      "attackCount": 16,
       "districtCount": 9,
-      "districtsDestroyed": 4,
+      "districtsDestroyed": 6,
       "districts": [
         {
           "id": 70000000,
@@ -389,11 +389,19 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 92,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 10270,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11790,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#LY0VPRY8",
+                "name": "bass"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#29CCRGUVL",
@@ -416,11 +424,19 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 82,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 9175,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 12221,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#LY0VPRY8",
+                "name": "bass"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#29CCRGUVL",
