@@ -2660,9 +2660,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/YKIaKAZG7yqvbzWdTquT7fKw2oWt80n4_7chSyurXlo.png"
         }
       },
-      "attackCount": 5,
+      "attackCount": 7,
       "districtCount": 9,
-      "districtsDestroyed": 1,
+      "districtsDestroyed": 2,
       "districts": [
         {
           "id": 70000000,
@@ -2713,10 +2713,28 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11435,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#99PURGJL2",
+                "name": "MityoMir"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#99PURGJL2",
+                "name": "MityoMir"
+              },
+              "destructionPercent": 46,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000006,
