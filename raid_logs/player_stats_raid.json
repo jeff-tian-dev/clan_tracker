@@ -3393,10 +3393,10 @@
       },
       {
         "date": "20250804",
-        "attacksUsed": 0,
-        "capitalGold": 0,
-        "avgLootPerAttack": "---",
-        "attacksMissed": 6,
+        "attacksUsed": 6,
+        "capitalGold": 20090,
+        "avgLootPerAttack": 3348.3,
+        "attacksMissed": 0,
         "missedRaid": false
       }
     ]
@@ -4373,7 +4373,7 @@
       }
     ]
   },
-  "timestamp": "2025-08-03 14:00:03",
+  "timestamp": "2025-08-03 15:00:03",
   "#LJVP0GRUG": {
     "name": "Agi",
     "tag": "#LJVP0GRUG",
@@ -6256,10 +6256,10 @@
       },
       {
         "date": "20250804",
-        "attacksUsed": 0,
-        "capitalGold": 0,
-        "avgLootPerAttack": "---",
-        "attacksMissed": 6,
+        "attacksUsed": 1,
+        "capitalGold": 3610,
+        "avgLootPerAttack": 3610.0,
+        "attacksMissed": 4,
         "missedRaid": false
       }
     ]
@@ -9399,6 +9399,60 @@
   "#QPPC9V2YY": {
     "name": "bhaya",
     "tag": "#QPPC9V2YY",
+    "history": [
+      {
+        "date": "20250630",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250707",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250714",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250721",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250728",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250804",
+        "attacksUsed": 0,
+        "capitalGold": 0,
+        "avgLootPerAttack": "---",
+        "attacksMissed": 6,
+        "missedRaid": false
+      }
+    ]
+  },
+  "#LR00JGLVY": {
+    "name": "Allghas",
+    "tag": "#LR00JGLVY",
     "history": [
       {
         "date": "20250630",

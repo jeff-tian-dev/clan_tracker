@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250801T070000.000Z",
   "endTime": "20250804T070000.000Z",
-  "capitalTotalLoot": 365481,
+  "capitalTotalLoot": 389181,
   "raidsCompleted": 6,
-  "totalAttacks": 93,
-  "enemyDistrictsDestroyed": 32,
+  "totalAttacks": 100,
+  "enemyDistrictsDestroyed": 34,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -114,6 +114,14 @@
       "capitalResourcesLooted": 14150
     },
     {
+      "tag": "#QLLLULYJY",
+      "name": "Xosri",
+      "attacks": 1,
+      "attackLimit": 5,
+      "bonusAttackLimit": 0,
+      "capitalResourcesLooted": 3610
+    },
+    {
       "tag": "#QRP2RLV02",
       "name": "JT",
       "attacks": 6,
@@ -144,6 +152,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 26483
+    },
+    {
+      "tag": "#LGGLYVUPP",
+      "name": "siwi2isuus2",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 20090
     },
     {
       "tag": "#LCUL88JLG",
@@ -1074,9 +1090,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/ALsFIojRsPd_GXgWFiKXW9rn8SRmt4uug6bDQpLdVM8.png"
         }
       },
-      "attackCount": 23,
+      "attackCount": 30,
       "districtCount": 9,
-      "districtsDestroyed": 5,
+      "districtsDestroyed": 7,
       "districts": [
         {
           "id": 70000000,
@@ -1091,19 +1107,71 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 97,
+          "stars": 2,
+          "attackCount": 3,
+          "totalLooted": 10840,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LGGLYVUPP",
+                "name": "siwi2isuus2"
+              },
+              "destructionPercent": 97,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#LGGLYVUPP",
+                "name": "siwi2isuus2"
+              },
+              "destructionPercent": 60,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#LGGLYVUPP",
+                "name": "siwi2isuus2"
+              },
+              "destructionPercent": 32,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10595,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LGGLYVUPP",
+                "name": "siwi2isuus2"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LGGLYVUPP",
+                "name": "siwi2isuus2"
+              },
+              "destructionPercent": 73,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#QLLLULYJY",
+                "name": "Xosri"
+              },
+              "destructionPercent": 34,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000003,
@@ -1195,11 +1263,19 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 86,
-          "stars": 2,
-          "attackCount": 3,
-          "totalLooted": 9045,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 11310,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#LGGLYVUPP",
+                "name": "siwi2isuus2"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#Q2QQL2YVV",
