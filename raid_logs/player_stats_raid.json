@@ -4373,7 +4373,7 @@
       }
     ]
   },
-  "timestamp": "2025-08-03 10:00:03",
+  "timestamp": "2025-08-03 11:00:03",
   "#LJVP0GRUG": {
     "name": "Agi",
     "tag": "#LJVP0GRUG",
@@ -7876,10 +7876,10 @@
       },
       {
         "date": "20250804",
-        "attacksUsed": 2,
-        "capitalGold": 3915,
-        "avgLootPerAttack": 1957.5,
-        "attacksMissed": 3,
+        "attacksUsed": 5,
+        "capitalGold": 14150,
+        "avgLootPerAttack": 2830.0,
+        "attacksMissed": 0,
         "missedRaid": false
       }
     ]
@@ -9284,6 +9284,60 @@
         "capitalGold": 0,
         "avgLootPerAttack": "---",
         "attacksMissed": 6,
+        "missedRaid": false
+      }
+    ]
+  },
+  "#Q028GQUL9": {
+    "name": "DPK_BootyWarior",
+    "tag": "#Q028GQUL9",
+    "history": [
+      {
+        "date": "20250630",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250707",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250714",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250721",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250728",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250804",
+        "attacksUsed": 6,
+        "capitalGold": 15390,
+        "avgLootPerAttack": 2565.0,
+        "attacksMissed": 0,
         "missedRaid": false
       }
     ]

@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250801T070000.000Z",
   "endTime": "20250804T070000.000Z",
-  "capitalTotalLoot": 327785,
+  "capitalTotalLoot": 353410,
   "raidsCompleted": 6,
-  "totalAttacks": 80,
-  "enemyDistrictsDestroyed": 29,
+  "totalAttacks": 89,
+  "enemyDistrictsDestroyed": 31,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -58,6 +58,14 @@
       "capitalResourcesLooted": 17810
     },
     {
+      "tag": "#Q028GQUL9",
+      "name": "DPK_BootyWarior",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 15390
+    },
+    {
       "tag": "#Q2QQL2YVV",
       "name": "cyan",
       "attacks": 2,
@@ -100,10 +108,10 @@
     {
       "tag": "#Q9V8RQ8RR",
       "name": "coors",
-      "attacks": 2,
+      "attacks": 5,
       "attackLimit": 5,
       "bonusAttackLimit": 0,
-      "capitalResourcesLooted": 3915
+      "capitalResourcesLooted": 14150
     },
     {
       "tag": "#QRP2RLV02",
@@ -1066,9 +1074,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/ALsFIojRsPd_GXgWFiKXW9rn8SRmt4uug6bDQpLdVM8.png"
         }
       },
-      "attackCount": 10,
+      "attackCount": 19,
       "districtCount": 9,
-      "districtsDestroyed": 2,
+      "districtsDestroyed": 4,
       "districts": [
         {
           "id": 70000000,
@@ -1101,19 +1109,79 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 86,
+          "stars": 1,
+          "attackCount": 3,
+          "totalLooted": 8530,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q028GQUL9",
+                "name": "DPK_BootyWarior"
+              },
+              "destructionPercent": 86,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#Q028GQUL9",
+                "name": "DPK_BootyWarior"
+              },
+              "destructionPercent": 62,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#Q028GQUL9",
+                "name": "DPK_BootyWarior"
+              },
+              "destructionPercent": 31,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 11793,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q028GQUL9",
+                "name": "DPK_BootyWarior"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Q9V8RQ8RR",
+                "name": "coors"
+              },
+              "destructionPercent": 93,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#Q9V8RQ8RR",
+                "name": "coors"
+              },
+              "destructionPercent": 56,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#Q9V8RQ8RR",
+                "name": "coors"
+              },
+              "destructionPercent": 21,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000005,
@@ -1171,11 +1239,27 @@
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 65,
-          "stars": 1,
-          "attackCount": 3,
-          "totalLooted": 6565,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 5,
+          "totalLooted": 11867,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q028GQUL9",
+                "name": "DPK_BootyWarior"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Q028GQUL9",
+                "name": "DPK_BootyWarior"
+              },
+              "destructionPercent": 82,
+              "stars": 1
+            },
             {
               "attacker": {
                 "tag": "#Q9V8RQ8RR",
