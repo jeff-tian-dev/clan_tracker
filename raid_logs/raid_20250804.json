@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250801T070000.000Z",
   "endTime": "20250804T070000.000Z",
-  "capitalTotalLoot": 420828,
+  "capitalTotalLoot": 435582,
   "raidsCompleted": 7,
-  "totalAttacks": 109,
-  "enemyDistrictsDestroyed": 37,
+  "totalAttacks": 113,
+  "enemyDistrictsDestroyed": 38,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -120,6 +120,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 0,
       "capitalResourcesLooted": 14150
+    },
+    {
+      "tag": "#J88YJGY9",
+      "name": "King Killer",
+      "attacks": 4,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 14754
     },
     {
       "tag": "#QLLLULYJY",
@@ -1494,9 +1502,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/089uSOSBRpIeJs6_0yfqlRwlN1GgBaKWZTWEL1ov5Ec.png"
         }
       },
-      "attackCount": 4,
+      "attackCount": 8,
       "districtCount": 9,
-      "districtsDestroyed": 1,
+      "districtsDestroyed": 2,
       "districts": [
         {
           "id": 70000000,
@@ -1529,10 +1537,28 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 70,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 7305,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#J88YJGY9",
+                "name": "King Killer"
+              },
+              "destructionPercent": 70,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#J88YJGY9",
+                "name": "King Killer"
+              },
+              "destructionPercent": 39,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000004,
@@ -1600,11 +1626,27 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 33,
-          "stars": 1,
-          "attackCount": 1,
-          "totalLooted": 4560,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 12009,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#J88YJGY9",
+                "name": "King Killer"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#J88YJGY9",
+                "name": "King Killer"
+              },
+              "destructionPercent": 73,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#2920V9PV",
