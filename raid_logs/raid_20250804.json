@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250801T070000.000Z",
   "endTime": "20250804T070000.000Z",
-  "capitalTotalLoot": 155446,
+  "capitalTotalLoot": 178300,
   "raidsCompleted": 4,
-  "totalAttacks": 36,
-  "enemyDistrictsDestroyed": 9,
+  "totalAttacks": 40,
+  "enemyDistrictsDestroyed": 13,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -56,6 +56,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 33098
+    },
+    {
+      "tag": "#P2QUJ8VR8",
+      "name": "Rahul",
+      "attacks": 4,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 22854
     },
     {
       "tag": "#LCUL88JLG",
@@ -402,9 +410,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/hDi33s_30o1XjIXcFiWS6MVJ5mpYw0RE_PqxYpRyBdQ.png"
         }
       },
-      "attackCount": 10,
+      "attackCount": 14,
       "districtCount": 9,
-      "districtsDestroyed": 0,
+      "districtsDestroyed": 4,
       "districts": [
         {
           "id": 70000000,
@@ -419,11 +427,19 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 69,
-          "stars": 1,
-          "attackCount": 2,
-          "totalLooted": 7550,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11970,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#P2QUJ8VR8",
+                "name": "Rahul"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#GLU9LC2LG",
@@ -446,11 +462,19 @@
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 37,
-          "stars": 1,
-          "attackCount": 1,
-          "totalLooted": 5220,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9908,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#P2QUJ8VR8",
+                "name": "Rahul"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#GLU9LC2LG",
@@ -503,11 +527,19 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 31,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 3455,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9605,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#P2QUJ8VR8",
+                "name": "Rahul"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#LCUL88JLG",
@@ -568,11 +600,19 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 23,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 3315,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10911,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#P2QUJ8VR8",
+                "name": "Rahul"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#LCUL88JLG",
