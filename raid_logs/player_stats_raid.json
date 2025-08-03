@@ -4373,7 +4373,7 @@
       }
     ]
   },
-  "timestamp": "2025-08-03 03:00:03",
+  "timestamp": "2025-08-03 04:00:03",
   "#LJVP0GRUG": {
     "name": "Agi",
     "tag": "#LJVP0GRUG",
@@ -5932,10 +5932,10 @@
       },
       {
         "date": "20250804",
-        "attacksUsed": 0,
-        "capitalGold": 0,
-        "avgLootPerAttack": "---",
-        "attacksMissed": 6,
+        "attacksUsed": 3,
+        "capitalGold": 10024,
+        "avgLootPerAttack": 3341.3,
+        "attacksMissed": 3,
         "missedRaid": false
       }
     ]
@@ -9021,6 +9021,60 @@
   "#QV8QLG8LQ": {
     "name": "AfsaL07",
     "tag": "#QV8QLG8LQ",
+    "history": [
+      {
+        "date": "20250630",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250707",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250714",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250721",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250728",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250804",
+        "attacksUsed": 0,
+        "capitalGold": 0,
+        "avgLootPerAttack": "---",
+        "attacksMissed": 6,
+        "missedRaid": false
+      }
+    ]
+  },
+  "#YPG0LVUP8": {
+    "name": "Skratadu",
+    "tag": "#YPG0LVUP8",
     "history": [
       {
         "date": "20250630",
