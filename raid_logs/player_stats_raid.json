@@ -4373,7 +4373,7 @@
       }
     ]
   },
-  "timestamp": "2025-08-03 09:00:03",
+  "timestamp": "2025-08-03 10:00:03",
   "#LJVP0GRUG": {
     "name": "Agi",
     "tag": "#LJVP0GRUG",
@@ -7876,10 +7876,10 @@
       },
       {
         "date": "20250804",
-        "attacksUsed": 0,
-        "capitalGold": 0,
-        "avgLootPerAttack": "---",
-        "attacksMissed": 6,
+        "attacksUsed": 2,
+        "capitalGold": 3915,
+        "avgLootPerAttack": 1957.5,
+        "attacksMissed": 3,
         "missedRaid": false
       }
     ]
@@ -8254,10 +8254,10 @@
       },
       {
         "date": "20250804",
-        "attacksUsed": 0,
-        "capitalGold": 0,
-        "avgLootPerAttack": "---",
-        "attacksMissed": 6,
+        "attacksUsed": 6,
+        "capitalGold": 16449,
+        "avgLootPerAttack": 2741.5,
+        "attacksMissed": 0,
         "missedRaid": false
       }
     ]
@@ -9183,6 +9183,60 @@
   "#YVV28V009": {
     "name": "mike03",
     "tag": "#YVV28V009",
+    "history": [
+      {
+        "date": "20250630",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250707",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250714",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250721",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250728",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250804",
+        "attacksUsed": 0,
+        "capitalGold": 0,
+        "avgLootPerAttack": "---",
+        "attacksMissed": 6,
+        "missedRaid": false
+      }
+    ]
+  },
+  "#QY899C90L": {
+    "name": "嗜血✨蛇大王",
+    "tag": "#QY899C90L",
     "history": [
       {
         "date": "20250630",

@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250801T070000.000Z",
   "endTime": "20250804T070000.000Z",
-  "capitalTotalLoot": 307421,
+  "capitalTotalLoot": 327785,
   "raidsCompleted": 6,
-  "totalAttacks": 72,
-  "enemyDistrictsDestroyed": 27,
+  "totalAttacks": 80,
+  "enemyDistrictsDestroyed": 29,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -74,6 +74,14 @@
       "capitalResourcesLooted": 23991
     },
     {
+      "tag": "#2VVVYYVY",
+      "name": "(in)visible",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 16449
+    },
+    {
       "tag": "#YJUYGR9GP",
       "name": "dipranjan",
       "attacks": 6,
@@ -88,6 +96,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 23701
+    },
+    {
+      "tag": "#Q9V8RQ8RR",
+      "name": "coors",
+      "attacks": 2,
+      "attackLimit": 5,
+      "bonusAttackLimit": 0,
+      "capitalResourcesLooted": 3915
     },
     {
       "tag": "#QRP2RLV02",
@@ -1050,9 +1066,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/ALsFIojRsPd_GXgWFiKXW9rn8SRmt4uug6bDQpLdVM8.png"
         }
       },
-      "attackCount": 2,
+      "attackCount": 10,
       "districtCount": 9,
-      "districtsDestroyed": 0,
+      "districtsDestroyed": 2,
       "districts": [
         {
           "id": 70000000,
@@ -1112,29 +1128,97 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 10694,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2VVVYYVY",
+                "name": "(in)visible"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2VVVYYVY",
+                "name": "(in)visible"
+              },
+              "destructionPercent": 67,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#2VVVYYVY",
+                "name": "(in)visible"
+              },
+              "destructionPercent": 40,
+              "stars": 0
+            },
+            {
+              "attacker": {
+                "tag": "#2VVVYYVY",
+                "name": "(in)visible"
+              },
+              "destructionPercent": 20,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 65,
+          "stars": 1,
+          "attackCount": 3,
+          "totalLooted": 6565,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q9V8RQ8RR",
+                "name": "coors"
+              },
+              "destructionPercent": 65,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#Q9V8RQ8RR",
+                "name": "coors"
+              },
+              "destructionPercent": 50,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#2VVVYYVY",
+                "name": "(in)visible"
+              },
+              "destructionPercent": 28,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 71,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 8835,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11940,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#2VVVYYVY",
+                "name": "(in)visible"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#G09YYYRLY",
