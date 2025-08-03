@@ -2,9 +2,9 @@
   "state": "ongoing",
   "startTime": "20250801T070000.000Z",
   "endTime": "20250804T070000.000Z",
-  "capitalTotalLoot": 298586,
+  "capitalTotalLoot": 307421,
   "raidsCompleted": 6,
-  "totalAttacks": 70,
+  "totalAttacks": 72,
   "enemyDistrictsDestroyed": 27,
   "offensiveReward": 0,
   "defensiveReward": 0,
@@ -108,10 +108,10 @@
     {
       "tag": "#G09YYYRLY",
       "name": "alphachupapa",
-      "attacks": 1,
+      "attacks": 3,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 2201
+      "capitalResourcesLooted": 11036
     },
     {
       "tag": "#GGYGQ8098",
@@ -1050,7 +1050,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/ALsFIojRsPd_GXgWFiKXW9rn8SRmt4uug6bDQpLdVM8.png"
         }
       },
-      "attackCount": 0,
+      "attackCount": 2,
       "districtCount": 9,
       "districtsDestroyed": 0,
       "districts": [
@@ -1130,10 +1130,28 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 71,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 8835,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#G09YYYRLY",
+                "name": "alphachupapa"
+              },
+              "destructionPercent": 71,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#G09YYYRLY",
+                "name": "alphachupapa"
+              },
+              "destructionPercent": 46,
+              "stars": 1
+            }
+          ]
         }
       ]
     }
