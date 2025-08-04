@@ -2,9 +2,9 @@
   "state": "ongoing",
   "startTime": "20250801T070000.000Z",
   "endTime": "20250804T070000.000Z",
-  "capitalTotalLoot": 435582,
+  "capitalTotalLoot": 442957,
   "raidsCompleted": 7,
-  "totalAttacks": 113,
+  "totalAttacks": 115,
   "enemyDistrictsDestroyed": 38,
   "offensiveReward": 0,
   "defensiveReward": 0,
@@ -124,10 +124,10 @@
     {
       "tag": "#J88YJGY9",
       "name": "King Killer",
-      "attacks": 4,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 14754
+      "capitalResourcesLooted": 22129
     },
     {
       "tag": "#QLLLULYJY",
@@ -1502,7 +1502,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/089uSOSBRpIeJs6_0yfqlRwlN1GgBaKWZTWEL1ov5Ec.png"
         }
       },
-      "attackCount": 8,
+      "attackCount": 10,
       "districtCount": 9,
       "districtsDestroyed": 2,
       "districts": [
@@ -1519,10 +1519,28 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 70,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 7375,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#J88YJGY9",
+                "name": "King Killer"
+              },
+              "destructionPercent": 70,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#J88YJGY9",
+                "name": "King Killer"
+              },
+              "destructionPercent": 30,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000002,
@@ -2660,9 +2678,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/YKIaKAZG7yqvbzWdTquT7fKw2oWt80n4_7chSyurXlo.png"
         }
       },
-      "attackCount": 7,
+      "attackCount": 11,
       "districtCount": 9,
-      "districtsDestroyed": 2,
+      "districtsDestroyed": 3,
       "districts": [
         {
           "id": 70000000,
@@ -2704,10 +2722,28 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 75,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 9245,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#99PURGJL2",
+                "name": "MityoMir"
+              },
+              "destructionPercent": 75,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#99PURGJL2",
+                "name": "MityoMir"
+              },
+              "destructionPercent": 49,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000005,
@@ -2740,10 +2776,28 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11481,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#99PURGJL2",
+                "name": "MityoMir"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#99PURGJL2",
+                "name": "MityoMir"
+              },
+              "destructionPercent": 55,
+              "stars": 2
+            }
+          ]
         },
         {
           "id": 70000007,
