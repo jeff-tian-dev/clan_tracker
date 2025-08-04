@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250801T070000.000Z",
   "endTime": "20250804T070000.000Z",
-  "capitalTotalLoot": 442957,
+  "capitalTotalLoot": 454327,
   "raidsCompleted": 7,
-  "totalAttacks": 115,
-  "enemyDistrictsDestroyed": 38,
+  "totalAttacks": 117,
+  "enemyDistrictsDestroyed": 39,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -148,10 +148,10 @@
     {
       "tag": "#P2QUJ8VR8",
       "name": "Rahul",
-      "attacks": 4,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 22854
+      "capitalResourcesLooted": 34224
     },
     {
       "tag": "#G09YYYRLY",
@@ -1502,9 +1502,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/089uSOSBRpIeJs6_0yfqlRwlN1GgBaKWZTWEL1ov5Ec.png"
         }
       },
-      "attackCount": 10,
+      "attackCount": 12,
       "districtCount": 9,
-      "districtsDestroyed": 2,
+      "districtsDestroyed": 3,
       "districts": [
         {
           "id": 70000000,
@@ -1600,10 +1600,28 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11370,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#P2QUJ8VR8",
+                "name": "Rahul"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#P2QUJ8VR8",
+                "name": "Rahul"
+              },
+              "destructionPercent": 46,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000007,
