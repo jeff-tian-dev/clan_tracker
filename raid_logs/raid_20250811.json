@@ -2,13 +2,21 @@
   "state": "ongoing",
   "startTime": "20250808T070000.000Z",
   "endTime": "20250811T070000.000Z",
-  "capitalTotalLoot": 38266,
+  "capitalTotalLoot": 59595,
   "raidsCompleted": 0,
-  "totalAttacks": 9,
-  "enemyDistrictsDestroyed": 2,
+  "totalAttacks": 17,
+  "enemyDistrictsDestroyed": 3,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
+    {
+      "tag": "#Q0YQURYCY",
+      "name": "Sushant Bhaita",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 15409
+    },
     {
       "tag": "#P2QUJ8VR8",
       "name": "Rahul",
@@ -20,10 +28,10 @@
     {
       "tag": "#LJJLL0G0V",
       "name": "Saddam Hossain",
-      "attacks": 3,
+      "attacks": 5,
       "attackLimit": 5,
       "bonusAttackLimit": 0,
-      "capitalResourcesLooted": 9410
+      "capitalResourcesLooted": 15330
     }
   ],
   "attackLog": [
@@ -38,9 +46,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/Ci95lBIrq7jWVB0OKC-7JjIPudP1v_mpSiBhYTBoJW0.png"
         }
       },
-      "attackCount": 9,
+      "attackCount": 17,
       "districtCount": 9,
-      "districtsDestroyed": 2,
+      "districtsDestroyed": 3,
       "districts": [
         {
           "id": 70000000,
@@ -55,10 +63,20 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
+          "destructionPercent": 32,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 1,
+          "totalLooted": 3215,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LJJLL0G0V",
+                "name": "Saddam Hossain"
+              },
+              "destructionPercent": 32,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000002,
@@ -83,11 +101,35 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 27,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 2240,
+          "destructionPercent": 95,
+          "stars": 2,
+          "attackCount": 4,
+          "totalLooted": 10545,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q0YQURYCY",
+                "name": "Sushant Bhaita"
+              },
+              "destructionPercent": 95,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#Q0YQURYCY",
+                "name": "Sushant Bhaita"
+              },
+              "destructionPercent": 71,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#Q0YQURYCY",
+                "name": "Sushant Bhaita"
+              },
+              "destructionPercent": 50,
+              "stars": 1
+            },
             {
               "attacker": {
                 "tag": "#LJJLL0G0V",
@@ -129,20 +171,54 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
+          "destructionPercent": 27,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 2,
+          "totalLooted": 3865,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q0YQURYCY",
+                "name": "Sushant Bhaita"
+              },
+              "destructionPercent": 27,
+              "stars": 0
+            },
+            {
+              "attacker": {
+                "tag": "#LJJLL0G0V",
+                "name": "Saddam Hossain"
+              },
+              "destructionPercent": 20,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 59,
-          "stars": 1,
-          "attackCount": 2,
-          "totalLooted": 5560,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 11504,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q0YQURYCY",
+                "name": "Sushant Bhaita"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Q0YQURYCY",
+                "name": "Sushant Bhaita"
+              },
+              "destructionPercent": 72,
+              "stars": 1
+            },
             {
               "attacker": {
                 "tag": "#P2QUJ8VR8",
@@ -210,5 +286,122 @@
       ]
     }
   ],
-  "defenseLog": []
+  "defenseLog": [
+    {
+      "attacker": {
+        "tag": "#2YG8VQU09",
+        "name": "\u262a\u6727 \u6708 \u591c\u262a",
+        "level": 20,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/blAr7_1vhYbvQp_9wVzwz83av1o_iGNrgPwE8rBw5Wk.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/blAr7_1vhYbvQp_9wVzwz83av1o_iGNrgPwE8rBw5Wk.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/blAr7_1vhYbvQp_9wVzwz83av1o_iGNrgPwE8rBw5Wk.png"
+        }
+      },
+      "attackCount": 2,
+      "districtCount": 9,
+      "districtsDestroyed": 1,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 10,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11295,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GQ82V0YCP",
+                "name": "Kilroy was here"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GQ82V0YCP",
+                "name": "Kilroy was here"
+              },
+              "destructionPercent": 48,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 4,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 4,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        }
+      ]
+    }
+  ]
 }
