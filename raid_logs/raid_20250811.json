@@ -2,9 +2,9 @@
   "state": "ongoing",
   "startTime": "20250808T070000.000Z",
   "endTime": "20250811T070000.000Z",
-  "capitalTotalLoot": 183087,
+  "capitalTotalLoot": 191097,
   "raidsCompleted": 1,
-  "totalAttacks": 54,
+  "totalAttacks": 57,
   "enemyDistrictsDestroyed": 15,
   "offensiveReward": 0,
   "defensiveReward": 0,
@@ -20,10 +20,10 @@
     {
       "tag": "#9CLCUP8",
       "name": "vince 20",
-      "attacks": 3,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 11994
+      "capitalResourcesLooted": 20004
     },
     {
       "tag": "#2VVVYYVY",
@@ -498,7 +498,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/YskudZwvi9i78erY_t9f5N2mC0r4NXHjbwdgFO6LS0A.png"
         }
       },
-      "attackCount": 20,
+      "attackCount": 23,
       "districtCount": 9,
       "districtsDestroyed": 6,
       "districts": [
@@ -655,10 +655,36 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 68,
+          "stars": 2,
+          "attackCount": 3,
+          "totalLooted": 8010,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#9CLCUP8",
+                "name": "vince 20"
+              },
+              "destructionPercent": 68,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#9CLCUP8",
+                "name": "vince 20"
+              },
+              "destructionPercent": 53,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#9CLCUP8",
+                "name": "vince 20"
+              },
+              "destructionPercent": 29,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000006,
