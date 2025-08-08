@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250808T070000.000Z",
   "endTime": "20250811T070000.000Z",
-  "capitalTotalLoot": 106067,
+  "capitalTotalLoot": 118061,
   "raidsCompleted": 1,
-  "totalAttacks": 34,
-  "enemyDistrictsDestroyed": 9,
+  "totalAttacks": 37,
+  "enemyDistrictsDestroyed": 10,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -16,6 +16,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 15409
+    },
+    {
+      "tag": "#9CLCUP8",
+      "name": "vince 20",
+      "attacks": 3,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 11994
     },
     {
       "tag": "#2VVVYYVY",
@@ -458,9 +466,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/YskudZwvi9i78erY_t9f5N2mC0r4NXHjbwdgFO6LS0A.png"
         }
       },
-      "attackCount": 0,
+      "attackCount": 3,
       "districtCount": 9,
-      "districtsDestroyed": 0,
+      "districtsDestroyed": 1,
       "districts": [
         {
           "id": 70000000,
@@ -538,10 +546,36 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11994,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#9CLCUP8",
+                "name": "vince 20"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#9CLCUP8",
+                "name": "vince 20"
+              },
+              "destructionPercent": 83,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#9CLCUP8",
+                "name": "vince 20"
+              },
+              "destructionPercent": 50,
+              "stars": 2
+            }
+          ]
         }
       ]
     }
