@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250808T070000.000Z",
   "endTime": "20250811T070000.000Z",
-  "capitalTotalLoot": 118061,
+  "capitalTotalLoot": 150835,
   "raidsCompleted": 1,
-  "totalAttacks": 37,
-  "enemyDistrictsDestroyed": 10,
+  "totalAttacks": 45,
+  "enemyDistrictsDestroyed": 13,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -40,6 +40,22 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 21165
+    },
+    {
+      "tag": "#QQUUQYQVL",
+      "name": "9/11",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 21938
+    },
+    {
+      "tag": "#QPPC9V2YY",
+      "name": "bhaya",
+      "attacks": 2,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 10836
     },
     {
       "tag": "#P2QUJ8VR8",
@@ -466,9 +482,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/YskudZwvi9i78erY_t9f5N2mC0r4NXHjbwdgFO6LS0A.png"
         }
       },
-      "attackCount": 3,
+      "attackCount": 11,
       "districtCount": 9,
-      "districtsDestroyed": 1,
+      "districtsDestroyed": 4,
       "districts": [
         {
           "id": 70000000,
@@ -510,10 +526,36 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10343,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QQUUQYQVL",
+                "name": "9/11"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QQUUQYQVL",
+                "name": "9/11"
+              },
+              "destructionPercent": 64,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#QQUUQYQVL",
+                "name": "9/11"
+              },
+              "destructionPercent": 26,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000005,
@@ -528,19 +570,63 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10836,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QPPC9V2YY",
+                "name": "bhaya"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QPPC9V2YY",
+                "name": "bhaya"
+              },
+              "destructionPercent": 51,
+              "stars": 2
+            }
+          ]
         },
         {
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11595,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QQUUQYQVL",
+                "name": "9/11"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QQUUQYQVL",
+                "name": "9/11"
+              },
+              "destructionPercent": 65,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#QQUUQYQVL",
+                "name": "9/11"
+              },
+              "destructionPercent": 45,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000008,
