@@ -2,20 +2,28 @@
   "state": "ongoing",
   "startTime": "20250808T070000.000Z",
   "endTime": "20250811T070000.000Z",
-  "capitalTotalLoot": 11828,
+  "capitalTotalLoot": 38266,
   "raidsCompleted": 0,
-  "totalAttacks": 2,
-  "enemyDistrictsDestroyed": 1,
+  "totalAttacks": 9,
+  "enemyDistrictsDestroyed": 2,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
     {
       "tag": "#P2QUJ8VR8",
       "name": "Rahul",
-      "attacks": 2,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 11828
+      "capitalResourcesLooted": 28856
+    },
+    {
+      "tag": "#LJJLL0G0V",
+      "name": "Saddam Hossain",
+      "attacks": 3,
+      "attackLimit": 5,
+      "bonusAttackLimit": 0,
+      "capitalResourcesLooted": 9410
     }
   ],
   "attackLog": [
@@ -30,9 +38,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/Ci95lBIrq7jWVB0OKC-7JjIPudP1v_mpSiBhYTBoJW0.png"
         }
       },
-      "attackCount": 2,
+      "attackCount": 9,
       "districtCount": 9,
-      "districtsDestroyed": 1,
+      "districtsDestroyed": 2,
       "districts": [
         {
           "id": 70000000,
@@ -56,28 +64,66 @@
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
+          "destructionPercent": 34,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 1,
+          "totalLooted": 2770,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LJJLL0G0V",
+                "name": "Saddam Hossain"
+              },
+              "destructionPercent": 34,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
+          "destructionPercent": 27,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 1,
+          "totalLooted": 2240,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LJJLL0G0V",
+                "name": "Saddam Hossain"
+              },
+              "destructionPercent": 27,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11468,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#P2QUJ8VR8",
+                "name": "Rahul"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#P2QUJ8VR8",
+                "name": "Rahul"
+              },
+              "destructionPercent": 56,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000005,
@@ -92,10 +138,28 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 59,
+          "stars": 1,
+          "attackCount": 2,
+          "totalLooted": 5560,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#P2QUJ8VR8",
+                "name": "Rahul"
+              },
+              "destructionPercent": 59,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#P2QUJ8VR8",
+                "name": "Rahul"
+              },
+              "destructionPercent": 32,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000007,
@@ -128,10 +192,20 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
+          "destructionPercent": 33,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 1,
+          "totalLooted": 4400,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LJJLL0G0V",
+                "name": "Saddam Hossain"
+              },
+              "destructionPercent": 33,
+              "stars": 0
+            }
+          ]
         }
       ]
     }
