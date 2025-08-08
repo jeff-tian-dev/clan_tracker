@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250808T070000.000Z",
   "endTime": "20250811T070000.000Z",
-  "capitalTotalLoot": 59595,
+  "capitalTotalLoot": 74390,
   "raidsCompleted": 0,
-  "totalAttacks": 17,
-  "enemyDistrictsDestroyed": 3,
+  "totalAttacks": 21,
+  "enemyDistrictsDestroyed": 4,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -16,6 +16,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 15409
+    },
+    {
+      "tag": "#YJUYGR9GP",
+      "name": "dipranjan",
+      "attacks": 4,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 14795
     },
     {
       "tag": "#P2QUJ8VR8",
@@ -46,9 +54,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/Ci95lBIrq7jWVB0OKC-7JjIPudP1v_mpSiBhYTBoJW0.png"
         }
       },
-      "attackCount": 17,
+      "attackCount": 21,
       "districtCount": 9,
-      "districtsDestroyed": 3,
+      "districtsDestroyed": 4,
       "districts": [
         {
           "id": 70000000,
@@ -63,11 +71,27 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 32,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 3215,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11505,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#YJUYGR9GP",
+                "name": "dipranjan"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#YJUYGR9GP",
+                "name": "dipranjan"
+              },
+              "destructionPercent": 68,
+              "stars": 1
+            },
             {
               "attacker": {
                 "tag": "#LJJLL0G0V",
@@ -82,11 +106,27 @@
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 34,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 2770,
+          "destructionPercent": 95,
+          "stars": 2,
+          "attackCount": 3,
+          "totalLooted": 9275,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#YJUYGR9GP",
+                "name": "dipranjan"
+              },
+              "destructionPercent": 95,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#YJUYGR9GP",
+                "name": "dipranjan"
+              },
+              "destructionPercent": 55,
+              "stars": 1
+            },
             {
               "attacker": {
                 "tag": "#LJJLL0G0V",
@@ -298,9 +338,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/blAr7_1vhYbvQp_9wVzwz83av1o_iGNrgPwE8rBw5Wk.png"
         }
       },
-      "attackCount": 2,
+      "attackCount": 8,
       "districtCount": 9,
-      "districtsDestroyed": 1,
+      "districtsDestroyed": 3,
       "districts": [
         {
           "id": 70000000,
@@ -387,19 +427,71 @@
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11732,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YQG9R8UVU",
+                "name": "\u7b11\u7b11"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#YQG9R8UVU",
+                "name": "\u7b11\u7b11"
+              },
+              "destructionPercent": 65,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#YQG9R8UVU",
+                "name": "\u7b11\u7b11"
+              },
+              "destructionPercent": 33,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11892,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YQG9R8UVU",
+                "name": "\u7b11\u7b11"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#YQG9R8UVU",
+                "name": "\u7b11\u7b11"
+              },
+              "destructionPercent": 71,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#YQG9R8UVU",
+                "name": "\u7b11\u7b11"
+              },
+              "destructionPercent": 38,
+              "stars": 0
+            }
+          ]
         }
       ]
     }
