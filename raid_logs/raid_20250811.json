@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250808T070000.000Z",
   "endTime": "20250811T070000.000Z",
-  "capitalTotalLoot": 248988,
+  "capitalTotalLoot": 260312,
   "raidsCompleted": 4,
-  "totalAttacks": 71,
-  "enemyDistrictsDestroyed": 22,
+  "totalAttacks": 77,
+  "enemyDistrictsDestroyed": 23,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -88,6 +88,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 10836
+    },
+    {
+      "tag": "#YL2VYQJC9",
+      "name": "DauntedThrone40",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 11324
     },
     {
       "tag": "#P2QUJ8VR8",
@@ -870,9 +878,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/08rV80UnjJ3Oj0VCWB1JKTS0JLxon3NHrNOj6FvRJ_s.png"
         }
       },
-      "attackCount": 8,
+      "attackCount": 14,
       "districtCount": 9,
-      "districtsDestroyed": 4,
+      "districtsDestroyed": 5,
       "districts": [
         {
           "id": 70000000,
@@ -887,10 +895,52 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 5,
+          "totalLooted": 10849,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YL2VYQJC9",
+                "name": "DauntedThrone40"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#YL2VYQJC9",
+                "name": "DauntedThrone40"
+              },
+              "destructionPercent": 82,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#YL2VYQJC9",
+                "name": "DauntedThrone40"
+              },
+              "destructionPercent": 65,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#YL2VYQJC9",
+                "name": "DauntedThrone40"
+              },
+              "destructionPercent": 55,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#YL2VYQJC9",
+                "name": "DauntedThrone40"
+              },
+              "destructionPercent": 32,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000002,
@@ -959,10 +1009,20 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
+          "destructionPercent": 17,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 1,
+          "totalLooted": 475,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YL2VYQJC9",
+                "name": "DauntedThrone40"
+              },
+              "destructionPercent": 17,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000006,
