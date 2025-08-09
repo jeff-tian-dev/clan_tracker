@@ -2,9 +2,9 @@
   "state": "ongoing",
   "startTime": "20250808T070000.000Z",
   "endTime": "20250811T070000.000Z",
-  "capitalTotalLoot": 260312,
+  "capitalTotalLoot": 265242,
   "raidsCompleted": 4,
-  "totalAttacks": 77,
+  "totalAttacks": 78,
   "enemyDistrictsDestroyed": 23,
   "offensiveReward": 0,
   "defensiveReward": 0,
@@ -60,10 +60,10 @@
     {
       "tag": "#QRJG9YGP0",
       "name": "Coc Sweat",
-      "attacks": 2,
+      "attacks": 3,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 4464
+      "capitalResourcesLooted": 9394
     },
     {
       "tag": "#R90098P0",
@@ -878,7 +878,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/08rV80UnjJ3Oj0VCWB1JKTS0JLxon3NHrNOj6FvRJ_s.png"
         }
       },
-      "attackCount": 14,
+      "attackCount": 15,
       "districtCount": 9,
       "districtsDestroyed": 5,
       "districts": [
@@ -1082,10 +1082,20 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
+          "destructionPercent": 35,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 1,
+          "totalLooted": 4930,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QRJG9YGP0",
+                "name": "Coc Sweat"
+              },
+              "destructionPercent": 35,
+              "stars": 0
+            }
+          ]
         }
       ]
     }
