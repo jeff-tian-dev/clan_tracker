@@ -3,7 +3,7 @@
   "startTime": "20250808T070000.000Z",
   "endTime": "20250811T070000.000Z",
   "capitalTotalLoot": 248988,
-  "raidsCompleted": 3,
+  "raidsCompleted": 4,
   "totalAttacks": 71,
   "enemyDistrictsDestroyed": 22,
   "offensiveReward": 0,
@@ -1374,19 +1374,35 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/TTQHkimTh4SgpKkEu1R3VSHoDoquUSqCH5xS5q_aqqo.png"
         }
       },
-      "attackCount": 28,
+      "attackCount": 30,
       "districtCount": 9,
-      "districtsDestroyed": 8,
+      "districtsDestroyed": 9,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 61,
-          "stars": 1,
-          "attackCount": 2,
-          "totalLooted": 6170,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 13649,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#LCQ9G0YU",
+                "name": "Cuervo"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LCQ9G0YU",
+                "name": "Cuervo"
+              },
+              "destructionPercent": 82,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#LVP0YVVPR",
