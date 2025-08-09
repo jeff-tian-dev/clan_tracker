@@ -2,9 +2,9 @@
   "state": "ongoing",
   "startTime": "20250808T070000.000Z",
   "endTime": "20250811T070000.000Z",
-  "capitalTotalLoot": 358204,
+  "capitalTotalLoot": 371199,
   "raidsCompleted": 5,
-  "totalAttacks": 101,
+  "totalAttacks": 104,
   "enemyDistrictsDestroyed": 30,
   "offensiveReward": 0,
   "defensiveReward": 0,
@@ -84,10 +84,10 @@
     {
       "tag": "#J88YJGY9",
       "name": "King Killer",
-      "attacks": 3,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 15255
+      "capitalResourcesLooted": 28250
     },
     {
       "tag": "#QPPC9V2YY",
@@ -1218,7 +1218,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/iQUh10eF9fR4GcJdmc0OijhQJfg59ri0TvashYHTVMM.png"
         }
       },
-      "attackCount": 13,
+      "attackCount": 16,
       "districtCount": 9,
       "districtsDestroyed": 3,
       "districts": [
@@ -1235,19 +1235,47 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 74,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 7870,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#J88YJGY9",
+                "name": "King Killer"
+              },
+              "destructionPercent": 74,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#J88YJGY9",
+                "name": "King Killer"
+              },
+              "destructionPercent": 35,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 49,
+          "stars": 1,
+          "attackCount": 1,
+          "totalLooted": 5125,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#J88YJGY9",
+                "name": "King Killer"
+              },
+              "destructionPercent": 49,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000003,
@@ -2120,7 +2148,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/N0d5XVFeDFfQwVrS5mecCE8NW8ze0kEB-EIbecNJ-Q0.png"
         }
       },
-      "attackCount": 3,
+      "attackCount": 4,
       "districtCount": 9,
       "districtsDestroyed": 1,
       "districts": [
@@ -2217,10 +2245,20 @@
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 37,
+          "stars": 1,
+          "attackCount": 1,
+          "totalLooted": 4070,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#P9U828QQ",
+                "name": "Ss7's"
+              },
+              "destructionPercent": 37,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000008,
