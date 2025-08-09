@@ -2188,9 +2188,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/N0d5XVFeDFfQwVrS5mecCE8NW8ze0kEB-EIbecNJ-Q0.png"
         }
       },
-      "attackCount": 6,
+      "attackCount": 16,
       "districtCount": 9,
-      "districtsDestroyed": 2,
+      "districtsDestroyed": 5,
       "districts": [
         {
           "id": 70000000,
@@ -2205,19 +2205,55 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 12027,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LQ99QC9VY",
+                "name": "eldiablo"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LRUGVQJPP",
+                "name": "Darkale"
+              },
+              "destructionPercent": 87,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#LRUGVQJPP",
+                "name": "Darkale"
+              },
+              "destructionPercent": 34,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
+          "destructionPercent": 31,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 1,
+          "totalLooted": 3030,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LRUGVQJPP",
+                "name": "Darkale"
+              },
+              "destructionPercent": 31,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000003,
@@ -2303,11 +2339,27 @@
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 37,
-          "stars": 1,
-          "attackCount": 1,
-          "totalLooted": 4070,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11606,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#GYVJ9GJY",
+                "name": "Alexandre78R"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GYVJ9GJY",
+                "name": "Alexandre78R"
+              },
+              "destructionPercent": 66,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#P9U828QQ",
@@ -2322,10 +2374,44 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 12186,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GYVJ9GJY",
+                "name": "Alexandre78R"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GYVJ9GJY",
+                "name": "Alexandre78R"
+              },
+              "destructionPercent": 99,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#GYVJ9GJY",
+                "name": "Alexandre78R"
+              },
+              "destructionPercent": 54,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#GYVJ9GJY",
+                "name": "Alexandre78R"
+              },
+              "destructionPercent": 28,
+              "stars": 0
+            }
+          ]
         }
       ]
     }
