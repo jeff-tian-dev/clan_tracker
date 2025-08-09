@@ -2,9 +2,9 @@
   "state": "ongoing",
   "startTime": "20250808T070000.000Z",
   "endTime": "20250811T070000.000Z",
-  "capitalTotalLoot": 221378,
-  "raidsCompleted": 2,
-  "totalAttacks": 65,
+  "capitalTotalLoot": 227093,
+  "raidsCompleted": 3,
+  "totalAttacks": 66,
   "enemyDistrictsDestroyed": 19,
   "offensiveReward": 0,
   "defensiveReward": 0,
@@ -16,6 +16,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 15409
+    },
+    {
+      "tag": "#QY0UGQGQY",
+      "name": "TheFish",
+      "attacks": 1,
+      "attackLimit": 5,
+      "bonusAttackLimit": 0,
+      "capitalResourcesLooted": 5715
     },
     {
       "tag": "#9CLCUP8",
@@ -862,7 +870,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/08rV80UnjJ3Oj0VCWB1JKTS0JLxon3NHrNOj6FvRJ_s.png"
         }
       },
-      "attackCount": 2,
+      "attackCount": 3,
       "districtCount": 9,
       "districtsDestroyed": 1,
       "districts": [
@@ -924,10 +932,20 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 57,
+          "stars": 2,
+          "attackCount": 1,
+          "totalLooted": 5715,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QY0UGQGQY",
+                "name": "TheFish"
+              },
+              "destructionPercent": 57,
+              "stars": 2
+            }
+          ]
         },
         {
           "id": 70000007,
@@ -980,19 +998,27 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/blAr7_1vhYbvQp_9wVzwz83av1o_iGNrgPwE8rBw5Wk.png"
         }
       },
-      "attackCount": 26,
+      "attackCount": 27,
       "districtCount": 9,
-      "districtsDestroyed": 8,
+      "districtsDestroyed": 9,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 93,
-          "stars": 1,
-          "attackCount": 3,
-          "totalLooted": 11430,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 13949,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#2P98LGULG",
+                "name": "\u307e\u30fc"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#L2CL829V9",
