@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250808T070000.000Z",
   "endTime": "20250811T070000.000Z",
-  "capitalTotalLoot": 265242,
+  "capitalTotalLoot": 292570,
   "raidsCompleted": 4,
-  "totalAttacks": 78,
-  "enemyDistrictsDestroyed": 23,
+  "totalAttacks": 84,
+  "enemyDistrictsDestroyed": 26,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -120,6 +120,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 0,
       "capitalResourcesLooted": 15330
+    },
+    {
+      "tag": "#LCUL88JLG",
+      "name": "Cookies",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 27328
     },
     {
       "tag": "#PRGGL2J2V",
@@ -878,18 +886,28 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/08rV80UnjJ3Oj0VCWB1JKTS0JLxon3NHrNOj6FvRJ_s.png"
         }
       },
-      "attackCount": 15,
+      "attackCount": 21,
       "districtCount": 9,
-      "districtsDestroyed": 5,
+      "districtsDestroyed": 8,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
+          "destructionPercent": 29,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 1,
+          "totalLooted": 2510,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LCUL88JLG",
+                "name": "Cookies"
+              },
+              "destructionPercent": 29,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
@@ -1000,20 +1018,54 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10775,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LCUL88JLG",
+                "name": "Cookies"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LCUL88JLG",
+                "name": "Cookies"
+              },
+              "destructionPercent": 50,
+              "stars": 2
+            }
+          ]
         },
         {
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 17,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 475,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 8741,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#LCUL88JLG",
+                "name": "Cookies"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LCUL88JLG",
+                "name": "Cookies"
+              },
+              "destructionPercent": 80,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#YL2VYQJC9",
@@ -1082,11 +1134,19 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 35,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 4930,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10707,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#LCUL88JLG",
+                "name": "Cookies"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#QRJG9YGP0",
