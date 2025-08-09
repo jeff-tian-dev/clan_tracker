@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250808T070000.000Z",
   "endTime": "20250811T070000.000Z",
-  "capitalTotalLoot": 371199,
+  "capitalTotalLoot": 382469,
   "raidsCompleted": 5,
-  "totalAttacks": 104,
-  "enemyDistrictsDestroyed": 30,
+  "totalAttacks": 107,
+  "enemyDistrictsDestroyed": 33,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -24,6 +24,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 20822
+    },
+    {
+      "tag": "#Q2QQL2YVV",
+      "name": "cyan",
+      "attacks": 2,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 7665
     },
     {
       "tag": "#QY0UGQGQY",
@@ -144,6 +152,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 27328
+    },
+    {
+      "tag": "#L0J089PR8",
+      "name": "King Dub",
+      "attacks": 1,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 3605
     },
     {
       "tag": "#PRGGL2J2V",
@@ -1218,9 +1234,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/iQUh10eF9fR4GcJdmc0OijhQJfg59ri0TvashYHTVMM.png"
         }
       },
-      "attackCount": 16,
+      "attackCount": 19,
       "districtCount": 9,
-      "districtsDestroyed": 3,
+      "districtsDestroyed": 6,
       "districts": [
         {
           "id": 70000000,
@@ -1235,11 +1251,19 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 74,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 7870,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11475,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#L0J089PR8",
+                "name": "King Dub"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#J88YJGY9",
@@ -1262,11 +1286,19 @@
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 49,
-          "stars": 1,
-          "attackCount": 1,
-          "totalLooted": 5125,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10250,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q2QQL2YVV",
+                "name": "cyan"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#J88YJGY9",
@@ -1360,11 +1392,19 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 79,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 9325,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11865,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q2QQL2YVV",
+                "name": "cyan"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#QPPC9V2YY",
@@ -2148,9 +2188,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/N0d5XVFeDFfQwVrS5mecCE8NW8ze0kEB-EIbecNJ-Q0.png"
         }
       },
-      "attackCount": 4,
+      "attackCount": 6,
       "districtCount": 9,
-      "districtsDestroyed": 1,
+      "districtsDestroyed": 2,
       "districts": [
         {
           "id": 70000000,
@@ -2192,10 +2232,28 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11657,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LRUGVQJPP",
+                "name": "Darkale"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LRUGVQJPP",
+                "name": "Darkale"
+              },
+              "destructionPercent": 46,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000005,
