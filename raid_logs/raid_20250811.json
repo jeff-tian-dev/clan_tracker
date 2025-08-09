@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250808T070000.000Z",
   "endTime": "20250811T070000.000Z",
-  "capitalTotalLoot": 227093,
+  "capitalTotalLoot": 248988,
   "raidsCompleted": 3,
-  "totalAttacks": 66,
-  "enemyDistrictsDestroyed": 19,
+  "totalAttacks": 71,
+  "enemyDistrictsDestroyed": 22,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -20,10 +20,10 @@
     {
       "tag": "#QY0UGQGQY",
       "name": "TheFish",
-      "attacks": 1,
+      "attacks": 6,
       "attackLimit": 5,
-      "bonusAttackLimit": 0,
-      "capitalResourcesLooted": 5715
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 27610
     },
     {
       "tag": "#9CLCUP8",
@@ -870,9 +870,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/08rV80UnjJ3Oj0VCWB1JKTS0JLxon3NHrNOj6FvRJ_s.png"
         }
       },
-      "attackCount": 3,
+      "attackCount": 8,
       "districtCount": 9,
-      "districtsDestroyed": 1,
+      "districtsDestroyed": 4,
       "districts": [
         {
           "id": 70000000,
@@ -896,19 +896,55 @@
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9003,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QY0UGQGQY",
+                "name": "TheFish"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QY0UGQGQY",
+                "name": "TheFish"
+              },
+              "destructionPercent": 45,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9178,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QY0UGQGQY",
+                "name": "TheFish"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QY0UGQGQY",
+                "name": "TheFish"
+              },
+              "destructionPercent": 46,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000004,
@@ -932,11 +968,19 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 57,
-          "stars": 2,
-          "attackCount": 1,
-          "totalLooted": 5715,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9429,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#QY0UGQGQY",
+                "name": "TheFish"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#QY0UGQGQY",
