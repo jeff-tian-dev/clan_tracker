@@ -5021,7 +5021,7 @@
       }
     ]
   },
-  "timestamp": "2025-08-10 09:00:03",
+  "timestamp": "2025-08-10 10:00:03",
   "#LJVP0GRUG": {
     "name": "Agi",
     "tag": "#LJVP0GRUG",
@@ -10718,10 +10718,10 @@
       },
       {
         "date": "20250811",
-        "attacksUsed": 0,
-        "capitalGold": 0,
-        "avgLootPerAttack": "---",
-        "attacksMissed": 6,
+        "attacksUsed": 6,
+        "capitalGold": 15198,
+        "avgLootPerAttack": 2533.0,
+        "attacksMissed": 0,
         "missedRaid": false
       }
     ]
@@ -11776,6 +11776,68 @@
         "capitalGold": 3605,
         "avgLootPerAttack": 3605.0,
         "attacksMissed": 5,
+        "missedRaid": false
+      }
+    ]
+  },
+  "#PU8J99C2L": {
+    "name": "stayaway",
+    "tag": "#PU8J99C2L",
+    "history": [
+      {
+        "date": "20250630",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250707",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250714",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250721",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250728",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250804",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250811",
+        "attacksUsed": 6,
+        "capitalGold": 23362,
+        "avgLootPerAttack": 3893.7,
+        "attacksMissed": 0,
         "missedRaid": false
       }
     ]
