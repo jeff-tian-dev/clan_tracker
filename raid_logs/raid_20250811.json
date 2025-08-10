@@ -3446,7 +3446,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/wMKlAnVYOtKjc3Gj19n8Pi-bx-IzxQj1-KG4JxWYlPA.png"
         }
       },
-      "attackCount": 4,
+      "attackCount": 6,
       "districtCount": 9,
       "districtsDestroyed": 1,
       "districts": [
@@ -3499,10 +3499,28 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 56,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 6150,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#P09LYVYVU",
+                "name": "B\u2606J\u2606K-AL\u013036"
+              },
+              "destructionPercent": 56,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#P09LYVYVU",
+                "name": "B\u2606J\u2606K-AL\u013036"
+              },
+              "destructionPercent": 18,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000004,
