@@ -2,9 +2,9 @@
   "state": "ongoing",
   "startTime": "20250808T070000.000Z",
   "endTime": "20250811T070000.000Z",
-  "capitalTotalLoot": 631916,
+  "capitalTotalLoot": 635961,
   "raidsCompleted": 9,
-  "totalAttacks": 171,
+  "totalAttacks": 172,
   "enemyDistrictsDestroyed": 57,
   "offensiveReward": 0,
   "defensiveReward": 0,
@@ -140,10 +140,10 @@
     {
       "tag": "#QRJG9YGP0",
       "name": "Coc Sweat",
-      "attacks": 5,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 15249
+      "capitalResourcesLooted": 19294
     },
     {
       "tag": "#YQ8L9JVJ2",
@@ -2254,7 +2254,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/ivcrqvWIjwMLcr0sxRlbCd_SfzwDdjB6NbSAYJTtAJM.png"
         }
       },
-      "attackCount": 10,
+      "attackCount": 11,
       "districtCount": 9,
       "districtsDestroyed": 3,
       "districts": [
@@ -2289,10 +2289,20 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
+          "destructionPercent": 42,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 1,
+          "totalLooted": 4045,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QRJG9YGP0",
+                "name": "Coc Sweat"
+              },
+              "destructionPercent": 42,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000004,
