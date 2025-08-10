@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250808T070000.000Z",
   "endTime": "20250811T070000.000Z",
-  "capitalTotalLoot": 535611,
+  "capitalTotalLoot": 554618,
   "raidsCompleted": 8,
-  "totalAttacks": 145,
-  "enemyDistrictsDestroyed": 47,
+  "totalAttacks": 149,
+  "enemyDistrictsDestroyed": 49,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -28,10 +28,10 @@
     {
       "tag": "#2920V9PV",
       "name": "Ryan",
-      "attacks": 2,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 10243
+      "capitalResourcesLooted": 29250
     },
     {
       "tag": "#Q0YQURYCY",
@@ -1914,9 +1914,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/sqrZvtin98MHxQaEYMbEkinECbFFd23tl6qbJLjWVQw.png"
         }
       },
-      "attackCount": 8,
+      "attackCount": 12,
       "districtCount": 9,
-      "districtsDestroyed": 2,
+      "districtsDestroyed": 4,
       "districts": [
         {
           "id": 70000000,
@@ -1940,19 +1940,55 @@
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9434,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2920V9PV",
+                "name": "Ryan"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2920V9PV",
+                "name": "Ryan"
+              },
+              "destructionPercent": 45,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9573,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2920V9PV",
+                "name": "Ryan"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2920V9PV",
+                "name": "Ryan"
+              },
+              "destructionPercent": 47,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000004,
