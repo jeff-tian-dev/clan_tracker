@@ -2,13 +2,21 @@
   "state": "ongoing",
   "startTime": "20250808T070000.000Z",
   "endTime": "20250811T070000.000Z",
-  "capitalTotalLoot": 382469,
-  "raidsCompleted": 5,
-  "totalAttacks": 107,
-  "enemyDistrictsDestroyed": 33,
+  "capitalTotalLoot": 495697,
+  "raidsCompleted": 7,
+  "totalAttacks": 137,
+  "enemyDistrictsDestroyed": 45,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
+    {
+      "tag": "#GLU9LC2LG",
+      "name": "JLai",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 32894
+    },
     {
       "tag": "#Q0YQURYCY",
       "name": "Sushant Bhaita",
@@ -24,6 +32,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 20822
+    },
+    {
+      "tag": "#8VQYULVQQ",
+      "name": "Sir Chestnut\u2122\ufe0f",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 21867
     },
     {
       "tag": "#Q2QQL2YVV",
@@ -82,6 +98,22 @@
       "capitalResourcesLooted": 9394
     },
     {
+      "tag": "#YQ8L9JVJ2",
+      "name": "Sir Walnut\u2122\ufe0f",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 16635
+    },
+    {
+      "tag": "#PPLULPGVU",
+      "name": "devilunni",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 19622
+    },
+    {
       "tag": "#R90098P0",
       "name": "DARK MATTER",
       "attacks": 6,
@@ -136,6 +168,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 15873
+    },
+    {
+      "tag": "#GGYGQ8098",
+      "name": "Aurelian",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 22210
     },
     {
       "tag": "#LJJLL0G0V",
@@ -1234,18 +1274,52 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/iQUh10eF9fR4GcJdmc0OijhQJfg59ri0TvashYHTVMM.png"
         }
       },
-      "attackCount": 19,
+      "attackCount": 27,
       "districtCount": 9,
-      "districtsDestroyed": 6,
+      "districtsDestroyed": 9,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 13742,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YQ8L9JVJ2",
+                "name": "Sir Walnut\u2122\ufe0f"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#YQ8L9JVJ2",
+                "name": "Sir Walnut\u2122\ufe0f"
+              },
+              "destructionPercent": 82,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#YQ8L9JVJ2",
+                "name": "Sir Walnut\u2122\ufe0f"
+              },
+              "destructionPercent": 37,
+              "stars": 0
+            },
+            {
+              "attacker": {
+                "tag": "#YQ8L9JVJ2",
+                "name": "Sir Walnut\u2122\ufe0f"
+              },
+              "destructionPercent": 25,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
@@ -1383,10 +1457,36 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 12035,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YQ8L9JVJ2",
+                "name": "Sir Walnut\u2122\ufe0f"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GLU9LC2LG",
+                "name": "JLai"
+              },
+              "destructionPercent": 99,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#GLU9LC2LG",
+                "name": "JLai"
+              },
+              "destructionPercent": 46,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000006,
@@ -1427,11 +1527,19 @@
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 89,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 9780,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11903,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#YQ8L9JVJ2",
+                "name": "Sir Walnut\u2122\ufe0f"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#G28CVVRJL",
@@ -1484,6 +1592,396 @@
               "stars": 1
             }
           ]
+        }
+      ]
+    },
+    {
+      "defender": {
+        "tag": "#JGLP2UCG",
+        "name": "COC TEAM NEPAL",
+        "level": 19,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/QqHK7ylBJ-DEhGYT3xasy3sMgch06ZJIOX8SNgUoiRA.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/QqHK7ylBJ-DEhGYT3xasy3sMgch06ZJIOX8SNgUoiRA.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/QqHK7ylBJ-DEhGYT3xasy3sMgch06ZJIOX8SNgUoiRA.png"
+        }
+      },
+      "attackCount": 22,
+      "districtCount": 9,
+      "districtsDestroyed": 9,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 10,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 13335,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GGYGQ8098",
+                "name": "Aurelian"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GGYGQ8098",
+                "name": "Aurelian"
+              },
+              "destructionPercent": 97,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#GGYGQ8098",
+                "name": "Aurelian"
+              },
+              "destructionPercent": 91,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#GGYGQ8098",
+                "name": "Aurelian"
+              },
+              "destructionPercent": 55,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 9847,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#PPLULPGVU",
+                "name": "devilunni"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#PPLULPGVU",
+                "name": "devilunni"
+              },
+              "destructionPercent": 67,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#PPLULPGVU",
+                "name": "devilunni"
+              },
+              "destructionPercent": 32,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 8630,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#8VQYULVQQ",
+                "name": "Sir Chestnut\u2122\ufe0f"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#PPLULPGVU",
+                "name": "devilunni"
+              },
+              "destructionPercent": 93,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#PPLULPGVU",
+                "name": "devilunni"
+              },
+              "destructionPercent": 40,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 8875,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GGYGQ8098",
+                "name": "Aurelian"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GGYGQ8098",
+                "name": "Aurelian"
+              },
+              "destructionPercent": 72,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9249,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#8VQYULVQQ",
+                "name": "Sir Chestnut\u2122\ufe0f"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#8VQYULVQQ",
+                "name": "Sir Chestnut\u2122\ufe0f"
+              },
+              "destructionPercent": 57,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 8497,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GLU9LC2LG",
+                "name": "JLai"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GLU9LC2LG",
+                "name": "JLai"
+              },
+              "destructionPercent": 50,
+              "stars": 2
+            }
+          ]
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 8857,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GLU9LC2LG",
+                "name": "JLai"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#PPLULPGVU",
+                "name": "devilunni"
+              },
+              "destructionPercent": 31,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 3,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9465,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#8VQYULVQQ",
+                "name": "Sir Chestnut\u2122\ufe0f"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GLU9LC2LG",
+                "name": "JLai"
+              },
+              "destructionPercent": 73,
+              "stars": 2
+            }
+          ]
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 3,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 8573,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#8VQYULVQQ",
+                "name": "Sir Chestnut\u2122\ufe0f"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#8VQYULVQQ",
+                "name": "Sir Chestnut\u2122\ufe0f"
+              },
+              "destructionPercent": 78,
+              "stars": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "defender": {
+        "tag": "#CCCLC08J",
+        "name": "amig@s unid@s",
+        "level": 18,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/sqrZvtin98MHxQaEYMbEkinECbFFd23tl6qbJLjWVQw.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/sqrZvtin98MHxQaEYMbEkinECbFFd23tl6qbJLjWVQw.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/sqrZvtin98MHxQaEYMbEkinECbFFd23tl6qbJLjWVQw.png"
+        }
+      },
+      "attackCount": 0,
+      "districtCount": 9,
+      "districtsDestroyed": 0,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 10,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 4,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 4,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
         }
       ]
     }
