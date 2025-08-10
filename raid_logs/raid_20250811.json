@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250808T070000.000Z",
   "endTime": "20250811T070000.000Z",
-  "capitalTotalLoot": 627759,
+  "capitalTotalLoot": 631916,
   "raidsCompleted": 9,
-  "totalAttacks": 169,
-  "enemyDistrictsDestroyed": 55,
+  "totalAttacks": 171,
+  "enemyDistrictsDestroyed": 57,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -120,6 +120,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 21165
+    },
+    {
+      "tag": "#Q8YG2CUV2",
+      "name": "Aayush pero",
+      "attacks": 2,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 4157
     },
     {
       "tag": "#QQUUQYQVL",
@@ -2246,9 +2254,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/ivcrqvWIjwMLcr0sxRlbCd_SfzwDdjB6NbSAYJTtAJM.png"
         }
       },
-      "attackCount": 8,
+      "attackCount": 10,
       "districtCount": 9,
-      "districtsDestroyed": 1,
+      "districtsDestroyed": 3,
       "districts": [
         {
           "id": 70000000,
@@ -2353,11 +2361,19 @@
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 81,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 8270,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11269,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q8YG2CUV2",
+                "name": "Aayush pero"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#Q2QQL2YVV",
@@ -2380,11 +2396,19 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 90,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 10105,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11263,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q8YG2CUV2",
+                "name": "Aayush pero"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#Q2QQL2YVV",
@@ -3446,7 +3470,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/wMKlAnVYOtKjc3Gj19n8Pi-bx-IzxQj1-KG4JxWYlPA.png"
         }
       },
-      "attackCount": 6,
+      "attackCount": 9,
       "districtCount": 9,
       "districtsDestroyed": 1,
       "districts": [
@@ -3526,11 +3550,19 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 43,
-          "stars": 1,
-          "attackCount": 2,
-          "totalLooted": 5960,
+          "destructionPercent": 97,
+          "stars": 2,
+          "attackCount": 3,
+          "totalLooted": 10775,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#P09LYVYVU",
+                "name": "B\u2606J\u2606K-AL\u013036"
+              },
+              "destructionPercent": 97,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#LLLV0RU0",
@@ -3553,10 +3585,28 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 82,
+          "stars": 1,
+          "attackCount": 2,
+          "totalLooted": 8705,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#P09LYVYVU",
+                "name": "B\u2606J\u2606K-AL\u013036"
+              },
+              "destructionPercent": 82,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#P09LYVYVU",
+                "name": "B\u2606J\u2606K-AL\u013036"
+              },
+              "destructionPercent": 47,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000006,
