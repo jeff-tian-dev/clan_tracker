@@ -3540,9 +3540,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/wMKlAnVYOtKjc3Gj19n8Pi-bx-IzxQj1-KG4JxWYlPA.png"
         }
       },
-      "attackCount": 11,
+      "attackCount": 17,
       "districtCount": 9,
-      "districtsDestroyed": 1,
+      "districtsDestroyed": 4,
       "districts": [
         {
           "id": 70000000,
@@ -3557,10 +3557,20 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
+          "destructionPercent": 22,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 1,
+          "totalLooted": 2670,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#PV0QP89RL",
+                "name": "Bezik"
+              },
+              "destructionPercent": 22,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000002,
@@ -3690,29 +3700,73 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11418,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#PV0QP89RL",
+                "name": "Bezik"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#PV0QP89RL",
+                "name": "Bezik"
+              },
+              "destructionPercent": 43,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11612,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#PV0QP89RL",
+                "name": "Bezik"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#P2RR9YC9V",
+                "name": "\u26a1G-T\u00dcRK\u26a1FERHAT\u26a1"
+              },
+              "destructionPercent": 57,
+              "stars": 2
+            }
+          ]
         },
         {
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 65,
-          "stars": 2,
-          "attackCount": 1,
-          "totalLooted": 6745,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11682,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#P2RR9YC9V",
+                "name": "\u26a1G-T\u00dcRK\u26a1FERHAT\u26a1"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#P2RR9YC9V",
