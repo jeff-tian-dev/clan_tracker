@@ -2,13 +2,21 @@
   "state": "ongoing",
   "startTime": "20250808T070000.000Z",
   "endTime": "20250811T070000.000Z",
-  "capitalTotalLoot": 495697,
+  "capitalTotalLoot": 500772,
   "raidsCompleted": 8,
-  "totalAttacks": 137,
+  "totalAttacks": 138,
   "enemyDistrictsDestroyed": 45,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
+    {
+      "tag": "#RUVPQQR0",
+      "name": "Badboy101",
+      "attacks": 1,
+      "attackLimit": 5,
+      "bonusAttackLimit": 0,
+      "capitalResourcesLooted": 5075
+    },
     {
       "tag": "#GLU9LC2LG",
       "name": "JLai",
@@ -1898,7 +1906,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/sqrZvtin98MHxQaEYMbEkinECbFFd23tl6qbJLjWVQw.png"
         }
       },
-      "attackCount": 0,
+      "attackCount": 1,
       "districtCount": 9,
       "districtsDestroyed": 0,
       "districts": [
@@ -1978,10 +1986,20 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
+          "destructionPercent": 49,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 1,
+          "totalLooted": 5075,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#RUVPQQR0",
+                "name": "Badboy101"
+              },
+              "destructionPercent": 49,
+              "stars": 0
+            }
+          ]
         }
       ]
     }
