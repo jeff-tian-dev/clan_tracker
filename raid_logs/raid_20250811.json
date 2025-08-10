@@ -2188,18 +2188,36 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/N0d5XVFeDFfQwVrS5mecCE8NW8ze0kEB-EIbecNJ-Q0.png"
         }
       },
-      "attackCount": 20,
+      "attackCount": 26,
       "districtCount": 9,
-      "districtsDestroyed": 6,
+      "districtsDestroyed": 8,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 51,
+          "stars": 1,
+          "attackCount": 2,
+          "totalLooted": 5990,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#8GUPRJ9RL",
+                "name": "KingFireFighter"
+              },
+              "destructionPercent": 51,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#8GUPRJ9RL",
+                "name": "KingFireFighter"
+              },
+              "destructionPercent": 40,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
@@ -2275,11 +2293,19 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 82,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 8395,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11391,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#8GUPRJ9RL",
+                "name": "KingFireFighter"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#LQ99QC9VY",
@@ -2329,10 +2355,36 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11774,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#8GUPRJ9RL",
+                "name": "KingFireFighter"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#8GUPRJ9RL",
+                "name": "KingFireFighter"
+              },
+              "destructionPercent": 79,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#8GUPRJ9RL",
+                "name": "KingFireFighter"
+              },
+              "destructionPercent": 29,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000006,
