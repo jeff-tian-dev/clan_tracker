@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250808T070000.000Z",
   "endTime": "20250811T070000.000Z",
-  "capitalTotalLoot": 593178,
+  "capitalTotalLoot": 627759,
   "raidsCompleted": 9,
-  "totalAttacks": 161,
-  "enemyDistrictsDestroyed": 54,
+  "totalAttacks": 169,
+  "enemyDistrictsDestroyed": 55,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -68,10 +68,10 @@
     {
       "tag": "#Q2QQL2YVV",
       "name": "cyan",
-      "attacks": 2,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 7665
+      "capitalResourcesLooted": 26040
     },
     {
       "tag": "#QY0UGQGQY",
@@ -88,6 +88,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 20004
+    },
+    {
+      "tag": "#9U2YP0RY",
+      "name": "\u24c2\ufe0fBIG COCHY3\u24c2\ufe0f",
+      "attacks": 2,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 10351
     },
     {
       "tag": "#2VVVYYVY",
@@ -124,10 +132,10 @@
     {
       "tag": "#QRJG9YGP0",
       "name": "Coc Sweat",
-      "attacks": 3,
+      "attacks": 5,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 9394
+      "capitalResourcesLooted": 15249
     },
     {
       "tag": "#YQ8L9JVJ2",
@@ -2238,9 +2246,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/ivcrqvWIjwMLcr0sxRlbCd_SfzwDdjB6NbSAYJTtAJM.png"
         }
       },
-      "attackCount": 0,
+      "attackCount": 8,
       "districtCount": 9,
-      "districtsDestroyed": 0,
+      "districtsDestroyed": 1,
       "districts": [
         {
           "id": 70000000,
@@ -2282,10 +2290,28 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10351,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#9U2YP0RY",
+                "name": "\u24c2\ufe0fBIG COCHY3\u24c2\ufe0f"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#9U2YP0RY",
+                "name": "\u24c2\ufe0fBIG COCHY3\u24c2\ufe0f"
+              },
+              "destructionPercent": 51,
+              "stars": 2
+            }
+          ]
         },
         {
           "id": 70000005,
@@ -2300,28 +2326,82 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 58,
+          "stars": 1,
+          "attackCount": 2,
+          "totalLooted": 5855,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QRJG9YGP0",
+                "name": "Coc Sweat"
+              },
+              "destructionPercent": 58,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#QRJG9YGP0",
+                "name": "Coc Sweat"
+              },
+              "destructionPercent": 32,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 81,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 8270,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q2QQL2YVV",
+                "name": "cyan"
+              },
+              "destructionPercent": 81,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#Q2QQL2YVV",
+                "name": "cyan"
+              },
+              "destructionPercent": 49,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 90,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 10105,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q2QQL2YVV",
+                "name": "cyan"
+              },
+              "destructionPercent": 90,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#Q2QQL2YVV",
+                "name": "cyan"
+              },
+              "destructionPercent": 40,
+              "stars": 0
+            }
+          ]
         }
       ]
     }
@@ -3366,9 +3446,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/wMKlAnVYOtKjc3Gj19n8Pi-bx-IzxQj1-KG4JxWYlPA.png"
         }
       },
-      "attackCount": 0,
+      "attackCount": 4,
       "districtCount": 9,
-      "districtsDestroyed": 0,
+      "districtsDestroyed": 1,
       "districts": [
         {
           "id": 70000000,
@@ -3392,10 +3472,28 @@
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10295,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LLLV0RU0",
+                "name": "G\u26a1\ufe0fT\u00dcRK\u26a1\ufe0fB\u0130RTAN"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LLLV0RU0",
+                "name": "G\u26a1\ufe0fT\u00dcRK\u26a1\ufe0fB\u0130RTAN"
+              },
+              "destructionPercent": 45,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000003,
@@ -3410,10 +3508,28 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 43,
+          "stars": 1,
+          "attackCount": 2,
+          "totalLooted": 5960,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LLLV0RU0",
+                "name": "G\u26a1\ufe0fT\u00dcRK\u26a1\ufe0fB\u0130RTAN"
+              },
+              "destructionPercent": 43,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#LLLV0RU0",
+                "name": "G\u26a1\ufe0fT\u00dcRK\u26a1\ufe0fB\u0130RTAN"
+              },
+              "destructionPercent": 25,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000005,
