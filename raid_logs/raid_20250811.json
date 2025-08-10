@@ -2188,9 +2188,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/N0d5XVFeDFfQwVrS5mecCE8NW8ze0kEB-EIbecNJ-Q0.png"
         }
       },
-      "attackCount": 16,
+      "attackCount": 20,
       "districtCount": 9,
-      "districtsDestroyed": 5,
+      "districtsDestroyed": 6,
       "districts": [
         {
           "id": 70000000,
@@ -2240,11 +2240,27 @@
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 31,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 3030,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10685,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#LQ99QC9VY",
+                "name": "eldiablo"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LQ99QC9VY",
+                "name": "eldiablo"
+              },
+              "destructionPercent": 71,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#LRUGVQJPP",
@@ -2259,10 +2275,28 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 82,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 8395,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LQ99QC9VY",
+                "name": "eldiablo"
+              },
+              "destructionPercent": 82,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#LQ99QC9VY",
+                "name": "eldiablo"
+              },
+              "destructionPercent": 42,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000004,
