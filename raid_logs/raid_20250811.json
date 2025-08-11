@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250808T070000.000Z",
   "endTime": "20250811T070000.000Z",
-  "capitalTotalLoot": 723912,
+  "capitalTotalLoot": 725756,
   "raidsCompleted": 10,
-  "totalAttacks": 195,
-  "enemyDistrictsDestroyed": 65,
+  "totalAttacks": 196,
+  "enemyDistrictsDestroyed": 66,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -20,10 +20,10 @@
     {
       "tag": "#UJP2UYRY",
       "name": "destroyer",
-      "attacks": 5,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 24456
+      "capitalResourcesLooted": 26300
     },
     {
       "tag": "#GLU9LC2LG",
@@ -2626,9 +2626,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/roIFJMY1c5q2Uok0yIV9NywI1v9Sa5W9SZcBdufPELA.png"
         }
       },
-      "attackCount": 6,
+      "attackCount": 7,
       "districtCount": 9,
-      "districtsDestroyed": 2,
+      "districtsDestroyed": 3,
       "districts": [
         {
           "id": 70000000,
@@ -2661,11 +2661,19 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 90,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 9380,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11224,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#UJP2UYRY",
+                "name": "destroyer"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#UJP2UYRY",
