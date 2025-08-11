@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250808T070000.000Z",
   "endTime": "20250811T070000.000Z",
-  "capitalTotalLoot": 653395,
+  "capitalTotalLoot": 670656,
   "raidsCompleted": 9,
-  "totalAttacks": 178,
-  "enemyDistrictsDestroyed": 59,
+  "totalAttacks": 183,
+  "enemyDistrictsDestroyed": 61,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -120,6 +120,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 21165
+    },
+    {
+      "tag": "#QVPJG8JPJ",
+      "name": "consent",
+      "attacks": 5,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 17261
     },
     {
       "tag": "#Q8YG2CUV2",
@@ -2262,9 +2270,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/ivcrqvWIjwMLcr0sxRlbCd_SfzwDdjB6NbSAYJTtAJM.png"
         }
       },
-      "attackCount": 17,
+      "attackCount": 22,
       "districtCount": 9,
-      "districtsDestroyed": 5,
+      "districtsDestroyed": 7,
       "districts": [
         {
           "id": 70000000,
@@ -2279,20 +2287,38 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
+          "destructionPercent": 29,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 1,
+          "totalLooted": 3380,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QVPJG8JPJ",
+                "name": "consent"
+              },
+              "destructionPercent": 29,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 71,
-          "stars": 1,
-          "attackCount": 2,
-          "totalLooted": 6875,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10077,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#QVPJG8JPJ",
+                "name": "consent"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#LGGLYVUPP",
@@ -2377,11 +2403,35 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 0,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 10679,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#QVPJG8JPJ",
+                "name": "consent"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QVPJG8JPJ",
+                "name": "consent"
+              },
+              "destructionPercent": 84,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#QVPJG8JPJ",
+                "name": "consent"
+              },
+              "destructionPercent": 31,
+              "stars": 0
+            },
             {
               "attacker": {
                 "tag": "#LGGLYVUPP",
@@ -3540,9 +3590,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/wMKlAnVYOtKjc3Gj19n8Pi-bx-IzxQj1-KG4JxWYlPA.png"
         }
       },
-      "attackCount": 17,
+      "attackCount": 19,
       "districtCount": 9,
-      "districtsDestroyed": 4,
+      "districtsDestroyed": 5,
       "districts": [
         {
           "id": 70000000,
@@ -3557,11 +3607,27 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 22,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 2670,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11949,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#PV0QP89RL",
+                "name": "Bezik"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#PV0QP89RL",
+                "name": "Bezik"
+              },
+              "destructionPercent": 63,
+              "stars": 1
+            },
             {
               "attacker": {
                 "tag": "#PV0QP89RL",
