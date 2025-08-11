@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250808T070000.000Z",
   "endTime": "20250811T070000.000Z",
-  "capitalTotalLoot": 793667,
+  "capitalTotalLoot": 805178,
   "raidsCompleted": 11,
-  "totalAttacks": 211,
-  "enemyDistrictsDestroyed": 72,
+  "totalAttacks": 214,
+  "enemyDistrictsDestroyed": 73,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -176,6 +176,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 16635
+    },
+    {
+      "tag": "#LYJJ9PLV9",
+      "name": "Phantom",
+      "attacks": 3,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 11511
     },
     {
       "tag": "#PPLULPGVU",
@@ -2934,9 +2942,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/pwGbFqAvg8Y2_HgNdTCfFTaPkjZqFYcVqu7So8WiWAI.png"
         }
       },
-      "attackCount": 0,
+      "attackCount": 3,
       "districtCount": 9,
-      "districtsDestroyed": 0,
+      "districtsDestroyed": 1,
       "districts": [
         {
           "id": 70000000,
@@ -2951,10 +2959,36 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11511,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LYJJ9PLV9",
+                "name": "Phantom"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LYJJ9PLV9",
+                "name": "Phantom"
+              },
+              "destructionPercent": 74,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#LYJJ9PLV9",
+                "name": "Phantom"
+              },
+              "destructionPercent": 42,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000002,
