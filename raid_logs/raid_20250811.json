@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250808T070000.000Z",
   "endTime": "20250811T070000.000Z",
-  "capitalTotalLoot": 725756,
+  "capitalTotalLoot": 757778,
   "raidsCompleted": 10,
-  "totalAttacks": 196,
-  "enemyDistrictsDestroyed": 66,
+  "totalAttacks": 203,
+  "enemyDistrictsDestroyed": 68,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -24,6 +24,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 26300
+    },
+    {
+      "tag": "#YVGGJLPRJ",
+      "name": "Smog",
+      "attacks": 3,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 11623
     },
     {
       "tag": "#GLU9LC2LG",
@@ -100,10 +108,10 @@
     {
       "tag": "#9U2YP0RY",
       "name": "\u24c2\ufe0fBIG COCHY3\u24c2\ufe0f",
-      "attacks": 2,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 10351
+      "capitalResourcesLooted": 30750
     },
     {
       "tag": "#2VVVYYVY",
@@ -2626,9 +2634,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/roIFJMY1c5q2Uok0yIV9NywI1v9Sa5W9SZcBdufPELA.png"
         }
       },
-      "attackCount": 7,
+      "attackCount": 14,
       "districtCount": 9,
-      "districtsDestroyed": 3,
+      "districtsDestroyed": 5,
       "districts": [
         {
           "id": 70000000,
@@ -2643,19 +2651,55 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 93,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 10090,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#9U2YP0RY",
+                "name": "\u24c2\ufe0fBIG COCHY3\u24c2\ufe0f"
+              },
+              "destructionPercent": 93,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#9U2YP0RY",
+                "name": "\u24c2\ufe0fBIG COCHY3\u24c2\ufe0f"
+              },
+              "destructionPercent": 58,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10309,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#9U2YP0RY",
+                "name": "\u24c2\ufe0fBIG COCHY3\u24c2\ufe0f"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#9U2YP0RY",
+                "name": "\u24c2\ufe0fBIG COCHY3\u24c2\ufe0f"
+              },
+              "destructionPercent": 59,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000003,
@@ -2768,10 +2812,36 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11623,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YVGGJLPRJ",
+                "name": "Smog"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#YVGGJLPRJ",
+                "name": "Smog"
+              },
+              "destructionPercent": 85,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#YVGGJLPRJ",
+                "name": "Smog"
+              },
+              "destructionPercent": 12,
+              "stars": 0
+            }
+          ]
         }
       ]
     }

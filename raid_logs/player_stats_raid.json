@@ -425,10 +425,10 @@
       },
       {
         "date": "20250811",
-        "attacksUsed": 2,
-        "capitalGold": 10351,
-        "avgLootPerAttack": 5175.5,
-        "attacksMissed": 4,
+        "attacksUsed": 6,
+        "capitalGold": 30750,
+        "avgLootPerAttack": 5125.0,
+        "attacksMissed": 0,
         "missedRaid": false
       }
     ]
@@ -2719,10 +2719,10 @@
       },
       {
         "date": "20250811",
-        "attacksUsed": 0,
-        "capitalGold": 0,
-        "avgLootPerAttack": "---",
-        "attacksMissed": 6,
+        "attacksUsed": 3,
+        "capitalGold": 11623,
+        "avgLootPerAttack": 3874.3,
+        "attacksMissed": 3,
         "missedRaid": false
       }
     ]
@@ -5021,7 +5021,7 @@
       }
     ]
   },
-  "timestamp": "2025-08-10 23:00:03",
+  "timestamp": "2025-08-11 00:00:03",
   "#LJVP0GRUG": {
     "name": "Agi",
     "tag": "#LJVP0GRUG",
@@ -12031,6 +12031,68 @@
   "#VJ0CQLVJ": {
     "name": "Dossed",
     "tag": "#VJ0CQLVJ",
+    "history": [
+      {
+        "date": "20250630",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250707",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250714",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250721",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250728",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250804",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250811",
+        "attacksUsed": 0,
+        "capitalGold": 0,
+        "avgLootPerAttack": "---",
+        "attacksMissed": 6,
+        "missedRaid": false
+      }
+    ]
+  },
+  "#GJ8LPC0YU": {
+    "name": "oain",
+    "tag": "#GJ8LPC0YU",
     "history": [
       {
         "date": "20250630",
