@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/virBrcS50-Sn7recipNNVOrSFtiXsnQqnDVFgRvawlY.png"
     },
     "clanLevel": 8,
-    "attacks": 12,
-    "stars": 29,
-    "destructionPercentage": 35.7,
+    "attacks": 15,
+    "stars": 37,
+    "destructionPercentage": 45.6,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -192,6 +192,24 @@
         "name": "9/11",
         "townhallLevel": 14,
         "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#QQUUQYQVL",
+            "defenderTag": "#LLU8VPPV2",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 23,
+            "duration": 93
+          },
+          {
+            "attackerTag": "#QQUUQYQVL",
+            "defenderTag": "#9PQ2V2Y9",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 24,
+            "duration": 123
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -264,6 +282,16 @@
         "name": "exofall",
         "townhallLevel": 17,
         "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#G28CVVRJL",
+            "defenderTag": "#QRLUPQ0L8",
+            "stars": 2,
+            "destructionPercentage": 97,
+            "order": 25,
+            "duration": 180
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#QRLUPQ0L8",
@@ -507,7 +535,15 @@
         "name": "\ub300\uc6d0\uc4f0",
         "townhallLevel": 14,
         "mapPosition": 13,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QQUUQYQVL",
+          "defenderTag": "#9PQ2V2Y9",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 24,
+          "duration": 123
+        }
       },
       {
         "tag": "#29JRJ8G0Y",
@@ -584,7 +620,15 @@
             "duration": 148
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#G28CVVRJL",
+          "defenderTag": "#QRLUPQ0L8",
+          "stars": 2,
+          "destructionPercentage": 97,
+          "order": 25,
+          "duration": 180
+        }
       },
       {
         "tag": "#PCQQ00UJP",
@@ -713,7 +757,15 @@
         "name": "R.I.P X",
         "townhallLevel": 14,
         "mapPosition": 14,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QQUUQYQVL",
+          "defenderTag": "#LLU8VPPV2",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 23,
+          "duration": 93
+        }
       },
       {
         "tag": "#GUY8GRRLC",
