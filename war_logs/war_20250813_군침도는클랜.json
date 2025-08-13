@@ -15,7 +15,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/virBrcS50-Sn7recipNNVOrSFtiXsnQqnDVFgRvawlY.png"
     },
     "clanLevel": 8,
-    "attacks": 40,
+    "attacks": 42,
     "stars": 86,
     "destructionPercentage": 97.96667,
     "members": [
@@ -97,6 +97,24 @@
         "name": "Sushant Bhaita",
         "townhallLevel": 14,
         "mapPosition": 24,
+        "attacks": [
+          {
+            "attackerTag": "#Q0YQURYCY",
+            "defenderTag": "#8URQYULP9",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 62,
+            "duration": 113
+          },
+          {
+            "attackerTag": "#Q0YQURYCY",
+            "defenderTag": "#G0G28Y802",
+            "stars": 2,
+            "destructionPercentage": 61,
+            "order": 63,
+            "duration": 86
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#2V8YJQCUR",
@@ -1014,7 +1032,7 @@
             "duration": 179
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#YL2VYQJC9",
           "defenderTag": "#G0G28Y802",
@@ -1039,7 +1057,7 @@
             "duration": 111
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#QRP2RLV02",
           "defenderTag": "#8URQYULP9",
