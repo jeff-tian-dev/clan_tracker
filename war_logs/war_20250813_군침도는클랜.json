@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/virBrcS50-Sn7recipNNVOrSFtiXsnQqnDVFgRvawlY.png"
     },
     "clanLevel": 8,
-    "attacks": 30,
-    "stars": 71,
-    "destructionPercentage": 84.53333,
+    "attacks": 32,
+    "stars": 72,
+    "destructionPercentage": 84.566666,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -471,6 +471,24 @@
         "name": "Aurelian",
         "townhallLevel": 11,
         "mapPosition": 30,
+        "attacks": [
+          {
+            "attackerTag": "#GGYGQ8098",
+            "defenderTag": "#QJULCVV88",
+            "stars": 2,
+            "destructionPercentage": 71,
+            "order": 42,
+            "duration": 96
+          },
+          {
+            "attackerTag": "#GGYGQ8098",
+            "defenderTag": "#GJ808R02R",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 43,
+            "duration": 141
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -935,14 +953,14 @@
         "name": "\uc804\uad11\uc11d\ud654",
         "townhallLevel": 15,
         "mapPosition": 25,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#G09YYYRLY",
+          "attackerTag": "#GGYGQ8098",
           "defenderTag": "#GJ808R02R",
-          "stars": 2,
-          "destructionPercentage": 99,
-          "order": 6,
-          "duration": 180
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 43,
+          "duration": 141
         }
       },
       {
@@ -1073,7 +1091,7 @@
         "name": "dudans3108",
         "townhallLevel": 14,
         "mapPosition": 27,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#Q2QQL2YVV",
           "defenderTag": "#QJULCVV88",
