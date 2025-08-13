@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/virBrcS50-Sn7recipNNVOrSFtiXsnQqnDVFgRvawlY.png"
     },
     "clanLevel": 8,
-    "attacks": 44,
-    "stars": 87,
-    "destructionPercentage": 98.433334,
+    "attacks": 46,
+    "stars": 89,
+    "destructionPercentage": 99.9,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -609,7 +609,7 @@
             "duration": 111
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
           "attackerTag": "#YLG8CG2QQ",
           "defenderTag": "#YL2VYQJC9",
@@ -822,7 +822,25 @@
         "name": "Cookies",
         "townhallLevel": 14,
         "mapPosition": 16,
-        "opponentAttacks": 1,
+        "attacks": [
+          {
+            "attackerTag": "#LCUL88JLG",
+            "defenderTag": "#YPGQC280V",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 89,
+            "duration": 132
+          },
+          {
+            "attackerTag": "#LCUL88JLG",
+            "defenderTag": "#2V8YJQCUR",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 90,
+            "duration": 124
+          }
+        ],
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
           "attackerTag": "#JRU88PCG",
           "defenderTag": "#LCUL88JLG",
@@ -876,7 +894,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/eEBwG-PkX1azve9CvnUyWAST5w-900y9nXsl4NsLcIE.png"
     },
     "clanLevel": 7,
-    "attacks": 44,
+    "attacks": 48,
     "stars": 85,
     "destructionPercentage": 97.76667,
     "members": [
@@ -1189,14 +1207,14 @@
             "duration": 101
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#QRCJ8Y92C",
+          "attackerTag": "#LCUL88JLG",
           "defenderTag": "#YPGQC280V",
-          "stars": 2,
-          "destructionPercentage": 61,
-          "order": 45,
-          "duration": 85
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 89,
+          "duration": 132
         }
       },
       {
@@ -1379,14 +1397,14 @@
             "duration": 124
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#LGGLYVUPP",
+          "attackerTag": "#LCUL88JLG",
           "defenderTag": "#2V8YJQCUR",
-          "stars": 2,
-          "destructionPercentage": 95,
-          "order": 33,
-          "duration": 180
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 90,
+          "duration": 124
         }
       },
       {
@@ -1493,6 +1511,24 @@
         "name": "\uc804\uad11\uc11d\ud654",
         "townhallLevel": 15,
         "mapPosition": 25,
+        "attacks": [
+          {
+            "attackerTag": "#GJ808R02R",
+            "defenderTag": "#LCUL88JLG",
+            "stars": 2,
+            "destructionPercentage": 71,
+            "order": 91,
+            "duration": 146
+          },
+          {
+            "attackerTag": "#GJ808R02R",
+            "defenderTag": "#YL2VYQJC9",
+            "stars": 2,
+            "destructionPercentage": 75,
+            "order": 92,
+            "duration": 111
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#GGYGQ8098",
@@ -1586,6 +1622,24 @@
         "name": "\uc6a9\uc6a9\uc774",
         "townhallLevel": 14,
         "mapPosition": 17,
+        "attacks": [
+          {
+            "attackerTag": "#LCLPYRRL",
+            "defenderTag": "#LCUL88JLG",
+            "stars": 2,
+            "destructionPercentage": 92,
+            "order": 93,
+            "duration": 101
+          },
+          {
+            "attackerTag": "#LCLPYRRL",
+            "defenderTag": "#YL2VYQJC9",
+            "stars": 2,
+            "destructionPercentage": 75,
+            "order": 94,
+            "duration": 83
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#9VU0VU90G",
