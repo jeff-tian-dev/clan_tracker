@@ -436,7 +436,15 @@
             "duration": 168
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#8CRUGRG0Y",
+          "defenderTag": "#PPLULPGVU",
+          "stars": 2,
+          "destructionPercentage": 74,
+          "order": 62,
+          "duration": 116
+        }
       },
       {
         "tag": "#RJULR9R",
@@ -528,7 +536,7 @@
         "name": "TheRealRHZ",
         "townhallLevel": 12,
         "mapPosition": 29,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#P29PQLQYG",
           "defenderTag": "#YJ09R8L0P",
@@ -746,9 +754,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/mjlijhlqHhnnAuqLS2AFBcAL5QeQG0VJZSgHZHt0Olg.png"
     },
     "clanLevel": 20,
-    "attacks": 20,
-    "stars": 40,
-    "destructionPercentage": 50.4,
+    "attacks": 22,
+    "stars": 42,
+    "destructionPercentage": 52.866665,
     "members": [
       {
         "tag": "#QJPL92QR9",
@@ -1300,6 +1308,14 @@
             "destructionPercentage": 100,
             "order": 60,
             "duration": 129
+          },
+          {
+            "attackerTag": "#G0UYG0UPQ",
+            "defenderTag": "#YJ09R8L0P",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 63,
+            "duration": 169
           }
         ],
         "opponentAttacks": 1,
@@ -1380,6 +1396,14 @@
             "destructionPercentage": 82,
             "order": 11,
             "duration": 115
+          },
+          {
+            "attackerTag": "#8CRUGRG0Y",
+            "defenderTag": "#PPLULPGVU",
+            "stars": 2,
+            "destructionPercentage": 74,
+            "order": 62,
+            "duration": 116
           }
         ],
         "opponentAttacks": 4,
