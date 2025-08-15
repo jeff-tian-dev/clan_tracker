@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250815T070000.000Z",
   "endTime": "20250818T070000.000Z",
-  "capitalTotalLoot": 128774,
+  "capitalTotalLoot": 169913,
   "raidsCompleted": 2,
-  "totalAttacks": 34,
-  "enemyDistrictsDestroyed": 11,
+  "totalAttacks": 43,
+  "enemyDistrictsDestroyed": 15,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -28,10 +28,18 @@
     {
       "tag": "#QVUQ2VR98",
       "name": "William the thi",
-      "attacks": 4,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 17156
+      "capitalResourcesLooted": 27881
+    },
+    {
+      "tag": "#QQUUQYQVL",
+      "name": "9/11",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 24894
     },
     {
       "tag": "#QRJG9YGP0",
@@ -60,10 +68,10 @@
     {
       "tag": "#QPPC9V2YY",
       "name": "bhaya",
-      "attacks": 4,
+      "attacks": 5,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 14711
+      "capitalResourcesLooted": 20231
     },
     {
       "tag": "#LLYV29CU",
@@ -434,9 +442,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/6QUUkLWgeeb-nNtz-lx4gvBQ-mfT0RdKCcaf5ZCIVzs.png"
         }
       },
-      "attackCount": 5,
+      "attackCount": 14,
       "districtCount": 9,
-      "districtsDestroyed": 2,
+      "districtsDestroyed": 6,
       "districts": [
         {
           "id": 70000000,
@@ -451,29 +459,65 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 58,
+          "stars": 2,
+          "attackCount": 1,
+          "totalLooted": 5310,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QVUQ2VR98",
+                "name": "William the thi"
+              },
+              "destructionPercent": 58,
+              "stars": 2
+            }
+          ]
         },
         {
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 8710,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QQUUQYQVL",
+                "name": "9/11"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QQUUQYQVL",
+                "name": "9/11"
+              },
+              "destructionPercent": 32,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 40,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 3605,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9125,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#QPPC9V2YY",
+                "name": "bhaya"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#QPPC9V2YY",
@@ -488,19 +532,47 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9794,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QQUUQYQVL",
+                "name": "9/11"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QQUUQYQVL",
+                "name": "9/11"
+              },
+              "destructionPercent": 48,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 62,
+          "stars": 2,
+          "attackCount": 1,
+          "totalLooted": 5415,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QVUQ2VR98",
+                "name": "William the thi"
+              },
+              "destructionPercent": 62,
+              "stars": 2
+            }
+          ]
         },
         {
           "id": 70000006,
@@ -560,10 +632,28 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 3,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 6390,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QQUUQYQVL",
+                "name": "9/11"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QQUUQYQVL",
+                "name": "9/11"
+              },
+              "destructionPercent": 88,
+              "stars": 2
+            }
+          ]
         }
       ]
     }
