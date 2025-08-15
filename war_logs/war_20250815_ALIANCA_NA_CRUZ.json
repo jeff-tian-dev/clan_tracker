@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/virBrcS50-Sn7recipNNVOrSFtiXsnQqnDVFgRvawlY.png"
     },
     "clanLevel": 8,
-    "attacks": 32,
+    "attacks": 35,
     "stars": 85,
-    "destructionPercentage": 95.63333,
+    "destructionPercentage": 96.7,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -351,6 +351,16 @@
         "name": "Phantom",
         "townhallLevel": 15,
         "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#LYJJ9PLV9",
+            "defenderTag": "#QJLJ0YYQJ",
+            "stars": 2,
+            "destructionPercentage": 75,
+            "order": 50,
+            "duration": 151
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#9Y22L02R",
@@ -366,6 +376,24 @@
         "name": "devilunni",
         "townhallLevel": 14,
         "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#PPLULPGVU",
+            "defenderTag": "#LV8PR02R0",
+            "stars": 2,
+            "destructionPercentage": 91,
+            "order": 48,
+            "duration": 180
+          },
+          {
+            "attackerTag": "#PPLULPGVU",
+            "defenderTag": "#8CRUGRG0Y",
+            "stars": 2,
+            "destructionPercentage": 94,
+            "order": 49,
+            "duration": 168
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -751,7 +779,7 @@
         "name": "arisimba",
         "townhallLevel": 16,
         "mapPosition": 3,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#YQ8L9JVJ2",
           "defenderTag": "#QJLJ0YYQJ",
@@ -1165,14 +1193,14 @@
             "duration": 126
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#QQUUQYQVL",
+          "attackerTag": "#PPLULPGVU",
           "defenderTag": "#LV8PR02R0",
           "stars": 2,
-          "destructionPercentage": 84,
-          "order": 46,
-          "duration": 117
+          "destructionPercentage": 91,
+          "order": 48,
+          "duration": 180
         }
       },
       {
@@ -1220,14 +1248,14 @@
             "duration": 115
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#Q0YQURYCY",
+          "attackerTag": "#PPLULPGVU",
           "defenderTag": "#8CRUGRG0Y",
           "stars": 2,
-          "destructionPercentage": 69,
-          "order": 43,
-          "duration": 111
+          "destructionPercentage": 94,
+          "order": 49,
+          "duration": 168
         }
       }
     ]

@@ -399,11 +399,11 @@
       },
       {
         "date": "20250815",
-        "attacksUsed": 0,
-        "starsEarned": 0,
-        "destruction": 0,
-        "attacksMissed": 2,
-        "zeroParticipation": true
+        "attacksUsed": 1,
+        "starsEarned": 2,
+        "destruction": 75,
+        "attacksMissed": 1,
+        "zeroParticipation": false
       }
     ]
   },
@@ -9691,7 +9691,7 @@
       }
     ]
   },
-  "timestamp": "2025-08-15 02:00:03",
+  "timestamp": "2025-08-15 03:00:03",
   "#GPPQ0JCJR": {
     "name": "Goujii",
     "tag": "#GPPQ0JCJR",
@@ -13202,11 +13202,11 @@
       },
       {
         "date": "20250815",
-        "attacksUsed": 0,
-        "starsEarned": 0,
-        "destruction": 0,
-        "attacksMissed": 2,
-        "zeroParticipation": true
+        "attacksUsed": 2,
+        "starsEarned": 4,
+        "destruction": 185,
+        "attacksMissed": 0,
+        "zeroParticipation": false
       }
     ]
   },
@@ -13831,6 +13831,20 @@
   "#2UR89Q8QY": {
     "name": "™ ExTreme ™",
     "tag": "#2UR89Q8QY",
+    "history": [
+      {
+        "date": "20250815",
+        "attacksUsed": "---",
+        "starsEarned": "---",
+        "destruction": "---",
+        "attacksMissed": 0,
+        "zeroParticipation": true
+      }
+    ]
+  },
+  "#898VLGGV2": {
+    "name": "samee",
+    "tag": "#898VLGGV2",
     "history": [
       {
         "date": "20250815",
