@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/virBrcS50-Sn7recipNNVOrSFtiXsnQqnDVFgRvawlY.png"
     },
     "clanLevel": 8,
-    "attacks": 35,
-    "stars": 85,
-    "destructionPercentage": 96.7,
+    "attacks": 37,
+    "stars": 86,
+    "destructionPercentage": 97.86667,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -647,6 +647,24 @@
         "name": "Swift",
         "townhallLevel": 16,
         "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#PRGGL2J2V",
+            "defenderTag": "#2288QYRLG",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 51,
+            "duration": 116
+          },
+          {
+            "attackerTag": "#PRGGL2J2V",
+            "defenderTag": "#QJLJ0YYQJ",
+            "stars": 2,
+            "destructionPercentage": 69,
+            "order": 52,
+            "duration": 109
+          }
+        ],
         "opponentAttacks": 0
       }
     ]
@@ -684,14 +702,14 @@
         "name": "Hplax",
         "townhallLevel": 15,
         "mapPosition": 9,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#8VQYULVQQ",
+          "attackerTag": "#PRGGL2J2V",
           "defenderTag": "#2288QYRLG",
-          "stars": 2,
-          "destructionPercentage": 65,
-          "order": 36,
-          "duration": 102
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 51,
+          "duration": 116
         }
       },
       {
@@ -779,7 +797,7 @@
         "name": "arisimba",
         "townhallLevel": 16,
         "mapPosition": 3,
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
           "attackerTag": "#YQ8L9JVJ2",
           "defenderTag": "#QJLJ0YYQJ",
