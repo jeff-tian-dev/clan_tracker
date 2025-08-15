@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250815T070000.000Z",
   "endTime": "20250818T070000.000Z",
-  "capitalTotalLoot": 56722,
+  "capitalTotalLoot": 80562,
   "raidsCompleted": 1,
-  "totalAttacks": 13,
-  "enemyDistrictsDestroyed": 5,
+  "totalAttacks": 19,
+  "enemyDistrictsDestroyed": 7,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -24,6 +24,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 22902
+    },
+    {
+      "tag": "#R90098P0",
+      "name": "DARK MATTER",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 23840
     },
     {
       "tag": "#LLYV29CU",
@@ -46,9 +54,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/ieHe-Rrqnef8ZvNiF2MLVZAo3HkOqe1d9tFXTid7Jeo.png"
         }
       },
-      "attackCount": 13,
+      "attackCount": 19,
       "districtCount": 9,
-      "districtsDestroyed": 5,
+      "districtsDestroyed": 7,
       "districts": [
         {
           "id": 70000000,
@@ -160,10 +168,36 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 12176,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#R90098P0",
+                "name": "DARK MATTER"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#R90098P0",
+                "name": "DARK MATTER"
+              },
+              "destructionPercent": 81,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#R90098P0",
+                "name": "DARK MATTER"
+              },
+              "destructionPercent": 34,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000005,
@@ -240,10 +274,36 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11664,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#R90098P0",
+                "name": "DARK MATTER"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#R90098P0",
+                "name": "DARK MATTER"
+              },
+              "destructionPercent": 63,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#R90098P0",
+                "name": "DARK MATTER"
+              },
+              "destructionPercent": 28,
+              "stars": 0
+            }
+          ]
         }
       ]
     }
