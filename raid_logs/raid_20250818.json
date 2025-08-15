@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250815T070000.000Z",
   "endTime": "20250818T070000.000Z",
-  "capitalTotalLoot": 169913,
+  "capitalTotalLoot": 186896,
   "raidsCompleted": 2,
-  "totalAttacks": 43,
-  "enemyDistrictsDestroyed": 15,
+  "totalAttacks": 49,
+  "enemyDistrictsDestroyed": 17,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -16,6 +16,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 32423
+    },
+    {
+      "tag": "#2VVVYYVY",
+      "name": "(in)visible",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 16983
     },
     {
       "tag": "#YJUYGR9GP",
@@ -442,28 +450,62 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/6QUUkLWgeeb-nNtz-lx4gvBQ-mfT0RdKCcaf5ZCIVzs.png"
         }
       },
-      "attackCount": 14,
+      "attackCount": 20,
       "districtCount": 9,
-      "districtsDestroyed": 6,
+      "districtsDestroyed": 8,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 70,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 7780,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2VVVYYVY",
+                "name": "(in)visible"
+              },
+              "destructionPercent": 70,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#2VVVYYVY",
+                "name": "(in)visible"
+              },
+              "destructionPercent": 50,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 58,
-          "stars": 2,
-          "attackCount": 1,
-          "totalLooted": 5310,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11120,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#2VVVYYVY",
+                "name": "(in)visible"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2VVVYYVY",
+                "name": "(in)visible"
+              },
+              "destructionPercent": 97,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#QVUQ2VR98",
@@ -559,11 +601,27 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 4,
-          "destructionPercent": 62,
-          "stars": 2,
-          "attackCount": 1,
-          "totalLooted": 5415,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 8808,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#2VVVYYVY",
+                "name": "(in)visible"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2VVVYYVY",
+                "name": "(in)visible"
+              },
+              "destructionPercent": 86,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#QVUQ2VR98",
@@ -986,9 +1044,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/FFwpZnN9DbFA7giwLG4GL_w9elkJ2r9ZwFA8_0iMVaA.png"
         }
       },
-      "attackCount": 15,
+      "attackCount": 16,
       "districtCount": 9,
-      "districtsDestroyed": 4,
+      "districtsDestroyed": 5,
       "districts": [
         {
           "id": 70000000,
@@ -1055,11 +1113,19 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 67,
-          "stars": 1,
-          "attackCount": 2,
-          "totalLooted": 6025,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11484,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#QVUJV029J",
+                "name": "claris"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#GG0LVJPV8",
