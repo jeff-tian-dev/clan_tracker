@@ -501,11 +501,11 @@
       },
       {
         "date": "20250815",
-        "attacksUsed": 0,
-        "starsEarned": 0,
-        "destruction": 0,
-        "attacksMissed": 2,
-        "zeroParticipation": true
+        "attacksUsed": 2,
+        "starsEarned": 6,
+        "destruction": 200,
+        "attacksMissed": 0,
+        "zeroParticipation": false
       }
     ]
   },
@@ -9691,7 +9691,7 @@
       }
     ]
   },
-  "timestamp": "2025-08-14 21:00:03",
+  "timestamp": "2025-08-14 22:00:04",
   "#GPPQ0JCJR": {
     "name": "Goujii",
     "tag": "#GPPQ0JCJR",
@@ -13592,11 +13592,11 @@
       },
       {
         "date": "20250815",
-        "attacksUsed": 0,
-        "starsEarned": 0,
-        "destruction": 0,
-        "attacksMissed": 2,
-        "zeroParticipation": true
+        "attacksUsed": 2,
+        "starsEarned": 6,
+        "destruction": 200,
+        "attacksMissed": 0,
+        "zeroParticipation": false
       }
     ]
   },
@@ -13817,6 +13817,20 @@
   "#QVUQ2VR98": {
     "name": "William the thi",
     "tag": "#QVUQ2VR98",
+    "history": [
+      {
+        "date": "20250815",
+        "attacksUsed": "---",
+        "starsEarned": "---",
+        "destruction": "---",
+        "attacksMissed": 0,
+        "zeroParticipation": true
+      }
+    ]
+  },
+  "#2UR89Q8QY": {
+    "name": "™ ExTreme ™",
+    "tag": "#2UR89Q8QY",
     "history": [
       {
         "date": "20250815",
