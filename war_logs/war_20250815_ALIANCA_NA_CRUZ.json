@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/virBrcS50-Sn7recipNNVOrSFtiXsnQqnDVFgRvawlY.png"
     },
     "clanLevel": 8,
-    "attacks": 28,
-    "stars": 79,
-    "destructionPercentage": 89.13333,
+    "attacks": 32,
+    "stars": 85,
+    "destructionPercentage": 95.63333,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -293,6 +293,24 @@
         "name": "9/11",
         "townhallLevel": 14,
         "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#QQUUQYQVL",
+            "defenderTag": "#LV8PR02R0",
+            "stars": 2,
+            "destructionPercentage": 84,
+            "order": 46,
+            "duration": 117
+          },
+          {
+            "attackerTag": "#QQUUQYQVL",
+            "defenderTag": "#PGVUG08RG",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 47,
+            "duration": 143
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#LRLG9V08",
@@ -355,6 +373,24 @@
         "name": "kingsaxon2000",
         "townhallLevel": 14,
         "mapPosition": 25,
+        "attacks": [
+          {
+            "attackerTag": "#RJULR9R",
+            "defenderTag": "#P29PQLQYG",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 44,
+            "duration": 73
+          },
+          {
+            "attackerTag": "#RJULR9R",
+            "defenderTag": "#LVUUUCQYP",
+            "stars": 2,
+            "destructionPercentage": 64,
+            "order": 45,
+            "duration": 59
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#Q0CQ9L8YP",
@@ -866,7 +902,15 @@
             "duration": 88
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#RJULR9R",
+          "defenderTag": "#P29PQLQYG",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 44,
+          "duration": 73
+        }
       },
       {
         "tag": "#PQQ8UVC0",
@@ -1066,14 +1110,14 @@
         "name": "MELIODAS",
         "townhallLevel": 14,
         "mapPosition": 15,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#YL2VYQJC9",
+          "attackerTag": "#QQUUQYQVL",
           "defenderTag": "#PGVUG08RG",
-          "stars": 2,
-          "destructionPercentage": 78,
-          "order": 41,
-          "duration": 145
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 47,
+          "duration": 143
         }
       },
       {
@@ -1081,7 +1125,15 @@
         "name": "destruidor",
         "townhallLevel": 16,
         "mapPosition": 11,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#RJULR9R",
+          "defenderTag": "#LVUUUCQYP",
+          "stars": 2,
+          "destructionPercentage": 64,
+          "order": 45,
+          "duration": 59
+        }
       },
       {
         "tag": "#G0UYG0UPQ",
@@ -1113,14 +1165,14 @@
             "duration": 126
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#Q0YQURYCY",
+          "attackerTag": "#QQUUQYQVL",
           "defenderTag": "#LV8PR02R0",
           "stars": 2,
-          "destructionPercentage": 75,
-          "order": 42,
-          "duration": 129
+          "destructionPercentage": 84,
+          "order": 46,
+          "duration": 117
         }
       },
       {
