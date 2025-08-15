@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250815T070000.000Z",
   "endTime": "20250818T070000.000Z",
-  "capitalTotalLoot": 32423,
-  "raidsCompleted": 0,
-  "totalAttacks": 6,
-  "enemyDistrictsDestroyed": 2,
+  "capitalTotalLoot": 56722,
+  "raidsCompleted": 1,
+  "totalAttacks": 13,
+  "enemyDistrictsDestroyed": 5,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -16,6 +16,22 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 32423
+    },
+    {
+      "tag": "#PPLULPGVU",
+      "name": "devilunni",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 22902
+    },
+    {
+      "tag": "#LLYV29CU",
+      "name": "1rose",
+      "attacks": 1,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 1397
     }
   ],
   "attackLog": [
@@ -30,9 +46,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/ieHe-Rrqnef8ZvNiF2MLVZAo3HkOqe1d9tFXTid7Jeo.png"
         }
       },
-      "attackCount": 6,
+      "attackCount": 13,
       "districtCount": 9,
-      "districtsDestroyed": 2,
+      "districtsDestroyed": 5,
       "districts": [
         {
           "id": 70000000,
@@ -47,10 +63,36 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11514,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#PPLULPGVU",
+                "name": "devilunni"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#PPLULPGVU",
+                "name": "devilunni"
+              },
+              "destructionPercent": 72,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#PPLULPGVU",
+                "name": "devilunni"
+              },
+              "destructionPercent": 40,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000002,
@@ -83,10 +125,36 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11388,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#PPLULPGVU",
+                "name": "devilunni"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#PPLULPGVU",
+                "name": "devilunni"
+              },
+              "destructionPercent": 71,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#PPLULPGVU",
+                "name": "devilunni"
+              },
+              "destructionPercent": 24,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000004,
@@ -137,11 +205,19 @@
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 93,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 10710,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 12107,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#LLYV29CU",
+                "name": "1rose"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#9U2YP0RY",
@@ -184,55 +260,175 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/_kkq5rBsdzj30ogCTsvn0CL7J0p_i3GPX3VOL1oO6Kk.png"
         }
       },
-      "attackCount": 8,
+      "attackCount": 25,
       "districtCount": 9,
-      "districtsDestroyed": 3,
+      "districtsDestroyed": 9,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 13535,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#L9QPYPYRV",
+                "name": "odean"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#L9QPYPYRV",
+                "name": "odean"
+              },
+              "destructionPercent": 85,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#L9QPYPYRV",
+                "name": "odean"
+              },
+              "destructionPercent": 53,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11934,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#L9QPYPYRV",
+                "name": "odean"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#RY8V8VQ0",
+                "name": "alex"
+              },
+              "destructionPercent": 85,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#RY8V8VQ0",
+                "name": "alex"
+              },
+              "destructionPercent": 40,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10538,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#RY8V8VQ0",
+                "name": "alex"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LQLV0GYYV",
+                "name": "songsong"
+              },
+              "destructionPercent": 81,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#LQLV0GYYV",
+                "name": "songsong"
+              },
+              "destructionPercent": 39,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11580,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LQLV0GYYV",
+                "name": "songsong"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LQLV0GYYV",
+                "name": "songsong"
+              },
+              "destructionPercent": 82,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#LQLV0GYYV",
+                "name": "songsong"
+              },
+              "destructionPercent": 43,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 25,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 3010,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 12152,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#RY8V8VQ0",
+                "name": "alex"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LQLV0GYYV",
+                "name": "songsong"
+              },
+              "destructionPercent": 85,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#LQC9J0C82",
@@ -247,10 +443,36 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 12035,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#L9QPYPYRV",
+                "name": "odean"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#RY8V8VQ0",
+                "name": "alex"
+              },
+              "destructionPercent": 99,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#RY8V8VQ0",
+                "name": "alex"
+              },
+              "destructionPercent": 61,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000006,

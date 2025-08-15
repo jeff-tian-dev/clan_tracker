@@ -15,7 +15,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/virBrcS50-Sn7recipNNVOrSFtiXsnQqnDVFgRvawlY.png"
     },
     "clanLevel": 8,
-    "attacks": 37,
+    "attacks": 39,
     "stars": 86,
     "destructionPercentage": 97.86667,
     "members": [
@@ -253,6 +253,24 @@
         "name": "dipranjan",
         "townhallLevel": 14,
         "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#YJUYGR9GP",
+            "defenderTag": "#LV8PR02R0",
+            "stars": 2,
+            "destructionPercentage": 90,
+            "order": 53,
+            "duration": 135
+          },
+          {
+            "attackerTag": "#YJUYGR9GP",
+            "defenderTag": "#8CRUGRG0Y",
+            "stars": 1,
+            "destructionPercentage": 88,
+            "order": 54,
+            "duration": 121
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#YC9V8VP0",
@@ -1211,7 +1229,7 @@
             "duration": 126
           }
         ],
-        "opponentAttacks": 3,
+        "opponentAttacks": 4,
         "bestOpponentAttack": {
           "attackerTag": "#PPLULPGVU",
           "defenderTag": "#LV8PR02R0",
@@ -1266,7 +1284,7 @@
             "duration": 115
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
           "attackerTag": "#PPLULPGVU",
           "defenderTag": "#8CRUGRG0Y",
