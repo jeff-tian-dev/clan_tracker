@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/virBrcS50-Sn7recipNNVOrSFtiXsnQqnDVFgRvawlY.png"
     },
     "clanLevel": 8,
-    "attacks": 24,
-    "stars": 70,
-    "destructionPercentage": 78.4,
+    "attacks": 28,
+    "stars": 79,
+    "destructionPercentage": 89.13333,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -63,6 +63,24 @@
         "name": "Sushant Bhaita",
         "townhallLevel": 14,
         "mapPosition": 22,
+        "attacks": [
+          {
+            "attackerTag": "#Q0YQURYCY",
+            "defenderTag": "#LV8PR02R0",
+            "stars": 2,
+            "destructionPercentage": 75,
+            "order": 42,
+            "duration": 129
+          },
+          {
+            "attackerTag": "#Q0YQURYCY",
+            "defenderTag": "#8CRUGRG0Y",
+            "stars": 2,
+            "destructionPercentage": 69,
+            "order": 43,
+            "duration": 111
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#QQPCC0Q8Y",
@@ -411,6 +429,24 @@
         "name": "DauntedThrone40",
         "townhallLevel": 14,
         "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#YL2VYQJC9",
+            "defenderTag": "#9Y9LVCCGP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 40,
+            "duration": 120
+          },
+          {
+            "attackerTag": "#YL2VYQJC9",
+            "defenderTag": "#PGVUG08RG",
+            "stars": 2,
+            "destructionPercentage": 78,
+            "order": 41,
+            "duration": 145
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#LRLG9V08",
@@ -664,7 +700,15 @@
         "name": "thadeubrbr",
         "townhallLevel": 14,
         "mapPosition": 17,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YL2VYQJC9",
+          "defenderTag": "#9Y9LVCCGP",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 40,
+          "duration": 120
+        }
       },
       {
         "tag": "#QJLJ0YYQJ",
@@ -1022,7 +1066,15 @@
         "name": "MELIODAS",
         "townhallLevel": 14,
         "mapPosition": 15,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YL2VYQJC9",
+          "defenderTag": "#PGVUG08RG",
+          "stars": 2,
+          "destructionPercentage": 78,
+          "order": 41,
+          "duration": 145
+        }
       },
       {
         "tag": "#LVUUUCQYP",
@@ -1061,7 +1113,15 @@
             "duration": 126
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q0YQURYCY",
+          "defenderTag": "#LV8PR02R0",
+          "stars": 2,
+          "destructionPercentage": 75,
+          "order": 42,
+          "duration": 129
+        }
       },
       {
         "tag": "#PR9JGLULP",
@@ -1108,7 +1168,15 @@
             "duration": 115
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q0YQURYCY",
+          "defenderTag": "#8CRUGRG0Y",
+          "stars": 2,
+          "destructionPercentage": 69,
+          "order": 43,
+          "duration": 111
+        }
       }
     ]
   }
