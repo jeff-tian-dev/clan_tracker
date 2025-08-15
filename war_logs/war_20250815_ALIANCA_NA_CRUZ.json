@@ -24,7 +24,15 @@
         "name": "Badboy101",
         "townhallLevel": 13,
         "mapPosition": 26,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2C80U99R",
+          "defenderTag": "#RUVPQQR0",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 67,
+          "duration": 100
+        }
       },
       {
         "tag": "#UJP2UYRY",
@@ -139,7 +147,15 @@
             "duration": 153
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LVUUUCQYP",
+          "defenderTag": "#8VQYULVQQ",
+          "stars": 2,
+          "destructionPercentage": 92,
+          "order": 65,
+          "duration": 103
+        }
       },
       {
         "tag": "#V0JYCPRR",
@@ -506,14 +522,14 @@
         "name": "JT",
         "townhallLevel": 13,
         "mapPosition": 27,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#QC99L8GY9",
+          "attackerTag": "#GGPL08VG8",
           "defenderTag": "#QRP2RLV02",
           "stars": 1,
-          "destructionPercentage": 57,
-          "order": 58,
-          "duration": 85
+          "destructionPercentage": 58,
+          "order": 64,
+          "duration": 88
         }
       },
       {
@@ -741,7 +757,15 @@
             "duration": 109
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LVUUUCQYP",
+          "defenderTag": "#PRGGL2J2V",
+          "stars": 2,
+          "destructionPercentage": 94,
+          "order": 66,
+          "duration": 119
+        }
       }
     ]
   },
@@ -754,9 +778,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/mjlijhlqHhnnAuqLS2AFBcAL5QeQG0VJZSgHZHt0Olg.png"
     },
     "clanLevel": 20,
-    "attacks": 22,
-    "stars": 42,
-    "destructionPercentage": 52.866665,
+    "attacks": 26,
+    "stars": 49,
+    "destructionPercentage": 62.433334,
     "members": [
       {
         "tag": "#QJPL92QR9",
@@ -816,6 +840,14 @@
             "destructionPercentage": 91,
             "order": 20,
             "duration": 158
+          },
+          {
+            "attackerTag": "#GGPL08VG8",
+            "defenderTag": "#QRP2RLV02",
+            "stars": 1,
+            "destructionPercentage": 58,
+            "order": 64,
+            "duration": 88
           }
         ],
         "opponentAttacks": 1,
@@ -977,6 +1009,14 @@
             "destructionPercentage": 79,
             "order": 17,
             "duration": 128
+          },
+          {
+            "attackerTag": "#2C80U99R",
+            "defenderTag": "#RUVPQQR0",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 67,
+            "duration": 100
           }
         ],
         "opponentAttacks": 1,
@@ -1285,6 +1325,24 @@
         "name": "destruidor",
         "townhallLevel": 16,
         "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#LVUUUCQYP",
+            "defenderTag": "#8VQYULVQQ",
+            "stars": 2,
+            "destructionPercentage": 92,
+            "order": 65,
+            "duration": 103
+          },
+          {
+            "attackerTag": "#LVUUUCQYP",
+            "defenderTag": "#PRGGL2J2V",
+            "stars": 2,
+            "destructionPercentage": 94,
+            "order": 66,
+            "duration": 119
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#RJULR9R",
