@@ -15,7 +15,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/virBrcS50-Sn7recipNNVOrSFtiXsnQqnDVFgRvawlY.png"
     },
     "clanLevel": 8,
-    "attacks": 47,
+    "attacks": 48,
     "stars": 90,
     "destructionPercentage": 100.0,
     "members": [
@@ -57,7 +57,15 @@
             "duration": 82
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QJPL92QR9",
+          "defenderTag": "#UJP2UYRY",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 80,
+          "duration": 131
+        }
       },
       {
         "tag": "#GLU9LC2LG",
@@ -82,7 +90,15 @@
             "duration": 129
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YC9V8VP0",
+          "defenderTag": "#GLU9LC2LG",
+          "stars": 2,
+          "destructionPercentage": 84,
+          "order": 78,
+          "duration": 122
+        }
       },
       {
         "tag": "#Q0YQURYCY",
@@ -140,7 +156,15 @@
             "duration": 122
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YRJVYJJG",
+          "defenderTag": "#Q9QU8L8YV",
+          "stars": 2,
+          "destructionPercentage": 62,
+          "order": 77,
+          "duration": 99
+        }
       },
       {
         "tag": "#8VQYULVQQ",
@@ -304,7 +328,15 @@
             "duration": 88
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PQQ8UVC0",
+          "defenderTag": "#9U2YP0RY",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 74,
+          "duration": 151
+        }
       },
       {
         "tag": "#YJUYGR9GP",
@@ -518,6 +550,16 @@
         "name": "King Killer",
         "townhallLevel": 15,
         "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#J88YJGY9",
+            "defenderTag": "#YC9V8VP0",
+            "stars": 2,
+            "destructionPercentage": 97,
+            "order": 79,
+            "duration": 180
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#PQCULJ9JV",
@@ -551,7 +593,15 @@
             "duration": 100
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 2,
+        "bestOpponentAttack": {
+          "attackerTag": "#YRJVYJJG",
+          "defenderTag": "#YJ2UV2GY",
+          "stars": 2,
+          "destructionPercentage": 85,
+          "order": 76,
+          "duration": 117
+        }
       },
       {
         "tag": "#QRP2RLV02",
@@ -832,15 +882,25 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/mjlijhlqHhnnAuqLS2AFBcAL5QeQG0VJZSgHZHt0Olg.png"
     },
     "clanLevel": 20,
-    "attacks": 26,
-    "stars": 49,
-    "destructionPercentage": 62.433334,
+    "attacks": 32,
+    "stars": 61,
+    "destructionPercentage": 76.8,
     "members": [
       {
         "tag": "#QJPL92QR9",
         "name": "Scorpion",
         "townhallLevel": 16,
         "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#QJPL92QR9",
+            "defenderTag": "#UJP2UYRY",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 80,
+            "duration": 131
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#Q9QU8L8YV",
@@ -1113,6 +1173,24 @@
         "name": "felipexd2",
         "townhallLevel": 15,
         "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#YRJVYJJG",
+            "defenderTag": "#YJ2UV2GY",
+            "stars": 2,
+            "destructionPercentage": 85,
+            "order": 76,
+            "duration": 117
+          },
+          {
+            "attackerTag": "#YRJVYJJG",
+            "defenderTag": "#Q9QU8L8YV",
+            "stars": 2,
+            "destructionPercentage": 62,
+            "order": 77,
+            "duration": 99
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#Q9QU8L8YV",
@@ -1161,6 +1239,24 @@
         "name": "Rush5k",
         "townhallLevel": 15,
         "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#PQQ8UVC0",
+            "defenderTag": "#9U2YP0RY",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 74,
+            "duration": 151
+          },
+          {
+            "attackerTag": "#PQQ8UVC0",
+            "defenderTag": "#YJ2UV2GY",
+            "stars": 1,
+            "destructionPercentage": 90,
+            "order": 75,
+            "duration": 161
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#9U2YP0RY",
@@ -1314,9 +1410,17 @@
             "destructionPercentage": 100,
             "order": 16,
             "duration": 125
+          },
+          {
+            "attackerTag": "#YC9V8VP0",
+            "defenderTag": "#GLU9LC2LG",
+            "stars": 2,
+            "destructionPercentage": 84,
+            "order": 78,
+            "duration": 122
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#GLU9LC2LG",
           "defenderTag": "#YC9V8VP0",
