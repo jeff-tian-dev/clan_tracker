@@ -2,13 +2,21 @@
   "state": "ongoing",
   "startTime": "20250815T070000.000Z",
   "endTime": "20250818T070000.000Z",
-  "capitalTotalLoot": 216715,
+  "capitalTotalLoot": 242517,
   "raidsCompleted": 3,
-  "totalAttacks": 55,
-  "enemyDistrictsDestroyed": 20,
+  "totalAttacks": 61,
+  "enemyDistrictsDestroyed": 22,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
+    {
+      "tag": "#Q0YQURYCY",
+      "name": "Sushant Bhaita",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 25802
+    },
     {
       "tag": "#9U2YP0RY",
       "name": "\u24c2\ufe0fBIG COCHY3\u24c2\ufe0f",
@@ -742,9 +750,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/p2xI52OmJo6bRwvY7Q2WdeDvbavEqo0_TERtQZyHjxI.png"
         }
       },
-      "attackCount": 5,
+      "attackCount": 11,
       "districtCount": 9,
-      "districtsDestroyed": 2,
+      "districtsDestroyed": 4,
       "districts": [
         {
           "id": 70000000,
@@ -768,28 +776,82 @@
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 8702,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q0YQURYCY",
+                "name": "Sushant Bhaita"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Q0YQURYCY",
+                "name": "Sushant Bhaita"
+              },
+              "destructionPercent": 31,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 90,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 7615,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q0YQURYCY",
+                "name": "Sushant Bhaita"
+              },
+              "destructionPercent": 90,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#Q0YQURYCY",
+                "name": "Sushant Bhaita"
+              },
+              "destructionPercent": 45,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9485,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q0YQURYCY",
+                "name": "Sushant Bhaita"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Q0YQURYCY",
+                "name": "Sushant Bhaita"
+              },
+              "destructionPercent": 57,
+              "stars": 2
+            }
+          ]
         },
         {
           "id": 70000005,
