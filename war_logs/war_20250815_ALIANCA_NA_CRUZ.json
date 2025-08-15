@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/virBrcS50-Sn7recipNNVOrSFtiXsnQqnDVFgRvawlY.png"
     },
     "clanLevel": 8,
-    "attacks": 8,
-    "stars": 24,
-    "destructionPercentage": 26.666666,
+    "attacks": 10,
+    "stars": 30,
+    "destructionPercentage": 33.333332,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -45,7 +45,15 @@
         "name": "Sushant Bhaita",
         "townhallLevel": 14,
         "mapPosition": 22,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2C80U99R",
+          "defenderTag": "#Q0YQURYCY",
+          "stars": 1,
+          "destructionPercentage": 79,
+          "order": 17,
+          "duration": 128
+        }
       },
       {
         "tag": "#Q9QU8L8YV",
@@ -173,7 +181,15 @@
         "name": "dipranjan",
         "townhallLevel": 14,
         "mapPosition": 12,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YC9V8VP0",
+          "defenderTag": "#YJUYGR9GP",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 16,
+          "duration": 125
+        }
       },
       {
         "tag": "#QRCJ8Y92C",
@@ -187,7 +203,15 @@
         "name": "9/11",
         "townhallLevel": 14,
         "mapPosition": 15,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LRLG9V08",
+          "defenderTag": "#QQUUQYQVL",
+          "stars": 2,
+          "destructionPercentage": 93,
+          "order": 14,
+          "duration": 150
+        }
       },
       {
         "tag": "#YQ8L9JVJ2",
@@ -201,7 +225,15 @@
         "name": "Phantom",
         "townhallLevel": 15,
         "mapPosition": 6,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#9Y22L02R",
+          "defenderTag": "#LYJJ9PLV9",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 10,
+          "duration": 153
+        }
       },
       {
         "tag": "#PPLULPGVU",
@@ -215,7 +247,15 @@
         "name": "kingsaxon2000",
         "townhallLevel": 14,
         "mapPosition": 25,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q0CQ9L8YP",
+          "defenderTag": "#RJULR9R",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 18,
+          "duration": 121
+        }
       },
       {
         "tag": "#J88YJGY9",
@@ -243,7 +283,15 @@
         "name": "bhaya",
         "townhallLevel": 14,
         "mapPosition": 13,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#8CRUGRG0Y",
+          "defenderTag": "#QPPC9V2YY",
+          "stars": 2,
+          "destructionPercentage": 82,
+          "order": 11,
+          "duration": 115
+        }
       },
       {
         "tag": "#YJ09R8L0P",
@@ -257,13 +305,39 @@
         "name": "DauntedThrone40",
         "townhallLevel": 14,
         "mapPosition": 14,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LRLG9V08",
+          "defenderTag": "#YL2VYQJC9",
+          "stars": 2,
+          "destructionPercentage": 77,
+          "order": 15,
+          "duration": 180
+        }
       },
       {
         "tag": "#G28CVVRJL",
         "name": "exofall",
         "townhallLevel": 17,
         "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#G28CVVRJL",
+            "defenderTag": "#GVY0LVP8",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 12,
+            "duration": 164
+          },
+          {
+            "attackerTag": "#G28CVVRJL",
+            "defenderTag": "#PR9JGLULP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 13,
+            "duration": 148
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -320,9 +394,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/mjlijhlqHhnnAuqLS2AFBcAL5QeQG0VJZSgHZHt0Olg.png"
     },
     "clanLevel": 20,
-    "attacks": 1,
-    "stars": 3,
-    "destructionPercentage": 3.3333333,
+    "attacks": 8,
+    "stars": 19,
+    "destructionPercentage": 24.366667,
     "members": [
       {
         "tag": "#QJPL92QR9",
@@ -357,6 +431,16 @@
         "name": "RAfa",
         "townhallLevel": 15,
         "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#9Y22L02R",
+            "defenderTag": "#LYJJ9PLV9",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 10,
+            "duration": 153
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#9U2YP0RY",
@@ -393,6 +477,24 @@
         "name": "vinids",
         "townhallLevel": 14,
         "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#LRLG9V08",
+            "defenderTag": "#QQUUQYQVL",
+            "stars": 2,
+            "destructionPercentage": 93,
+            "order": 14,
+            "duration": 150
+          },
+          {
+            "attackerTag": "#LRLG9V08",
+            "defenderTag": "#YL2VYQJC9",
+            "stars": 2,
+            "destructionPercentage": 77,
+            "order": 15,
+            "duration": 180
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -400,13 +502,31 @@
         "name": "Doctor Who",
         "townhallLevel": 17,
         "mapPosition": 1,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#G28CVVRJL",
+          "defenderTag": "#GVY0LVP8",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 12,
+          "duration": 164
+        }
       },
       {
         "tag": "#2C80U99R",
         "name": "Samg",
         "townhallLevel": 13,
         "mapPosition": 22,
+        "attacks": [
+          {
+            "attackerTag": "#2C80U99R",
+            "defenderTag": "#Q0YQURYCY",
+            "stars": 1,
+            "destructionPercentage": 79,
+            "order": 17,
+            "duration": 128
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#Q028GQUL9",
@@ -475,6 +595,16 @@
         "name": "XxSHADOWxX",
         "townhallLevel": 13,
         "mapPosition": 25,
+        "attacks": [
+          {
+            "attackerTag": "#Q0CQ9L8YP",
+            "defenderTag": "#RJULR9R",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 18,
+            "duration": 121
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#V0JYCPRR",
@@ -534,6 +664,16 @@
         "name": "Rivaldo Rzo",
         "townhallLevel": 14,
         "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#YC9V8VP0",
+            "defenderTag": "#YJUYGR9GP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 16,
+            "duration": 125
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -584,7 +724,15 @@
         "name": "sub zero",
         "townhallLevel": 17,
         "mapPosition": 2,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#G28CVVRJL",
+          "defenderTag": "#PR9JGLULP",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 13,
+          "duration": 148
+        }
       },
       {
         "tag": "#9L02VVRG0",
@@ -606,6 +754,16 @@
         "name": "Monodread",
         "townhallLevel": 14,
         "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#8CRUGRG0Y",
+            "defenderTag": "#QPPC9V2YY",
+            "stars": 2,
+            "destructionPercentage": 82,
+            "order": 11,
+            "duration": 115
+          }
+        ],
         "opponentAttacks": 0
       }
     ]
