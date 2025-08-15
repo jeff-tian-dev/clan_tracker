@@ -123,14 +123,14 @@
             "duration": 111
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#QQPCC0Q8Y",
+          "attackerTag": "#9Y9LVCCGP",
           "defenderTag": "#Q0YQURYCY",
           "stars": 2,
-          "destructionPercentage": 87,
-          "order": 27,
-          "duration": 180
+          "destructionPercentage": 93,
+          "order": 91,
+          "duration": 111
         }
       },
       {
@@ -402,14 +402,14 @@
             "duration": 110
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#2Q8LGJU90",
+          "attackerTag": "#9Y9LVCCGP",
           "defenderTag": "#QRCJ8Y92C",
-          "stars": 2,
-          "destructionPercentage": 88,
-          "order": 84,
-          "duration": 180
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 90,
+          "duration": 106
         }
       },
       {
@@ -746,14 +746,14 @@
             "duration": 148
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#PR9JGLULP",
+          "attackerTag": "#9Y22L02R",
           "defenderTag": "#G28CVVRJL",
-          "stars": 1,
-          "destructionPercentage": 66,
-          "order": 81,
-          "duration": 115
+          "stars": 2,
+          "destructionPercentage": 98,
+          "order": 92,
+          "duration": 180
         }
       },
       {
@@ -893,14 +893,14 @@
             "duration": 109
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#LVUUUCQYP",
+          "attackerTag": "#GVY0LVP8",
           "defenderTag": "#PRGGL2J2V",
-          "stars": 2,
-          "destructionPercentage": 94,
-          "order": 66,
-          "duration": 119
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 93,
+          "duration": 159
         }
       }
     ]
@@ -914,9 +914,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/mjlijhlqHhnnAuqLS2AFBcAL5QeQG0VJZSgHZHt0Olg.png"
     },
     "clanLevel": 20,
-    "attacks": 41,
-    "stars": 74,
-    "destructionPercentage": 92.03333,
+    "attacks": 45,
+    "stars": 77,
+    "destructionPercentage": 93.9,
     "members": [
       {
         "tag": "#QJPL92QR9",
@@ -1045,6 +1045,14 @@
             "destructionPercentage": 100,
             "order": 10,
             "duration": 153
+          },
+          {
+            "attackerTag": "#9Y22L02R",
+            "defenderTag": "#G28CVVRJL",
+            "stars": 2,
+            "destructionPercentage": 98,
+            "order": 92,
+            "duration": 180
           }
         ],
         "opponentAttacks": 1,
@@ -1062,6 +1070,24 @@
         "name": "thadeubrbr",
         "townhallLevel": 14,
         "mapPosition": 17,
+        "attacks": [
+          {
+            "attackerTag": "#9Y9LVCCGP",
+            "defenderTag": "#QRCJ8Y92C",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 90,
+            "duration": 106
+          },
+          {
+            "attackerTag": "#9Y9LVCCGP",
+            "defenderTag": "#Q0YQURYCY",
+            "stars": 2,
+            "destructionPercentage": 93,
+            "order": 91,
+            "duration": 111
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#YL2VYQJC9",
@@ -1158,6 +1184,16 @@
         "name": "Doctor Who",
         "townhallLevel": 17,
         "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#GVY0LVP8",
+            "defenderTag": "#PRGGL2J2V",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 93,
+            "duration": 159
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#G28CVVRJL",
