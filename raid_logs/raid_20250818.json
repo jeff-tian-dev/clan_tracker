@@ -2,9 +2,9 @@
   "state": "ongoing",
   "startTime": "20250815T070000.000Z",
   "endTime": "20250818T070000.000Z",
-  "capitalTotalLoot": 80562,
+  "capitalTotalLoot": 84627,
   "raidsCompleted": 1,
-  "totalAttacks": 19,
+  "totalAttacks": 21,
   "enemyDistrictsDestroyed": 7,
   "offensiveReward": 0,
   "defensiveReward": 0,
@@ -16,6 +16,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 32423
+    },
+    {
+      "tag": "#YJUYGR9GP",
+      "name": "dipranjan",
+      "attacks": 2,
+      "attackLimit": 5,
+      "bonusAttackLimit": 0,
+      "capitalResourcesLooted": 4065
     },
     {
       "tag": "#PPLULPGVU",
@@ -54,7 +62,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/ieHe-Rrqnef8ZvNiF2MLVZAo3HkOqe1d9tFXTid7Jeo.png"
         }
       },
-      "attackCount": 19,
+      "attackCount": 21,
       "districtCount": 9,
       "districtsDestroyed": 7,
       "districts": [
@@ -203,10 +211,28 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
+          "destructionPercent": 37,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 2,
+          "totalLooted": 4065,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YJUYGR9GP",
+                "name": "dipranjan"
+              },
+              "destructionPercent": 37,
+              "stars": 0
+            },
+            {
+              "attacker": {
+                "tag": "#YJUYGR9GP",
+                "name": "dipranjan"
+              },
+              "destructionPercent": 20,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000006,
