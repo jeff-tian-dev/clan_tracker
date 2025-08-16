@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250815T070000.000Z",
   "endTime": "20250818T070000.000Z",
-  "capitalTotalLoot": 310665,
+  "capitalTotalLoot": 337520,
   "raidsCompleted": 4,
-  "totalAttacks": 77,
-  "enemyDistrictsDestroyed": 29,
+  "totalAttacks": 84,
+  "enemyDistrictsDestroyed": 30,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -20,10 +20,10 @@
     {
       "tag": "#Q2QQL2YVV",
       "name": "cyan",
-      "attacks": 4,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 18714
+      "capitalResourcesLooted": 24354
     },
     {
       "tag": "#9U2YP0RY",
@@ -116,10 +116,10 @@
     {
       "tag": "#LLYV29CU",
       "name": "1rose",
-      "attacks": 1,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 1397
+      "capitalResourcesLooted": 22612
     },
     {
       "tag": "#PRGGL2J2V",
@@ -1058,9 +1058,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/TVOB_bMFFm6357nnuYgDkfTC0BKN4hrIUfBhg6oMTLw.png"
         }
       },
-      "attackCount": 6,
+      "attackCount": 13,
       "districtCount": 9,
-      "districtsDestroyed": 2,
+      "districtsDestroyed": 3,
       "districts": [
         {
           "id": 70000000,
@@ -1075,10 +1075,28 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 57,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 5640,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q2QQL2YVV",
+                "name": "cyan"
+              },
+              "destructionPercent": 57,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#Q2QQL2YVV",
+                "name": "cyan"
+              },
+              "destructionPercent": 29,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000002,
@@ -1102,10 +1120,28 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 80,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 9760,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LLYV29CU",
+                "name": "1rose"
+              },
+              "destructionPercent": 80,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#LLYV29CU",
+                "name": "1rose"
+              },
+              "destructionPercent": 32,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000005,
@@ -1192,10 +1228,36 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11455,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LLYV29CU",
+                "name": "1rose"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LLYV29CU",
+                "name": "1rose"
+              },
+              "destructionPercent": 69,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#LLYV29CU",
+                "name": "1rose"
+              },
+              "destructionPercent": 32,
+              "stars": 0
+            }
+          ]
         }
       ]
     }
