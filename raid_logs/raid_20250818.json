@@ -2428,9 +2428,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/wr6ZFESjRyF0Eg18qMT0QThcH2sbLQa1vNBmoJHNH6c.png"
         }
       },
-      "attackCount": 9,
+      "attackCount": 16,
       "districtCount": 9,
-      "districtsDestroyed": 2,
+      "districtsDestroyed": 4,
       "districts": [
         {
           "id": 70000000,
@@ -2445,19 +2445,55 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 72,
+          "stars": 1,
+          "attackCount": 2,
+          "totalLooted": 8355,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#L09J8LJUQ",
+                "name": "skinz67"
+              },
+              "destructionPercent": 72,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#L09J8LJUQ",
+                "name": "skinz67"
+              },
+              "destructionPercent": 27,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10226,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#L09J8LJUQ",
+                "name": "skinz67"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#L09J8LJUQ",
+                "name": "skinz67"
+              },
+              "destructionPercent": 50,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000003,
@@ -2472,10 +2508,36 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 12173,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#URY0YQRV",
+                "name": "5kinz69"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#URY0YQRV",
+                "name": "5kinz69"
+              },
+              "destructionPercent": 84,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#URY0YQRV",
+                "name": "5kinz69"
+              },
+              "destructionPercent": 30,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000005,
