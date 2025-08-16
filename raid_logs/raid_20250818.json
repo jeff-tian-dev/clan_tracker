@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250815T070000.000Z",
   "endTime": "20250818T070000.000Z",
-  "capitalTotalLoot": 515889,
+  "capitalTotalLoot": 542736,
   "raidsCompleted": 8,
-  "totalAttacks": 127,
-  "enemyDistrictsDestroyed": 47,
+  "totalAttacks": 133,
+  "enemyDistrictsDestroyed": 49,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -32,6 +32,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 25802
+    },
+    {
+      "tag": "#Q9QU8L8YV",
+      "name": "je suis excit\u00e9",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 26847
     },
     {
       "tag": "#8VQYULVQQ",
@@ -1754,9 +1762,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/uBX-nSG2oObaXnmM8UW5gculmv-21o5N0H1x9PBDpjY.png"
         }
       },
-      "attackCount": 5,
+      "attackCount": 11,
       "districtCount": 9,
-      "districtsDestroyed": 2,
+      "districtsDestroyed": 4,
       "districts": [
         {
           "id": 70000000,
@@ -1798,20 +1806,46 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10300,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q9QU8L8YV",
+                "name": "je suis excit\u00e9"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Q9QU8L8YV",
+                "name": "je suis excit\u00e9"
+              },
+              "destructionPercent": 49,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 43,
-          "stars": 1,
-          "attackCount": 1,
-          "totalLooted": 4395,
+          "destructionPercent": 95,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 9675,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q9QU8L8YV",
+                "name": "je suis excit\u00e9"
+              },
+              "destructionPercent": 95,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#UJP2UYRY",
@@ -1880,10 +1914,36 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11267,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q9QU8L8YV",
+                "name": "je suis excit\u00e9"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Q9QU8L8YV",
+                "name": "je suis excit\u00e9"
+              },
+              "destructionPercent": 97,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#Q9QU8L8YV",
+                "name": "je suis excit\u00e9"
+              },
+              "destructionPercent": 47,
+              "stars": 0
+            }
+          ]
         }
       ]
     }
