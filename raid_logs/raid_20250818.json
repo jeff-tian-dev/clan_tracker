@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250815T070000.000Z",
   "endTime": "20250818T070000.000Z",
-  "capitalTotalLoot": 282779,
+  "capitalTotalLoot": 310665,
   "raidsCompleted": 4,
-  "totalAttacks": 71,
-  "enemyDistrictsDestroyed": 27,
+  "totalAttacks": 77,
+  "enemyDistrictsDestroyed": 29,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -96,6 +96,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 29819
+    },
+    {
+      "tag": "#QRP2RLV02",
+      "name": "JT",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 27886
     },
     {
       "tag": "#QPPC9V2YY",
@@ -1050,9 +1058,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/TVOB_bMFFm6357nnuYgDkfTC0BKN4hrIUfBhg6oMTLw.png"
         }
       },
-      "attackCount": 0,
+      "attackCount": 6,
       "districtCount": 9,
-      "districtsDestroyed": 0,
+      "districtsDestroyed": 2,
       "districts": [
         {
           "id": 70000000,
@@ -1103,28 +1111,82 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
+          "destructionPercent": 43,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 1,
+          "totalLooted": 4540,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QRP2RLV02",
+                "name": "JT"
+              },
+              "destructionPercent": 43,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11813,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QRP2RLV02",
+                "name": "JT"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QRP2RLV02",
+                "name": "JT"
+              },
+              "destructionPercent": 94,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#QRP2RLV02",
+                "name": "JT"
+              },
+              "destructionPercent": 44,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11533,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QRP2RLV02",
+                "name": "JT"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QRP2RLV02",
+                "name": "JT"
+              },
+              "destructionPercent": 48,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000008,
