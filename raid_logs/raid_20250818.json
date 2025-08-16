@@ -2428,9 +2428,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/wr6ZFESjRyF0Eg18qMT0QThcH2sbLQa1vNBmoJHNH6c.png"
         }
       },
-      "attackCount": 3,
+      "attackCount": 9,
       "districtCount": 9,
-      "districtsDestroyed": 1,
+      "districtsDestroyed": 2,
       "districts": [
         {
           "id": 70000000,
@@ -2490,10 +2490,36 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 84,
+          "stars": 2,
+          "attackCount": 3,
+          "totalLooted": 9975,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LCUYY82V9",
+                "name": "Rocky"
+              },
+              "destructionPercent": 84,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#LCUYY82V9",
+                "name": "Rocky"
+              },
+              "destructionPercent": 64,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#LCUYY82V9",
+                "name": "Rocky"
+              },
+              "destructionPercent": 35,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000007,
@@ -2534,10 +2560,36 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 12093,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LCUYY82V9",
+                "name": "Rocky"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LCUYY82V9",
+                "name": "Rocky"
+              },
+              "destructionPercent": 69,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#LCUYY82V9",
+                "name": "Rocky"
+              },
+              "destructionPercent": 33,
+              "stars": 0
+            }
+          ]
         }
       ]
     }
