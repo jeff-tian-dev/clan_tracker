@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250815T070000.000Z",
   "endTime": "20250818T070000.000Z",
-  "capitalTotalLoot": 348904,
-  "raidsCompleted": 4,
-  "totalAttacks": 87,
-  "enemyDistrictsDestroyed": 31,
+  "capitalTotalLoot": 363820,
+  "raidsCompleted": 5,
+  "totalAttacks": 90,
+  "enemyDistrictsDestroyed": 32,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -116,10 +116,10 @@
     {
       "tag": "#LCUL88JLG",
       "name": "Cookies",
-      "attacks": 3,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 11384
+      "capitalResourcesLooted": 26300
     },
     {
       "tag": "#LLYV29CU",
@@ -1066,9 +1066,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/TVOB_bMFFm6357nnuYgDkfTC0BKN4hrIUfBhg6oMTLw.png"
         }
       },
-      "attackCount": 16,
+      "attackCount": 19,
       "districtCount": 9,
-      "districtsDestroyed": 4,
+      "districtsDestroyed": 5,
       "districts": [
         {
           "id": 70000000,
@@ -1083,11 +1083,19 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 57,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 5640,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11421,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#LCUL88JLG",
+                "name": "Cookies"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#Q2QQL2YVV",
@@ -1110,10 +1118,28 @@
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 88,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 9135,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LCUL88JLG",
+                "name": "Cookies"
+              },
+              "destructionPercent": 88,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#LCUL88JLG",
+                "name": "Cookies"
+              },
+              "destructionPercent": 48,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000003,
@@ -1624,18 +1650,60 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/FFwpZnN9DbFA7giwLG4GL_w9elkJ2r9ZwFA8_0iMVaA.png"
         }
       },
-      "attackCount": 27,
+      "attackCount": 33,
       "districtCount": 9,
-      "districtsDestroyed": 7,
+      "districtsDestroyed": 9,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 5,
+          "totalLooted": 13427,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GG8GVLYUV",
+                "name": "\u82b1\u5bb6\u820d"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GG8GVLYUV",
+                "name": "\u82b1\u5bb6\u820d"
+              },
+              "destructionPercent": 73,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#GG8GVLYUV",
+                "name": "\u82b1\u5bb6\u820d"
+              },
+              "destructionPercent": 68,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#GG8GVLYUV",
+                "name": "\u82b1\u5bb6\u820d"
+              },
+              "destructionPercent": 59,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#GG8GVLYUV",
+                "name": "\u82b1\u5bb6\u820d"
+              },
+              "destructionPercent": 26,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
@@ -1875,11 +1943,19 @@
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 87,
-          "stars": 2,
-          "attackCount": 3,
-          "totalLooted": 9815,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 12065,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#GG8GVLYUV",
+                "name": "\u82b1\u5bb6\u820d"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#GCRRYUVU2",
