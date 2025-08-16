@@ -2,9 +2,9 @@
   "state": "ongoing",
   "startTime": "20250815T070000.000Z",
   "endTime": "20250818T070000.000Z",
-  "capitalTotalLoot": 482768,
+  "capitalTotalLoot": 487038,
   "raidsCompleted": 6,
-  "totalAttacks": 120,
+  "totalAttacks": 121,
   "enemyDistrictsDestroyed": 44,
   "offensiveReward": 0,
   "defensiveReward": 0,
@@ -132,10 +132,10 @@
     {
       "tag": "#QPPC9V2YY",
       "name": "bhaya",
-      "attacks": 5,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 20231
+      "capitalResourcesLooted": 24501
     },
     {
       "tag": "#G28CVVRJL",
@@ -1438,7 +1438,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/wB-zozpuRZlIQqM7DyhD_sATNPoaI7NeQsuSuDyyiOw.png"
         }
       },
-      "attackCount": 22,
+      "attackCount": 23,
       "districtCount": 9,
       "districtsDestroyed": 8,
       "districts": [
@@ -1446,11 +1446,19 @@
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 45,
-          "stars": 0,
-          "attackCount": 2,
-          "totalLooted": 5840,
+          "destructionPercent": 84,
+          "stars": 2,
+          "attackCount": 3,
+          "totalLooted": 10110,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#QPPC9V2YY",
+                "name": "bhaya"
+              },
+              "destructionPercent": 84,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#GGYGQ8098",
@@ -2428,9 +2436,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/wr6ZFESjRyF0Eg18qMT0QThcH2sbLQa1vNBmoJHNH6c.png"
         }
       },
-      "attackCount": 19,
+      "attackCount": 22,
       "districtCount": 9,
-      "districtsDestroyed": 6,
+      "districtsDestroyed": 7,
       "districts": [
         {
           "id": 70000000,
@@ -2569,10 +2577,36 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11687,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#PVQ2PJYUP",
+                "name": "MiniCrabber"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#PVQ2PJYUP",
+                "name": "MiniCrabber"
+              },
+              "destructionPercent": 82,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#PVQ2PJYUP",
+                "name": "MiniCrabber"
+              },
+              "destructionPercent": 44,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000006,
