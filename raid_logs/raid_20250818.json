@@ -3,7 +3,7 @@
   "startTime": "20250815T070000.000Z",
   "endTime": "20250818T070000.000Z",
   "capitalTotalLoot": 515889,
-  "raidsCompleted": 7,
+  "raidsCompleted": 8,
   "totalAttacks": 127,
   "enemyDistrictsDestroyed": 47,
   "offensiveReward": 0,
@@ -2596,18 +2596,52 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/wr6ZFESjRyF0Eg18qMT0QThcH2sbLQa1vNBmoJHNH6c.png"
         }
       },
-      "attackCount": 22,
+      "attackCount": 27,
       "districtCount": 9,
-      "districtsDestroyed": 7,
+      "districtsDestroyed": 9,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 13370,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2Q0U0V0UR",
+                "name": "LordHairyBadger"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2Q0U0V0UR",
+                "name": "LordHairyBadger"
+              },
+              "destructionPercent": 91,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#2Q0U0V0UR",
+                "name": "LordHairyBadger"
+              },
+              "destructionPercent": 69,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#2Q0U0V0UR",
+                "name": "LordHairyBadger"
+              },
+              "destructionPercent": 41,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
@@ -2772,11 +2806,19 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 84,
-          "stars": 2,
-          "attackCount": 3,
-          "totalLooted": 9975,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 12045,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#2Q0U0V0UR",
+                "name": "LordHairyBadger"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#LCUYY82V9",
