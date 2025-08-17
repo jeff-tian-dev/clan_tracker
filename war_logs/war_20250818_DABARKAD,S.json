@@ -1,5 +1,5 @@
 {
-  "state": "preparation",
+  "state": "inWar",
   "teamSize": 35,
   "attacksPerMember": 2,
   "battleModifier": "none",
@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/virBrcS50-Sn7recipNNVOrSFtiXsnQqnDVFgRvawlY.png"
     },
     "clanLevel": 8,
-    "attacks": 0,
-    "stars": 0,
-    "destructionPercentage": 0.0,
+    "attacks": 3,
+    "stars": 9,
+    "destructionPercentage": 8.571428,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -38,7 +38,15 @@
         "name": "JLai",
         "townhallLevel": 14,
         "mapPosition": 21,
-        "opponentAttacks": 0
+        "opponentAttacks": 2,
+        "bestOpponentAttack": {
+          "attackerTag": "#9PLC2P8C2",
+          "defenderTag": "#GLU9LC2LG",
+          "stars": 2,
+          "destructionPercentage": 74,
+          "order": 7,
+          "duration": 155
+        }
       },
       {
         "tag": "#Q0YQURYCY",
@@ -66,6 +74,24 @@
         "name": "bmuff2002",
         "townhallLevel": 13,
         "mapPosition": 33,
+        "attacks": [
+          {
+            "attackerTag": "#V0JYCPRR",
+            "defenderTag": "#YVYJPQRUG",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 1,
+            "duration": 129
+          },
+          {
+            "attackerTag": "#V0JYCPRR",
+            "defenderTag": "#2CQLJP8C9",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 5,
+            "duration": 128
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -101,7 +127,15 @@
         "name": "Chopsticks",
         "townhallLevel": 17,
         "mapPosition": 4,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QVCYJLRVY",
+          "defenderTag": "#QPQGQCR2U",
+          "stars": 2,
+          "destructionPercentage": 78,
+          "order": 3,
+          "duration": 133
+        }
       },
       {
         "tag": "#YJUYGR9GP",
@@ -115,6 +149,16 @@
         "name": "William the thi",
         "townhallLevel": 14,
         "mapPosition": 24,
+        "attacks": [
+          {
+            "attackerTag": "#QVUQ2VR98",
+            "defenderTag": "#LUCQPURCP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 2,
+            "duration": 150
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -157,7 +201,15 @@
         "name": "kingsaxon2000",
         "townhallLevel": 14,
         "mapPosition": 30,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#9PLC2P8C2",
+          "defenderTag": "#RJULR9R",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 6,
+          "duration": 141
+        }
       },
       {
         "tag": "#2UR89Q8QY",
@@ -183,7 +235,7 @@
       {
         "tag": "#QRP2RLV02",
         "name": "JT",
-        "townhallLevel": 13,
+        "townhallLevel": 14,
         "mapPosition": 32,
         "opponentAttacks": 0
       },
@@ -275,9 +327,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/CM6zQ0dRkESMqDRYmjNkaNtAkkO8xkczg2dFCLDLZ5M.png"
     },
     "clanLevel": 15,
-    "attacks": 0,
-    "stars": 0,
-    "destructionPercentage": 0.0,
+    "attacks": 4,
+    "stars": 7,
+    "destructionPercentage": 7.2,
     "members": [
       {
         "tag": "#2LVUC8G08",
@@ -312,6 +364,16 @@
         "name": "MalupitoM",
         "townhallLevel": 14,
         "mapPosition": 21,
+        "attacks": [
+          {
+            "attackerTag": "#GP000Q2PL",
+            "defenderTag": "#GLU9LC2LG",
+            "stars": 2,
+            "destructionPercentage": 70,
+            "order": 4,
+            "duration": 105
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -361,7 +423,15 @@
         "name": "\u2764\ufe0fALLIAH\u2764\ufe0f",
         "townhallLevel": 13,
         "mapPosition": 28,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#V0JYCPRR",
+          "defenderTag": "#2CQLJP8C9",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 5,
+          "duration": 128
+        }
       },
       {
         "tag": "#2LP2R980Q",
@@ -382,6 +452,16 @@
         "name": "NICK MOLAVE ZDS",
         "townhallLevel": 16,
         "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#QVCYJLRVY",
+            "defenderTag": "#QPQGQCR2U",
+            "stars": 2,
+            "destructionPercentage": 78,
+            "order": 3,
+            "duration": 133
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -396,6 +476,24 @@
         "name": "daily flight",
         "townhallLevel": 14,
         "mapPosition": 30,
+        "attacks": [
+          {
+            "attackerTag": "#9PLC2P8C2",
+            "defenderTag": "#RJULR9R",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 6,
+            "duration": 141
+          },
+          {
+            "attackerTag": "#9PLC2P8C2",
+            "defenderTag": "#GLU9LC2LG",
+            "stars": 2,
+            "destructionPercentage": 74,
+            "order": 7,
+            "duration": 155
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -459,7 +557,15 @@
         "name": "masuraka",
         "townhallLevel": 14,
         "mapPosition": 24,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QVUQ2VR98",
+          "defenderTag": "#LUCQPURCP",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 2,
+          "duration": 150
+        }
       },
       {
         "tag": "#LVYLL09JU",
@@ -515,7 +621,15 @@
         "name": "hello?",
         "townhallLevel": 13,
         "mapPosition": 32,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#V0JYCPRR",
+          "defenderTag": "#YVYJPQRUG",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 1,
+          "duration": 129
+        }
       },
       {
         "tag": "#PYJ08YL0V",
