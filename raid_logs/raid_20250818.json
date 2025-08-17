@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250815T070000.000Z",
   "endTime": "20250818T070000.000Z",
-  "capitalTotalLoot": 542736,
+  "capitalTotalLoot": 557117,
   "raidsCompleted": 8,
-  "totalAttacks": 133,
-  "enemyDistrictsDestroyed": 49,
+  "totalAttacks": 139,
+  "enemyDistrictsDestroyed": 50,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -48,6 +48,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 14951
+    },
+    {
+      "tag": "#Q028GQUL9",
+      "name": "DPK_BootyWarior",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 14381
     },
     {
       "tag": "#Q2QQL2YVV",
@@ -1762,9 +1770,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/uBX-nSG2oObaXnmM8UW5gculmv-21o5N0H1x9PBDpjY.png"
         }
       },
-      "attackCount": 11,
+      "attackCount": 17,
       "districtCount": 9,
-      "districtsDestroyed": 4,
+      "districtsDestroyed": 5,
       "districts": [
         {
           "id": 70000000,
@@ -1779,28 +1787,74 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
+          "destructionPercent": 39,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 1,
+          "totalLooted": 2130,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q028GQUL9",
+                "name": "DPK_BootyWarior"
+              },
+              "destructionPercent": 39,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 69,
+          "stars": 1,
+          "attackCount": 2,
+          "totalLooted": 5220,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q028GQUL9",
+                "name": "DPK_BootyWarior"
+              },
+              "destructionPercent": 69,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#Q028GQUL9",
+                "name": "DPK_BootyWarior"
+              },
+              "destructionPercent": 46,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 71,
+          "stars": 1,
+          "attackCount": 2,
+          "totalLooted": 5915,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q028GQUL9",
+                "name": "DPK_BootyWarior"
+              },
+              "destructionPercent": 71,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#Q028GQUL9",
+                "name": "DPK_BootyWarior"
+              },
+              "destructionPercent": 47,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000004,
@@ -1833,11 +1887,19 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 95,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 9675,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10791,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q028GQUL9",
+                "name": "DPK_BootyWarior"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#Q9QU8L8YV",
