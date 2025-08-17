@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/virBrcS50-Sn7recipNNVOrSFtiXsnQqnDVFgRvawlY.png"
     },
     "clanLevel": 8,
-    "attacks": 46,
-    "stars": 98,
-    "destructionPercentage": 95.74286,
+    "attacks": 47,
+    "stars": 100,
+    "destructionPercentage": 96.685715,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -320,6 +320,14 @@
             "destructionPercentage": 100,
             "order": 83,
             "duration": 85
+          },
+          {
+            "attackerTag": "#9U2YP0RY",
+            "defenderTag": "#LJGG2JGU0",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 86,
+            "duration": 68
           }
         ],
         "opponentAttacks": 1,
@@ -966,14 +974,14 @@
         "name": "Bataan/Rain",
         "townhallLevel": 17,
         "mapPosition": 11,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#LGGLYVUPP",
+          "attackerTag": "#9U2YP0RY",
           "defenderTag": "#LJGG2JGU0",
-          "stars": 1,
-          "destructionPercentage": 67,
-          "order": 85,
-          "duration": 81
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 86,
+          "duration": 68
         }
       },
       {

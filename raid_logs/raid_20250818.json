@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250815T070000.000Z",
   "endTime": "20250818T070000.000Z",
-  "capitalTotalLoot": 644982,
+  "capitalTotalLoot": 666137,
   "raidsCompleted": 9,
-  "totalAttacks": 165,
-  "enemyDistrictsDestroyed": 59,
+  "totalAttacks": 171,
+  "enemyDistrictsDestroyed": 60,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -216,6 +216,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 19698
+    },
+    {
+      "tag": "#LGGLYVUPP",
+      "name": "siwi2isuus2",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 21155
     },
     {
       "tag": "#LCUL88JLG",
@@ -2158,9 +2166,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/4NWlH87rT7mx1mf5eQLLj7MAdIgkR6FUjAoAwHwrwso.png"
         }
       },
-      "attackCount": 14,
+      "attackCount": 20,
       "districtCount": 9,
-      "districtsDestroyed": 5,
+      "districtsDestroyed": 6,
       "districts": [
         {
           "id": 70000000,
@@ -2175,19 +2183,55 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 54,
+          "stars": 2,
+          "attackCount": 1,
+          "totalLooted": 5095,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LGGLYVUPP",
+                "name": "siwi2isuus2"
+              },
+              "destructionPercent": 54,
+              "stars": 2
+            }
+          ]
         },
         {
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10610,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LGGLYVUPP",
+                "name": "siwi2isuus2"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LGGLYVUPP",
+                "name": "siwi2isuus2"
+              },
+              "destructionPercent": 66,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#LGGLYVUPP",
+                "name": "siwi2isuus2"
+              },
+              "destructionPercent": 24,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000003,
@@ -2255,11 +2299,27 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 33,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 3520,
+          "destructionPercent": 89,
+          "stars": 2,
+          "attackCount": 3,
+          "totalLooted": 8970,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#LGGLYVUPP",
+                "name": "siwi2isuus2"
+              },
+              "destructionPercent": 89,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#LGGLYVUPP",
+                "name": "siwi2isuus2"
+              },
+              "destructionPercent": 64,
+              "stars": 1
+            },
             {
               "attacker": {
                 "tag": "#2920V9PV",
