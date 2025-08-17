@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/virBrcS50-Sn7recipNNVOrSFtiXsnQqnDVFgRvawlY.png"
     },
     "clanLevel": 8,
-    "attacks": 24,
-    "stars": 61,
-    "destructionPercentage": 63.57143,
+    "attacks": 26,
+    "stars": 66,
+    "destructionPercentage": 69.14286,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -87,6 +87,24 @@
         "name": "Sushant Bhaita",
         "townhallLevel": 14,
         "mapPosition": 27,
+        "attacks": [
+          {
+            "attackerTag": "#Q0YQURYCY",
+            "defenderTag": "#GRP2CVY20",
+            "stars": 2,
+            "destructionPercentage": 95,
+            "order": 44,
+            "duration": 136
+          },
+          {
+            "attackerTag": "#Q0YQURYCY",
+            "defenderTag": "#9GQYV8GUU",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 45,
+            "duration": 106
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#PYJ08YL0V",
@@ -152,7 +170,15 @@
             "duration": 128
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QVGCVQV9Q",
+          "defenderTag": "#V0JYCPRR",
+          "stars": 1,
+          "destructionPercentage": 70,
+          "order": 47,
+          "duration": 176
+        }
       },
       {
         "tag": "#Q028GQUL9",
@@ -304,7 +330,15 @@
         "name": "NAy",
         "townhallLevel": 14,
         "mapPosition": 28,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GP000Q2PL",
+          "defenderTag": "#QRCJ8Y92C",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 46,
+          "duration": 89
+        }
       },
       {
         "tag": "#QQUUQYQVL",
@@ -547,14 +581,22 @@
             "duration": 126
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2L82YPULG",
+          "defenderTag": "#GGYGQ8098",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 49,
+          "duration": 130
+        }
       },
       {
         "tag": "#LGGLYVUPP",
         "name": "siwi2isuus2",
         "townhallLevel": 14,
         "mapPosition": 22,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#G8CYQULY8",
           "defenderTag": "#LGGLYVUPP",
@@ -611,9 +653,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/CM6zQ0dRkESMqDRYmjNkaNtAkkO8xkczg2dFCLDLZ5M.png"
     },
     "clanLevel": 15,
-    "attacks": 19,
-    "stars": 40,
-    "destructionPercentage": 40.42857,
+    "attacks": 23,
+    "stars": 47,
+    "destructionPercentage": 48.142857,
     "members": [
       {
         "tag": "#2LVUC8G08",
@@ -692,6 +734,14 @@
             "destructionPercentage": 70,
             "order": 4,
             "duration": 105
+          },
+          {
+            "attackerTag": "#GP000Q2PL",
+            "defenderTag": "#QRCJ8Y92C",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 46,
+            "duration": 89
           }
         ],
         "opponentAttacks": 1,
@@ -779,6 +829,16 @@
         "name": "AEROX",
         "townhallLevel": 12,
         "mapPosition": 34,
+        "attacks": [
+          {
+            "attackerTag": "#2L82YPULG",
+            "defenderTag": "#GGYGQ8098",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 49,
+            "duration": 130
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -786,6 +846,24 @@
         "name": "monavenancio88g",
         "townhallLevel": 13,
         "mapPosition": 33,
+        "attacks": [
+          {
+            "attackerTag": "#QVGCVQV9Q",
+            "defenderTag": "#V0JYCPRR",
+            "stars": 1,
+            "destructionPercentage": 70,
+            "order": 47,
+            "duration": 176
+          },
+          {
+            "attackerTag": "#QVGCVQV9Q",
+            "defenderTag": "#LGGLYVUPP",
+            "stars": 1,
+            "destructionPercentage": 53,
+            "order": 48,
+            "duration": 102
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#GGYGQ8098",
@@ -954,7 +1032,15 @@
         "name": "EARL",
         "townhallLevel": 13,
         "mapPosition": 26,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q0YQURYCY",
+          "defenderTag": "#9GQYV8GUU",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 45,
+          "duration": 106
+        }
       },
       {
         "tag": "#GQRCYV098",
@@ -1138,7 +1224,15 @@
             "duration": 118
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q0YQURYCY",
+          "defenderTag": "#GRP2CVY20",
+          "stars": 2,
+          "destructionPercentage": 95,
+          "order": 44,
+          "duration": 136
+        }
       },
       {
         "tag": "#GP8U8V9J2",

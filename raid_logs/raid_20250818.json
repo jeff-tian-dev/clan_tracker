@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250815T070000.000Z",
   "endTime": "20250818T070000.000Z",
-  "capitalTotalLoot": 557117,
+  "capitalTotalLoot": 582210,
   "raidsCompleted": 8,
-  "totalAttacks": 139,
-  "enemyDistrictsDestroyed": 50,
+  "totalAttacks": 150,
+  "enemyDistrictsDestroyed": 53,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -48,6 +48,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 14951
+    },
+    {
+      "tag": "#V0JYCPRR",
+      "name": "bmuff2002",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 16256
     },
     {
       "tag": "#Q028GQUL9",
@@ -120,6 +128,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 27833
+    },
+    {
+      "tag": "#LYJJ9PLV9",
+      "name": "Phantom",
+      "attacks": 5,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 8837
     },
     {
       "tag": "#PPLULPGVU",
@@ -1770,28 +1786,94 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/uBX-nSG2oObaXnmM8UW5gculmv-21o5N0H1x9PBDpjY.png"
         }
       },
-      "attackCount": 17,
+      "attackCount": 28,
       "districtCount": 9,
-      "districtsDestroyed": 5,
+      "districtsDestroyed": 8,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 75,
+          "stars": 1,
+          "attackCount": 3,
+          "totalLooted": 7930,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#V0JYCPRR",
+                "name": "bmuff2002"
+              },
+              "destructionPercent": 75,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#V0JYCPRR",
+                "name": "bmuff2002"
+              },
+              "destructionPercent": 56,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#V0JYCPRR",
+                "name": "bmuff2002"
+              },
+              "destructionPercent": 33,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 39,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 2130,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 6,
+          "totalLooted": 10967,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#LYJJ9PLV9",
+                "name": "Phantom"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LYJJ9PLV9",
+                "name": "Phantom"
+              },
+              "destructionPercent": 98,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#LYJJ9PLV9",
+                "name": "Phantom"
+              },
+              "destructionPercent": 97,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#LYJJ9PLV9",
+                "name": "Phantom"
+              },
+              "destructionPercent": 93,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#LYJJ9PLV9",
+                "name": "Phantom"
+              },
+              "destructionPercent": 59,
+              "stars": 1
+            },
             {
               "attacker": {
                 "tag": "#Q028GQUL9",
@@ -1806,11 +1888,19 @@
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 69,
-          "stars": 1,
-          "attackCount": 2,
-          "totalLooted": 5220,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 9086,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#V0JYCPRR",
+                "name": "bmuff2002"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#Q028GQUL9",
@@ -1833,11 +1923,27 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 71,
-          "stars": 1,
-          "attackCount": 2,
-          "totalLooted": 5915,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 10375,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#V0JYCPRR",
+                "name": "bmuff2002"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#V0JYCPRR",
+                "name": "bmuff2002"
+              },
+              "destructionPercent": 96,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#Q028GQUL9",
