@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250815T070000.000Z",
   "endTime": "20250818T070000.000Z",
-  "capitalTotalLoot": 582210,
-  "raidsCompleted": 8,
-  "totalAttacks": 150,
-  "enemyDistrictsDestroyed": 53,
+  "capitalTotalLoot": 603845,
+  "raidsCompleted": 9,
+  "totalAttacks": 156,
+  "enemyDistrictsDestroyed": 55,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -144,6 +144,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 22902
+    },
+    {
+      "tag": "#2UR89Q8QY",
+      "name": "\u2122 ExTreme \u2122",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 21635
     },
     {
       "tag": "#R90098P0",
@@ -1786,19 +1794,27 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/uBX-nSG2oObaXnmM8UW5gculmv-21o5N0H1x9PBDpjY.png"
         }
       },
-      "attackCount": 28,
+      "attackCount": 29,
       "districtCount": 9,
-      "districtsDestroyed": 8,
+      "districtsDestroyed": 9,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 75,
-          "stars": 1,
-          "attackCount": 3,
-          "totalLooted": 7930,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 12683,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#2UR89Q8QY",
+                "name": "\u2122 ExTreme \u2122"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#V0JYCPRR",
@@ -2110,6 +2126,148 @@
               },
               "destructionPercent": 47,
               "stars": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "defender": {
+        "tag": "#8UU2082U",
+        "name": "Dog Horo",
+        "level": 29,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/4NWlH87rT7mx1mf5eQLLj7MAdIgkR6FUjAoAwHwrwso.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/4NWlH87rT7mx1mf5eQLLj7MAdIgkR6FUjAoAwHwrwso.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/4NWlH87rT7mx1mf5eQLLj7MAdIgkR6FUjAoAwHwrwso.png"
+        }
+      },
+      "attackCount": 5,
+      "districtCount": 9,
+      "districtsDestroyed": 1,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 10,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 4,
+          "destructionPercent": 52,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 5310,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2UR89Q8QY",
+                "name": "\u2122 ExTreme \u2122"
+              },
+              "destructionPercent": 52,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#2UR89Q8QY",
+                "name": "\u2122 ExTreme \u2122"
+              },
+              "destructionPercent": 22,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11572,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2UR89Q8QY",
+                "name": "\u2122 ExTreme \u2122"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2UR89Q8QY",
+                "name": "\u2122 ExTreme \u2122"
+              },
+              "destructionPercent": 78,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#2UR89Q8QY",
+                "name": "\u2122 ExTreme \u2122"
+              },
+              "destructionPercent": 49,
+              "stars": 1
             }
           ]
         }
