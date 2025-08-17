@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/virBrcS50-Sn7recipNNVOrSFtiXsnQqnDVFgRvawlY.png"
     },
     "clanLevel": 8,
-    "attacks": 30,
-    "stars": 76,
-    "destructionPercentage": 77.74286,
+    "attacks": 32,
+    "stars": 80,
+    "destructionPercentage": 80.62857,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -188,14 +188,14 @@
             "duration": 128
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#QVGCVQV9Q",
+          "attackerTag": "#222PQUL8R",
           "defenderTag": "#V0JYCPRR",
-          "stars": 1,
-          "destructionPercentage": 70,
-          "order": 47,
-          "duration": 176
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 56,
+          "duration": 160
         }
       },
       {
@@ -246,7 +246,15 @@
             "duration": 149
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 2,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q92P8JCYL",
+          "defenderTag": "#Q2QQL2YVV",
+          "stars": 2,
+          "destructionPercentage": 94,
+          "order": 59,
+          "duration": 140
+        }
       },
       {
         "tag": "#QY0UGQGQY",
@@ -363,7 +371,15 @@
         "name": "9/11",
         "townhallLevel": 14,
         "mapPosition": 16,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q92P8JCYL",
+          "defenderTag": "#QQUUQYQVL",
+          "stars": 2,
+          "destructionPercentage": 95,
+          "order": 57,
+          "duration": 178
+        }
       },
       {
         "tag": "#YQ8L9JVJ2",
@@ -684,6 +700,24 @@
         "name": "Swift",
         "townhallLevel": 16,
         "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#PRGGL2J2V",
+            "defenderTag": "#98P0GRVYR",
+            "stars": 2,
+            "destructionPercentage": 87,
+            "order": 58,
+            "duration": 138
+          },
+          {
+            "attackerTag": "#PRGGL2J2V",
+            "defenderTag": "#9YY2JPY2G",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 60,
+            "duration": 155
+          }
+        ],
         "opponentAttacks": 0
       }
     ]
@@ -697,9 +731,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/CM6zQ0dRkESMqDRYmjNkaNtAkkO8xkczg2dFCLDLZ5M.png"
     },
     "clanLevel": 15,
-    "attacks": 24,
-    "stars": 49,
-    "destructionPercentage": 50.942856,
+    "attacks": 28,
+    "stars": 55,
+    "destructionPercentage": 57.2,
     "members": [
       {
         "tag": "#2LVUC8G08",
@@ -763,7 +797,15 @@
         "name": "chard27",
         "townhallLevel": 15,
         "mapPosition": 9,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PRGGL2J2V",
+          "defenderTag": "#9YY2JPY2G",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 60,
+          "duration": 155
+        }
       },
       {
         "tag": "#GP000Q2PL",
@@ -803,6 +845,24 @@
         "name": "Rock'nRoll",
         "townhallLevel": 14,
         "mapPosition": 23,
+        "attacks": [
+          {
+            "attackerTag": "#222PQUL8R",
+            "defenderTag": "#Q2QQL2YVV",
+            "stars": 2,
+            "destructionPercentage": 93,
+            "order": 55,
+            "duration": 126
+          },
+          {
+            "attackerTag": "#222PQUL8R",
+            "defenderTag": "#V0JYCPRR",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 56,
+            "duration": 160
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#QVUQ2VR98",
@@ -1144,14 +1204,14 @@
         "name": "tuTz",
         "townhallLevel": 17,
         "mapPosition": 2,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#G28CVVRJL",
+          "attackerTag": "#PRGGL2J2V",
           "defenderTag": "#98P0GRVYR",
-          "stars": 1,
-          "destructionPercentage": 86,
-          "order": 14,
-          "duration": 161
+          "stars": 2,
+          "destructionPercentage": 87,
+          "order": 58,
+          "duration": 138
         }
       },
       {
@@ -1237,6 +1297,24 @@
         "name": "kawaii\u2665\ufe0e\u30b7\ufe0e",
         "townhallLevel": 14,
         "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#Q92P8JCYL",
+            "defenderTag": "#QQUUQYQVL",
+            "stars": 2,
+            "destructionPercentage": 95,
+            "order": 57,
+            "duration": 178
+          },
+          {
+            "attackerTag": "#Q92P8JCYL",
+            "defenderTag": "#Q2QQL2YVV",
+            "stars": 2,
+            "destructionPercentage": 94,
+            "order": 59,
+            "duration": 140
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#9VU0VU90G",
