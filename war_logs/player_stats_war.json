@@ -871,11 +871,11 @@
       },
       {
         "date": "20250818",
-        "attacksUsed": 0,
-        "starsEarned": 0,
-        "destruction": 0,
-        "attacksMissed": 2,
-        "zeroParticipation": true
+        "attacksUsed": 1,
+        "starsEarned": 3,
+        "destruction": 100,
+        "attacksMissed": 1,
+        "zeroParticipation": false
       }
     ]
   },
@@ -6919,11 +6919,11 @@
       },
       {
         "date": "20250818",
-        "attacksUsed": 0,
-        "starsEarned": 0,
-        "destruction": 0,
-        "attacksMissed": 2,
-        "zeroParticipation": true
+        "attacksUsed": 2,
+        "starsEarned": 3,
+        "destruction": 123,
+        "attacksMissed": 0,
+        "zeroParticipation": false
       }
     ]
   },
@@ -10507,7 +10507,7 @@
       }
     ]
   },
-  "timestamp": "2025-08-17 13:00:03",
+  "timestamp": "2025-08-17 14:00:03",
   "#GPPQ0JCJR": {
     "name": "Goujii",
     "tag": "#GPPQ0JCJR",
@@ -15542,6 +15542,20 @@
         "attacksMissed": 0,
         "zeroParticipation": true
       },
+      {
+        "date": "20250818",
+        "attacksUsed": "---",
+        "starsEarned": "---",
+        "destruction": "---",
+        "attacksMissed": 0,
+        "zeroParticipation": true
+      }
+    ]
+  },
+  "#Q80JLQ9J0": {
+    "name": "⚕️LΦa₹₫ A₹agΦ₹₪",
+    "tag": "#Q80JLQ9J0",
+    "history": [
       {
         "date": "20250818",
         "attacksUsed": "---",
