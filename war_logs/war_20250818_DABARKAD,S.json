@@ -522,7 +522,15 @@
         "name": "\u26a1\ufe0fBENIMARU\u26a1\ufe0f",
         "townhallLevel": 17,
         "mapPosition": 2,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#8JCY0L9L0",
+          "defenderTag": "#YUJLJ2V8Y",
+          "stars": 2,
+          "destructionPercentage": 55,
+          "order": 72,
+          "duration": 83
+        }
       },
       {
         "tag": "#QRP2RLV02",
@@ -607,7 +615,15 @@
             "duration": 161
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#8JCY0L9L0",
+          "defenderTag": "#G28CVVRJL",
+          "stars": 2,
+          "destructionPercentage": 60,
+          "order": 71,
+          "duration": 72
+        }
       },
       {
         "tag": "#9VU0VU90G",
@@ -773,9 +789,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/CM6zQ0dRkESMqDRYmjNkaNtAkkO8xkczg2dFCLDLZ5M.png"
     },
     "clanLevel": 15,
-    "attacks": 36,
-    "stars": 64,
-    "destructionPercentage": 64.77143,
+    "attacks": 38,
+    "stars": 68,
+    "destructionPercentage": 68.057144,
     "members": [
       {
         "tag": "#2LVUC8G08",
@@ -938,6 +954,24 @@
         "name": "ambom",
         "townhallLevel": 17,
         "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#8JCY0L9L0",
+            "defenderTag": "#G28CVVRJL",
+            "stars": 2,
+            "destructionPercentage": 60,
+            "order": 71,
+            "duration": 72
+          },
+          {
+            "attackerTag": "#8JCY0L9L0",
+            "defenderTag": "#YUJLJ2V8Y",
+            "stars": 2,
+            "destructionPercentage": 55,
+            "order": 72,
+            "duration": 83
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#G28CVVRJL",
