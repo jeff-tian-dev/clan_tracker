@@ -15,15 +15,33 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/virBrcS50-Sn7recipNNVOrSFtiXsnQqnDVFgRvawlY.png"
     },
     "clanLevel": 8,
-    "attacks": 39,
-    "stars": 90,
-    "destructionPercentage": 87.42857,
+    "attacks": 42,
+    "stars": 93,
+    "destructionPercentage": 90.685715,
     "members": [
       {
         "tag": "#RUVPQQR0",
         "name": "Badboy101",
         "townhallLevel": 13,
         "mapPosition": 31,
+        "attacks": [
+          {
+            "attackerTag": "#RUVPQQR0",
+            "defenderTag": "#2L82YPULG",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 78,
+            "duration": 101
+          },
+          {
+            "attackerTag": "#RUVPQQR0",
+            "defenderTag": "#QVGCVQV9Q",
+            "stars": 2,
+            "destructionPercentage": 90,
+            "order": 79,
+            "duration": 138
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#YVYJPQRUG",
@@ -488,6 +506,16 @@
         "name": "devilunni",
         "townhallLevel": 14,
         "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#PPLULPGVU",
+            "defenderTag": "#GP000Q2PL",
+            "stars": 2,
+            "destructionPercentage": 92,
+            "order": 80,
+            "duration": 180
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#Y29LLG0C2",
@@ -952,7 +980,7 @@
             "duration": 89
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#Q028GQUL9",
           "defenderTag": "#GP000Q2PL",
@@ -1099,7 +1127,15 @@
             "duration": 180
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#RUVPQQR0",
+          "defenderTag": "#2L82YPULG",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 78,
+          "duration": 101
+        }
       },
       {
         "tag": "#QVGCVQV9Q",
@@ -1124,14 +1160,14 @@
             "duration": 102
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#GGYGQ8098",
+          "attackerTag": "#RUVPQQR0",
           "defenderTag": "#QVGCVQV9Q",
           "stars": 2,
-          "destructionPercentage": 76,
-          "order": 40,
-          "duration": 126
+          "destructionPercentage": 90,
+          "order": 79,
+          "duration": 138
         }
       },
       {

@@ -2,13 +2,21 @@
   "state": "ongoing",
   "startTime": "20250815T070000.000Z",
   "endTime": "20250818T070000.000Z",
-  "capitalTotalLoot": 603845,
+  "capitalTotalLoot": 644982,
   "raidsCompleted": 9,
-  "totalAttacks": 156,
-  "enemyDistrictsDestroyed": 55,
+  "totalAttacks": 165,
+  "enemyDistrictsDestroyed": 59,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
+    {
+      "tag": "#RUVPQQR0",
+      "name": "Badboy101",
+      "attacks": 3,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 16087
+    },
     {
       "tag": "#UJP2UYRY",
       "name": "destroyer",
@@ -24,6 +32,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 29501
+    },
+    {
+      "tag": "#2920V9PV",
+      "name": "Ryan",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 25050
     },
     {
       "tag": "#Q0YQURYCY",
@@ -2142,9 +2158,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/4NWlH87rT7mx1mf5eQLLj7MAdIgkR6FUjAoAwHwrwso.png"
         }
       },
-      "attackCount": 5,
+      "attackCount": 14,
       "districtCount": 9,
-      "districtsDestroyed": 1,
+      "districtsDestroyed": 5,
       "districts": [
         {
           "id": 70000000,
@@ -2177,47 +2193,127 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10849,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2920V9PV",
+                "name": "Ryan"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2920V9PV",
+                "name": "Ryan"
+              },
+              "destructionPercent": 83,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#2920V9PV",
+                "name": "Ryan"
+              },
+              "destructionPercent": 39,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10681,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2920V9PV",
+                "name": "Ryan"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2920V9PV",
+                "name": "Ryan"
+              },
+              "destructionPercent": 46,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
+          "destructionPercent": 33,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 1,
+          "totalLooted": 3520,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2920V9PV",
+                "name": "Ryan"
+              },
+              "destructionPercent": 33,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10215,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#RUVPQQR0",
+                "name": "Badboy101"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#RUVPQQR0",
+                "name": "Badboy101"
+              },
+              "destructionPercent": 56,
+              "stars": 2
+            }
+          ]
         },
         {
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 52,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 5310,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11182,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#RUVPQQR0",
+                "name": "Badboy101"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#2UR89Q8QY",
