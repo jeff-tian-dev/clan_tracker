@@ -87,7 +87,15 @@
         "name": "Sushant Bhaita",
         "townhallLevel": 14,
         "mapPosition": 27,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PYJ08YL0V",
+          "defenderTag": "#Q0YQURYCY",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 42,
+          "duration": 99
+        }
       },
       {
         "tag": "#Q9QU8L8YV",
@@ -561,7 +569,15 @@
         "name": "Cookies",
         "townhallLevel": 14,
         "mapPosition": 18,
-        "opponentAttacks": 0
+        "opponentAttacks": 2,
+        "bestOpponentAttack": {
+          "attackerTag": "#PYJ08YL0V",
+          "defenderTag": "#LCUL88JLG",
+          "stars": 2,
+          "destructionPercentage": 76,
+          "order": 43,
+          "duration": 110
+        }
       },
       {
         "tag": "#Y2PVPPU8C",
@@ -595,9 +611,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/CM6zQ0dRkESMqDRYmjNkaNtAkkO8xkczg2dFCLDLZ5M.png"
     },
     "clanLevel": 15,
-    "attacks": 16,
-    "stars": 35,
-    "destructionPercentage": 35.4,
+    "attacks": 19,
+    "stars": 40,
+    "destructionPercentage": 40.42857,
     "members": [
       {
         "tag": "#2LVUC8G08",
@@ -913,6 +929,16 @@
         "name": "#RAKER NG COC^^",
         "townhallLevel": 14,
         "mapPosition": 18,
+        "attacks": [
+          {
+            "attackerTag": "#RP0JVCYJ",
+            "defenderTag": "#LCUL88JLG",
+            "stars": 2,
+            "destructionPercentage": 73,
+            "order": 41,
+            "duration": 92
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#YJUYGR9GP",
@@ -1174,6 +1200,24 @@
         "name": "nate\u2665\ufe0f",
         "townhallLevel": 13,
         "mapPosition": 27,
+        "attacks": [
+          {
+            "attackerTag": "#PYJ08YL0V",
+            "defenderTag": "#Q0YQURYCY",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 42,
+            "duration": 99
+          },
+          {
+            "attackerTag": "#PYJ08YL0V",
+            "defenderTag": "#LCUL88JLG",
+            "stars": 2,
+            "destructionPercentage": 76,
+            "order": 43,
+            "duration": 110
+          }
+        ],
         "opponentAttacks": 0
       }
     ]
