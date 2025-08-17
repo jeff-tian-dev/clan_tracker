@@ -429,7 +429,15 @@
             "duration": 115
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#ULQV9C9Q",
+          "defenderTag": "#LYJJ9PLV9",
+          "stars": 2,
+          "destructionPercentage": 71,
+          "order": 63,
+          "duration": 132
+        }
       },
       {
         "tag": "#PPLULPGVU",
@@ -731,9 +739,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/CM6zQ0dRkESMqDRYmjNkaNtAkkO8xkczg2dFCLDLZ5M.png"
     },
     "clanLevel": 15,
-    "attacks": 30,
-    "stars": 57,
-    "destructionPercentage": 57.42857,
+    "attacks": 31,
+    "stars": 59,
+    "destructionPercentage": 59.45714,
     "members": [
       {
         "tag": "#2LVUC8G08",
@@ -1174,6 +1182,16 @@
         "name": "KRAZY-MC(:",
         "townhallLevel": 15,
         "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#ULQV9C9Q",
+            "defenderTag": "#LYJJ9PLV9",
+            "stars": 2,
+            "destructionPercentage": 71,
+            "order": 63,
+            "duration": 132
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#LYJJ9PLV9",
