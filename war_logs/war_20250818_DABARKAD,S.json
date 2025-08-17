@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/virBrcS50-Sn7recipNNVOrSFtiXsnQqnDVFgRvawlY.png"
     },
     "clanLevel": 8,
-    "attacks": 47,
-    "stars": 100,
-    "destructionPercentage": 96.685715,
+    "attacks": 49,
+    "stars": 104,
+    "destructionPercentage": 99.685715,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -605,6 +605,16 @@
         "name": "King Killer",
         "townhallLevel": 15,
         "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#J88YJGY9",
+            "defenderTag": "#Q022Q9QPJ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 87,
+            "duration": 163
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -861,6 +871,16 @@
         "name": "1rose",
         "townhallLevel": 14,
         "mapPosition": 26,
+        "attacks": [
+          {
+            "attackerTag": "#LLYV29CU",
+            "defenderTag": "#GP000Q2PL",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 88,
+            "duration": 174
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -1040,14 +1060,14 @@
             "duration": 89
           }
         ],
-        "opponentAttacks": 3,
+        "opponentAttacks": 4,
         "bestOpponentAttack": {
-          "attackerTag": "#Q028GQUL9",
+          "attackerTag": "#LLYV29CU",
           "defenderTag": "#GP000Q2PL",
-          "stars": 2,
-          "destructionPercentage": 95,
-          "order": 37,
-          "duration": 103
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 88,
+          "duration": 174
         }
       },
       {
@@ -1714,7 +1734,15 @@
         "name": "Gian Gabriel",
         "townhallLevel": 15,
         "mapPosition": 10,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#J88YJGY9",
+          "defenderTag": "#Q022Q9QPJ",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 87,
+          "duration": 163
+        }
       },
       {
         "tag": "#YVYJPQRUG",
