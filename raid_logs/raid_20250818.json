@@ -1,13 +1,13 @@
 {
-  "state": "ongoing",
+  "state": "ended",
   "startTime": "20250815T070000.000Z",
   "endTime": "20250818T070000.000Z",
   "capitalTotalLoot": 708230,
   "raidsCompleted": 10,
   "totalAttacks": 183,
   "enemyDistrictsDestroyed": 65,
-  "offensiveReward": 0,
-  "defensiveReward": 0,
+  "offensiveReward": 193,
+  "defensiveReward": 250,
   "members": [
     {
       "tag": "#Q80JLQ9J0",
@@ -3854,7 +3854,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/o0y2R51b575yeC4zxi0_CCF8UTWEElEsStJbM0ZYqe4.png"
         }
       },
-      "attackCount": 14,
+      "attackCount": 15,
       "districtCount": 9,
       "districtsDestroyed": 4,
       "districts": [
@@ -3924,11 +3924,19 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 41,
-          "stars": 1,
-          "attackCount": 2,
-          "totalLooted": 6030,
+          "destructionPercent": 85,
+          "stars": 2,
+          "attackCount": 3,
+          "totalLooted": 9085,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#LJUUCJY8P",
+                "name": "Gbud"
+              },
+              "destructionPercent": 85,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#LJUUCJY8P",
