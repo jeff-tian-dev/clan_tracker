@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250815T070000.000Z",
   "endTime": "20250818T070000.000Z",
-  "capitalTotalLoot": 666137,
+  "capitalTotalLoot": 684828,
   "raidsCompleted": 9,
-  "totalAttacks": 171,
-  "enemyDistrictsDestroyed": 60,
+  "totalAttacks": 177,
+  "enemyDistrictsDestroyed": 62,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -184,6 +184,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 29819
+    },
+    {
+      "tag": "#QLLLULYJY",
+      "name": "Xosri",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 18691
     },
     {
       "tag": "#QRP2RLV02",
@@ -2166,28 +2174,70 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/4NWlH87rT7mx1mf5eQLLj7MAdIgkR6FUjAoAwHwrwso.png"
         }
       },
-      "attackCount": 20,
+      "attackCount": 26,
       "districtCount": 9,
-      "districtsDestroyed": 6,
+      "districtsDestroyed": 8,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 76,
+          "stars": 2,
+          "attackCount": 3,
+          "totalLooted": 9610,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QLLLULYJY",
+                "name": "Xosri"
+              },
+              "destructionPercent": 76,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#QLLLULYJY",
+                "name": "Xosri"
+              },
+              "destructionPercent": 43,
+              "stars": 0
+            },
+            {
+              "attacker": {
+                "tag": "#QLLLULYJY",
+                "name": "Xosri"
+              },
+              "destructionPercent": 24,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 54,
-          "stars": 2,
-          "attackCount": 1,
-          "totalLooted": 5095,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 12030,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#QLLLULYJY",
+                "name": "Xosri"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QLLLULYJY",
+                "name": "Xosri"
+              },
+              "destructionPercent": 90,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#LGGLYVUPP",
@@ -2299,11 +2349,19 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 89,
-          "stars": 2,
-          "attackCount": 3,
-          "totalLooted": 8970,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 11116,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#QLLLULYJY",
+                "name": "Xosri"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#LGGLYVUPP",
@@ -3638,9 +3696,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/o0y2R51b575yeC4zxi0_CCF8UTWEElEsStJbM0ZYqe4.png"
         }
       },
-      "attackCount": 3,
+      "attackCount": 13,
       "districtCount": 9,
-      "districtsDestroyed": 1,
+      "districtsDestroyed": 4,
       "districts": [
         {
           "id": 70000000,
@@ -3655,10 +3713,36 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11499,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QPYJPUJVQ",
+                "name": "Zenex"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QPYJPUJVQ",
+                "name": "Zenex"
+              },
+              "destructionPercent": 74,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#QPYJPUJVQ",
+                "name": "Zenex"
+              },
+              "destructionPercent": 44,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000002,
@@ -3682,10 +3766,20 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 23,
+          "stars": 1,
+          "attackCount": 1,
+          "totalLooted": 2800,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QPYJPUJVQ",
+                "name": "Zenex"
+              },
+              "destructionPercent": 23,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000005,
@@ -3700,10 +3794,36 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11685,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QPYJPUJVQ",
+                "name": "Zenex"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QPYJPUJVQ",
+                "name": "Zenex"
+              },
+              "destructionPercent": 63,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#8QLGR9RRJ",
+                "name": "m.obeidat"
+              },
+              "destructionPercent": 27,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000007,
@@ -3744,10 +3864,36 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11865,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#8QLGR9RRJ",
+                "name": "m.obeidat"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#8QLGR9RRJ",
+                "name": "m.obeidat"
+              },
+              "destructionPercent": 57,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#8QLGR9RRJ",
+                "name": "m.obeidat"
+              },
+              "destructionPercent": 19,
+              "stars": 0
+            }
+          ]
         }
       ]
     }

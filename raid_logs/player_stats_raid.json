@@ -5669,7 +5669,7 @@
       }
     ]
   },
-  "timestamp": "2025-08-18 01:00:03",
+  "timestamp": "2025-08-18 02:00:04",
   "#LJVP0GRUG": {
     "name": "Agi",
     "tag": "#LJVP0GRUG",
@@ -8112,10 +8112,10 @@
       },
       {
         "date": "20250818",
-        "attacksUsed": 0,
-        "capitalGold": 0,
-        "avgLootPerAttack": "---",
-        "attacksMissed": 6,
+        "attacksUsed": 6,
+        "capitalGold": 18691,
+        "avgLootPerAttack": 3115.2,
+        "attacksMissed": 0,
         "missedRaid": false
       }
     ]
@@ -14703,6 +14703,76 @@
   "#Q80JLQ9J0": {
     "name": "⚕️LΦa₹₫ A₹agΦ₹₪",
     "tag": "#Q80JLQ9J0",
+    "history": [
+      {
+        "date": "20250630",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250707",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250714",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250721",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250728",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250804",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250811",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250818",
+        "attacksUsed": 0,
+        "capitalGold": 0,
+        "avgLootPerAttack": "---",
+        "attacksMissed": 6,
+        "missedRaid": false
+      }
+    ]
+  },
+  "#P02YPQRQ0": {
+    "name": "Shark king",
+    "tag": "#P02YPQRQ0",
     "history": [
       {
         "date": "20250630",
