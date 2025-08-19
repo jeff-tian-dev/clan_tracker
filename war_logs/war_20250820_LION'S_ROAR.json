@@ -314,7 +314,7 @@
         "name": "(in)visible",
         "townhallLevel": 15,
         "mapPosition": 9,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#8Q2VQLJJ8",
           "defenderTag": "#2VVVYYVY",
@@ -410,7 +410,7 @@
             "duration": 127
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#GQGJPRLV0",
           "defenderTag": "#L00U90C0P",
@@ -865,7 +865,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/FCNIt6ZJsmwe50Z7vFn5AGIWEGsfJ6foTcPNT8jRUMQ.png"
     },
     "clanLevel": 25,
-    "attacks": 46,
+    "attacks": 48,
     "stars": 84,
     "destructionPercentage": 86.34286,
     "members": [
@@ -1451,6 +1451,24 @@
         "name": "STARLORD",
         "townhallLevel": 15,
         "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#VPQRYQ20",
+            "defenderTag": "#2VVVYYVY",
+            "stars": 2,
+            "destructionPercentage": 84,
+            "order": 83,
+            "duration": 137
+          },
+          {
+            "attackerTag": "#VPQRYQ20",
+            "defenderTag": "#L00U90C0P",
+            "stars": 1,
+            "destructionPercentage": 70,
+            "order": 84,
+            "duration": 132
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#J88YJGY9",
