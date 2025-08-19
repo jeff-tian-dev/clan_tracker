@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/virBrcS50-Sn7recipNNVOrSFtiXsnQqnDVFgRvawlY.png"
     },
     "clanLevel": 8,
-    "attacks": 29,
-    "stars": 68,
-    "destructionPercentage": 68.91428,
+    "attacks": 30,
+    "stars": 70,
+    "destructionPercentage": 70.57143,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -284,14 +284,14 @@
         "name": "William the thi",
         "townhallLevel": 14,
         "mapPosition": 24,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#RPY9CU0P",
+          "attackerTag": "#P9RG90P2C",
           "defenderTag": "#QVUQ2VR98",
-          "stars": 1,
-          "destructionPercentage": 98,
-          "order": 11,
-          "duration": 118
+          "stars": 2,
+          "destructionPercentage": 76,
+          "order": 56,
+          "duration": 158
         }
       },
       {
@@ -314,6 +314,16 @@
         "name": "matt",
         "townhallLevel": 15,
         "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#L00U90C0P",
+            "defenderTag": "#P0VCPJJ2P",
+            "stars": 2,
+            "destructionPercentage": 58,
+            "order": 57,
+            "duration": 103
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#GQGJPRLV0",
@@ -347,7 +357,15 @@
             "duration": 114
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#P9RG90P2C",
+          "defenderTag": "#QQUUQYQVL",
+          "stars": 2,
+          "destructionPercentage": 56,
+          "order": 55,
+          "duration": 167
+        }
       },
       {
         "tag": "#YQ8L9JVJ2",
@@ -721,9 +739,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/FCNIt6ZJsmwe50Z7vFn5AGIWEGsfJ6foTcPNT8jRUMQ.png"
     },
     "clanLevel": 25,
-    "attacks": 25,
-    "stars": 53,
-    "destructionPercentage": 62.657143,
+    "attacks": 27,
+    "stars": 56,
+    "destructionPercentage": 63.62857,
     "members": [
       {
         "tag": "#QRVVGVR8G",
@@ -792,14 +810,14 @@
             "duration": 88
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#LCUL88JLG",
+          "attackerTag": "#L00U90C0P",
           "defenderTag": "#P0VCPJJ2P",
-          "stars": 0,
-          "destructionPercentage": 0,
-          "order": 10,
-          "duration": 180
+          "stars": 2,
+          "destructionPercentage": 58,
+          "order": 57,
+          "duration": 103
         }
       },
       {
@@ -884,6 +902,24 @@
         "name": "Ink",
         "townhallLevel": 14,
         "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#P9RG90P2C",
+            "defenderTag": "#QQUUQYQVL",
+            "stars": 2,
+            "destructionPercentage": 56,
+            "order": 55,
+            "duration": 167
+          },
+          {
+            "attackerTag": "#P9RG90P2C",
+            "defenderTag": "#QVUQ2VR98",
+            "stars": 2,
+            "destructionPercentage": 76,
+            "order": 56,
+            "duration": 158
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#QQUUQYQVL",
