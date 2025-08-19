@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/virBrcS50-Sn7recipNNVOrSFtiXsnQqnDVFgRvawlY.png"
     },
     "clanLevel": 8,
-    "attacks": 36,
-    "stars": 86,
-    "destructionPercentage": 86.057144,
+    "attacks": 40,
+    "stars": 94,
+    "destructionPercentage": 92.685715,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -57,6 +57,16 @@
         "name": "destroyer",
         "townhallLevel": 16,
         "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#UJP2UYRY",
+            "defenderTag": "#YPRYPJY8Y",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 87,
+            "duration": 59
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#Y9U29J2UP",
@@ -219,6 +229,14 @@
             "destructionPercentage": 100,
             "order": 59,
             "duration": 144
+          },
+          {
+            "attackerTag": "#V0JYCPRR",
+            "defenderTag": "#PJ0R2Q0PQ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 88,
+            "duration": 160
           }
         ],
         "opponentAttacks": 1,
@@ -251,6 +269,24 @@
         "name": "cyan",
         "townhallLevel": 14,
         "mapPosition": 29,
+        "attacks": [
+          {
+            "attackerTag": "#Q2QQL2YVV",
+            "defenderTag": "#QCQPQQP0U",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 85,
+            "duration": 141
+          },
+          {
+            "attackerTag": "#Q2QQL2YVV",
+            "defenderTag": "#YL8RCLUV2",
+            "stars": 2,
+            "destructionPercentage": 95,
+            "order": 86,
+            "duration": 149
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#PLJJU9V2Y",
@@ -925,14 +961,14 @@
             "duration": 115
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#QQUUQYQVL",
+          "attackerTag": "#UJP2UYRY",
           "defenderTag": "#YPRYPJY8Y",
-          "stars": 1,
-          "destructionPercentage": 80,
-          "order": 44,
-          "duration": 114
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 87,
+          "duration": 59
         }
       },
       {
@@ -1517,7 +1553,15 @@
         "name": "\u2b50Vijay\u2b50",
         "townhallLevel": 14,
         "mapPosition": 26,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#V0JYCPRR",
+          "defenderTag": "#PJ0R2Q0PQ",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 88,
+          "duration": 160
+        }
       },
       {
         "tag": "#GGRGQJYRR",
@@ -1689,7 +1733,15 @@
             "duration": 105
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q2QQL2YVV",
+          "defenderTag": "#YL8RCLUV2",
+          "stars": 2,
+          "destructionPercentage": 95,
+          "order": 86,
+          "duration": 149
+        }
       },
       {
         "tag": "#PQVCGQGPG",
@@ -1759,14 +1811,14 @@
         "name": "vijay",
         "townhallLevel": 14,
         "mapPosition": 32,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#Q0YQURYCY",
+          "attackerTag": "#Q2QQL2YVV",
           "defenderTag": "#QCQPQQP0U",
-          "stars": 2,
-          "destructionPercentage": 83,
-          "order": 47,
-          "duration": 136
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 85,
+          "duration": 141
         }
       },
       {
