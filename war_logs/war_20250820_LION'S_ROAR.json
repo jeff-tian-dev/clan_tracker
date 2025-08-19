@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/virBrcS50-Sn7recipNNVOrSFtiXsnQqnDVFgRvawlY.png"
     },
     "clanLevel": 8,
-    "attacks": 30,
-    "stars": 70,
-    "destructionPercentage": 70.57143,
+    "attacks": 31,
+    "stars": 73,
+    "destructionPercentage": 73.42857,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -177,6 +177,16 @@
         "name": "bmuff2002",
         "townhallLevel": 13,
         "mapPosition": 33,
+        "attacks": [
+          {
+            "attackerTag": "#V0JYCPRR",
+            "defenderTag": "#GCUC9VRVL",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 59,
+            "duration": 144
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#90U2LGP22",
@@ -207,7 +217,15 @@
         "name": "cyan",
         "townhallLevel": 14,
         "mapPosition": 29,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PLJJU9V2Y",
+          "defenderTag": "#Q2QQL2YVV",
+          "stars": 2,
+          "destructionPercentage": 96,
+          "order": 58,
+          "duration": 180
+        }
       },
       {
         "tag": "#QY0UGQGQY",
@@ -739,9 +757,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/FCNIt6ZJsmwe50Z7vFn5AGIWEGsfJ6foTcPNT8jRUMQ.png"
     },
     "clanLevel": 25,
-    "attacks": 27,
-    "stars": 56,
-    "destructionPercentage": 63.62857,
+    "attacks": 28,
+    "stars": 58,
+    "destructionPercentage": 66.37143,
     "members": [
       {
         "tag": "#QRVVGVR8G",
@@ -1147,6 +1165,16 @@
         "name": "ash",
         "townhallLevel": 14,
         "mapPosition": 27,
+        "attacks": [
+          {
+            "attackerTag": "#PLJJU9V2Y",
+            "defenderTag": "#Q2QQL2YVV",
+            "stars": 2,
+            "destructionPercentage": 96,
+            "order": 58,
+            "duration": 180
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -1393,7 +1421,15 @@
             "duration": 180
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#V0JYCPRR",
+          "defenderTag": "#GCUC9VRVL",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 59,
+          "duration": 144
+        }
       },
       {
         "tag": "#9PURUL920",
