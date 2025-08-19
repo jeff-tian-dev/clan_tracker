@@ -15,16 +15,24 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/virBrcS50-Sn7recipNNVOrSFtiXsnQqnDVFgRvawlY.png"
     },
     "clanLevel": 8,
-    "attacks": 9,
-    "stars": 21,
-    "destructionPercentage": 21.857143,
+    "attacks": 11,
+    "stars": 27,
+    "destructionPercentage": 27.571428,
     "members": [
       {
         "tag": "#RUVPQQR0",
         "name": "Badboy101",
         "townhallLevel": 13,
         "mapPosition": 32,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#90U2LGP22",
+          "defenderTag": "#RUVPQQR0",
+          "stars": 2,
+          "destructionPercentage": 66,
+          "order": 17,
+          "duration": 86
+        }
       },
       {
         "tag": "#UJP2UYRY",
@@ -119,7 +127,15 @@
         "name": "bmuff2002",
         "townhallLevel": 13,
         "mapPosition": 33,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#90U2LGP22",
+          "defenderTag": "#V0JYCPRR",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 16,
+          "duration": 110
+        }
       },
       {
         "tag": "#Q028GQUL9",
@@ -345,6 +361,24 @@
         "name": "siwi2isuus2",
         "townhallLevel": 14,
         "mapPosition": 22,
+        "attacks": [
+          {
+            "attackerTag": "#LGGLYVUPP",
+            "defenderTag": "#P9Y2PVLG2",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 18,
+            "duration": 174
+          },
+          {
+            "attackerTag": "#LGGLYVUPP",
+            "defenderTag": "#GGRGQJYRR",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 19,
+            "duration": 104
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -405,9 +439,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/FCNIt6ZJsmwe50Z7vFn5AGIWEGsfJ6foTcPNT8jRUMQ.png"
     },
     "clanLevel": 25,
-    "attacks": 6,
-    "stars": 13,
-    "destructionPercentage": 16.657143,
+    "attacks": 8,
+    "stars": 18,
+    "destructionPercentage": 21.4,
     "members": [
       {
         "tag": "#QRVVGVR8G",
@@ -545,6 +579,24 @@
         "name": "Hridoy",
         "townhallLevel": 15,
         "mapPosition": 21,
+        "attacks": [
+          {
+            "attackerTag": "#90U2LGP22",
+            "defenderTag": "#V0JYCPRR",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 16,
+            "duration": 110
+          },
+          {
+            "attackerTag": "#90U2LGP22",
+            "defenderTag": "#RUVPQQR0",
+            "stars": 2,
+            "destructionPercentage": 66,
+            "order": 17,
+            "duration": 86
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#PPLULPGVU",
@@ -700,14 +752,30 @@
         "name": "RDX",
         "townhallLevel": 14,
         "mapPosition": 29,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LGGLYVUPP",
+          "defenderTag": "#GGRGQJYRR",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 19,
+          "duration": 104
+        }
       },
       {
         "tag": "#P9Y2PVLG2",
         "name": "VILLAN ASSASSIN",
         "townhallLevel": 14,
         "mapPosition": 30,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LGGLYVUPP",
+          "defenderTag": "#P9Y2PVLG2",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 18,
+          "duration": 174
+        }
       },
       {
         "tag": "#82CGRG0UU",
