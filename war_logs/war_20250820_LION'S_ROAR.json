@@ -171,7 +171,15 @@
             "duration": 163
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LYYQ8YQQP",
+          "defenderTag": "#Q9QU8L8YV",
+          "stars": 2,
+          "destructionPercentage": 76,
+          "order": 74,
+          "duration": 89
+        }
       },
       {
         "tag": "#8VQYULVQQ",
@@ -566,14 +574,14 @@
             "duration": 100
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#GYPPC0922",
+          "attackerTag": "#YPRYPJY8Y",
           "defenderTag": "#2UR89Q8QY",
-          "stars": 1,
-          "destructionPercentage": 72,
-          "order": 63,
-          "duration": 133
+          "stars": 2,
+          "destructionPercentage": 71,
+          "order": 76,
+          "duration": 99
         }
       },
       {
@@ -599,7 +607,15 @@
             "duration": 174
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#8Q2VQLJJ8",
+          "defenderTag": "#J88YJGY9",
+          "stars": 2,
+          "destructionPercentage": 73,
+          "order": 73,
+          "duration": 130
+        }
       },
       {
         "tag": "#QRP2RLV02",
@@ -621,7 +637,15 @@
         "name": "bhaya",
         "townhallLevel": 14,
         "mapPosition": 15,
-        "opponentAttacks": 0
+        "opponentAttacks": 2,
+        "bestOpponentAttack": {
+          "attackerTag": "#LYYQ8YQQP",
+          "defenderTag": "#QPPC9V2YY",
+          "stars": 2,
+          "destructionPercentage": 78,
+          "order": 75,
+          "duration": 167
+        }
       },
       {
         "tag": "#YJ09R8L0P",
@@ -739,14 +763,14 @@
             "duration": 104
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#P0VCPJJ2P",
+          "attackerTag": "#YPRYPJY8Y",
           "defenderTag": "#LGGLYVUPP",
-          "stars": 1,
-          "destructionPercentage": 99,
-          "order": 51,
-          "duration": 118
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 77,
+          "duration": 115
         }
       },
       {
@@ -833,9 +857,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/FCNIt6ZJsmwe50Z7vFn5AGIWEGsfJ6foTcPNT8jRUMQ.png"
     },
     "clanLevel": 25,
-    "attacks": 36,
-    "stars": 70,
-    "destructionPercentage": 78.34286,
+    "attacks": 42,
+    "stars": 79,
+    "destructionPercentage": 84.828575,
     "members": [
       {
         "tag": "#QRVVGVR8G",
@@ -875,6 +899,24 @@
         "name": "Samuelson",
         "townhallLevel": 14,
         "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#YPRYPJY8Y",
+            "defenderTag": "#2UR89Q8QY",
+            "stars": 2,
+            "destructionPercentage": 71,
+            "order": 76,
+            "duration": 99
+          },
+          {
+            "attackerTag": "#YPRYPJY8Y",
+            "defenderTag": "#LGGLYVUPP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 77,
+            "duration": 115
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#QQUUQYQVL",
@@ -898,6 +940,14 @@
             "destructionPercentage": 57,
             "order": 65,
             "duration": 120
+          },
+          {
+            "attackerTag": "#G2CLG8RUR",
+            "defenderTag": "#QPPC9V2YY",
+            "stars": 1,
+            "destructionPercentage": 70,
+            "order": 72,
+            "duration": 138
           }
         ],
         "opponentAttacks": 1,
@@ -1049,6 +1099,14 @@
             "destructionPercentage": 98,
             "order": 50,
             "duration": 159
+          },
+          {
+            "attackerTag": "#8Q2VQLJJ8",
+            "defenderTag": "#J88YJGY9",
+            "stars": 2,
+            "destructionPercentage": 73,
+            "order": 73,
+            "duration": 130
           }
         ],
         "opponentAttacks": 1,
@@ -1646,6 +1704,24 @@
         "name": "SUMAN BOY",
         "townhallLevel": 15,
         "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#LYYQ8YQQP",
+            "defenderTag": "#Q9QU8L8YV",
+            "stars": 2,
+            "destructionPercentage": 76,
+            "order": 74,
+            "duration": 89
+          },
+          {
+            "attackerTag": "#LYYQ8YQQP",
+            "defenderTag": "#QPPC9V2YY",
+            "stars": 2,
+            "destructionPercentage": 78,
+            "order": 75,
+            "duration": 167
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#8VQYULVQQ",
