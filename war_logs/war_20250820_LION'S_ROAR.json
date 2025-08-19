@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/virBrcS50-Sn7recipNNVOrSFtiXsnQqnDVFgRvawlY.png"
     },
     "clanLevel": 8,
-    "attacks": 35,
-    "stars": 84,
-    "destructionPercentage": 84.6,
+    "attacks": 36,
+    "stars": 86,
+    "destructionPercentage": 86.057144,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -42,14 +42,14 @@
             "duration": 115
           }
         ],
-        "opponentAttacks": 3,
+        "opponentAttacks": 4,
         "bestOpponentAttack": {
-          "attackerTag": "#YPPG8290R",
+          "attackerTag": "#P9Y2PVLG2",
           "defenderTag": "#RUVPQQR0",
-          "stars": 2,
-          "destructionPercentage": 99,
-          "order": 32,
-          "duration": 180
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 80,
+          "duration": 90
         }
       },
       {
@@ -236,14 +236,14 @@
         "name": "DPK_BootyWarior",
         "townhallLevel": 14,
         "mapPosition": 25,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#GRYLQ88VV",
+          "attackerTag": "#P9Y2PVLG2",
           "defenderTag": "#Q028GQUL9",
-          "stars": 1,
-          "destructionPercentage": 93,
-          "order": 2,
-          "duration": 98
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 79,
+          "duration": 131
         }
       },
       {
@@ -347,14 +347,14 @@
             "duration": 89
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#GCUC9VRVL",
+          "attackerTag": "#LVJV090UP",
           "defenderTag": "#YJUYGR9GP",
-          "stars": 2,
-          "destructionPercentage": 99,
-          "order": 41,
-          "duration": 180
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 81,
+          "duration": 133
         }
       },
       {
@@ -400,6 +400,14 @@
             "destructionPercentage": 58,
             "order": 57,
             "duration": 103
+          },
+          {
+            "attackerTag": "#L00U90C0P",
+            "defenderTag": "#GRYLQ88VV",
+            "stars": 2,
+            "destructionPercentage": 51,
+            "order": 82,
+            "duration": 127
           }
         ],
         "opponentAttacks": 1,
@@ -435,14 +443,14 @@
             "duration": 114
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#P9RG90P2C",
+          "attackerTag": "#LVJV090UP",
           "defenderTag": "#QQUUQYQVL",
-          "stars": 2,
-          "destructionPercentage": 56,
-          "order": 55,
-          "duration": 167
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 78,
+          "duration": 150
         }
       },
       {
@@ -857,9 +865,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/FCNIt6ZJsmwe50Z7vFn5AGIWEGsfJ6foTcPNT8jRUMQ.png"
     },
     "clanLevel": 25,
-    "attacks": 42,
-    "stars": 79,
-    "destructionPercentage": 84.828575,
+    "attacks": 46,
+    "stars": 84,
+    "destructionPercentage": 86.34286,
     "members": [
       {
         "tag": "#QRVVGVR8G",
@@ -1256,7 +1264,15 @@
             "duration": 113
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#L00U90C0P",
+          "defenderTag": "#GRYLQ88VV",
+          "stars": 2,
+          "destructionPercentage": 51,
+          "order": 82,
+          "duration": 127
+        }
       },
       {
         "tag": "#RPY9CU0P",
@@ -1450,6 +1466,24 @@
         "name": "RAWAT_ABHISHEK",
         "townhallLevel": 14,
         "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#LVJV090UP",
+            "defenderTag": "#QQUUQYQVL",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 78,
+            "duration": 150
+          },
+          {
+            "attackerTag": "#LVJV090UP",
+            "defenderTag": "#YJUYGR9GP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 81,
+            "duration": 133
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#9U2YP0RY",
@@ -1505,6 +1539,24 @@
         "name": "VILLAN ASSASSIN",
         "townhallLevel": 14,
         "mapPosition": 30,
+        "attacks": [
+          {
+            "attackerTag": "#P9Y2PVLG2",
+            "defenderTag": "#Q028GQUL9",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 79,
+            "duration": 131
+          },
+          {
+            "attackerTag": "#P9Y2PVLG2",
+            "defenderTag": "#RUVPQQR0",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 80,
+            "duration": 90
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#LGGLYVUPP",
