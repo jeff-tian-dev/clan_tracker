@@ -72,7 +72,15 @@
             "duration": 180
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GYPPC0922",
+          "defenderTag": "#GLU9LC2LG",
+          "stars": 2,
+          "destructionPercentage": 68,
+          "order": 62,
+          "duration": 107
+        }
       },
       {
         "tag": "#80JV2PUR",
@@ -232,7 +240,15 @@
         "name": "TheFish",
         "townhallLevel": 14,
         "mapPosition": 20,
-        "opponentAttacks": 0
+        "opponentAttacks": 2,
+        "bestOpponentAttack": {
+          "attackerTag": "#QRVVGVR8G",
+          "defenderTag": "#QY0UGQGQY",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 66,
+          "duration": 134
+        }
       },
       {
         "tag": "#9U2YP0RY",
@@ -532,7 +548,15 @@
             "duration": 100
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GYPPC0922",
+          "defenderTag": "#2UR89Q8QY",
+          "stars": 1,
+          "destructionPercentage": 72,
+          "order": 63,
+          "duration": 133
+        }
       },
       {
         "tag": "#J88YJGY9",
@@ -601,7 +625,15 @@
         "name": "DauntedThrone40",
         "townhallLevel": 14,
         "mapPosition": 17,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PLJJU9V2Y",
+          "defenderTag": "#YL2VYQJC9",
+          "stars": 2,
+          "destructionPercentage": 70,
+          "order": 64,
+          "duration": 149
+        }
       },
       {
         "tag": "#G28CVVRJL",
@@ -775,15 +807,25 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/FCNIt6ZJsmwe50Z7vFn5AGIWEGsfJ6foTcPNT8jRUMQ.png"
     },
     "clanLevel": 25,
-    "attacks": 28,
-    "stars": 58,
-    "destructionPercentage": 66.37143,
+    "attacks": 33,
+    "stars": 66,
+    "destructionPercentage": 75.22857,
     "members": [
       {
         "tag": "#QRVVGVR8G",
         "name": "REAH009",
         "townhallLevel": 14,
         "mapPosition": 20,
+        "attacks": [
+          {
+            "attackerTag": "#QRVVGVR8G",
+            "defenderTag": "#QY0UGQGQY",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 66,
+            "duration": 134
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#YJUYGR9GP",
@@ -814,6 +856,16 @@
         "name": "pirates_city",
         "townhallLevel": 13,
         "mapPosition": 35,
+        "attacks": [
+          {
+            "attackerTag": "#G2CLG8RUR",
+            "defenderTag": "#QY0UGQGQY",
+            "stars": 1,
+            "destructionPercentage": 57,
+            "order": 65,
+            "duration": 120
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -869,6 +921,24 @@
         "name": "07AmitYFaiTh23",
         "townhallLevel": 14,
         "mapPosition": 24,
+        "attacks": [
+          {
+            "attackerTag": "#GYPPC0922",
+            "defenderTag": "#GLU9LC2LG",
+            "stars": 2,
+            "destructionPercentage": 68,
+            "order": 62,
+            "duration": 107
+          },
+          {
+            "attackerTag": "#GYPPC0922",
+            "defenderTag": "#2UR89Q8QY",
+            "stars": 1,
+            "destructionPercentage": 72,
+            "order": 63,
+            "duration": 133
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#YJUYGR9GP",
@@ -1207,6 +1277,14 @@
             "destructionPercentage": 96,
             "order": 58,
             "duration": 180
+          },
+          {
+            "attackerTag": "#PLJJU9V2Y",
+            "defenderTag": "#YL2VYQJC9",
+            "stars": 2,
+            "destructionPercentage": 70,
+            "order": 64,
+            "duration": 149
           }
         ],
         "opponentAttacks": 0
