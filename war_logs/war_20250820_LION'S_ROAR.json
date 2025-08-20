@@ -15,7 +15,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/virBrcS50-Sn7recipNNVOrSFtiXsnQqnDVFgRvawlY.png"
     },
     "clanLevel": 8,
-    "attacks": 51,
+    "attacks": 53,
     "stars": 104,
     "destructionPercentage": 99.71429,
     "members": [
@@ -222,7 +222,15 @@
             "duration": 171
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#G0UP0JU2",
+          "defenderTag": "#8VQYULVQQ",
+          "stars": 1,
+          "destructionPercentage": 70,
+          "order": 106,
+          "duration": 120
+        }
       },
       {
         "tag": "#V0JYCPRR",
@@ -376,6 +384,24 @@
         "name": "(in)visible",
         "townhallLevel": 15,
         "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#2VVVYYVY",
+            "defenderTag": "#P0VCPJJ2P",
+            "stars": 1,
+            "destructionPercentage": 58,
+            "order": 107,
+            "duration": 110
+          },
+          {
+            "attackerTag": "#2VVVYYVY",
+            "defenderTag": "#GQGJPRLV0",
+            "stars": 2,
+            "destructionPercentage": 52,
+            "order": 108,
+            "duration": 91
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#8Q2VQLJJ8",
@@ -1007,9 +1033,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/FCNIt6ZJsmwe50Z7vFn5AGIWEGsfJ6foTcPNT8jRUMQ.png"
     },
     "clanLevel": 25,
-    "attacks": 54,
-    "stars": 87,
-    "destructionPercentage": 88.51428,
+    "attacks": 55,
+    "stars": 88,
+    "destructionPercentage": 90.51428,
     "members": [
       {
         "tag": "#QRVVGVR8G",
@@ -1148,7 +1174,7 @@
             "duration": 88
           }
         ],
-        "opponentAttacks": 5,
+        "opponentAttacks": 6,
         "bestOpponentAttack": {
           "attackerTag": "#QVUQ2VR98",
           "defenderTag": "#P0VCPJJ2P",
@@ -1237,6 +1263,14 @@
             "destructionPercentage": 48,
             "order": 97,
             "duration": 86
+          },
+          {
+            "attackerTag": "#G0UP0JU2",
+            "defenderTag": "#8VQYULVQQ",
+            "stars": 1,
+            "destructionPercentage": 70,
+            "order": 106,
+            "duration": 120
           }
         ],
         "opponentAttacks": 1,
@@ -1870,7 +1904,7 @@
             "duration": 178
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#2UR89Q8QY",
           "defenderTag": "#GQGJPRLV0",
