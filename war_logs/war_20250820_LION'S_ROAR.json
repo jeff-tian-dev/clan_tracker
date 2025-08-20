@@ -222,14 +222,14 @@
             "duration": 171
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#G0UP0JU2",
+          "attackerTag": "#82CGRG0UU",
           "defenderTag": "#8VQYULVQQ",
           "stars": 1,
-          "destructionPercentage": 70,
-          "order": 106,
-          "duration": 120
+          "destructionPercentage": 86,
+          "order": 109,
+          "duration": 179
         }
       },
       {
@@ -1012,14 +1012,14 @@
             "duration": 93
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#G0UP0JU2",
+          "attackerTag": "#82CGRG0UU",
           "defenderTag": "#PRGGL2J2V",
-          "stars": 1,
-          "destructionPercentage": 48,
-          "order": 97,
-          "duration": 86
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 110,
+          "duration": 145
         }
       }
     ]
@@ -1033,9 +1033,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/FCNIt6ZJsmwe50Z7vFn5AGIWEGsfJ6foTcPNT8jRUMQ.png"
     },
     "clanLevel": 25,
-    "attacks": 55,
-    "stars": 88,
-    "destructionPercentage": 90.51428,
+    "attacks": 57,
+    "stars": 90,
+    "destructionPercentage": 92.457146,
     "members": [
       {
         "tag": "#QRVVGVR8G",
@@ -1838,6 +1838,24 @@
         "name": "ARUN",
         "townhallLevel": 15,
         "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#82CGRG0UU",
+            "defenderTag": "#8VQYULVQQ",
+            "stars": 1,
+            "destructionPercentage": 86,
+            "order": 109,
+            "duration": 179
+          },
+          {
+            "attackerTag": "#82CGRG0UU",
+            "defenderTag": "#PRGGL2J2V",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 110,
+            "duration": 145
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#YQ8L9JVJ2",
