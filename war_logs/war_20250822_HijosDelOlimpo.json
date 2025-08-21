@@ -501,7 +501,15 @@
         "name": "Cookies",
         "townhallLevel": 14,
         "mapPosition": 19,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LP9VYU2Q2",
+          "defenderTag": "#LCUL88JLG",
+          "stars": 1,
+          "destructionPercentage": 73,
+          "order": 36,
+          "duration": 107
+        }
       },
       {
         "tag": "#Q9Q0CRR0V",
@@ -571,9 +579,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/afa49QFJv1vlMbSjdD-hS2d2J_NONJCYHcYf_VXs5ec.png"
     },
     "clanLevel": 9,
-    "attacks": 14,
-    "stars": 33,
-    "destructionPercentage": 34.028572,
+    "attacks": 15,
+    "stars": 34,
+    "destructionPercentage": 36.114285,
     "members": [
       {
         "tag": "#2QPGJCV0G",
@@ -919,6 +927,16 @@
         "name": "Beardded",
         "townhallLevel": 14,
         "mapPosition": 19,
+        "attacks": [
+          {
+            "attackerTag": "#LP9VYU2Q2",
+            "defenderTag": "#LCUL88JLG",
+            "stars": 1,
+            "destructionPercentage": 73,
+            "order": 36,
+            "duration": 107
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#PPLULPGVU",
