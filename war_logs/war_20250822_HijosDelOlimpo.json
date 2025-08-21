@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/SDaPAleElDurilJwEJ4hTNB9YR3pRupEbuncsdoGpvc.png"
     },
     "clanLevel": 9,
-    "attacks": 38,
-    "stars": 81,
-    "destructionPercentage": 82.91428,
+    "attacks": 39,
+    "stars": 82,
+    "destructionPercentage": 83.77143,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -42,7 +42,15 @@
             "duration": 164
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GQPVQ2RQG",
+          "defenderTag": "#RUVPQQR0",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 65,
+          "duration": 109
+        }
       },
       {
         "tag": "#LJ2Y8YL2G",
@@ -107,7 +115,15 @@
             "duration": 180
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#9YQYYU22",
+          "defenderTag": "#GLU9LC2LG",
+          "stars": 1,
+          "destructionPercentage": 96,
+          "order": 67,
+          "duration": 159
+        }
       },
       {
         "tag": "#Q0YQURYCY",
@@ -215,13 +231,13 @@
             "duration": 124
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#9UJGR8Q9",
+          "attackerTag": "#GQPVQ2RQG",
           "defenderTag": "#V0JYCPRR",
           "stars": 2,
-          "destructionPercentage": 60,
-          "order": 7,
+          "destructionPercentage": 70,
+          "order": 64,
           "duration": 115
         }
       },
@@ -752,13 +768,31 @@
             "duration": 116
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GQQGU80U2",
+          "defenderTag": "#Q9Q0CRR0V",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 66,
+          "duration": 103
+        }
       },
       {
         "tag": "#LLYV29CU",
         "name": "1rose",
         "townhallLevel": 14,
         "mapPosition": 25,
+        "attacks": [
+          {
+            "attackerTag": "#LLYV29CU",
+            "defenderTag": "#9RQYPJ8JR",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 68,
+            "duration": 164
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#2LJVLRJVJ",
@@ -805,9 +839,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/afa49QFJv1vlMbSjdD-hS2d2J_NONJCYHcYf_VXs5ec.png"
     },
     "clanLevel": 9,
-    "attacks": 25,
-    "stars": 56,
-    "destructionPercentage": 57.45714,
+    "attacks": 29,
+    "stars": 63,
+    "destructionPercentage": 66.2,
     "members": [
       {
         "tag": "#2QPGJCV0G",
@@ -847,6 +881,16 @@
         "name": "Drakonis",
         "townhallLevel": 14,
         "mapPosition": 20,
+        "attacks": [
+          {
+            "attackerTag": "#9YQYYU22",
+            "defenderTag": "#GLU9LC2LG",
+            "stars": 1,
+            "destructionPercentage": 96,
+            "order": 67,
+            "duration": 159
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#LGGLYVUPP",
@@ -1023,6 +1067,14 @@
             "destructionPercentage": 100,
             "order": 9,
             "duration": 150
+          },
+          {
+            "attackerTag": "#GQQGU80U2",
+            "defenderTag": "#Q9Q0CRR0V",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 66,
+            "duration": 103
           }
         ],
         "opponentAttacks": 1,
@@ -1178,14 +1230,14 @@
             "duration": 129
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#LCUL88JLG",
+          "attackerTag": "#LLYV29CU",
           "defenderTag": "#9RQYPJ8JR",
-          "stars": 2,
-          "destructionPercentage": 70,
-          "order": 42,
-          "duration": 95
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 68,
+          "duration": 164
         }
       },
       {
@@ -1506,6 +1558,24 @@
         "name": "\u2667KrosGladiador\u2667",
         "townhallLevel": 12,
         "mapPosition": 35,
+        "attacks": [
+          {
+            "attackerTag": "#GQPVQ2RQG",
+            "defenderTag": "#V0JYCPRR",
+            "stars": 2,
+            "destructionPercentage": 70,
+            "order": 64,
+            "duration": 115
+          },
+          {
+            "attackerTag": "#GQPVQ2RQG",
+            "defenderTag": "#RUVPQQR0",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 65,
+            "duration": 109
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#QVUQ2VR98",
