@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/SDaPAleElDurilJwEJ4hTNB9YR3pRupEbuncsdoGpvc.png"
     },
     "clanLevel": 9,
-    "attacks": 22,
-    "stars": 52,
-    "destructionPercentage": 53.228573,
+    "attacks": 27,
+    "stars": 58,
+    "destructionPercentage": 60.17143,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -45,6 +45,24 @@
         "name": "JLai",
         "townhallLevel": 14,
         "mapPosition": 20,
+        "attacks": [
+          {
+            "attackerTag": "#GLU9LC2LG",
+            "defenderTag": "#9CJUGG2J0",
+            "stars": 2,
+            "destructionPercentage": 99,
+            "order": 39,
+            "duration": 180
+          },
+          {
+            "attackerTag": "#GLU9LC2LG",
+            "defenderTag": "#LYGVC200P",
+            "stars": 2,
+            "destructionPercentage": 97,
+            "order": 40,
+            "duration": 180
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -171,7 +189,15 @@
         "name": "\u24c2\ufe0fBIG COCHY3\u24c2\ufe0f",
         "townhallLevel": 15,
         "mapPosition": 7,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#L8UVPQVGR",
+          "defenderTag": "#9U2YP0RY",
+          "stars": 2,
+          "destructionPercentage": 90,
+          "order": 38,
+          "duration": 157
+        }
       },
       {
         "tag": "#YJUYGR9GP",
@@ -411,6 +437,14 @@
             "destructionPercentage": 2,
             "order": 37,
             "duration": 15
+          },
+          {
+            "attackerTag": "#GGYGQ8098",
+            "defenderTag": "#YLU0PL899",
+            "stars": 0,
+            "destructionPercentage": 38,
+            "order": 43,
+            "duration": 120
           }
         ],
         "opponentAttacks": 1,
@@ -511,6 +545,24 @@
         "name": "Cookies",
         "townhallLevel": 14,
         "mapPosition": 19,
+        "attacks": [
+          {
+            "attackerTag": "#LCUL88JLG",
+            "defenderTag": "#Q0YP0R9CJ",
+            "stars": 2,
+            "destructionPercentage": 60,
+            "order": 41,
+            "duration": 84
+          },
+          {
+            "attackerTag": "#LCUL88JLG",
+            "defenderTag": "#9RQYPJ8JR",
+            "stars": 2,
+            "destructionPercentage": 70,
+            "order": 42,
+            "duration": 95
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#LP9VYU2Q2",
@@ -589,9 +641,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/afa49QFJv1vlMbSjdD-hS2d2J_NONJCYHcYf_VXs5ec.png"
     },
     "clanLevel": 9,
-    "attacks": 15,
-    "stars": 34,
-    "destructionPercentage": 36.114285,
+    "attacks": 16,
+    "stars": 36,
+    "destructionPercentage": 38.685715,
     "members": [
       {
         "tag": "#2QPGJCV0G",
@@ -663,7 +715,15 @@
             "duration": 101
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GLU9LC2LG",
+          "defenderTag": "#9CJUGG2J0",
+          "stars": 2,
+          "destructionPercentage": 99,
+          "order": 39,
+          "duration": 180
+        }
       },
       {
         "tag": "#LGGUJL0CG",
@@ -703,6 +763,16 @@
         "name": "ivan",
         "townhallLevel": 15,
         "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#L8UVPQVGR",
+            "defenderTag": "#9U2YP0RY",
+            "stars": 2,
+            "destructionPercentage": 90,
+            "order": 38,
+            "duration": 157
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -828,7 +898,15 @@
         "name": "MyEmi",
         "townhallLevel": 14,
         "mapPosition": 23,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LCUL88JLG",
+          "defenderTag": "#Q0YP0R9CJ",
+          "stars": 2,
+          "destructionPercentage": 60,
+          "order": 41,
+          "duration": 84
+        }
       },
       {
         "tag": "#9C0RGV8QJ",
@@ -850,7 +928,15 @@
         "name": "Power",
         "townhallLevel": 14,
         "mapPosition": 24,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LCUL88JLG",
+          "defenderTag": "#9RQYPJ8JR",
+          "stars": 2,
+          "destructionPercentage": 70,
+          "order": 42,
+          "duration": 95
+        }
       },
       {
         "tag": "#PV880P0J9",
@@ -992,7 +1078,7 @@
         "name": "Jakerama",
         "townhallLevel": 17,
         "mapPosition": 2,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#G28CVVRJL",
           "defenderTag": "#YLU0PL899",
@@ -1079,14 +1165,14 @@
         "name": "MR BLACK\u2122",
         "townhallLevel": 14,
         "mapPosition": 17,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#G0G28U892",
+          "attackerTag": "#GLU9LC2LG",
           "defenderTag": "#LYGVC200P",
           "stars": 2,
-          "destructionPercentage": 83,
-          "order": 26,
-          "duration": 134
+          "destructionPercentage": 97,
+          "order": 40,
+          "duration": 180
         }
       },
       {
