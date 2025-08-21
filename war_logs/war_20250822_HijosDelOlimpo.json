@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/SDaPAleElDurilJwEJ4hTNB9YR3pRupEbuncsdoGpvc.png"
     },
     "clanLevel": 9,
-    "attacks": 2,
-    "stars": 5,
-    "destructionPercentage": 5.0,
+    "attacks": 4,
+    "stars": 9,
+    "destructionPercentage": 9.714286,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -95,7 +95,25 @@
         "name": "cyan",
         "townhallLevel": 14,
         "mapPosition": 28,
-        "opponentAttacks": 0
+        "attacks": [
+          {
+            "attackerTag": "#Q2QQL2YVV",
+            "defenderTag": "#G9YGUGCCY",
+            "stars": 2,
+            "destructionPercentage": 82,
+            "order": 10,
+            "duration": 157
+          }
+        ],
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GQQGU80U2",
+          "defenderTag": "#Q2QQL2YVV",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 9,
+          "duration": 150
+        }
       },
       {
         "tag": "#QY0UGQGQY",
@@ -328,6 +346,16 @@
         "name": "Swift",
         "townhallLevel": 16,
         "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#PRGGL2J2V",
+            "defenderTag": "#9YYGVL0PC",
+            "stars": 2,
+            "destructionPercentage": 83,
+            "order": 11,
+            "duration": 105
+          }
+        ],
         "opponentAttacks": 0
       }
     ]
@@ -341,9 +369,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/afa49QFJv1vlMbSjdD-hS2d2J_NONJCYHcYf_VXs5ec.png"
     },
     "clanLevel": 9,
-    "attacks": 6,
-    "stars": 14,
-    "destructionPercentage": 15.171429,
+    "attacks": 7,
+    "stars": 17,
+    "destructionPercentage": 18.028572,
     "members": [
       {
         "tag": "#2QPGJCV0G",
@@ -431,6 +459,16 @@
         "name": "Neryy",
         "townhallLevel": 14,
         "mapPosition": 28,
+        "attacks": [
+          {
+            "attackerTag": "#GQQGU80U2",
+            "defenderTag": "#Q2QQL2YVV",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 9,
+            "duration": 150
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#Q9Q0CRR0V",
@@ -460,7 +498,15 @@
         "name": "krosty08",
         "townhallLevel": 16,
         "mapPosition": 5,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PRGGL2J2V",
+          "defenderTag": "#9YYGVL0PC",
+          "stars": 2,
+          "destructionPercentage": 83,
+          "order": 11,
+          "duration": 105
+        }
       },
       {
         "tag": "#9UJGR8Q9",
@@ -601,7 +647,15 @@
         "name": "Abejorro \u2661",
         "townhallLevel": 13,
         "mapPosition": 29,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q2QQL2YVV",
+          "defenderTag": "#G9YGUGCCY",
+          "stars": 2,
+          "destructionPercentage": 82,
+          "order": 10,
+          "duration": 157
+        }
       },
       {
         "tag": "#LYGYPYGGP",
