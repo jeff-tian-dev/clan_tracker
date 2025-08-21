@@ -283,7 +283,15 @@
             "duration": 142
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2LJVLRJVJ",
+          "defenderTag": "#PPLULPGVU",
+          "stars": 2,
+          "destructionPercentage": 59,
+          "order": 44,
+          "duration": 94
+        }
       },
       {
         "tag": "#J88YJGY9",
@@ -641,9 +649,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/afa49QFJv1vlMbSjdD-hS2d2J_NONJCYHcYf_VXs5ec.png"
     },
     "clanLevel": 9,
-    "attacks": 16,
-    "stars": 36,
-    "destructionPercentage": 38.685715,
+    "attacks": 17,
+    "stars": 38,
+    "destructionPercentage": 40.37143,
     "members": [
       {
         "tag": "#2QPGJCV0G",
@@ -852,6 +860,16 @@
         "name": "\u26bdbarranco\u26bd",
         "townhallLevel": 14,
         "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#2LJVLRJVJ",
+            "defenderTag": "#PPLULPGVU",
+            "stars": 2,
+            "destructionPercentage": 59,
+            "order": 44,
+            "duration": 94
+          }
+        ],
         "opponentAttacks": 0
       },
       {
