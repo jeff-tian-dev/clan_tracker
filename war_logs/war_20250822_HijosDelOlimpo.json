@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/SDaPAleElDurilJwEJ4hTNB9YR3pRupEbuncsdoGpvc.png"
     },
     "clanLevel": 9,
-    "attacks": 6,
-    "stars": 13,
-    "destructionPercentage": 14.342857,
+    "attacks": 8,
+    "stars": 19,
+    "destructionPercentage": 20.057142,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -52,7 +52,33 @@
         "name": "Sushant Bhaita",
         "townhallLevel": 14,
         "mapPosition": 27,
-        "opponentAttacks": 0
+        "attacks": [
+          {
+            "attackerTag": "#Q0YQURYCY",
+            "defenderTag": "#QYV99Y2PU",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 16,
+            "duration": 171
+          },
+          {
+            "attackerTag": "#Q0YQURYCY",
+            "defenderTag": "#GCR290GLP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 17,
+            "duration": 121
+          }
+        ],
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GP9V2RYV2",
+          "defenderTag": "#Q0YQURYCY",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 18,
+          "duration": 106
+        }
       },
       {
         "tag": "#Q9QU8L8YV",
@@ -395,9 +421,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/afa49QFJv1vlMbSjdD-hS2d2J_NONJCYHcYf_VXs5ec.png"
     },
     "clanLevel": 9,
-    "attacks": 9,
-    "stars": 18,
-    "destructionPercentage": 19.742857,
+    "attacks": 10,
+    "stars": 21,
+    "destructionPercentage": 22.6,
     "members": [
       {
         "tag": "#2QPGJCV0G",
@@ -636,7 +662,15 @@
             "duration": 98
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q0YQURYCY",
+          "defenderTag": "#QYV99Y2PU",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 16,
+          "duration": 171
+        }
       },
       {
         "tag": "#LJ8R0PLLQ",
@@ -650,6 +684,16 @@
         "name": "Completo",
         "townhallLevel": 14,
         "mapPosition": 27,
+        "attacks": [
+          {
+            "attackerTag": "#GP9V2RYV2",
+            "defenderTag": "#Q0YQURYCY",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 18,
+            "duration": 106
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -692,7 +736,15 @@
         "name": "\u25cb\u25cf\u2022SOL\u2022\u25cf\u25cb",
         "townhallLevel": 13,
         "mapPosition": 31,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q0YQURYCY",
+          "defenderTag": "#GCR290GLP",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 17,
+          "duration": 121
+        }
       },
       {
         "tag": "#G9YGUGCCY",
