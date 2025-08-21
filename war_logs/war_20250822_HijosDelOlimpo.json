@@ -15,7 +15,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/SDaPAleElDurilJwEJ4hTNB9YR3pRupEbuncsdoGpvc.png"
     },
     "clanLevel": 9,
-    "attacks": 21,
+    "attacks": 22,
     "stars": 52,
     "destructionPercentage": 53.228573,
     "members": [
@@ -403,6 +403,16 @@
         "name": "Aurelian",
         "townhallLevel": 11,
         "mapPosition": 35,
+        "attacks": [
+          {
+            "attackerTag": "#GGYGQ8098",
+            "defenderTag": "#2QQ22GP2J",
+            "stars": 1,
+            "destructionPercentage": 2,
+            "order": 37,
+            "duration": 15
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#QYV99Y2PU",
@@ -700,7 +710,7 @@
         "name": "Niko 144 \u270c\u270c\u270c:v",
         "townhallLevel": 17,
         "mapPosition": 1,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#G28CVVRJL",
           "defenderTag": "#2QQ22GP2J",
