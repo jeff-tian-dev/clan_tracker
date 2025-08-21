@@ -230,7 +230,15 @@
         "name": "DPK_BootyWarior",
         "townhallLevel": 14,
         "mapPosition": 24,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#9RQYPJ8JR",
+          "defenderTag": "#Q028GQUL9",
+          "stars": 2,
+          "destructionPercentage": 57,
+          "order": 63,
+          "duration": 129
+        }
       },
       {
         "tag": "#Q2QQL2YVV",
@@ -284,7 +292,15 @@
         "name": "dipranjan",
         "townhallLevel": 14,
         "mapPosition": 12,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LP2PPCRL0",
+          "defenderTag": "#YJUYGR9GP",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 62,
+          "duration": 158
+        }
       },
       {
         "tag": "#QVUQ2VR98",
@@ -789,9 +805,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/afa49QFJv1vlMbSjdD-hS2d2J_NONJCYHcYf_VXs5ec.png"
     },
     "clanLevel": 9,
-    "attacks": 23,
-    "stars": 51,
-    "destructionPercentage": 52.971428,
+    "attacks": 25,
+    "stars": 56,
+    "destructionPercentage": 57.45714,
     "members": [
       {
         "tag": "#2QPGJCV0G",
@@ -1057,6 +1073,14 @@
             "destructionPercentage": 100,
             "order": 61,
             "duration": 162
+          },
+          {
+            "attackerTag": "#LP2PPCRL0",
+            "defenderTag": "#YJUYGR9GP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 62,
+            "duration": 158
           }
         ],
         "opponentAttacks": 1,
@@ -1144,6 +1168,16 @@
         "name": "Power",
         "townhallLevel": 14,
         "mapPosition": 24,
+        "attacks": [
+          {
+            "attackerTag": "#9RQYPJ8JR",
+            "defenderTag": "#Q028GQUL9",
+            "stars": 2,
+            "destructionPercentage": 57,
+            "order": 63,
+            "duration": 129
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#LCUL88JLG",
