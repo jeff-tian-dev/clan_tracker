@@ -1,5 +1,5 @@
 {
-  "state": "preparation",
+  "state": "inWar",
   "teamSize": 35,
   "attacksPerMember": 2,
   "battleModifier": "none",
@@ -185,7 +185,15 @@
         "name": "TheRealRHZ",
         "townhallLevel": 12,
         "mapPosition": 34,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QYV99Y2PU",
+          "defenderTag": "#YJ09R8L0P",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 1,
+          "duration": 144
+        }
       },
       {
         "tag": "#YL2VYQJC9",
@@ -213,7 +221,15 @@
         "name": "Aurelian",
         "townhallLevel": 11,
         "mapPosition": 35,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QYV99Y2PU",
+          "defenderTag": "#GGYGQ8098",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 2,
+          "duration": 98
+        }
       },
       {
         "tag": "#G9CC9G2VQ",
@@ -275,9 +291,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/afa49QFJv1vlMbSjdD-hS2d2J_NONJCYHcYf_VXs5ec.png"
     },
     "clanLevel": 9,
-    "attacks": 0,
-    "stars": 0,
-    "destructionPercentage": 0.0,
+    "attacks": 2,
+    "stars": 6,
+    "destructionPercentage": 5.714286,
     "members": [
       {
         "tag": "#2QPGJCV0G",
@@ -410,12 +426,30 @@
         "name": "Josephmax03",
         "townhallLevel": 14,
         "mapPosition": 32,
+        "attacks": [
+          {
+            "attackerTag": "#QYV99Y2PU",
+            "defenderTag": "#YJ09R8L0P",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 1,
+            "duration": 144
+          },
+          {
+            "attackerTag": "#QYV99Y2PU",
+            "defenderTag": "#GGYGQ8098",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 2,
+            "duration": 98
+          }
+        ],
         "opponentAttacks": 0
       },
       {
         "tag": "#LJ8R0PLLQ",
         "name": "robert",
-        "townhallLevel": 14,
+        "townhallLevel": 15,
         "mapPosition": 12,
         "opponentAttacks": 0
       },
