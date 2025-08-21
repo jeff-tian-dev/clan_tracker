@@ -165,7 +165,15 @@
             "duration": 162
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LP2PPCRL0",
+          "defenderTag": "#Q9QU8L8YV",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 61,
+          "duration": 162
+        }
       },
       {
         "tag": "#8VQYULVQQ",
@@ -781,9 +789,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/afa49QFJv1vlMbSjdD-hS2d2J_NONJCYHcYf_VXs5ec.png"
     },
     "clanLevel": 9,
-    "attacks": 22,
-    "stars": 48,
-    "destructionPercentage": 50.114285,
+    "attacks": 23,
+    "stars": 51,
+    "destructionPercentage": 52.971428,
     "members": [
       {
         "tag": "#2QPGJCV0G",
@@ -1041,6 +1049,16 @@
         "name": "piqui\u00f1a",
         "townhallLevel": 15,
         "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#LP2PPCRL0",
+            "defenderTag": "#Q9QU8L8YV",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 61,
+            "duration": 162
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#PRGGL2J2V",
