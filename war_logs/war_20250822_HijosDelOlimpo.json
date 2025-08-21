@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/SDaPAleElDurilJwEJ4hTNB9YR3pRupEbuncsdoGpvc.png"
     },
     "clanLevel": 9,
-    "attacks": 4,
-    "stars": 9,
-    "destructionPercentage": 9.714286,
+    "attacks": 6,
+    "stars": 13,
+    "destructionPercentage": 14.342857,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -73,7 +73,7 @@
         "name": "bmuff2002",
         "townhallLevel": 13,
         "mapPosition": 33,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#9UJGR8Q9",
           "defenderTag": "#V0JYCPRR",
@@ -300,6 +300,24 @@
         "name": "siwi2isuus2",
         "townhallLevel": 14,
         "mapPosition": 21,
+        "attacks": [
+          {
+            "attackerTag": "#LGGLYVUPP",
+            "defenderTag": "#Y9RVRVRQP",
+            "stars": 2,
+            "destructionPercentage": 72,
+            "order": 12,
+            "duration": 105
+          },
+          {
+            "attackerTag": "#LGGLYVUPP",
+            "defenderTag": "#9YQYYU22",
+            "stars": 2,
+            "destructionPercentage": 90,
+            "order": 13,
+            "duration": 172
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -339,7 +357,15 @@
         "name": "1rose",
         "townhallLevel": 14,
         "mapPosition": 25,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LGGUJL0CG",
+          "defenderTag": "#LLYV29CU",
+          "stars": 1,
+          "destructionPercentage": 60,
+          "order": 14,
+          "duration": 126
+        }
       },
       {
         "tag": "#PRGGL2J2V",
@@ -369,9 +395,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/afa49QFJv1vlMbSjdD-hS2d2J_NONJCYHcYf_VXs5ec.png"
     },
     "clanLevel": 9,
-    "attacks": 7,
-    "stars": 17,
-    "destructionPercentage": 18.028572,
+    "attacks": 9,
+    "stars": 18,
+    "destructionPercentage": 19.742857,
     "members": [
       {
         "tag": "#2QPGJCV0G",
@@ -403,7 +429,15 @@
         "name": "Drakonis",
         "townhallLevel": 14,
         "mapPosition": 20,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LGGLYVUPP",
+          "defenderTag": "#9YQYYU22",
+          "stars": 2,
+          "destructionPercentage": 90,
+          "order": 13,
+          "duration": 172
+        }
       },
       {
         "tag": "#90VCQY08R",
@@ -424,6 +458,24 @@
         "name": "kingwolf",
         "townhallLevel": 14,
         "mapPosition": 25,
+        "attacks": [
+          {
+            "attackerTag": "#LGGUJL0CG",
+            "defenderTag": "#LLYV29CU",
+            "stars": 1,
+            "destructionPercentage": 60,
+            "order": 14,
+            "duration": 126
+          },
+          {
+            "attackerTag": "#LGGUJL0CG",
+            "defenderTag": "#V0JYCPRR",
+            "stars": 1,
+            "destructionPercentage": 73,
+            "order": 15,
+            "duration": 106
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -686,7 +738,15 @@
         "name": "DIAZ H21",
         "townhallLevel": 15,
         "mapPosition": 21,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LGGLYVUPP",
+          "defenderTag": "#Y9RVRVRQP",
+          "stars": 2,
+          "destructionPercentage": 72,
+          "order": 12,
+          "duration": 105
+        }
       },
       {
         "tag": "#LJ0CP29G0",
