@@ -2,13 +2,21 @@
   "state": "ongoing",
   "startTime": "20250822T070000.000Z",
   "endTime": "20250825T070000.000Z",
-  "capitalTotalLoot": 48626,
+  "capitalTotalLoot": 85353,
   "raidsCompleted": 0,
-  "totalAttacks": 11,
-  "enemyDistrictsDestroyed": 2,
+  "totalAttacks": 23,
+  "enemyDistrictsDestroyed": 5,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
+    {
+      "tag": "#Q0YQURYCY",
+      "name": "Sushant Bhaita",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 20903
+    },
     {
       "tag": "#YJUYGR9GP",
       "name": "dipranjan",
@@ -24,6 +32,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 0,
       "capitalResourcesLooted": 25050
+    },
+    {
+      "tag": "#QQUUQYQVL",
+      "name": "9/11",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 15824
     }
   ],
   "attackLog": [
@@ -38,9 +54,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/8lnaeqnGiwfQ5rQwKoCRu2hD_5MR0XE1-fy-Vk-AoKg.png"
         }
       },
-      "attackCount": 11,
+      "attackCount": 23,
       "districtCount": 9,
-      "districtsDestroyed": 2,
+      "districtsDestroyed": 5,
       "districts": [
         {
           "id": 70000000,
@@ -55,19 +71,79 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11583,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q0YQURYCY",
+                "name": "Sushant Bhaita"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Q0YQURYCY",
+                "name": "Sushant Bhaita"
+              },
+              "destructionPercent": 49,
+              "stars": 0
+            },
+            {
+              "attacker": {
+                "tag": "#Q0YQURYCY",
+                "name": "Sushant Bhaita"
+              },
+              "destructionPercent": 15,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 10361,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QQUUQYQVL",
+                "name": "9/11"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QQUUQYQVL",
+                "name": "9/11"
+              },
+              "destructionPercent": 73,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#QQUUQYQVL",
+                "name": "9/11"
+              },
+              "destructionPercent": 56,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#QQUUQYQVL",
+                "name": "9/11"
+              },
+              "destructionPercent": 35,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000003,
@@ -127,10 +203,36 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 82,
+          "stars": 2,
+          "attackCount": 3,
+          "totalLooted": 9320,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q0YQURYCY",
+                "name": "Sushant Bhaita"
+              },
+              "destructionPercent": 82,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#Q0YQURYCY",
+                "name": "Sushant Bhaita"
+              },
+              "destructionPercent": 54,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#Q0YQURYCY",
+                "name": "Sushant Bhaita"
+              },
+              "destructionPercent": 22,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000006,
@@ -198,11 +300,27 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 44,
-          "stars": 0,
-          "attackCount": 2,
-          "totalLooted": 6690,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 12153,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#QQUUQYQVL",
+                "name": "9/11"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QQUUQYQVL",
+                "name": "9/11"
+              },
+              "destructionPercent": 99,
+              "stars": 1
+            },
             {
               "attacker": {
                 "tag": "#YJUYGR9GP",
@@ -236,9 +354,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/SISkpQD7AJNGVGfWD9CWE0uxinCA2Zeq9qhUFZ6IAlY.png"
         }
       },
-      "attackCount": 2,
+      "attackCount": 17,
       "districtCount": 9,
-      "districtsDestroyed": 1,
+      "districtsDestroyed": 5,
       "districts": [
         {
           "id": 70000000,
@@ -271,46 +389,176 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 56,
+          "stars": 2,
+          "attackCount": 1,
+          "totalLooted": 5025,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QCVYV29QP",
+                "name": "DEVIL KINGDOM"
+              },
+              "destructionPercent": 56,
+              "stars": 2
+            }
+          ]
         },
         {
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 12329,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QCVYV29QP",
+                "name": "DEVIL KINGDOM"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2L99VG08C",
+                "name": "btc"
+              },
+              "destructionPercent": 91,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#2L99VG08C",
+                "name": "btc"
+              },
+              "destructionPercent": 45,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#2L99VG08C",
+                "name": "btc"
+              },
+              "destructionPercent": 19,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11978,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QCVYV29QP",
+                "name": "DEVIL KINGDOM"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QCVYV29QP",
+                "name": "DEVIL KINGDOM"
+              },
+              "destructionPercent": 92,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#QCVYV29QP",
+                "name": "DEVIL KINGDOM"
+              },
+              "destructionPercent": 62,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11991,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QCVYV29QP",
+                "name": "DEVIL KINGDOM"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Q2GRGR20Q",
+                "name": "Apon"
+              },
+              "destructionPercent": 82,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#Q2GRGR20Q",
+                "name": "Apon"
+              },
+              "destructionPercent": 35,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 12095,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q2GRGR20Q",
+                "name": "Apon"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Q2GRGR20Q",
+                "name": "Apon"
+              },
+              "destructionPercent": 90,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#Q2GRGR20Q",
+                "name": "Apon"
+              },
+              "destructionPercent": 58,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#Q2GRGR20Q",
+                "name": "Apon"
+              },
+              "destructionPercent": 29,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000008,
