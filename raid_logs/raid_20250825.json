@@ -2,13 +2,30 @@
   "state": "ongoing",
   "startTime": "20250822T070000.000Z",
   "endTime": "20250825T070000.000Z",
-  "capitalTotalLoot": 0,
+  "capitalTotalLoot": 33905,
   "raidsCompleted": 0,
-  "totalAttacks": 0,
+  "totalAttacks": 8,
   "enemyDistrictsDestroyed": 0,
   "offensiveReward": 0,
   "defensiveReward": 0,
-  "members": [],
+  "members": [
+    {
+      "tag": "#YJUYGR9GP",
+      "name": "dipranjan",
+      "attacks": 3,
+      "attackLimit": 5,
+      "bonusAttackLimit": 0,
+      "capitalResourcesLooted": 8855
+    },
+    {
+      "tag": "#QVUQ2VR98",
+      "name": "William the thi",
+      "attacks": 5,
+      "attackLimit": 5,
+      "bonusAttackLimit": 0,
+      "capitalResourcesLooted": 25050
+    }
+  ],
   "attackLog": [
     {
       "defender": {
@@ -21,7 +38,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/8lnaeqnGiwfQ5rQwKoCRu2hD_5MR0XE1-fy-Vk-AoKg.png"
         }
       },
-      "attackCount": 0,
+      "attackCount": 8,
       "districtCount": 9,
       "districtsDestroyed": 0,
       "districts": [
@@ -56,10 +73,28 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 92,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 10110,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QVUQ2VR98",
+                "name": "William the thi"
+              },
+              "destructionPercent": 92,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#QVUQ2VR98",
+                "name": "William the thi"
+              },
+              "destructionPercent": 52,
+              "stars": 2
+            }
+          ]
         },
         {
           "id": 70000004,
@@ -83,28 +118,82 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 68,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 6475,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QVUQ2VR98",
+                "name": "William the thi"
+              },
+              "destructionPercent": 68,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#YJUYGR9GP",
+                "name": "dipranjan"
+              },
+              "destructionPercent": 23,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 91,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 10630,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QVUQ2VR98",
+                "name": "William the thi"
+              },
+              "destructionPercent": 91,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#QVUQ2VR98",
+                "name": "William the thi"
+              },
+              "destructionPercent": 50,
+              "stars": 2
+            }
+          ]
         },
         {
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
+          "destructionPercent": 44,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 2,
+          "totalLooted": 6690,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YJUYGR9GP",
+                "name": "dipranjan"
+              },
+              "destructionPercent": 44,
+              "stars": 0
+            },
+            {
+              "attacker": {
+                "tag": "#YJUYGR9GP",
+                "name": "dipranjan"
+              },
+              "destructionPercent": 26,
+              "stars": 0
+            }
+          ]
         }
       ]
     }
