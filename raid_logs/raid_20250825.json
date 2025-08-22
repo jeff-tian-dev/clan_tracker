@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250822T070000.000Z",
   "endTime": "20250825T070000.000Z",
-  "capitalTotalLoot": 151692,
+  "capitalTotalLoot": 161984,
   "raidsCompleted": 1,
-  "totalAttacks": 43,
-  "enemyDistrictsDestroyed": 13,
+  "totalAttacks": 46,
+  "enemyDistrictsDestroyed": 14,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -44,10 +44,10 @@
     {
       "tag": "#LGVRRUGUL",
       "name": "mr.man",
-      "attacks": 3,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 8262
+      "capitalResourcesLooted": 18554
     },
     {
       "tag": "#QQUUQYQVL",
@@ -450,9 +450,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/OvmoBjDtm-AQLB86_a3Uiip3jGbyBT80XgY2fCEfcnw.png"
         }
       },
-      "attackCount": 12,
+      "attackCount": 15,
       "districtCount": 9,
-      "districtsDestroyed": 4,
+      "districtsDestroyed": 5,
       "districts": [
         {
           "id": 70000000,
@@ -556,11 +556,27 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 38,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 3895,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11117,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#LGVRRUGUL",
+                "name": "mr.man"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LGVRRUGUL",
+                "name": "mr.man"
+              },
+              "destructionPercent": 80,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#G9CC9G2VQ",
@@ -627,10 +643,20 @@
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
+          "destructionPercent": 29,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 1,
+          "totalLooted": 3070,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LGVRRUGUL",
+                "name": "mr.man"
+              },
+              "destructionPercent": 29,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000008,
@@ -656,9 +682,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/SISkpQD7AJNGVGfWD9CWE0uxinCA2Zeq9qhUFZ6IAlY.png"
         }
       },
-      "attackCount": 18,
+      "attackCount": 24,
       "districtCount": 9,
-      "districtsDestroyed": 5,
+      "districtsDestroyed": 7,
       "districts": [
         {
           "id": 70000000,
@@ -673,19 +699,71 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11841,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#L0YQ2RCUQ",
+                "name": "ZMZ"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#L0YQ2RCUQ",
+                "name": "ZMZ"
+              },
+              "destructionPercent": 84,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#PQ80JLV9J",
+                "name": "\u26a1\ufe0fO M 4 R\u26a1\ufe0f"
+              },
+              "destructionPercent": 42,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10271,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#PQ80JLV9J",
+                "name": "\u26a1\ufe0fO M 4 R\u26a1\ufe0f"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#PQ80JLV9J",
+                "name": "\u26a1\ufe0fO M 4 R\u26a1\ufe0f"
+              },
+              "destructionPercent": 42,
+              "stars": 0
+            },
+            {
+              "attacker": {
+                "tag": "#PQ80JLV9J",
+                "name": "\u26a1\ufe0fO M 4 R\u26a1\ufe0f"
+              },
+              "destructionPercent": 21,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000003,
