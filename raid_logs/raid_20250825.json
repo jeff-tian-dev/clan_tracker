@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250822T070000.000Z",
   "endTime": "20250825T070000.000Z",
-  "capitalTotalLoot": 87703,
+  "capitalTotalLoot": 94468,
   "raidsCompleted": 0,
-  "totalAttacks": 24,
-  "enemyDistrictsDestroyed": 6,
+  "totalAttacks": 28,
+  "enemyDistrictsDestroyed": 8,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -44,10 +44,10 @@
     {
       "tag": "#Q9Q0CRR0V",
       "name": "dev_griff7",
-      "attacks": 1,
+      "attacks": 5,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 2350
+      "capitalResourcesLooted": 9115
     }
   ],
   "attackLog": [
@@ -62,18 +62,36 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/8lnaeqnGiwfQ5rQwKoCRu2hD_5MR0XE1-fy-Vk-AoKg.png"
         }
       },
-      "attackCount": 24,
+      "attackCount": 28,
       "districtCount": 9,
-      "districtsDestroyed": 6,
+      "districtsDestroyed": 8,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 59,
+          "stars": 1,
+          "attackCount": 2,
+          "totalLooted": 3680,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q9Q0CRR0V",
+                "name": "dev_griff7"
+              },
+              "destructionPercent": 59,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#Q9Q0CRR0V",
+                "name": "dev_griff7"
+              },
+              "destructionPercent": 47,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
@@ -157,11 +175,19 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 92,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 10110,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11688,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q9Q0CRR0V",
+                "name": "dev_griff7"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#QVUQ2VR98",
@@ -289,11 +315,19 @@
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 91,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 10630,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 12137,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q9Q0CRR0V",
+                "name": "dev_griff7"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#QVUQ2VR98",
