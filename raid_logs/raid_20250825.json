@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250822T070000.000Z",
   "endTime": "20250825T070000.000Z",
-  "capitalTotalLoot": 85353,
+  "capitalTotalLoot": 87703,
   "raidsCompleted": 0,
-  "totalAttacks": 23,
-  "enemyDistrictsDestroyed": 5,
+  "totalAttacks": 24,
+  "enemyDistrictsDestroyed": 6,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -40,6 +40,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 15824
+    },
+    {
+      "tag": "#Q9Q0CRR0V",
+      "name": "dev_griff7",
+      "attacks": 1,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 2350
     }
   ],
   "attackLog": [
@@ -54,9 +62,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/8lnaeqnGiwfQ5rQwKoCRu2hD_5MR0XE1-fy-Vk-AoKg.png"
         }
       },
-      "attackCount": 23,
+      "attackCount": 24,
       "districtCount": 9,
-      "districtsDestroyed": 5,
+      "districtsDestroyed": 6,
       "districts": [
         {
           "id": 70000000,
@@ -203,11 +211,19 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 82,
-          "stars": 2,
-          "attackCount": 3,
-          "totalLooted": 9320,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 11670,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q9Q0CRR0V",
+                "name": "dev_griff7"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#Q0YQURYCY",
@@ -354,7 +370,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/SISkpQD7AJNGVGfWD9CWE0uxinCA2Zeq9qhUFZ6IAlY.png"
         }
       },
-      "attackCount": 17,
+      "attackCount": 18,
       "districtCount": 9,
       "districtsDestroyed": 5,
       "districts": [
@@ -389,11 +405,19 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 56,
+          "destructionPercent": 86,
           "stars": 2,
-          "attackCount": 1,
-          "totalLooted": 5025,
+          "attackCount": 2,
+          "totalLooted": 9665,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#LUJCY09JR",
+                "name": "\u4e97RDX KING\u4e97"
+              },
+              "destructionPercent": 86,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#QCVYV29QP",
