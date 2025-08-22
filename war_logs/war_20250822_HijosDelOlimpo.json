@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/SDaPAleElDurilJwEJ4hTNB9YR3pRupEbuncsdoGpvc.png"
     },
     "clanLevel": 9,
-    "attacks": 39,
-    "stars": 82,
-    "destructionPercentage": 83.77143,
+    "attacks": 40,
+    "stars": 83,
+    "destructionPercentage": 84.6,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -791,6 +791,14 @@
             "destructionPercentage": 100,
             "order": 68,
             "duration": 164
+          },
+          {
+            "attackerTag": "#LLYV29CU",
+            "defenderTag": "#Q0YP0R9CJ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 69,
+            "duration": 166
           }
         ],
         "opponentAttacks": 2,
@@ -1190,14 +1198,14 @@
         "name": "MyEmi",
         "townhallLevel": 14,
         "mapPosition": 23,
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#QVUQ2VR98",
+          "attackerTag": "#LLYV29CU",
           "defenderTag": "#Q0YP0R9CJ",
-          "stars": 2,
-          "destructionPercentage": 71,
-          "order": 58,
-          "duration": 99
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 69,
+          "duration": 166
         }
       },
       {
