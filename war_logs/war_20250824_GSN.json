@@ -15,7 +15,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/SDaPAleElDurilJwEJ4hTNB9YR3pRupEbuncsdoGpvc.png"
     },
     "clanLevel": 9,
-    "attacks": 13,
+    "attacks": 14,
     "stars": 29,
     "destructionPercentage": 99.5,
     "members": [
@@ -24,6 +24,16 @@
         "name": "destroyer",
         "townhallLevel": 16,
         "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#UJP2UYRY",
+            "defenderTag": "#PP9GP2PJ",
+            "stars": 2,
+            "destructionPercentage": 68,
+            "order": 24,
+            "duration": 107
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#8UJ8UL08",
@@ -301,7 +311,7 @@
             "duration": 146
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
           "attackerTag": "#G28CVVRJL",
           "defenderTag": "#PP9GP2PJ",

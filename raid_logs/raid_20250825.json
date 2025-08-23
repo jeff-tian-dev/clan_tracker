@@ -2026,7 +2026,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/s4VIXhhluW2VNQz8kLKfQ8XF84YYmd85kpjHPxJNg8M.png"
         }
       },
-      "attackCount": 23,
+      "attackCount": 24,
       "districtCount": 9,
       "districtsDestroyed": 7,
       "districts": [
@@ -2078,11 +2078,19 @@
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 39,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 1520,
+          "destructionPercent": 71,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 5570,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#9V8QLCQYC",
+                "name": "LeontariYT"
+              },
+              "destructionPercent": 71,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#YYJC09YQ9",
