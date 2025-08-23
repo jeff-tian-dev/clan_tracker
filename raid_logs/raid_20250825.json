@@ -2,9 +2,9 @@
   "state": "ongoing",
   "startTime": "20250822T070000.000Z",
   "endTime": "20250825T070000.000Z",
-  "capitalTotalLoot": 184000,
+  "capitalTotalLoot": 189235,
   "raidsCompleted": 1,
-  "totalAttacks": 50,
+  "totalAttacks": 51,
   "enemyDistrictsDestroyed": 15,
   "offensiveReward": 0,
   "defensiveReward": 0,
@@ -76,10 +76,10 @@
     {
       "tag": "#Q9Q0CRR0V",
       "name": "dev_griff7",
-      "attacks": 5,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 9115
+      "capitalResourcesLooted": 14350
     }
   ],
   "attackLog": [
@@ -458,7 +458,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/OvmoBjDtm-AQLB86_a3Uiip3jGbyBT80XgY2fCEfcnw.png"
         }
       },
-      "attackCount": 19,
+      "attackCount": 20,
       "districtCount": 9,
       "districtsDestroyed": 6,
       "districts": [
@@ -696,11 +696,19 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 40,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 4655,
+          "destructionPercent": 93,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 9890,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q9Q0CRR0V",
+                "name": "dev_griff7"
+              },
+              "destructionPercent": 93,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#Q2QQL2YVV",
@@ -726,9 +734,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/SISkpQD7AJNGVGfWD9CWE0uxinCA2Zeq9qhUFZ6IAlY.png"
         }
       },
-      "attackCount": 24,
+      "attackCount": 25,
       "districtCount": 9,
-      "districtsDestroyed": 7,
+      "districtsDestroyed": 8,
       "districts": [
         {
           "id": 70000000,
@@ -813,11 +821,19 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 86,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 9665,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11691,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#2GGQQVYC2",
+                "name": "S\u00e3j\u00ee\u00df"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#LUJCY09JR",
