@@ -90,7 +90,15 @@
             "duration": 124
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LGYLL2VVC",
+          "defenderTag": "#Q9QU8L8YV",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 21,
+          "duration": 92
+        }
       },
       {
         "tag": "#8VQYULVQQ",
@@ -140,14 +148,14 @@
             "duration": 71
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#QJPL99VR",
+          "attackerTag": "#LGYLL2VVC",
           "defenderTag": "#9U2YP0RY",
-          "stars": 2,
-          "destructionPercentage": 89,
-          "order": 5,
-          "duration": 160
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 22,
+          "duration": 102
         }
       },
       {
@@ -266,9 +274,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/p3-Oi4VQn8Qn76kiRNmd77Ydb8Kaq4XROHWDOcpSxBM.png"
     },
     "clanLevel": 10,
-    "attacks": 7,
-    "stars": 13,
-    "destructionPercentage": 50.8,
+    "attacks": 9,
+    "stars": 17,
+    "destructionPercentage": 61.9,
     "members": [
       {
         "tag": "#PP9GP2PJ",
@@ -474,6 +482,24 @@
         "name": "Uhksel",
         "townhallLevel": 15,
         "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#LGYLL2VVC",
+            "defenderTag": "#Q9QU8L8YV",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 21,
+            "duration": 92
+          },
+          {
+            "attackerTag": "#LGYLL2VVC",
+            "defenderTag": "#9U2YP0RY",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 22,
+            "duration": 102
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#8VQYULVQQ",

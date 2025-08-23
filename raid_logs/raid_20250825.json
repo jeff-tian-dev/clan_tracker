@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250822T070000.000Z",
   "endTime": "20250825T070000.000Z",
-  "capitalTotalLoot": 257440,
+  "capitalTotalLoot": 301819,
   "raidsCompleted": 3,
-  "totalAttacks": 67,
-  "enemyDistrictsDestroyed": 22,
+  "totalAttacks": 81,
+  "enemyDistrictsDestroyed": 26,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -20,10 +20,10 @@
     {
       "tag": "#2920V9PV",
       "name": "Ryan",
-      "attacks": 3,
+      "attacks": 5,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 10369
+      "capitalResourcesLooted": 19564
     },
     {
       "tag": "#Q0YQURYCY",
@@ -66,6 +66,14 @@
       "capitalResourcesLooted": 25050
     },
     {
+      "tag": "#P8UQ9JC9Q",
+      "name": "MC NAY LIN",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 17011
+    },
+    {
       "tag": "#LGVRRUGUL",
       "name": "mr.man",
       "attacks": 6,
@@ -92,10 +100,10 @@
     {
       "tag": "#PPLULPGVU",
       "name": "devilunni",
-      "attacks": 0,
+      "attacks": 6,
       "attackLimit": 5,
-      "bonusAttackLimit": 0,
-      "capitalResourcesLooted": 0
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 18173
     },
     {
       "tag": "#QVGVJJ99C",
@@ -822,36 +830,130 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/ywT0UaviucHQnWjnz4lKRc35A_golBY8m6uzRuBc9Ik.png"
         }
       },
-      "attackCount": 10,
+      "attackCount": 24,
       "districtCount": 9,
-      "districtsDestroyed": 4,
+      "districtsDestroyed": 8,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 87,
+          "stars": 1,
+          "attackCount": 4,
+          "totalLooted": 10115,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#P8UQ9JC9Q",
+                "name": "MC NAY LIN"
+              },
+              "destructionPercent": 87,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#P8UQ9JC9Q",
+                "name": "MC NAY LIN"
+              },
+              "destructionPercent": 63,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#P8UQ9JC9Q",
+                "name": "MC NAY LIN"
+              },
+              "destructionPercent": 54,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#P8UQ9JC9Q",
+                "name": "MC NAY LIN"
+              },
+              "destructionPercent": 40,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 11233,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#PPLULPGVU",
+                "name": "devilunni"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#PPLULPGVU",
+                "name": "devilunni"
+              },
+              "destructionPercent": 83,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#PPLULPGVU",
+                "name": "devilunni"
+              },
+              "destructionPercent": 68,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#PPLULPGVU",
+                "name": "devilunni"
+              },
+              "destructionPercent": 38,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 9858,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#P8UQ9JC9Q",
+                "name": "MC NAY LIN"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#PPLULPGVU",
+                "name": "devilunni"
+              },
+              "destructionPercent": 82,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#PPLULPGVU",
+                "name": "devilunni"
+              },
+              "destructionPercent": 52,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000003,
@@ -919,10 +1021,28 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9195,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2920V9PV",
+                "name": "Ryan"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2920V9PV",
+                "name": "Ryan"
+              },
+              "destructionPercent": 34,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000006,
@@ -982,11 +1102,19 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 65,
-          "stars": 2,
-          "attackCount": 1,
-          "totalLooted": 6675,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10653,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#P8UQ9JC9Q",
+                "name": "MC NAY LIN"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#PY02RYQ82",
@@ -1360,9 +1488,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/s4VIXhhluW2VNQz8kLKfQ8XF84YYmd85kpjHPxJNg8M.png"
         }
       },
-      "attackCount": 14,
+      "attackCount": 17,
       "districtCount": 9,
-      "districtsDestroyed": 4,
+      "districtsDestroyed": 6,
       "districts": [
         {
           "id": 70000000,
@@ -1377,11 +1505,27 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 20,
-          "stars": 1,
-          "attackCount": 1,
-          "totalLooted": 1550,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11475,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#8YQ9PP8V0",
+                "name": "Dragon Emperor"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#8YQ9PP8V0",
+                "name": "Dragon Emperor"
+              },
+              "destructionPercent": 58,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#Q2UQ09PU",
@@ -1511,11 +1655,19 @@
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 90,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 9880,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 12005,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#8YQ9PP8V0",
+                "name": "Dragon Emperor"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#9V8QLCQYC",

@@ -6317,7 +6317,7 @@
       }
     ]
   },
-  "timestamp": "2025-08-23 05:00:03",
+  "timestamp": "2025-08-23 06:00:04",
   "#LJVP0GRUG": {
     "name": "Agi",
     "tag": "#LJVP0GRUG",
@@ -7636,10 +7636,10 @@
       },
       {
         "date": "20250825",
-        "attacksUsed": 3,
-        "capitalGold": 10369,
-        "avgLootPerAttack": 3456.3,
-        "attacksMissed": 3,
+        "attacksUsed": 5,
+        "capitalGold": 19564,
+        "avgLootPerAttack": 3912.8,
+        "attacksMissed": 1,
         "missedRaid": false
       }
     ]
@@ -14188,10 +14188,10 @@
       },
       {
         "date": "20250825",
-        "attacksUsed": 0,
-        "capitalGold": 0,
-        "avgLootPerAttack": 0,
-        "attacksMissed": 5,
+        "attacksUsed": 6,
+        "capitalGold": 18173,
+        "avgLootPerAttack": 3028.8,
+        "attacksMissed": 0,
         "missedRaid": false
       }
     ]
@@ -17702,6 +17702,84 @@
         "capitalGold": 0,
         "avgLootPerAttack": "---",
         "attacksMissed": 6,
+        "missedRaid": false
+      }
+    ]
+  },
+  "#P8UQ9JC9Q": {
+    "name": "MC NAY LIN",
+    "tag": "#P8UQ9JC9Q",
+    "history": [
+      {
+        "date": "20250630",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250707",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250714",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250721",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250728",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250804",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250811",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250818",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250825",
+        "attacksUsed": 6,
+        "capitalGold": 17011,
+        "avgLootPerAttack": 2835.2,
+        "attacksMissed": 0,
         "missedRaid": false
       }
     ]
