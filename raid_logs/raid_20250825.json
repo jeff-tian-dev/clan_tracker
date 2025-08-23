@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250822T070000.000Z",
   "endTime": "20250825T070000.000Z",
-  "capitalTotalLoot": 460848,
+  "capitalTotalLoot": 465502,
   "raidsCompleted": 6,
-  "totalAttacks": 120,
-  "enemyDistrictsDestroyed": 40,
+  "totalAttacks": 121,
+  "enemyDistrictsDestroyed": 41,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -140,10 +140,10 @@
     {
       "tag": "#9VU0VU90G",
       "name": "Edison123",
-      "attacks": 5,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 27503
+      "capitalResourcesLooted": 32157
     },
     {
       "tag": "#GGYGQ8098",
@@ -1550,9 +1550,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/OMhztoVK2HXxsq__hA7ypb6ynYwy6aNgflAw-fHQpxg.png"
         }
       },
-      "attackCount": 9,
+      "attackCount": 10,
       "districtCount": 9,
-      "districtsDestroyed": 4,
+      "districtsDestroyed": 5,
       "districts": [
         {
           "id": 70000000,
@@ -1630,11 +1630,19 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 64,
-          "stars": 1,
-          "attackCount": 1,
-          "totalLooted": 6810,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11464,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#9VU0VU90G",
+                "name": "Edison123"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#9VU0VU90G",
