@@ -3,7 +3,7 @@
   "startTime": "20250822T070000.000Z",
   "endTime": "20250825T070000.000Z",
   "capitalTotalLoot": 433345,
-  "raidsCompleted": 5,
+  "raidsCompleted": 6,
   "totalAttacks": 115,
   "enemyDistrictsDestroyed": 38,
   "offensiveReward": 0,
@@ -2026,18 +2026,60 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/s4VIXhhluW2VNQz8kLKfQ8XF84YYmd85kpjHPxJNg8M.png"
         }
       },
-      "attackCount": 24,
+      "attackCount": 30,
       "districtCount": 9,
-      "districtsDestroyed": 7,
+      "districtsDestroyed": 9,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 5,
+          "totalLooted": 13532,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GJUU2CPJL",
+                "name": "tashi"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GJUU2CPJL",
+                "name": "tashi"
+              },
+              "destructionPercent": 80,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#GJUU2CPJL",
+                "name": "tashi"
+              },
+              "destructionPercent": 75,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#GJUU2CPJL",
+                "name": "tashi"
+              },
+              "destructionPercent": 55,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#GJUU2CPJL",
+                "name": "tashi"
+              },
+              "destructionPercent": 41,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
@@ -2078,11 +2120,19 @@
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 71,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 5570,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10412,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#GJUU2CPJL",
+                "name": "tashi"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#9V8QLCQYC",
