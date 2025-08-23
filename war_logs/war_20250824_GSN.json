@@ -1,5 +1,5 @@
 {
-  "state": "preparation",
+  "state": "inWar",
   "teamSize": 10,
   "attacksPerMember": 2,
   "battleModifier": "none",
@@ -78,7 +78,7 @@
       {
         "tag": "#GGYGQ8098",
         "name": "Aurelian",
-        "townhallLevel": 11,
+        "townhallLevel": 12,
         "mapPosition": 10,
         "opponentAttacks": 0
       },

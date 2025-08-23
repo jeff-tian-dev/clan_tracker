@@ -3,7 +3,7 @@
   "startTime": "20250822T070000.000Z",
   "endTime": "20250825T070000.000Z",
   "capitalTotalLoot": 189235,
-  "raidsCompleted": 1,
+  "raidsCompleted": 2,
   "totalAttacks": 51,
   "enemyDistrictsDestroyed": 15,
   "offensiveReward": 0,
@@ -734,18 +734,52 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/SISkpQD7AJNGVGfWD9CWE0uxinCA2Zeq9qhUFZ6IAlY.png"
         }
       },
-      "attackCount": 25,
+      "attackCount": 29,
       "districtCount": 9,
-      "districtsDestroyed": 8,
+      "districtsDestroyed": 9,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 13694,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Y8CVVU20P",
+                "name": "KRITHI.."
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Y8CVVU20P",
+                "name": "KRITHI.."
+              },
+              "destructionPercent": 75,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#Y8CVVU20P",
+                "name": "KRITHI.."
+              },
+              "destructionPercent": 52,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#Y8CVVU20P",
+                "name": "KRITHI.."
+              },
+              "destructionPercent": 41,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
