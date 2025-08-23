@@ -80,7 +80,15 @@
         "name": "Aurelian",
         "townhallLevel": 12,
         "mapPosition": 10,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#CLLUUUL0",
+          "defenderTag": "#GGYGQ8098",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 1,
+          "duration": 74
+        }
       },
       {
         "tag": "#LLYV29CU",
@@ -100,9 +108,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/p3-Oi4VQn8Qn76kiRNmd77Ydb8Kaq4XROHWDOcpSxBM.png"
     },
     "clanLevel": 10,
-    "attacks": 0,
-    "stars": 0,
-    "destructionPercentage": 0.0,
+    "attacks": 1,
+    "stars": 3,
+    "destructionPercentage": 10.0,
     "members": [
       {
         "tag": "#PP9GP2PJ",
@@ -144,6 +152,16 @@
         "name": "TROLLBABY",
         "townhallLevel": 14,
         "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#CLLUUUL0",
+            "defenderTag": "#GGYGQ8098",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 1,
+            "duration": 74
+          }
+        ],
         "opponentAttacks": 0
       },
       {
