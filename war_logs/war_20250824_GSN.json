@@ -24,7 +24,15 @@
         "name": "destroyer",
         "townhallLevel": 16,
         "mapPosition": 3,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#8UJ8UL08",
+          "defenderTag": "#UJP2UYRY",
+          "stars": 2,
+          "destructionPercentage": 87,
+          "order": 2,
+          "duration": 141
+        }
       },
       {
         "tag": "#GLU9LC2LG",
@@ -45,14 +53,30 @@
         "name": "Sir Chestnut\u2122\ufe0f",
         "townhallLevel": 16,
         "mapPosition": 4,
-        "opponentAttacks": 0
+        "opponentAttacks": 2,
+        "bestOpponentAttack": {
+          "attackerTag": "#8UJ8UL08",
+          "defenderTag": "#8VQYULVQQ",
+          "stars": 2,
+          "destructionPercentage": 77,
+          "order": 3,
+          "duration": 149
+        }
       },
       {
         "tag": "#9U2YP0RY",
         "name": "\u24c2\ufe0fBIG COCHY3\u24c2\ufe0f",
         "townhallLevel": 15,
         "mapPosition": 5,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QJPL99VR",
+          "defenderTag": "#9U2YP0RY",
+          "stars": 2,
+          "destructionPercentage": 89,
+          "order": 5,
+          "duration": 160
+        }
       },
       {
         "tag": "#QVUQ2VR98",
@@ -108,9 +132,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/p3-Oi4VQn8Qn76kiRNmd77Ydb8Kaq4XROHWDOcpSxBM.png"
     },
     "clanLevel": 10,
-    "attacks": 1,
-    "stars": 3,
-    "destructionPercentage": 10.0,
+    "attacks": 5,
+    "stars": 9,
+    "destructionPercentage": 35.3,
     "members": [
       {
         "tag": "#PP9GP2PJ",
@@ -124,6 +148,24 @@
         "name": "The Dmaster27",
         "townhallLevel": 16,
         "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#QJPL99VR",
+            "defenderTag": "#8VQYULVQQ",
+            "stars": 1,
+            "destructionPercentage": 64,
+            "order": 4,
+            "duration": 129
+          },
+          {
+            "attackerTag": "#QJPL99VR",
+            "defenderTag": "#9U2YP0RY",
+            "stars": 2,
+            "destructionPercentage": 89,
+            "order": 5,
+            "duration": 160
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -138,6 +180,24 @@
         "name": "wyatt_capps",
         "townhallLevel": 17,
         "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#8UJ8UL08",
+            "defenderTag": "#UJP2UYRY",
+            "stars": 2,
+            "destructionPercentage": 87,
+            "order": 2,
+            "duration": 141
+          },
+          {
+            "attackerTag": "#8UJ8UL08",
+            "defenderTag": "#8VQYULVQQ",
+            "stars": 2,
+            "destructionPercentage": 77,
+            "order": 3,
+            "duration": 149
+          }
+        ],
         "opponentAttacks": 0
       },
       {
