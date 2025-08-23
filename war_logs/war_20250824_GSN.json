@@ -221,7 +221,15 @@
             "duration": 180
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PP9GP2PJ",
+          "defenderTag": "#G28CVVRJL",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 23,
+          "duration": 146
+        }
       },
       {
         "tag": "#GGYGQ8098",
@@ -274,15 +282,25 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/p3-Oi4VQn8Qn76kiRNmd77Ydb8Kaq4XROHWDOcpSxBM.png"
     },
     "clanLevel": 10,
-    "attacks": 9,
-    "stars": 17,
-    "destructionPercentage": 61.9,
+    "attacks": 10,
+    "stars": 20,
+    "destructionPercentage": 71.9,
     "members": [
       {
         "tag": "#PP9GP2PJ",
         "name": "3footMoby",
         "townhallLevel": 17,
         "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#PP9GP2PJ",
+            "defenderTag": "#G28CVVRJL",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 23,
+            "duration": 146
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#G28CVVRJL",
