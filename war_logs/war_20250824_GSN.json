@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/SDaPAleElDurilJwEJ4hTNB9YR3pRupEbuncsdoGpvc.png"
     },
     "clanLevel": 9,
-    "attacks": 0,
-    "stars": 0,
-    "destructionPercentage": 0.0,
+    "attacks": 10,
+    "stars": 26,
+    "destructionPercentage": 89.5,
     "members": [
       {
         "tag": "#UJP2UYRY",
@@ -39,6 +39,24 @@
         "name": "JLai",
         "townhallLevel": 14,
         "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#GLU9LC2LG",
+            "defenderTag": "#CLLUUUL0",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 14,
+            "duration": 171
+          },
+          {
+            "attackerTag": "#GLU9LC2LG",
+            "defenderTag": "#RPJ0VC98",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 15,
+            "duration": 127
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -46,6 +64,16 @@
         "name": "je suis excit\u00e9",
         "townhallLevel": 16,
         "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#Q9QU8L8YV",
+            "defenderTag": "#LRJYUPCU9",
+            "stars": 2,
+            "destructionPercentage": 90,
+            "order": 8,
+            "duration": 167
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -53,6 +81,24 @@
         "name": "Sir Chestnut\u2122\ufe0f",
         "townhallLevel": 16,
         "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#8VQYULVQQ",
+            "defenderTag": "#LRP0PVUL",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 11,
+            "duration": 136
+          },
+          {
+            "attackerTag": "#8VQYULVQQ",
+            "defenderTag": "#LGYLL2VVC",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 12,
+            "duration": 168
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#8UJ8UL08",
@@ -90,6 +136,24 @@
         "name": "Sir Walnut\u2122\ufe0f",
         "townhallLevel": 17,
         "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#YQ8L9JVJ2",
+            "defenderTag": "#QJPL99VR",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 9,
+            "duration": 158
+          },
+          {
+            "attackerTag": "#YQ8L9JVJ2",
+            "defenderTag": "#LRJYUPCU9",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 10,
+            "duration": 144
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -97,6 +161,24 @@
         "name": "exofall",
         "townhallLevel": 17,
         "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#G28CVVRJL",
+            "defenderTag": "#8UJ8UL08",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 6,
+            "duration": 157
+          },
+          {
+            "attackerTag": "#G28CVVRJL",
+            "defenderTag": "#PP9GP2PJ",
+            "stars": 2,
+            "destructionPercentage": 95,
+            "order": 7,
+            "duration": 180
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -104,6 +186,16 @@
         "name": "Aurelian",
         "townhallLevel": 12,
         "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#GGYGQ8098",
+            "defenderTag": "#9U2GU82R",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 13,
+            "duration": 139
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#CLLUUUL0",
@@ -141,7 +233,15 @@
         "name": "3footMoby",
         "townhallLevel": 17,
         "mapPosition": 1,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#G28CVVRJL",
+          "defenderTag": "#PP9GP2PJ",
+          "stars": 2,
+          "destructionPercentage": 95,
+          "order": 7,
+          "duration": 180
+        }
       },
       {
         "tag": "#QJPL99VR",
@@ -166,14 +266,30 @@
             "duration": 160
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YQ8L9JVJ2",
+          "defenderTag": "#QJPL99VR",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 9,
+          "duration": 158
+        }
       },
       {
         "tag": "#LRJYUPCU9",
         "name": "KnightOP",
         "townhallLevel": 16,
         "mapPosition": 4,
-        "opponentAttacks": 0
+        "opponentAttacks": 2,
+        "bestOpponentAttack": {
+          "attackerTag": "#YQ8L9JVJ2",
+          "defenderTag": "#LRJYUPCU9",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 10,
+          "duration": 144
+        }
       },
       {
         "tag": "#8UJ8UL08",
@@ -198,14 +314,30 @@
             "duration": 149
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#G28CVVRJL",
+          "defenderTag": "#8UJ8UL08",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 6,
+          "duration": 157
+        }
       },
       {
         "tag": "#9U2GU82R",
         "name": "CaptainWafflez9",
         "townhallLevel": 12,
         "mapPosition": 10,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GGYGQ8098",
+          "defenderTag": "#9U2GU82R",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 13,
+          "duration": 139
+        }
       },
       {
         "tag": "#CLLUUUL0",
@@ -222,14 +354,30 @@
             "duration": 74
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GLU9LC2LG",
+          "defenderTag": "#CLLUUUL0",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 14,
+          "duration": 171
+        }
       },
       {
         "tag": "#RPJ0VC98",
         "name": "beast 24",
         "townhallLevel": 13,
         "mapPosition": 9,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GLU9LC2LG",
+          "defenderTag": "#RPJ0VC98",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 15,
+          "duration": 127
+        }
       },
       {
         "tag": "#2L9UJRCGL",
@@ -243,14 +391,30 @@
         "name": "Bryce",
         "townhallLevel": 14,
         "mapPosition": 6,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#8VQYULVQQ",
+          "defenderTag": "#LRP0PVUL",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 11,
+          "duration": 136
+        }
       },
       {
         "tag": "#LGYLL2VVC",
         "name": "Uhksel",
         "townhallLevel": 15,
         "mapPosition": 5,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#8VQYULVQQ",
+          "defenderTag": "#LGYLL2VVC",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 12,
+          "duration": 168
+        }
       }
     ]
   }
