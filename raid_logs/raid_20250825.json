@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250822T070000.000Z",
   "endTime": "20250825T070000.000Z",
-  "capitalTotalLoot": 498398,
-  "raidsCompleted": 6,
-  "totalAttacks": 128,
-  "enemyDistrictsDestroyed": 44,
+  "capitalTotalLoot": 512404,
+  "raidsCompleted": 7,
+  "totalAttacks": 132,
+  "enemyDistrictsDestroyed": 45,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -44,10 +44,10 @@
     {
       "tag": "#Q9QU8L8YV",
       "name": "je suis excit\u00e9",
-      "attacks": 2,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 10739
+      "capitalResourcesLooted": 24745
     },
     {
       "tag": "#Q2QQL2YVV",
@@ -1558,18 +1558,52 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/OMhztoVK2HXxsq__hA7ypb6ynYwy6aNgflAw-fHQpxg.png"
         }
       },
-      "attackCount": 17,
+      "attackCount": 21,
       "districtCount": 9,
-      "districtsDestroyed": 8,
+      "districtsDestroyed": 9,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 14006,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q9QU8L8YV",
+                "name": "je suis excit\u00e9"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Q9QU8L8YV",
+                "name": "je suis excit\u00e9"
+              },
+              "destructionPercent": 92,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#Q9QU8L8YV",
+                "name": "je suis excit\u00e9"
+              },
+              "destructionPercent": 71,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#Q9QU8L8YV",
+                "name": "je suis excit\u00e9"
+              },
+              "destructionPercent": 33,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
@@ -1794,6 +1828,104 @@
               "stars": 2
             }
           ]
+        }
+      ]
+    },
+    {
+      "defender": {
+        "tag": "#2CLQJCCC",
+        "name": "chandler school",
+        "level": 27,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/8Sl5ncQBoVK4qyw5l0QScYz8iZgR8EowCHvVE1S3xBU.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/8Sl5ncQBoVK4qyw5l0QScYz8iZgR8EowCHvVE1S3xBU.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/8Sl5ncQBoVK4qyw5l0QScYz8iZgR8EowCHvVE1S3xBU.png"
+        }
+      },
+      "attackCount": 0,
+      "districtCount": 9,
+      "districtsDestroyed": 0,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 10,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 4,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 4,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
         }
       ]
     }
@@ -2514,7 +2646,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/IT6Ro18smoSYFh4BGv0RiI1JLxKucVErHZQLl9yKoAY.png"
         }
       },
-      "attackCount": 8,
+      "attackCount": 9,
       "districtCount": 9,
       "districtsDestroyed": 3,
       "districts": [
@@ -2664,10 +2796,20 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 50,
+          "stars": 2,
+          "attackCount": 1,
+          "totalLooted": 5115,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2CCLUPPY",
+                "name": "A.J"
+              },
+              "destructionPercent": 50,
+              "stars": 2
+            }
+          ]
         }
       ]
     }
