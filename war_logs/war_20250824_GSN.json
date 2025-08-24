@@ -1,5 +1,5 @@
 {
-  "state": "inWar",
+  "state": "warEnded",
   "teamSize": 10,
   "attacksPerMember": 2,
   "battleModifier": "none",
@@ -34,14 +34,14 @@
             "duration": 107
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#8UJ8UL08",
+          "attackerTag": "#LRJYUPCU9",
           "defenderTag": "#UJP2UYRY",
-          "stars": 2,
-          "destructionPercentage": 87,
-          "order": 2,
-          "duration": 141
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 33,
+          "duration": 158
         }
       },
       {
@@ -133,14 +133,14 @@
             "duration": 168
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#8UJ8UL08",
+          "attackerTag": "#LRJYUPCU9",
           "defenderTag": "#8VQYULVQQ",
           "stars": 2,
-          "destructionPercentage": 77,
-          "order": 3,
-          "duration": 149
+          "destructionPercentage": 91,
+          "order": 32,
+          "duration": 179
         }
       },
       {
@@ -352,9 +352,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/p3-Oi4VQn8Qn76kiRNmd77Ydb8Kaq4XROHWDOcpSxBM.png"
     },
     "clanLevel": 10,
-    "attacks": 12,
-    "stars": 25,
-    "destructionPercentage": 89.1,
+    "attacks": 14,
+    "stars": 26,
+    "destructionPercentage": 91.8,
     "members": [
       {
         "tag": "#PP9GP2PJ",
@@ -427,6 +427,24 @@
         "name": "KnightOP",
         "townhallLevel": 16,
         "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#LRJYUPCU9",
+            "defenderTag": "#8VQYULVQQ",
+            "stars": 2,
+            "destructionPercentage": 91,
+            "order": 32,
+            "duration": 179
+          },
+          {
+            "attackerTag": "#LRJYUPCU9",
+            "defenderTag": "#UJP2UYRY",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 33,
+            "duration": 158
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#YQ8L9JVJ2",
