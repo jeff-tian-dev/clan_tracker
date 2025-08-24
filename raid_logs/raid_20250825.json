@@ -2716,9 +2716,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/IT6Ro18smoSYFh4BGv0RiI1JLxKucVErHZQLl9yKoAY.png"
         }
       },
-      "attackCount": 9,
+      "attackCount": 12,
       "districtCount": 9,
-      "districtsDestroyed": 3,
+      "districtsDestroyed": 5,
       "districts": [
         {
           "id": 70000000,
@@ -2857,20 +2857,46 @@
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11693,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#920JCY99G",
+                "name": "Kisman 06"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#920JCY99G",
+                "name": "Kisman 06"
+              },
+              "destructionPercent": 54,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 50,
-          "stars": 2,
-          "attackCount": 1,
-          "totalLooted": 5115,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11703,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#920JCY99G",
+                "name": "Kisman 06"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#2CCLUPPY",
