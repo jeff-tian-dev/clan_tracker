@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250822T070000.000Z",
   "endTime": "20250825T070000.000Z",
-  "capitalTotalLoot": 476879,
+  "capitalTotalLoot": 487659,
   "raidsCompleted": 6,
-  "totalAttacks": 124,
-  "enemyDistrictsDestroyed": 42,
+  "totalAttacks": 126,
+  "enemyDistrictsDestroyed": 43,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -180,10 +180,10 @@
     {
       "tag": "#LLYV29CU",
       "name": "1rose",
-      "attacks": 4,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 14681
+      "capitalResourcesLooted": 25461
     }
   ],
   "attackLog": [
@@ -1550,9 +1550,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/OMhztoVK2HXxsq__hA7ypb6ynYwy6aNgflAw-fHQpxg.png"
         }
       },
-      "attackCount": 13,
+      "attackCount": 15,
       "districtCount": 9,
-      "districtsDestroyed": 6,
+      "districtsDestroyed": 7,
       "districts": [
         {
           "id": 70000000,
@@ -1621,10 +1621,28 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10780,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LLYV29CU",
+                "name": "1rose"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LLYV29CU",
+                "name": "1rose"
+              },
+              "destructionPercent": 62,
+              "stars": 2
+            }
+          ]
         },
         {
           "id": 70000004,

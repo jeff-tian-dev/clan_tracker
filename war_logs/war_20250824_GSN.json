@@ -15,7 +15,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/SDaPAleElDurilJwEJ4hTNB9YR3pRupEbuncsdoGpvc.png"
     },
     "clanLevel": 9,
-    "attacks": 16,
+    "attacks": 18,
     "stars": 29,
     "destructionPercentage": 99.5,
     "members": [
@@ -173,6 +173,24 @@
         "name": "William the thi",
         "townhallLevel": 14,
         "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#QVUQ2VR98",
+            "defenderTag": "#2L9UJRCGL",
+            "stars": 1,
+            "destructionPercentage": 89,
+            "order": 28,
+            "duration": 148
+          },
+          {
+            "attackerTag": "#QVUQ2VR98",
+            "defenderTag": "#CLLUUUL0",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 29,
+            "duration": 140
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#LRP0PVUL",
@@ -466,7 +484,7 @@
             "duration": 74
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#GLU9LC2LG",
           "defenderTag": "#CLLUUUL0",
@@ -496,7 +514,7 @@
         "name": "KIP",
         "townhallLevel": 14,
         "mapPosition": 7,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#9U2YP0RY",
           "defenderTag": "#2L9UJRCGL",
