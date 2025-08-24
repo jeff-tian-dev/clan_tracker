@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250822T070000.000Z",
   "endTime": "20250825T070000.000Z",
-  "capitalTotalLoot": 517294,
+  "capitalTotalLoot": 539432,
   "raidsCompleted": 7,
-  "totalAttacks": 133,
-  "enemyDistrictsDestroyed": 45,
+  "totalAttacks": 139,
+  "enemyDistrictsDestroyed": 46,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -168,6 +168,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 23420
+    },
+    {
+      "tag": "#LGGLYVUPP",
+      "name": "siwi2isuus2",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 22138
     },
     {
       "tag": "#LCUL88JLG",
@@ -1842,9 +1850,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/8Sl5ncQBoVK4qyw5l0QScYz8iZgR8EowCHvVE1S3xBU.png"
         }
       },
-      "attackCount": 1,
+      "attackCount": 7,
       "districtCount": 9,
-      "districtsDestroyed": 0,
+      "districtsDestroyed": 1,
       "districts": [
         {
           "id": 70000000,
@@ -1904,20 +1912,46 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 50,
+          "stars": 1,
+          "attackCount": 2,
+          "totalLooted": 4925,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LGGLYVUPP",
+                "name": "siwi2isuus2"
+              },
+              "destructionPercent": 50,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#LGGLYVUPP",
+                "name": "siwi2isuus2"
+              },
+              "destructionPercent": 23,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 50,
+          "destructionPercent": 89,
           "stars": 2,
-          "attackCount": 1,
-          "totalLooted": 4890,
+          "attackCount": 2,
+          "totalLooted": 10340,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#LGGLYVUPP",
+                "name": "siwi2isuus2"
+              },
+              "destructionPercent": 89,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#PY02RYQ82",
@@ -1932,10 +1966,36 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11763,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LGGLYVUPP",
+                "name": "siwi2isuus2"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LGGLYVUPP",
+                "name": "siwi2isuus2"
+              },
+              "destructionPercent": 70,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#LGGLYVUPP",
+                "name": "siwi2isuus2"
+              },
+              "destructionPercent": 42,
+              "stars": 0
+            }
+          ]
         }
       ]
     }
