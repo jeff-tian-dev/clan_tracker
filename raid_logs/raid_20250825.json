@@ -2,9 +2,9 @@
   "state": "ongoing",
   "startTime": "20250822T070000.000Z",
   "endTime": "20250825T070000.000Z",
-  "capitalTotalLoot": 512404,
+  "capitalTotalLoot": 517294,
   "raidsCompleted": 7,
-  "totalAttacks": 132,
+  "totalAttacks": 133,
   "enemyDistrictsDestroyed": 45,
   "offensiveReward": 0,
   "defensiveReward": 0,
@@ -12,10 +12,10 @@
     {
       "tag": "#PY02RYQ82",
       "name": "Stormstr!ke",
-      "attacks": 5,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 28317
+      "capitalResourcesLooted": 33207
     },
     {
       "tag": "#GLU9LC2LG",
@@ -1842,7 +1842,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/8Sl5ncQBoVK4qyw5l0QScYz8iZgR8EowCHvVE1S3xBU.png"
         }
       },
-      "attackCount": 0,
+      "attackCount": 1,
       "districtCount": 9,
       "districtsDestroyed": 0,
       "districts": [
@@ -1913,10 +1913,20 @@
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 50,
+          "stars": 2,
+          "attackCount": 1,
+          "totalLooted": 4890,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#PY02RYQ82",
+                "name": "Stormstr!ke"
+              },
+              "destructionPercent": 50,
+              "stars": 2
+            }
+          ]
         },
         {
           "id": 70000008,
