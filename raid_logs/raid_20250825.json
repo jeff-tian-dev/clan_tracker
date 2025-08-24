@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250822T070000.000Z",
   "endTime": "20250825T070000.000Z",
-  "capitalTotalLoot": 487659,
+  "capitalTotalLoot": 498398,
   "raidsCompleted": 6,
-  "totalAttacks": 126,
-  "enemyDistrictsDestroyed": 43,
+  "totalAttacks": 128,
+  "enemyDistrictsDestroyed": 44,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -40,6 +40,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 20903
+    },
+    {
+      "tag": "#Q9QU8L8YV",
+      "name": "je suis excit\u00e9",
+      "attacks": 2,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 10739
     },
     {
       "tag": "#Q2QQL2YVV",
@@ -1550,9 +1558,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/OMhztoVK2HXxsq__hA7ypb6ynYwy6aNgflAw-fHQpxg.png"
         }
       },
-      "attackCount": 15,
+      "attackCount": 17,
       "districtCount": 9,
-      "districtsDestroyed": 7,
+      "districtsDestroyed": 8,
       "districts": [
         {
           "id": 70000000,
@@ -1675,10 +1683,28 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10739,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q9QU8L8YV",
+                "name": "je suis excit\u00e9"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Q9QU8L8YV",
+                "name": "je suis excit\u00e9"
+              },
+              "destructionPercent": 53,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000006,
