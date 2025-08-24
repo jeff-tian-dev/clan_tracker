@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250822T070000.000Z",
   "endTime": "20250825T070000.000Z",
-  "capitalTotalLoot": 539432,
+  "capitalTotalLoot": 576608,
   "raidsCompleted": 7,
-  "totalAttacks": 139,
-  "enemyDistrictsDestroyed": 46,
+  "totalAttacks": 149,
+  "enemyDistrictsDestroyed": 50,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -28,10 +28,10 @@
     {
       "tag": "#2920V9PV",
       "name": "Ryan",
-      "attacks": 5,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 19564
+      "capitalResourcesLooted": 24094
     },
     {
       "tag": "#Q0YQURYCY",
@@ -48,6 +48,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 24745
+    },
+    {
+      "tag": "#8VQYULVQQ",
+      "name": "Sir Chestnut\u2122\ufe0f",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 20680
     },
     {
       "tag": "#Q2QQL2YVV",
@@ -108,10 +116,10 @@
     {
       "tag": "#YQ8L9JVJ2",
       "name": "Sir Walnut\u2122\ufe0f",
-      "attacks": 3,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 6185
+      "capitalResourcesLooted": 18151
     },
     {
       "tag": "#PPLULPGVU",
@@ -1850,9 +1858,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/8Sl5ncQBoVK4qyw5l0QScYz8iZgR8EowCHvVE1S3xBU.png"
         }
       },
-      "attackCount": 7,
+      "attackCount": 17,
       "districtCount": 9,
-      "districtsDestroyed": 1,
+      "districtsDestroyed": 5,
       "districts": [
         {
           "id": 70000000,
@@ -1885,38 +1893,116 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11712,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#8VQYULVQQ",
+                "name": "Sir Chestnut\u2122\ufe0f"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#8VQYULVQQ",
+                "name": "Sir Chestnut\u2122\ufe0f"
+              },
+              "destructionPercent": 72,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#8VQYULVQQ",
+                "name": "Sir Chestnut\u2122\ufe0f"
+              },
+              "destructionPercent": 32,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11966,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YQ8L9JVJ2",
+                "name": "Sir Walnut\u2122\ufe0f"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#YQ8L9JVJ2",
+                "name": "Sir Walnut\u2122\ufe0f"
+              },
+              "destructionPercent": 73,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#YQ8L9JVJ2",
+                "name": "Sir Walnut\u2122\ufe0f"
+              },
+              "destructionPercent": 30,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
+          "destructionPercent": 40,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 1,
+          "totalLooted": 4530,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2920V9PV",
+                "name": "Ryan"
+              },
+              "destructionPercent": 40,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 50,
-          "stars": 1,
-          "attackCount": 2,
-          "totalLooted": 4925,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 12042,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#8VQYULVQQ",
+                "name": "Sir Chestnut\u2122\ufe0f"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#8VQYULVQQ",
+                "name": "Sir Chestnut\u2122\ufe0f"
+              },
+              "destructionPercent": 94,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#LGGLYVUPP",
@@ -1939,11 +2025,19 @@
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 89,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 10340,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 12191,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#8VQYULVQQ",
+                "name": "Sir Chestnut\u2122\ufe0f"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#LGGLYVUPP",
@@ -2716,7 +2810,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/IT6Ro18smoSYFh4BGv0RiI1JLxKucVErHZQLl9yKoAY.png"
         }
       },
-      "attackCount": 12,
+      "attackCount": 15,
       "districtCount": 9,
       "districtsDestroyed": 5,
       "districts": [
@@ -2812,10 +2906,36 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 84,
+          "stars": 2,
+          "attackCount": 3,
+          "totalLooted": 9605,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#V2UCCG8J",
+                "name": "Captain Marvel"
+              },
+              "destructionPercent": 84,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#RU0C882P",
+                "name": "de'ga jago"
+              },
+              "destructionPercent": 20,
+              "stars": 0
+            },
+            {
+              "attacker": {
+                "tag": "#G02G0CV9L",
+                "name": "Ovan 06"
+              },
+              "destructionPercent": 7,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000005,
