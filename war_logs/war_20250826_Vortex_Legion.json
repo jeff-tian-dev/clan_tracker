@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/SDaPAleElDurilJwEJ4hTNB9YR3pRupEbuncsdoGpvc.png"
     },
     "clanLevel": 9,
-    "attacks": 28,
-    "stars": 61,
-    "destructionPercentage": 72.36667,
+    "attacks": 29,
+    "stars": 63,
+    "destructionPercentage": 75.433334,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -279,6 +279,16 @@
         "name": "William the thi",
         "townhallLevel": 14,
         "mapPosition": 20,
+        "attacks": [
+          {
+            "attackerTag": "#QVUQ2VR98",
+            "defenderTag": "#YLUGJYP00",
+            "stars": 2,
+            "destructionPercentage": 92,
+            "order": 53,
+            "duration": 112
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -389,7 +399,15 @@
         "name": "KingFighter COC",
         "townhallLevel": 14,
         "mapPosition": 19,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#L8L0U9QJL",
+          "defenderTag": "#2QRGJQJ2Q",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 52,
+          "duration": 142
+        }
       },
       {
         "tag": "#RJULR9R",
@@ -670,9 +688,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/qvVyEGEhwIjPx6oL_BYwfcnp_hoVPWhbBaWGJdsAnpQ.png"
     },
     "clanLevel": 16,
-    "attacks": 23,
-    "stars": 56,
-    "destructionPercentage": 68.36667,
+    "attacks": 24,
+    "stars": 59,
+    "destructionPercentage": 71.7,
     "members": [
       {
         "tag": "#QVGUGCL2",
@@ -1233,7 +1251,15 @@
         "name": "Ender",
         "townhallLevel": 14,
         "mapPosition": 20,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QVUQ2VR98",
+          "defenderTag": "#YLUGJYP00",
+          "stars": 2,
+          "destructionPercentage": 92,
+          "order": 53,
+          "duration": 112
+        }
       },
       {
         "tag": "#YP9Y8U0QC",
@@ -1277,6 +1303,16 @@
         "name": "Obito",
         "townhallLevel": 14,
         "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#L8L0U9QJL",
+            "defenderTag": "#2QRGJQJ2Q",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 52,
+            "duration": 142
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#GLU9LC2LG",
