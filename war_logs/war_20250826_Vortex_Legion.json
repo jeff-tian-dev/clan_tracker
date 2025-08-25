@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/SDaPAleElDurilJwEJ4hTNB9YR3pRupEbuncsdoGpvc.png"
     },
     "clanLevel": 9,
-    "attacks": 10,
-    "stars": 23,
-    "destructionPercentage": 30.1,
+    "attacks": 11,
+    "stars": 26,
+    "destructionPercentage": 33.433334,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -64,14 +64,30 @@
             "duration": 145
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PP8RGVJY0",
+          "defenderTag": "#GLU9LC2LG",
+          "stars": 1,
+          "destructionPercentage": 79,
+          "order": 32,
+          "duration": 134
+        }
       },
       {
         "tag": "#2920V9PV",
         "name": "Ryan",
         "townhallLevel": 14,
         "mapPosition": 17,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2JG8G0GUC",
+          "defenderTag": "#2920V9PV",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 30,
+          "duration": 133
+        }
       },
       {
         "tag": "#Q0YQURYCY",
@@ -222,6 +238,16 @@
         "name": "Brayden",
         "townhallLevel": 14,
         "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#LPYV8PPGP",
+            "defenderTag": "#G2Y8R0QCL",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 31,
+            "duration": 141
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#L8VG2VC0L",
@@ -424,14 +450,30 @@
         "name": "Cookies",
         "townhallLevel": 14,
         "mapPosition": 15,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2JG8G0GUC",
+          "defenderTag": "#LCUL88JLG",
+          "stars": 2,
+          "destructionPercentage": 99,
+          "order": 29,
+          "duration": 180
+        }
       },
       {
         "tag": "#Q9Q0CRR0V",
         "name": "dev_griff7",
         "townhallLevel": 14,
         "mapPosition": 27,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#9VGCJC0GC",
+          "defenderTag": "#Q9Q0CRR0V",
+          "stars": 2,
+          "destructionPercentage": 86,
+          "order": 33,
+          "duration": 180
+        }
       },
       {
         "tag": "#LLYV29CU",
@@ -466,9 +508,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/qvVyEGEhwIjPx6oL_BYwfcnp_hoVPWhbBaWGJdsAnpQ.png"
     },
     "clanLevel": 16,
-    "attacks": 18,
-    "stars": 45,
-    "destructionPercentage": 52.9,
+    "attacks": 22,
+    "stars": 53,
+    "destructionPercentage": 65.03333,
     "members": [
       {
         "tag": "#QVGUGCL2",
@@ -560,7 +602,15 @@
         "name": "Ayush",
         "townhallLevel": 14,
         "mapPosition": 23,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LPYV8PPGP",
+          "defenderTag": "#G2Y8R0QCL",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 31,
+          "duration": 141
+        }
       },
       {
         "tag": "#9VRLVPPYQ",
@@ -607,6 +657,24 @@
         "name": "SEN",
         "townhallLevel": 14,
         "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#2JG8G0GUC",
+            "defenderTag": "#LCUL88JLG",
+            "stars": 2,
+            "destructionPercentage": 99,
+            "order": 29,
+            "duration": 180
+          },
+          {
+            "attackerTag": "#2JG8G0GUC",
+            "defenderTag": "#2920V9PV",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 30,
+            "duration": 133
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -663,6 +731,16 @@
         "name": "dx generation",
         "townhallLevel": 13,
         "mapPosition": 29,
+        "attacks": [
+          {
+            "attackerTag": "#9VGCJC0GC",
+            "defenderTag": "#Q9Q0CRR0V",
+            "stars": 2,
+            "destructionPercentage": 86,
+            "order": 33,
+            "duration": 180
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#GGYGQ8098",
@@ -678,6 +756,16 @@
         "name": "DANTE",
         "townhallLevel": 14,
         "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#PP8RGVJY0",
+            "defenderTag": "#GLU9LC2LG",
+            "stars": 1,
+            "destructionPercentage": 79,
+            "order": 32,
+            "duration": 134
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#LGGLYVUPP",
