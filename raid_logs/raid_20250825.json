@@ -3,7 +3,7 @@
   "startTime": "20250822T070000.000Z",
   "endTime": "20250825T070000.000Z",
   "capitalTotalLoot": 576608,
-  "raidsCompleted": 8,
+  "raidsCompleted": 9,
   "totalAttacks": 149,
   "enemyDistrictsDestroyed": 50,
   "offensiveReward": 0,
@@ -3126,55 +3126,151 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/5IWlCISAV2czS27M9k9iCc8YWlxVKBtTcmORXKPCsNQ.png"
         }
       },
-      "attackCount": 11,
+      "attackCount": 22,
       "districtCount": 9,
-      "districtsDestroyed": 4,
+      "districtsDestroyed": 9,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 13388,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#22P2RCU2Q",
+                "name": "brontolo"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#22P2RCU2Q",
+                "name": "brontolo"
+              },
+              "destructionPercent": 72,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#22P2RCU2Q",
+                "name": "brontolo"
+              },
+              "destructionPercent": 43,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11523,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#22P2RCU2Q",
+                "name": "brontolo"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#22P2RCU2Q",
+                "name": "brontolo"
+              },
+              "destructionPercent": 53,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10268,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#22P2RCU2Q",
+                "name": "brontolo"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#C0QGP8UG",
+                "name": "cristian"
+              },
+              "destructionPercent": 44,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11202,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#C0QGP8UG",
+                "name": "cristian"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#C0QGP8UG",
+                "name": "cristian"
+              },
+              "destructionPercent": 50,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 17,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 2360,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11804,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#C0QGP8UG",
+                "name": "cristian"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#C0QGP8UG",
+                "name": "cristian"
+              },
+              "destructionPercent": 73,
+              "stars": 1
+            },
             {
               "attacker": {
                 "tag": "#C0QGP8UG",
