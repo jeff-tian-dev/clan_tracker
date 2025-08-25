@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/SDaPAleElDurilJwEJ4hTNB9YR3pRupEbuncsdoGpvc.png"
     },
     "clanLevel": 9,
-    "attacks": 8,
-    "stars": 20,
-    "destructionPercentage": 24.433332,
+    "attacks": 10,
+    "stars": 23,
+    "destructionPercentage": 30.1,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -192,14 +192,14 @@
         "name": "Phantom",
         "townhallLevel": 15,
         "mapPosition": 4,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#280Y2VPL2",
+          "attackerTag": "#PGPQCCVJ",
           "defenderTag": "#LYJJ9PLV9",
-          "stars": 2,
-          "destructionPercentage": 90,
-          "order": 6,
-          "duration": 180
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 25,
+          "duration": 139
         }
       },
       {
@@ -244,7 +244,15 @@
         "name": "kingsaxon2000",
         "townhallLevel": 14,
         "mapPosition": 26,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YUUGYLL8",
+          "defenderTag": "#RJULR9R",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 28,
+          "duration": 110
+        }
       },
       {
         "tag": "#QVGVJJ99C",
@@ -383,6 +391,24 @@
         "name": "siwi2isuus2",
         "townhallLevel": 15,
         "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#LGGLYVUPP",
+            "defenderTag": "#PP8RGVJY0",
+            "stars": 1,
+            "destructionPercentage": 80,
+            "order": 26,
+            "duration": 122
+          },
+          {
+            "attackerTag": "#LGGLYVUPP",
+            "defenderTag": "#L0QG2V09",
+            "stars": 2,
+            "destructionPercentage": 90,
+            "order": 27,
+            "duration": 107
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#9CRY00G00",
@@ -440,9 +466,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/qvVyEGEhwIjPx6oL_BYwfcnp_hoVPWhbBaWGJdsAnpQ.png"
     },
     "clanLevel": 16,
-    "attacks": 16,
-    "stars": 41,
-    "destructionPercentage": 49.233334,
+    "attacks": 18,
+    "stars": 45,
+    "destructionPercentage": 52.9,
     "members": [
       {
         "tag": "#QVGUGCL2",
@@ -471,6 +497,14 @@
             "destructionPercentage": 100,
             "order": 18,
             "duration": 127
+          },
+          {
+            "attackerTag": "#PGPQCCVJ",
+            "defenderTag": "#LYJJ9PLV9",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 25,
+            "duration": 139
           }
         ],
         "opponentAttacks": 0
@@ -487,6 +521,16 @@
         "name": "evan2",
         "townhallLevel": 14,
         "mapPosition": 27,
+        "attacks": [
+          {
+            "attackerTag": "#YUUGYLL8",
+            "defenderTag": "#RJULR9R",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 28,
+            "duration": 110
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -634,7 +678,15 @@
         "name": "DANTE",
         "townhallLevel": 14,
         "mapPosition": 16,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LGGLYVUPP",
+          "defenderTag": "#PP8RGVJY0",
+          "stars": 1,
+          "destructionPercentage": 80,
+          "order": 26,
+          "duration": 122
+        }
       },
       {
         "tag": "#280Y2VPL2",
@@ -833,7 +885,15 @@
         "name": "F\u00e3h\u00eem",
         "townhallLevel": 14,
         "mapPosition": 17,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LGGLYVUPP",
+          "defenderTag": "#L0QG2V09",
+          "stars": 2,
+          "destructionPercentage": 90,
+          "order": 27,
+          "duration": 107
+        }
       },
       {
         "tag": "#P0RRULRP9",
