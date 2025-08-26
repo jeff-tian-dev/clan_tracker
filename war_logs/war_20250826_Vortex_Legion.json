@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/SDaPAleElDurilJwEJ4hTNB9YR3pRupEbuncsdoGpvc.png"
     },
     "clanLevel": 9,
-    "attacks": 45,
-    "stars": 83,
-    "destructionPercentage": 95.3,
+    "attacks": 47,
+    "stars": 84,
+    "destructionPercentage": 96.8,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -475,6 +475,24 @@
         "name": "KingFighter COC",
         "townhallLevel": 14,
         "mapPosition": 19,
+        "attacks": [
+          {
+            "attackerTag": "#2QRGJQJ2Q",
+            "defenderTag": "#P290YCJ2L",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 95,
+            "duration": 132
+          },
+          {
+            "attackerTag": "#2QRGJQJ2Q",
+            "defenderTag": "#YUUGYLL8",
+            "stars": 2,
+            "destructionPercentage": 87,
+            "order": 96,
+            "duration": 180
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#L8L0U9QJL",
@@ -1021,7 +1039,7 @@
             "duration": 110
           }
         ],
-        "opponentAttacks": 4,
+        "opponentAttacks": 5,
         "bestOpponentAttack": {
           "attackerTag": "#9VU0VU90G",
           "defenderTag": "#YUUGYLL8",
@@ -1406,14 +1424,14 @@
             "duration": 128
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#Q9Q0CRR0V",
+          "attackerTag": "#2QRGJQJ2Q",
           "defenderTag": "#P290YCJ2L",
-          "stars": 2,
-          "destructionPercentage": 55,
-          "order": 42,
-          "duration": 79
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 95,
+          "duration": 132
         }
       },
       {
