@@ -15,7 +15,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/SDaPAleElDurilJwEJ4hTNB9YR3pRupEbuncsdoGpvc.png"
     },
     "clanLevel": 9,
-    "attacks": 49,
+    "attacks": 50,
     "stars": 86,
     "destructionPercentage": 97.53333,
     "members": [
@@ -372,7 +372,7 @@
             "duration": 113
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#P290YCJ2L",
           "defenderTag": "#QQUUQYQVL",
@@ -754,7 +754,7 @@
             "duration": 180
           }
         ],
-        "opponentAttacks": 3,
+        "opponentAttacks": 4,
         "bestOpponentAttack": {
           "attackerTag": "#L8VG2VC0L",
           "defenderTag": "#9GL0YG0VU",
@@ -820,7 +820,7 @@
             "duration": 147
           }
         ],
-        "opponentAttacks": 5,
+        "opponentAttacks": 6,
         "bestOpponentAttack": {
           "attackerTag": "#2JG8G0GUC",
           "defenderTag": "#LCUL88JLG",
@@ -876,6 +876,14 @@
             "destructionPercentage": 92,
             "order": 82,
             "duration": 180
+          },
+          {
+            "attackerTag": "#LLYV29CU",
+            "defenderTag": "#YLUGJYP00",
+            "stars": 2,
+            "destructionPercentage": 88,
+            "order": 101,
+            "duration": 180
           }
         ],
         "opponentAttacks": 1,
@@ -924,7 +932,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/qvVyEGEhwIjPx6oL_BYwfcnp_hoVPWhbBaWGJdsAnpQ.png"
     },
     "clanLevel": 16,
-    "attacks": 51,
+    "attacks": 54,
     "stars": 86,
     "destructionPercentage": 98.73333,
     "members": [
@@ -1196,6 +1204,24 @@
         "name": "Grumpers",
         "townhallLevel": 15,
         "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#QLJ888P0",
+            "defenderTag": "#9GL0YG0VU",
+            "stars": 1,
+            "destructionPercentage": 70,
+            "order": 102,
+            "duration": 180
+          },
+          {
+            "attackerTag": "#QLJ888P0",
+            "defenderTag": "#QQUUQYQVL",
+            "stars": 2,
+            "destructionPercentage": 62,
+            "order": 103,
+            "duration": 138
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#UJP2UYRY",
@@ -1384,6 +1410,14 @@
             "destructionPercentage": 79,
             "order": 32,
             "duration": 134
+          },
+          {
+            "attackerTag": "#PP8RGVJY0",
+            "defenderTag": "#LCUL88JLG",
+            "stars": 1,
+            "destructionPercentage": 83,
+            "order": 104,
+            "duration": 113
           }
         ],
         "opponentAttacks": 2,
@@ -1683,7 +1717,7 @@
             "duration": 127
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#QVUQ2VR98",
           "defenderTag": "#YLUGJYP00",
