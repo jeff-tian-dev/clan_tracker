@@ -718,7 +718,7 @@
             "duration": 180
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
           "attackerTag": "#L8VG2VC0L",
           "defenderTag": "#9GL0YG0VU",
@@ -784,7 +784,7 @@
             "duration": 147
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
           "attackerTag": "#2JG8G0GUC",
           "defenderTag": "#LCUL88JLG",
@@ -888,7 +888,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/qvVyEGEhwIjPx6oL_BYwfcnp_hoVPWhbBaWGJdsAnpQ.png"
     },
     "clanLevel": 16,
-    "attacks": 47,
+    "attacks": 49,
     "stars": 86,
     "destructionPercentage": 98.73333,
     "members": [
@@ -1677,6 +1677,24 @@
         "name": "F\u00e3h\u00eem",
         "townhallLevel": 14,
         "mapPosition": 17,
+        "attacks": [
+          {
+            "attackerTag": "#L0QG2V09",
+            "defenderTag": "#LCUL88JLG",
+            "stars": 2,
+            "destructionPercentage": 90,
+            "order": 93,
+            "duration": 180
+          },
+          {
+            "attackerTag": "#L0QG2V09",
+            "defenderTag": "#9GL0YG0VU",
+            "stars": 1,
+            "destructionPercentage": 70,
+            "order": 94,
+            "duration": 129
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#LGGLYVUPP",
