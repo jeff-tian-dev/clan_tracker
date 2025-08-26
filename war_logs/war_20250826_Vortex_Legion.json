@@ -685,14 +685,14 @@
             "duration": 115
           }
         ],
-        "opponentAttacks": 3,
+        "opponentAttacks": 4,
         "bestOpponentAttack": {
-          "attackerTag": "#YP9Y8U0QC",
+          "attackerTag": "#2QG8JYCGG",
           "defenderTag": "#G9CC9G2VQ",
-          "stars": 2,
-          "destructionPercentage": 93,
-          "order": 89,
-          "duration": 128
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 92,
+          "duration": 72
         }
       },
       {
@@ -718,7 +718,7 @@
             "duration": 180
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#L8VG2VC0L",
           "defenderTag": "#9GL0YG0VU",
@@ -888,9 +888,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/qvVyEGEhwIjPx6oL_BYwfcnp_hoVPWhbBaWGJdsAnpQ.png"
     },
     "clanLevel": 16,
-    "attacks": 45,
-    "stars": 85,
-    "destructionPercentage": 98.5,
+    "attacks": 47,
+    "stars": 86,
+    "destructionPercentage": 98.73333,
     "members": [
       {
         "tag": "#QVGUGCL2",
@@ -1740,6 +1740,24 @@
         "name": "SHIWANG",
         "townhallLevel": 15,
         "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#2QG8JYCGG",
+            "defenderTag": "#9GL0YG0VU",
+            "stars": 2,
+            "destructionPercentage": 82,
+            "order": 91,
+            "duration": 101
+          },
+          {
+            "attackerTag": "#2QG8JYCGG",
+            "defenderTag": "#G9CC9G2VQ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 92,
+            "duration": 72
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#9U2YP0RY",
