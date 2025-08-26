@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/SDaPAleElDurilJwEJ4hTNB9YR3pRupEbuncsdoGpvc.png"
     },
     "clanLevel": 9,
-    "attacks": 47,
-    "stars": 84,
-    "destructionPercentage": 96.8,
+    "attacks": 49,
+    "stars": 86,
+    "destructionPercentage": 97.53333,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -354,6 +354,24 @@
         "name": "9/11",
         "townhallLevel": 14,
         "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#QQUUQYQVL",
+            "defenderTag": "#YUUGYLL8",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 97,
+            "duration": 100
+          },
+          {
+            "attackerTag": "#QQUUQYQVL",
+            "defenderTag": "#QQUPP29VC",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 98,
+            "duration": 113
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#P290YCJ2L",
@@ -1014,14 +1032,14 @@
             "duration": 178
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#2920V9PV",
+          "attackerTag": "#QQUUQYQVL",
           "defenderTag": "#QQUPP29VC",
-          "stars": 2,
-          "destructionPercentage": 87,
-          "order": 40,
-          "duration": 128
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 98,
+          "duration": 113
         }
       },
       {
@@ -1039,14 +1057,14 @@
             "duration": 110
           }
         ],
-        "opponentAttacks": 5,
+        "opponentAttacks": 6,
         "bestOpponentAttack": {
-          "attackerTag": "#9VU0VU90G",
+          "attackerTag": "#QQUUQYQVL",
           "defenderTag": "#YUUGYLL8",
-          "stars": 2,
-          "destructionPercentage": 91,
-          "order": 74,
-          "duration": 140
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 97,
+          "duration": 100
         }
       },
       {
