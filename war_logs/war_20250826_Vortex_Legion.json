@@ -603,14 +603,14 @@
             "duration": 140
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#GJJPC9QV",
+          "attackerTag": "#9QC0YY9J8",
           "defenderTag": "#9VU0VU90G",
-          "stars": 2,
-          "destructionPercentage": 84,
-          "order": 1,
-          "duration": 141
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 79,
+          "duration": 69
         }
       },
       {
@@ -801,14 +801,14 @@
             "duration": 97
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#9VGCJC0GC",
+          "attackerTag": "#YC2Q220G",
           "defenderTag": "#Q9Q0CRR0V",
-          "stars": 2,
-          "destructionPercentage": 86,
-          "order": 33,
-          "duration": 180
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 78,
+          "duration": 118
         }
       },
       {
@@ -862,9 +862,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/qvVyEGEhwIjPx6oL_BYwfcnp_hoVPWhbBaWGJdsAnpQ.png"
     },
     "clanLevel": 16,
-    "attacks": 34,
-    "stars": 77,
-    "destructionPercentage": 92.0,
+    "attacks": 36,
+    "stars": 79,
+    "destructionPercentage": 93.0,
     "members": [
       {
         "tag": "#QVGUGCL2",
@@ -886,6 +886,16 @@
         "name": "Kosumo",
         "townhallLevel": 14,
         "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#9QC0YY9J8",
+            "defenderTag": "#9VU0VU90G",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 79,
+            "duration": 69
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#LCUL88JLG",
@@ -1136,6 +1146,16 @@
         "name": "Mason",
         "townhallLevel": 14,
         "mapPosition": 24,
+        "attacks": [
+          {
+            "attackerTag": "#YC2Q220G",
+            "defenderTag": "#Q9Q0CRR0V",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 78,
+            "duration": 118
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#Q0YQURYCY",
