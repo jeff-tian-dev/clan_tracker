@@ -316,7 +316,15 @@
         "name": "Razib bp",
         "townhallLevel": 14,
         "mapPosition": 12,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#P9V9CG0GL",
+          "defenderTag": "#9GL0YG0VU",
+          "stars": 1,
+          "destructionPercentage": 67,
+          "order": 18,
+          "duration": 127
+        }
       },
       {
         "tag": "#LGGLYVUPP",
@@ -357,9 +365,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/cLhq4-xujPk7vP_So0aOMiI1ZIPBeydD0QxBZdVVkgI.png"
     },
     "clanLevel": 17,
-    "attacks": 3,
-    "stars": 8,
-    "destructionPercentage": 11.56,
+    "attacks": 4,
+    "stars": 9,
+    "destructionPercentage": 14.24,
     "members": [
       {
         "tag": "#L8Y9ULCCC",
@@ -601,6 +609,16 @@
         "name": "iman",
         "townhallLevel": 15,
         "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#P9V9CG0GL",
+            "defenderTag": "#9GL0YG0VU",
+            "stars": 1,
+            "destructionPercentage": 67,
+            "order": 18,
+            "duration": 127
+          }
+        ],
         "opponentAttacks": 0
       },
       {
