@@ -380,7 +380,15 @@
         "name": "Cookies",
         "townhallLevel": 14,
         "mapPosition": 14,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YUJVG0Y8L",
+          "defenderTag": "#LCUL88JLG",
+          "stars": 2,
+          "destructionPercentage": 77,
+          "order": 26,
+          "duration": 133
+        }
       },
       {
         "tag": "#GQV2LCC00",
@@ -407,9 +415,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/cLhq4-xujPk7vP_So0aOMiI1ZIPBeydD0QxBZdVVkgI.png"
     },
     "clanLevel": 17,
-    "attacks": 10,
-    "stars": 18,
-    "destructionPercentage": 28.4,
+    "attacks": 11,
+    "stars": 20,
+    "destructionPercentage": 31.48,
     "members": [
       {
         "tag": "#L8Y9ULCCC",
@@ -721,6 +729,16 @@
         "name": "mahyar",
         "townhallLevel": 14,
         "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#YUJVG0Y8L",
+            "defenderTag": "#LCUL88JLG",
+            "stars": 2,
+            "destructionPercentage": 77,
+            "order": 26,
+            "duration": 133
+          }
+        ],
         "opponentAttacks": 0
       },
       {
