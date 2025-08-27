@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/SDaPAleElDurilJwEJ4hTNB9YR3pRupEbuncsdoGpvc.png"
     },
     "clanLevel": 9,
-    "attacks": 7,
-    "stars": 15,
-    "destructionPercentage": 23.52,
+    "attacks": 10,
+    "stars": 23,
+    "destructionPercentage": 34.16,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -46,6 +46,14 @@
             "destructionPercentage": 99,
             "order": 7,
             "duration": 180
+          },
+          {
+            "attackerTag": "#GLU9LC2LG",
+            "defenderTag": "#89LJ2UGR9",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 8,
+            "duration": 161
           }
         ],
         "opponentAttacks": 0
@@ -214,6 +222,24 @@
         "name": "Aurelian",
         "townhallLevel": 12,
         "mapPosition": 25,
+        "attacks": [
+          {
+            "attackerTag": "#GGYGQ8098",
+            "defenderTag": "#G90RLCGJR",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 9,
+            "duration": 126
+          },
+          {
+            "attackerTag": "#GGYGQ8098",
+            "defenderTag": "#QJCGQYJJR",
+            "stars": 2,
+            "destructionPercentage": 66,
+            "order": 10,
+            "duration": 97
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -221,7 +247,15 @@
         "name": "Grizz",
         "townhallLevel": 14,
         "mapPosition": 19,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#L8LR0UQUL",
+          "defenderTag": "#G9CC9G2VQ",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 11,
+          "duration": 157
+        }
       },
       {
         "tag": "#9GL0YG0VU",
@@ -269,9 +303,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/cLhq4-xujPk7vP_So0aOMiI1ZIPBeydD0QxBZdVVkgI.png"
     },
     "clanLevel": 17,
-    "attacks": 0,
-    "stars": 0,
-    "destructionPercentage": 0.0,
+    "attacks": 1,
+    "stars": 3,
+    "destructionPercentage": 4.0,
     "members": [
       {
         "tag": "#L8Y9ULCCC",
@@ -292,13 +326,31 @@
         "name": "mohammad",
         "townhallLevel": 13,
         "mapPosition": 24,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GGYGQ8098",
+          "defenderTag": "#QJCGQYJJR",
+          "stars": 2,
+          "destructionPercentage": 66,
+          "order": 10,
+          "duration": 97
+        }
       },
       {
         "tag": "#L8LR0UQUL",
         "name": "lord amir",
         "townhallLevel": 14,
         "mapPosition": 19,
+        "attacks": [
+          {
+            "attackerTag": "#L8LR0UQUL",
+            "defenderTag": "#G9CC9G2VQ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 11,
+            "duration": 157
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -335,7 +387,15 @@
         "name": "Predator",
         "townhallLevel": 15,
         "mapPosition": 10,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GLU9LC2LG",
+          "defenderTag": "#89LJ2UGR9",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 8,
+          "duration": 161
+        }
       },
       {
         "tag": "#LCLJLRRJJ",
@@ -494,7 +554,15 @@
         "name": "@mohammad22@",
         "townhallLevel": 14,
         "mapPosition": 25,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GGYGQ8098",
+          "defenderTag": "#G90RLCGJR",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 9,
+          "duration": 126
+        }
       }
     ]
   }
