@@ -15,22 +15,40 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/SDaPAleElDurilJwEJ4hTNB9YR3pRupEbuncsdoGpvc.png"
     },
     "clanLevel": 9,
-    "attacks": 10,
-    "stars": 23,
-    "destructionPercentage": 34.16,
+    "attacks": 14,
+    "stars": 32,
+    "destructionPercentage": 43.96,
     "members": [
       {
         "tag": "#RUVPQQR0",
         "name": "Badboy101",
         "townhallLevel": 13,
         "mapPosition": 22,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LR82R0LPY",
+          "defenderTag": "#RUVPQQR0",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 15,
+          "duration": 133
+        }
       },
       {
         "tag": "#UJP2UYRY",
         "name": "destroyer",
         "townhallLevel": 16,
         "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#UJP2UYRY",
+            "defenderTag": "#Q0LU8ULUU",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 13,
+            "duration": 103
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -95,6 +113,16 @@
         "name": "bmuff2002",
         "townhallLevel": 13,
         "mapPosition": 24,
+        "attacks": [
+          {
+            "attackerTag": "#V0JYCPRR",
+            "defenderTag": "#QJCGQYJJR",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 12,
+            "duration": 135
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -169,7 +197,15 @@
         "name": "King Killer",
         "townhallLevel": 15,
         "mapPosition": 9,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LCLJLRRJJ",
+          "defenderTag": "#J88YJGY9",
+          "stars": 2,
+          "destructionPercentage": 89,
+          "order": 17,
+          "duration": 172
+        }
       },
       {
         "tag": "#YJ2UV2GY",
@@ -183,6 +219,24 @@
         "name": "JT",
         "townhallLevel": 14,
         "mapPosition": 21,
+        "attacks": [
+          {
+            "attackerTag": "#QRP2RLV02",
+            "defenderTag": "#L8LR0UQUL",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 14,
+            "duration": 110
+          },
+          {
+            "attackerTag": "#QRP2RLV02",
+            "defenderTag": "#Q2CGPJPG0",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 16,
+            "duration": 70
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -303,9 +357,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/cLhq4-xujPk7vP_So0aOMiI1ZIPBeydD0QxBZdVVkgI.png"
     },
     "clanLevel": 17,
-    "attacks": 1,
-    "stars": 3,
-    "destructionPercentage": 4.0,
+    "attacks": 3,
+    "stars": 8,
+    "destructionPercentage": 11.56,
     "members": [
       {
         "tag": "#L8Y9ULCCC",
@@ -326,14 +380,14 @@
         "name": "mohammad",
         "townhallLevel": 13,
         "mapPosition": 24,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#GGYGQ8098",
+          "attackerTag": "#V0JYCPRR",
           "defenderTag": "#QJCGQYJJR",
-          "stars": 2,
-          "destructionPercentage": 66,
-          "order": 10,
-          "duration": 97
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 12,
+          "duration": 135
         }
       },
       {
@@ -351,21 +405,29 @@
             "duration": 157
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QRP2RLV02",
+          "defenderTag": "#L8LR0UQUL",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 14,
+          "duration": 110
+        }
       },
       {
         "tag": "#Q0LU8ULUU",
         "name": "king",
         "townhallLevel": 15,
         "mapPosition": 5,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#8VQYULVQQ",
+          "attackerTag": "#UJP2UYRY",
           "defenderTag": "#Q0LU8ULUU",
-          "stars": 1,
-          "destructionPercentage": 89,
-          "order": 5,
-          "duration": 180
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 13,
+          "duration": 103
         }
       },
       {
@@ -402,6 +464,16 @@
         "name": "Ali 10",
         "townhallLevel": 15,
         "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#LCLJLRRJJ",
+            "defenderTag": "#J88YJGY9",
+            "stars": 2,
+            "destructionPercentage": 89,
+            "order": 17,
+            "duration": 172
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -453,7 +525,15 @@
         "name": "amir hosein",
         "townhallLevel": 14,
         "mapPosition": 16,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QRP2RLV02",
+          "defenderTag": "#Q2CGPJPG0",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 16,
+          "duration": 70
+        }
       },
       {
         "tag": "#29GCYVGYP",
@@ -504,6 +584,16 @@
         "name": "tak khal",
         "townhallLevel": 14,
         "mapPosition": 22,
+        "attacks": [
+          {
+            "attackerTag": "#LR82R0LPY",
+            "defenderTag": "#RUVPQQR0",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 15,
+            "duration": 133
+          }
+        ],
         "opponentAttacks": 0
       },
       {
