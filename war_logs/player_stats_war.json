@@ -441,11 +441,11 @@
       },
       {
         "date": "20250828",
-        "attacksUsed": 0,
-        "starsEarned": 0,
-        "destruction": 0,
-        "attacksMissed": 2,
-        "zeroParticipation": true
+        "attacksUsed": 2,
+        "starsEarned": 6,
+        "destruction": 200,
+        "attacksMissed": 0,
+        "zeroParticipation": false
       }
     ]
   },
@@ -2241,11 +2241,11 @@
       },
       {
         "date": "20250828",
-        "attacksUsed": 0,
-        "starsEarned": 0,
-        "destruction": 0,
-        "attacksMissed": 2,
-        "zeroParticipation": true
+        "attacksUsed": 1,
+        "starsEarned": 2,
+        "destruction": 99,
+        "attacksMissed": 1,
+        "zeroParticipation": false
       }
     ]
   },
@@ -2691,11 +2691,11 @@
       },
       {
         "date": "20250828",
-        "attacksUsed": 0,
-        "starsEarned": 0,
-        "destruction": 0,
-        "attacksMissed": 2,
-        "zeroParticipation": true
+        "attacksUsed": 2,
+        "starsEarned": 4,
+        "destruction": 189,
+        "attacksMissed": 0,
+        "zeroParticipation": false
       }
     ]
   },
@@ -14587,7 +14587,7 @@
       }
     ]
   },
-  "timestamp": "2025-08-27 08:00:03",
+  "timestamp": "2025-08-27 09:00:03",
   "#GPPQ0JCJR": {
     "name": "Goujii",
     "tag": "#GPPQ0JCJR",
@@ -21596,11 +21596,11 @@
       },
       {
         "date": "20250828",
-        "attacksUsed": 0,
-        "starsEarned": 0,
-        "destruction": 0,
-        "attacksMissed": 2,
-        "zeroParticipation": true
+        "attacksUsed": 2,
+        "starsEarned": 5,
+        "destruction": 199,
+        "attacksMissed": 0,
+        "zeroParticipation": false
       }
     ]
   },
@@ -24955,6 +24955,20 @@
   "#QPCCPRCQ": {
     "name": "Yoon wati",
     "tag": "#QPCCPRCQ",
+    "history": [
+      {
+        "date": "20250828",
+        "attacksUsed": "---",
+        "starsEarned": "---",
+        "destruction": "---",
+        "attacksMissed": 0,
+        "zeroParticipation": true
+      }
+    ]
+  },
+  "#QLC8C80U9": {
+    "name": "hunter",
+    "tag": "#QLC8C80U9",
     "history": [
       {
         "date": "20250828",
