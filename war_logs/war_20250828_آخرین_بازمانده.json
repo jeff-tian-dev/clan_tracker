@@ -15,7 +15,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/SDaPAleElDurilJwEJ4hTNB9YR3pRupEbuncsdoGpvc.png"
     },
     "clanLevel": 9,
-    "attacks": 38,
+    "attacks": 39,
     "stars": 75,
     "destructionPercentage": 100.0,
     "members": [
@@ -393,6 +393,14 @@
             "destructionPercentage": 79,
             "order": 56,
             "duration": 180
+          },
+          {
+            "attackerTag": "#J88YJGY9",
+            "defenderTag": "#LR82R0LPY",
+            "stars": 2,
+            "destructionPercentage": 71,
+            "order": 62,
+            "duration": 147
           }
         ],
         "opponentAttacks": 1,
@@ -672,14 +680,14 @@
             "duration": 180
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#LUCU2LC2",
+          "attackerTag": "#G2V08VGVC",
           "defenderTag": "#LLYV29CU",
-          "stars": 1,
-          "destructionPercentage": 98,
-          "order": 33,
-          "duration": 124
+          "stars": 2,
+          "destructionPercentage": 95,
+          "order": 61,
+          "duration": 158
         }
       }
     ]
@@ -693,9 +701,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/cLhq4-xujPk7vP_So0aOMiI1ZIPBeydD0QxBZdVVkgI.png"
     },
     "clanLevel": 17,
-    "attacks": 22,
-    "stars": 38,
-    "destructionPercentage": 60.28,
+    "attacks": 23,
+    "stars": 39,
+    "destructionPercentage": 60.16,
     "members": [
       {
         "tag": "#L8Y9ULCCC",
@@ -918,6 +926,14 @@
             "destructionPercentage": 56,
             "order": 20,
             "duration": 93
+          },
+          {
+            "attackerTag": "#G2V08VGVC",
+            "defenderTag": "#LLYV29CU",
+            "stars": 2,
+            "destructionPercentage": 95,
+            "order": 61,
+            "duration": 158
           }
         ],
         "opponentAttacks": 2,
@@ -1126,7 +1142,7 @@
             "duration": 164
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
           "attackerTag": "#V0JYCPRR",
           "defenderTag": "#LR82R0LPY",
