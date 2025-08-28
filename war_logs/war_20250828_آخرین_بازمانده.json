@@ -15,7 +15,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/SDaPAleElDurilJwEJ4hTNB9YR3pRupEbuncsdoGpvc.png"
     },
     "clanLevel": 9,
-    "attacks": 34,
+    "attacks": 35,
     "stars": 75,
     "destructionPercentage": 100.0,
     "members": [
@@ -586,6 +586,14 @@
             "destructionPercentage": 100,
             "order": 54,
             "duration": 155
+          },
+          {
+            "attackerTag": "#LCUL88JLG",
+            "defenderTag": "#20Y0VRRCG",
+            "stars": 1,
+            "destructionPercentage": 97,
+            "order": 55,
+            "duration": 151
           }
         ],
         "opponentAttacks": 1,
@@ -804,7 +812,7 @@
         "name": "\u0686\u0631\u064a\u06a9\u0648",
         "townhallLevel": 16,
         "mapPosition": 17,
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
           "attackerTag": "#LLYV29CU",
           "defenderTag": "#20Y0VRRCG",
