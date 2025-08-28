@@ -57,7 +57,15 @@
             "duration": 70
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LVQLY2L0L",
+          "defenderTag": "#UJP2UYRY",
+          "stars": 2,
+          "destructionPercentage": 92,
+          "order": 72,
+          "duration": 107
+        }
       },
       {
         "tag": "#GLU9LC2LG",
@@ -379,7 +387,15 @@
             "duration": 60
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q9QRPCUVQ",
+          "defenderTag": "#LYJJ9PLV9",
+          "stars": 2,
+          "destructionPercentage": 91,
+          "order": 71,
+          "duration": 80
+        }
       },
       {
         "tag": "#2QRGJQJ2Q",
@@ -606,14 +622,14 @@
         "name": "Razib bp",
         "townhallLevel": 14,
         "mapPosition": 12,
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#29GCYVGYP",
+          "attackerTag": "#2CJ0VLYC",
           "defenderTag": "#9GL0YG0VU",
-          "stars": 2,
-          "destructionPercentage": 84,
-          "order": 24,
-          "duration": 170
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 69,
+          "duration": 127
         }
       },
       {
@@ -639,7 +655,15 @@
             "duration": 129
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#L8Y9ULCCC",
+          "defenderTag": "#LGGLYVUPP",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 70,
+          "duration": 106
+        }
       },
       {
         "tag": "#LCUL88JLG",
@@ -733,9 +757,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/cLhq4-xujPk7vP_So0aOMiI1ZIPBeydD0QxBZdVVkgI.png"
     },
     "clanLevel": 17,
-    "attacks": 29,
-    "stars": 50,
-    "destructionPercentage": 71.72,
+    "attacks": 33,
+    "stars": 58,
+    "destructionPercentage": 83.68,
     "members": [
       {
         "tag": "#L8Y9ULCCC",
@@ -750,6 +774,14 @@
             "destructionPercentage": 81,
             "order": 39,
             "duration": 74
+          },
+          {
+            "attackerTag": "#L8Y9ULCCC",
+            "defenderTag": "#LGGLYVUPP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 70,
+            "duration": 106
           }
         ],
         "opponentAttacks": 3,
@@ -1042,6 +1074,14 @@
             "destructionPercentage": 99,
             "order": 36,
             "duration": 99
+          },
+          {
+            "attackerTag": "#LVQLY2L0L",
+            "defenderTag": "#UJP2UYRY",
+            "stars": 2,
+            "destructionPercentage": 92,
+            "order": 72,
+            "duration": 107
           }
         ],
         "opponentAttacks": 1,
@@ -1125,6 +1165,14 @@
             "destructionPercentage": 75,
             "order": 37,
             "duration": 69
+          },
+          {
+            "attackerTag": "#Q9QRPCUVQ",
+            "defenderTag": "#LYJJ9PLV9",
+            "stars": 2,
+            "destructionPercentage": 91,
+            "order": 71,
+            "duration": 80
           }
         ],
         "opponentAttacks": 1,
@@ -1150,6 +1198,14 @@
             "destructionPercentage": 68,
             "order": 31,
             "duration": 144
+          },
+          {
+            "attackerTag": "#2CJ0VLYC",
+            "defenderTag": "#9GL0YG0VU",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 69,
+            "duration": 127
           }
         ],
         "opponentAttacks": 2,
