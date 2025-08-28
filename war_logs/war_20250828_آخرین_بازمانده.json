@@ -214,14 +214,14 @@
             "duration": 161
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#LGCLR2YPR",
+          "attackerTag": "#L8LR0UQUL",
           "defenderTag": "#Q2QQL2YVV",
-          "stars": 2,
-          "destructionPercentage": 95,
-          "order": 25,
-          "duration": 147
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 66,
+          "duration": 117
         }
       },
       {
@@ -346,7 +346,15 @@
             "duration": 130
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#8VUP2RCV",
+          "defenderTag": "#YQ8L9JVJ2",
+          "stars": 2,
+          "destructionPercentage": 61,
+          "order": 67,
+          "duration": 84
+        }
       },
       {
         "tag": "#LYJJ9PLV9",
@@ -378,14 +386,14 @@
         "name": "KingFighter COC",
         "townhallLevel": 15,
         "mapPosition": 11,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#29GCYVGYP",
+          "attackerTag": "#8VUP2RCV",
           "defenderTag": "#2QRGJQJ2Q",
-          "stars": 1,
-          "destructionPercentage": 86,
-          "order": 22,
-          "duration": 152
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 68,
+          "duration": 98
         }
       },
       {
@@ -725,9 +733,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/cLhq4-xujPk7vP_So0aOMiI1ZIPBeydD0QxBZdVVkgI.png"
     },
     "clanLevel": 17,
-    "attacks": 26,
-    "stars": 45,
-    "destructionPercentage": 68.52,
+    "attacks": 29,
+    "stars": 50,
+    "destructionPercentage": 71.72,
     "members": [
       {
         "tag": "#L8Y9ULCCC",
@@ -833,6 +841,14 @@
             "destructionPercentage": 100,
             "order": 11,
             "duration": 157
+          },
+          {
+            "attackerTag": "#L8LR0UQUL",
+            "defenderTag": "#Q2QQL2YVV",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 66,
+            "duration": 117
           }
         ],
         "opponentAttacks": 1,
@@ -1151,6 +1167,24 @@
         "name": "TUFAN",
         "townhallLevel": 17,
         "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#8VUP2RCV",
+            "defenderTag": "#YQ8L9JVJ2",
+            "stars": 2,
+            "destructionPercentage": 61,
+            "order": 67,
+            "duration": 84
+          },
+          {
+            "attackerTag": "#8VUP2RCV",
+            "defenderTag": "#2QRGJQJ2Q",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 68,
+            "duration": 98
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#YQ8L9JVJ2",
