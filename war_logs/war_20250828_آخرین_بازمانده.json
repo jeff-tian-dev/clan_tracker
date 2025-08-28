@@ -15,7 +15,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/SDaPAleElDurilJwEJ4hTNB9YR3pRupEbuncsdoGpvc.png"
     },
     "clanLevel": 9,
-    "attacks": 35,
+    "attacks": 38,
     "stars": 75,
     "destructionPercentage": 100.0,
     "members": [
@@ -345,6 +345,24 @@
         "name": "Phantom",
         "townhallLevel": 15,
         "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#LYJJ9PLV9",
+            "defenderTag": "#9VRQYGLJ0",
+            "stars": 0,
+            "destructionPercentage": 36,
+            "order": 57,
+            "duration": 46
+          },
+          {
+            "attackerTag": "#LYJJ9PLV9",
+            "defenderTag": "#Q0LU8ULUU",
+            "stars": 2,
+            "destructionPercentage": 55,
+            "order": 58,
+            "duration": 60
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -367,6 +385,16 @@
         "name": "King Killer",
         "townhallLevel": 15,
         "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#J88YJGY9",
+            "defenderTag": "#G2V08VGVC",
+            "stars": 2,
+            "destructionPercentage": 79,
+            "order": 56,
+            "duration": 180
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#LCLJLRRJJ",
@@ -782,7 +810,7 @@
         "name": "king",
         "townhallLevel": 15,
         "mapPosition": 5,
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
           "attackerTag": "#UJP2UYRY",
           "defenderTag": "#Q0LU8ULUU",
@@ -867,7 +895,7 @@
         "name": "syed Ahmed",
         "townhallLevel": 17,
         "mapPosition": 1,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#G28CVVRJL",
           "defenderTag": "#9VRQYGLJ0",
@@ -892,7 +920,7 @@
             "duration": 93
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#LGGLYVUPP",
           "defenderTag": "#G2V08VGVC",
