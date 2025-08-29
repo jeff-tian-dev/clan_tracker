@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250829T070000.000Z",
   "endTime": "20250901T070000.000Z",
-  "capitalTotalLoot": 85889,
-  "raidsCompleted": 0,
-  "totalAttacks": 25,
-  "enemyDistrictsDestroyed": 6,
+  "capitalTotalLoot": 126405,
+  "raidsCompleted": 1,
+  "totalAttacks": 37,
+  "enemyDistrictsDestroyed": 9,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -42,6 +42,22 @@
       "capitalResourcesLooted": 29899
     },
     {
+      "tag": "#QQUUQYQVL",
+      "name": "9/11",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 26942
+    },
+    {
+      "tag": "#Y09Y2PP2Q",
+      "name": "SHARMAJI",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 13574
+    },
+    {
       "tag": "#8UR0V2VR0",
       "name": "Atharva",
       "attacks": 6,
@@ -62,18 +78,68 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/JA1-LUctaziYKHf5lMX22GSd2DKiRt2MRW5cj-2Zea0.png"
         }
       },
-      "attackCount": 25,
+      "attackCount": 33,
       "districtCount": 9,
-      "districtsDestroyed": 6,
+      "districtsDestroyed": 9,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 6,
+          "totalLooted": 13742,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QQUUQYQVL",
+                "name": "9/11"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QQUUQYQVL",
+                "name": "9/11"
+              },
+              "destructionPercent": 88,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#Y09Y2PP2Q",
+                "name": "SHARMAJI"
+              },
+              "destructionPercent": 61,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#Y09Y2PP2Q",
+                "name": "SHARMAJI"
+              },
+              "destructionPercent": 55,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#Y09Y2PP2Q",
+                "name": "SHARMAJI"
+              },
+              "destructionPercent": 36,
+              "stars": 0
+            },
+            {
+              "attacker": {
+                "tag": "#Y09Y2PP2Q",
+                "name": "SHARMAJI"
+              },
+              "destructionPercent": 14,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
@@ -122,11 +188,19 @@
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 74,
-          "stars": 1,
-          "attackCount": 2,
-          "totalLooted": 7240,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10574,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#Y09Y2PP2Q",
+                "name": "SHARMAJI"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#Q2QQL2YVV",
@@ -149,11 +223,19 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 79,
-          "stars": 1,
-          "attackCount": 2,
-          "totalLooted": 8440,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11640,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#Y09Y2PP2Q",
+                "name": "SHARMAJI"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#QVUQ2VR98",
@@ -364,6 +446,140 @@
           ]
         }
       ]
+    },
+    {
+      "defender": {
+        "tag": "#C9VP9YLJ",
+        "name": "king of fighter",
+        "level": 21,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/2PP9uyYE8L0xPr-W1ak_Ly5n0UD_eO6awHo37gUrYeY.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/2PP9uyYE8L0xPr-W1ak_Ly5n0UD_eO6awHo37gUrYeY.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/2PP9uyYE8L0xPr-W1ak_Ly5n0UD_eO6awHo37gUrYeY.png"
+        }
+      },
+      "attackCount": 4,
+      "districtCount": 9,
+      "districtsDestroyed": 0,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 10,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 4,
+          "destructionPercent": 94,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 10480,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QQUUQYQVL",
+                "name": "9/11"
+              },
+              "destructionPercent": 94,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#QQUUQYQVL",
+                "name": "9/11"
+              },
+              "destructionPercent": 45,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 4,
+          "destructionPercent": 89,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 9760,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QQUUQYQVL",
+                "name": "9/11"
+              },
+              "destructionPercent": 89,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#QQUUQYQVL",
+                "name": "9/11"
+              },
+              "destructionPercent": 38,
+              "stars": 1
+            }
+          ]
+        }
+      ]
     }
   ],
   "defenseLog": [
@@ -378,7 +594,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/OhtTblf6zMquAVMcZLzsBj6COTERnWKaDHCjZfjlAkU.png"
         }
       },
-      "attackCount": 16,
+      "attackCount": 17,
       "districtCount": 9,
       "districtsDestroyed": 5,
       "districts": [
@@ -431,11 +647,19 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 46,
-          "stars": 0,
-          "attackCount": 2,
-          "totalLooted": 4565,
+          "destructionPercent": 90,
+          "stars": 1,
+          "attackCount": 3,
+          "totalLooted": 9370,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#QUQL2CLVC",
+                "name": "LORD"
+              },
+              "destructionPercent": 90,
+              "stars": 1
+            },
             {
               "attacker": {
                 "tag": "#80YVRJQY9",
