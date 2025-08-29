@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250829T070000.000Z",
   "endTime": "20250901T070000.000Z",
-  "capitalTotalLoot": 48750,
+  "capitalTotalLoot": 78649,
   "raidsCompleted": 0,
-  "totalAttacks": 17,
-  "enemyDistrictsDestroyed": 4,
+  "totalAttacks": 23,
+  "enemyDistrictsDestroyed": 6,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -24,6 +24,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 13755
+    },
+    {
+      "tag": "#QVUQ2VR98",
+      "name": "William the thi",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 29899
     },
     {
       "tag": "#8UR0V2VR0",
@@ -46,9 +54,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/JA1-LUctaziYKHf5lMX22GSd2DKiRt2MRW5cj-2Zea0.png"
         }
       },
-      "attackCount": 17,
+      "attackCount": 23,
       "districtCount": 9,
-      "districtsDestroyed": 4,
+      "districtsDestroyed": 6,
       "districts": [
         {
           "id": 70000000,
@@ -115,20 +123,54 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 79,
+          "stars": 1,
+          "attackCount": 2,
+          "totalLooted": 8440,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QVUQ2VR98",
+                "name": "William the thi"
+              },
+              "destructionPercent": 79,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#QVUQ2VR98",
+                "name": "William the thi"
+              },
+              "destructionPercent": 51,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 17,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 1795,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11870,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#QVUQ2VR98",
+                "name": "William the thi"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QVUQ2VR98",
+                "name": "William the thi"
+              },
+              "destructionPercent": 64,
+              "stars": 1
+            },
             {
               "attacker": {
                 "tag": "#Q0YQURYCY",
@@ -143,10 +185,28 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11384,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QVUQ2VR98",
+                "name": "William the thi"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QVUQ2VR98",
+                "name": "William the thi"
+              },
+              "destructionPercent": 39,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000006,
@@ -292,9 +352,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/OhtTblf6zMquAVMcZLzsBj6COTERnWKaDHCjZfjlAkU.png"
         }
       },
-      "attackCount": 6,
+      "attackCount": 14,
       "districtCount": 9,
-      "districtsDestroyed": 3,
+      "districtsDestroyed": 5,
       "districts": [
         {
           "id": 70000000,
@@ -354,10 +414,44 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 12137,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QUQL2CLVC",
+                "name": "LORD"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QUQL2CLVC",
+                "name": "LORD"
+              },
+              "destructionPercent": 78,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#QUQL2CLVC",
+                "name": "LORD"
+              },
+              "destructionPercent": 42,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#QUQL2CLVC",
+                "name": "LORD"
+              },
+              "destructionPercent": 19,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000005,
@@ -426,10 +520,44 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 11874,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#80YVRJQY9",
+                "name": "JOEYCHUPPS"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#80YVRJQY9",
+                "name": "JOEYCHUPPS"
+              },
+              "destructionPercent": 80,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#80YVRJQY9",
+                "name": "JOEYCHUPPS"
+              },
+              "destructionPercent": 44,
+              "stars": 0
+            },
+            {
+              "attacker": {
+                "tag": "#80YVRJQY9",
+                "name": "JOEYCHUPPS"
+              },
+              "destructionPercent": 21,
+              "stars": 0
+            }
+          ]
         }
       ]
     }
