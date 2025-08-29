@@ -2,9 +2,9 @@
   "state": "ongoing",
   "startTime": "20250829T070000.000Z",
   "endTime": "20250901T070000.000Z",
-  "capitalTotalLoot": 78649,
+  "capitalTotalLoot": 85889,
   "raidsCompleted": 0,
-  "totalAttacks": 23,
+  "totalAttacks": 25,
   "enemyDistrictsDestroyed": 6,
   "offensiveReward": 0,
   "defensiveReward": 0,
@@ -24,6 +24,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 13755
+    },
+    {
+      "tag": "#Q2QQL2YVV",
+      "name": "cyan",
+      "attacks": 2,
+      "attackLimit": 5,
+      "bonusAttackLimit": 0,
+      "capitalResourcesLooted": 7240
     },
     {
       "tag": "#QVUQ2VR98",
@@ -54,7 +62,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/JA1-LUctaziYKHf5lMX22GSd2DKiRt2MRW5cj-2Zea0.png"
         }
       },
-      "attackCount": 23,
+      "attackCount": 25,
       "districtCount": 9,
       "districtsDestroyed": 6,
       "districts": [
@@ -114,10 +122,28 @@
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 74,
+          "stars": 1,
+          "attackCount": 2,
+          "totalLooted": 7240,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q2QQL2YVV",
+                "name": "cyan"
+              },
+              "destructionPercent": 74,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#Q2QQL2YVV",
+                "name": "cyan"
+              },
+              "destructionPercent": 44,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000003,
