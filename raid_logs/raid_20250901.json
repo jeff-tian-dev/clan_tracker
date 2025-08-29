@@ -2,13 +2,30 @@
   "state": "ongoing",
   "startTime": "20250829T070000.000Z",
   "endTime": "20250901T070000.000Z",
-  "capitalTotalLoot": 0,
+  "capitalTotalLoot": 34995,
   "raidsCompleted": 0,
-  "totalAttacks": 0,
-  "enemyDistrictsDestroyed": 0,
+  "totalAttacks": 11,
+  "enemyDistrictsDestroyed": 3,
   "offensiveReward": 0,
   "defensiveReward": 0,
-  "members": [],
+  "members": [
+    {
+      "tag": "#QR0RLJLGC",
+      "name": "DSG",
+      "attacks": 5,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 18670
+    },
+    {
+      "tag": "#8UR0V2VR0",
+      "name": "Atharva",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 16325
+    }
+  ],
   "attackLog": [
     {
       "defender": {
@@ -21,9 +38,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/JA1-LUctaziYKHf5lMX22GSd2DKiRt2MRW5cj-2Zea0.png"
         }
       },
-      "attackCount": 0,
+      "attackCount": 11,
       "districtCount": 9,
-      "districtsDestroyed": 0,
+      "districtsDestroyed": 3,
       "districts": [
         {
           "id": 70000000,
@@ -38,10 +55,44 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 11796,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QR0RLJLGC",
+                "name": "DSG"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QR0RLJLGC",
+                "name": "DSG"
+              },
+              "destructionPercent": 78,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#8UR0V2VR0",
+                "name": "Atharva"
+              },
+              "destructionPercent": 49,
+              "stars": 0
+            },
+            {
+              "attacker": {
+                "tag": "#8UR0V2VR0",
+                "name": "Atharva"
+              },
+              "destructionPercent": 27,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000002,
@@ -83,10 +134,36 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11379,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QR0RLJLGC",
+                "name": "DSG"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QR0RLJLGC",
+                "name": "DSG"
+              },
+              "destructionPercent": 66,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#QR0RLJLGC",
+                "name": "DSG"
+              },
+              "destructionPercent": 35,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000007,
@@ -101,10 +178,44 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 11820,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#8UR0V2VR0",
+                "name": "Atharva"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#8UR0V2VR0",
+                "name": "Atharva"
+              },
+              "destructionPercent": 80,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#8UR0V2VR0",
+                "name": "Atharva"
+              },
+              "destructionPercent": 46,
+              "stars": 0
+            },
+            {
+              "attacker": {
+                "tag": "#8UR0V2VR0",
+                "name": "Atharva"
+              },
+              "destructionPercent": 27,
+              "stars": 0
+            }
+          ]
         }
       ]
     }
