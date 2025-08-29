@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250829T070000.000Z",
   "endTime": "20250901T070000.000Z",
-  "capitalTotalLoot": 34995,
+  "capitalTotalLoot": 48750,
   "raidsCompleted": 0,
-  "totalAttacks": 11,
-  "enemyDistrictsDestroyed": 3,
+  "totalAttacks": 17,
+  "enemyDistrictsDestroyed": 4,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -16,6 +16,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 18670
+    },
+    {
+      "tag": "#Q0YQURYCY",
+      "name": "Sushant Bhaita",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 13755
     },
     {
       "tag": "#8UR0V2VR0",
@@ -38,9 +46,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/JA1-LUctaziYKHf5lMX22GSd2DKiRt2MRW5cj-2Zea0.png"
         }
       },
-      "attackCount": 11,
+      "attackCount": 17,
       "districtCount": 9,
-      "districtsDestroyed": 3,
+      "districtsDestroyed": 4,
       "districts": [
         {
           "id": 70000000,
@@ -116,10 +124,20 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
+          "destructionPercent": 17,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 1,
+          "totalLooted": 1795,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q0YQURYCY",
+                "name": "Sushant Bhaita"
+              },
+              "destructionPercent": 17,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000005,
@@ -169,10 +187,52 @@
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 5,
+          "totalLooted": 11960,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q0YQURYCY",
+                "name": "Sushant Bhaita"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Q0YQURYCY",
+                "name": "Sushant Bhaita"
+              },
+              "destructionPercent": 87,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#Q0YQURYCY",
+                "name": "Sushant Bhaita"
+              },
+              "destructionPercent": 61,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#Q0YQURYCY",
+                "name": "Sushant Bhaita"
+              },
+              "destructionPercent": 32,
+              "stars": 0
+            },
+            {
+              "attacker": {
+                "tag": "#Q0YQURYCY",
+                "name": "Sushant Bhaita"
+              },
+              "destructionPercent": 8,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000008,
