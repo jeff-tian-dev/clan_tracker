@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250829T070000.000Z",
   "endTime": "20250901T070000.000Z",
-  "capitalTotalLoot": 339482,
+  "capitalTotalLoot": 355201,
   "raidsCompleted": 5,
-  "totalAttacks": 93,
-  "enemyDistrictsDestroyed": 30,
+  "totalAttacks": 97,
+  "enemyDistrictsDestroyed": 32,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -140,10 +140,10 @@
     {
       "tag": "#GGYGQ8098",
       "name": "Aurelian",
-      "attacks": 2,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 8582
+      "capitalResourcesLooted": 24301
     },
     {
       "tag": "#G9CC9G2VQ",
@@ -1178,9 +1178,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/e44gvrLf0LlJdnXtWoal8bUYPiqjWyIbX_02hAxd9rE.png"
         }
       },
-      "attackCount": 11,
+      "attackCount": 15,
       "districtCount": 9,
-      "districtsDestroyed": 3,
+      "districtsDestroyed": 5,
       "districts": [
         {
           "id": 70000000,
@@ -1213,20 +1213,54 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11550,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GGYGQ8098",
+                "name": "Aurelian"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GGYGQ8098",
+                "name": "Aurelian"
+              },
+              "destructionPercent": 68,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#GGYGQ8098",
+                "name": "Aurelian"
+              },
+              "destructionPercent": 27,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 60,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 7770,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11939,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#GGYGQ8098",
+                "name": "Aurelian"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#GLU9LC2LG",

@@ -15,7 +15,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/SDaPAleElDurilJwEJ4hTNB9YR3pRupEbuncsdoGpvc.png"
     },
     "clanLevel": 9,
-    "attacks": 43,
+    "attacks": 45,
     "stars": 89,
     "destructionPercentage": 99.666664,
     "members": [
@@ -312,7 +312,15 @@
             "duration": 156
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2LVJRY9CL",
+          "defenderTag": "#YJUYGR9GP",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 64,
+          "duration": 156
+        }
       },
       {
         "tag": "#QVUQ2VR98",
@@ -395,13 +403,39 @@
             "duration": 143
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#L9280JYRP",
+          "defenderTag": "#YQ8L9JVJ2",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 63,
+          "duration": 142
+        }
       },
       {
         "tag": "#LYJJ9PLV9",
         "name": "Phantom",
         "townhallLevel": 15,
         "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#LYJJ9PLV9",
+            "defenderTag": "#PJJ8RYJPP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 61,
+            "duration": 152
+          },
+          {
+            "attackerTag": "#LYJJ9PLV9",
+            "defenderTag": "#Q09UQVCC0",
+            "stars": 1,
+            "destructionPercentage": 79,
+            "order": 62,
+            "duration": 134
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#PJJ8RYJPP",
@@ -522,7 +556,15 @@
             "duration": 180
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#L9280JYRP",
+          "defenderTag": "#G28CVVRJL",
+          "stars": 2,
+          "destructionPercentage": 61,
+          "order": 65,
+          "duration": 92
+        }
       },
       {
         "tag": "#9VU0VU90G",
@@ -740,9 +782,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/akv56gVSC8ZAOF6XmAuSy2cPrymeC1kOwe8pwz1yBok.png"
     },
     "clanLevel": 8,
-    "attacks": 17,
-    "stars": 30,
-    "destructionPercentage": 35.666668,
+    "attacks": 20,
+    "stars": 38,
+    "destructionPercentage": 44.366665,
     "members": [
       {
         "tag": "#QU0PPJ2YG",
@@ -764,6 +806,24 @@
         "name": "by_yarasa",
         "townhallLevel": 17,
         "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#L9280JYRP",
+            "defenderTag": "#YQ8L9JVJ2",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 63,
+            "duration": 142
+          },
+          {
+            "attackerTag": "#L9280JYRP",
+            "defenderTag": "#G28CVVRJL",
+            "stars": 2,
+            "destructionPercentage": 61,
+            "order": 65,
+            "duration": 92
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#G28CVVRJL",
@@ -837,7 +897,7 @@
             "duration": 99
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#YQ8L9JVJ2",
           "defenderTag": "#Q09UQVCC0",
@@ -867,6 +927,16 @@
         "name": "BRAVE HEART",
         "townhallLevel": 14,
         "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#2LVJRY9CL",
+            "defenderTag": "#YJUYGR9GP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 64,
+            "duration": 156
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#9VU0VU90G",
@@ -1189,7 +1259,7 @@
             "duration": 176
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#8VQYULVQQ",
           "defenderTag": "#PJJ8RYJPP",
