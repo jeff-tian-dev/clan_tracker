@@ -3,7 +3,7 @@
   "startTime": "20250829T070000.000Z",
   "endTime": "20250901T070000.000Z",
   "capitalTotalLoot": 196844,
-  "raidsCompleted": 2,
+  "raidsCompleted": 3,
   "totalAttacks": 55,
   "enemyDistrictsDestroyed": 17,
   "offensiveReward": 0,
@@ -784,18 +784,60 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/OhtTblf6zMquAVMcZLzsBj6COTERnWKaDHCjZfjlAkU.png"
         }
       },
-      "attackCount": 25,
+      "attackCount": 30,
       "districtCount": 9,
-      "districtsDestroyed": 8,
+      "districtsDestroyed": 9,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 5,
+          "totalLooted": 13562,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2J9JQPRCG",
+                "name": "\u267e\ufe0f"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2J9JQPRCG",
+                "name": "\u267e\ufe0f"
+              },
+              "destructionPercent": 96,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#2J9JQPRCG",
+                "name": "\u267e\ufe0f"
+              },
+              "destructionPercent": 84,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#2J9JQPRCG",
+                "name": "\u267e\ufe0f"
+              },
+              "destructionPercent": 65,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#2J9JQPRCG",
+                "name": "\u267e\ufe0f"
+              },
+              "destructionPercent": 34,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
