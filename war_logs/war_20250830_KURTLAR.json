@@ -15,7 +15,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/SDaPAleElDurilJwEJ4hTNB9YR3pRupEbuncsdoGpvc.png"
     },
     "clanLevel": 9,
-    "attacks": 42,
+    "attacks": 43,
     "stars": 89,
     "destructionPercentage": 99.666664,
     "members": [
@@ -261,9 +261,25 @@
             "destructionPercentage": 100,
             "order": 56,
             "duration": 81
+          },
+          {
+            "attackerTag": "#9U2YP0RY",
+            "defenderTag": "#PUJUQC9G2",
+            "stars": 2,
+            "destructionPercentage": 86,
+            "order": 57,
+            "duration": 112
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q2292LJCJ",
+          "defenderTag": "#9U2YP0RY",
+          "stars": 2,
+          "destructionPercentage": 59,
+          "order": 58,
+          "duration": 91
+        }
       },
       {
         "tag": "#YJUYGR9GP",
@@ -708,9 +724,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/akv56gVSC8ZAOF6XmAuSy2cPrymeC1kOwe8pwz1yBok.png"
     },
     "clanLevel": 8,
-    "attacks": 14,
-    "stars": 23,
-    "destructionPercentage": 27.5,
+    "attacks": 15,
+    "stars": 25,
+    "destructionPercentage": 29.466667,
     "members": [
       {
         "tag": "#QU0PPJ2YG",
@@ -762,6 +778,16 @@
         "name": "elifohh",
         "townhallLevel": 15,
         "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#Q2292LJCJ",
+            "defenderTag": "#9U2YP0RY",
+            "stars": 2,
+            "destructionPercentage": 59,
+            "order": 58,
+            "duration": 91
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#8VQYULVQQ",
@@ -873,7 +899,7 @@
         "name": "Ozzy",
         "townhallLevel": 17,
         "mapPosition": 1,
-        "opponentAttacks": 4,
+        "opponentAttacks": 5,
         "bestOpponentAttack": {
           "attackerTag": "#G28CVVRJL",
           "defenderTag": "#PUJUQC9G2",
