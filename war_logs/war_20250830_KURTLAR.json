@@ -247,14 +247,14 @@
             "duration": 144
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#YQQ90PU90",
+          "attackerTag": "#QRVCQ0C2G",
           "defenderTag": "#V0JYCPRR",
-          "stars": 1,
-          "destructionPercentage": 48,
-          "order": 7,
-          "duration": 84
+          "stars": 2,
+          "destructionPercentage": 94,
+          "order": 77,
+          "duration": 127
         }
       },
       {
@@ -876,9 +876,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/akv56gVSC8ZAOF6XmAuSy2cPrymeC1kOwe8pwz1yBok.png"
     },
     "clanLevel": 8,
-    "attacks": 26,
-    "stars": 51,
-    "destructionPercentage": 60.133335,
+    "attacks": 27,
+    "stars": 52,
+    "destructionPercentage": 61.666668,
     "members": [
       {
         "tag": "#QU0PPJ2YG",
@@ -1396,6 +1396,16 @@
         "name": "kral",
         "townhallLevel": 13,
         "mapPosition": 30,
+        "attacks": [
+          {
+            "attackerTag": "#QRVCQ0C2G",
+            "defenderTag": "#V0JYCPRR",
+            "stars": 2,
+            "destructionPercentage": 94,
+            "order": 77,
+            "duration": 127
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#Q0YQURYCY",
