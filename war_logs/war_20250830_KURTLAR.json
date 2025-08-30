@@ -89,7 +89,15 @@
         "name": "Ryan",
         "townhallLevel": 14,
         "mapPosition": 17,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QU9CYGR0G",
+          "defenderTag": "#2920V9PV",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 60,
+          "duration": 111
+        }
       },
       {
         "tag": "#Q0YQURYCY",
@@ -711,7 +719,15 @@
         "name": "king 2",
         "townhallLevel": 14,
         "mapPosition": 18,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QU9CYGR0G",
+          "defenderTag": "#G2YC2CJLQ",
+          "stars": 2,
+          "destructionPercentage": 86,
+          "order": 59,
+          "duration": 180
+        }
       }
     ]
   },
@@ -724,9 +740,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/akv56gVSC8ZAOF6XmAuSy2cPrymeC1kOwe8pwz1yBok.png"
     },
     "clanLevel": 8,
-    "attacks": 15,
-    "stars": 25,
-    "destructionPercentage": 29.466667,
+    "attacks": 17,
+    "stars": 30,
+    "destructionPercentage": 35.666668,
     "members": [
       {
         "tag": "#QU0PPJ2YG",
@@ -1291,6 +1307,24 @@
         "name": "gzmm0625",
         "townhallLevel": 15,
         "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#QU9CYGR0G",
+            "defenderTag": "#G2YC2CJLQ",
+            "stars": 2,
+            "destructionPercentage": 86,
+            "order": 59,
+            "duration": 180
+          },
+          {
+            "attackerTag": "#QU9CYGR0G",
+            "defenderTag": "#2920V9PV",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 60,
+            "duration": 111
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#GLU9LC2LG",

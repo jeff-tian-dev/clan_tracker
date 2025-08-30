@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250829T070000.000Z",
   "endTime": "20250901T070000.000Z",
-  "capitalTotalLoot": 310399,
+  "capitalTotalLoot": 339482,
   "raidsCompleted": 5,
-  "totalAttacks": 86,
-  "enemyDistrictsDestroyed": 28,
+  "totalAttacks": 93,
+  "enemyDistrictsDestroyed": 30,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -20,10 +20,10 @@
     {
       "tag": "#GLU9LC2LG",
       "name": "JLai",
-      "attacks": 2,
+      "attacks": 6,
       "attackLimit": 5,
-      "bonusAttackLimit": 0,
-      "capitalResourcesLooted": 8740
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 25886
     },
     {
       "tag": "#Q0YQURYCY",
@@ -90,6 +90,14 @@
       "capitalResourcesLooted": 16270
     },
     {
+      "tag": "#J88YJGY9",
+      "name": "King Killer",
+      "attacks": 1,
+      "attackLimit": 5,
+      "bonusAttackLimit": 0,
+      "capitalResourcesLooted": 3355
+    },
+    {
       "tag": "#Y09Y2PP2Q",
       "name": "SHARMAJI",
       "attacks": 6,
@@ -128,6 +136,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 29376
+    },
+    {
+      "tag": "#GGYGQ8098",
+      "name": "Aurelian",
+      "attacks": 2,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 8582
     },
     {
       "tag": "#G9CC9G2VQ",
@@ -1162,9 +1178,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/e44gvrLf0LlJdnXtWoal8bUYPiqjWyIbX_02hAxd9rE.png"
         }
       },
-      "attackCount": 4,
+      "attackCount": 11,
       "districtCount": 9,
-      "districtsDestroyed": 1,
+      "districtsDestroyed": 3,
       "districts": [
         {
           "id": 70000000,
@@ -1206,10 +1222,28 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 60,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 7770,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GLU9LC2LG",
+                "name": "JLai"
+              },
+              "destructionPercent": 60,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#GLU9LC2LG",
+                "name": "JLai"
+              },
+              "destructionPercent": 29,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000005,
@@ -1224,11 +1258,27 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 28,
-          "stars": 1,
-          "attackCount": 1,
-          "totalLooted": 2120,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11496,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#GLU9LC2LG",
+                "name": "JLai"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GLU9LC2LG",
+                "name": "JLai"
+              },
+              "destructionPercent": 48,
+              "stars": 1
+            },
             {
               "attacker": {
                 "tag": "#YQ8L9JVJ2",
@@ -1278,10 +1328,36 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11937,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GGYGQ8098",
+                "name": "Aurelian"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GGYGQ8098",
+                "name": "Aurelian"
+              },
+              "destructionPercent": 66,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#J88YJGY9",
+                "name": "King Killer"
+              },
+              "destructionPercent": 33,
+              "stars": 0
+            }
+          ]
         }
       ]
     }
