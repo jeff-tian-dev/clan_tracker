@@ -267,7 +267,15 @@
         "name": "William the thi",
         "townhallLevel": 14,
         "mapPosition": 21,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#9QC9RVVR8",
+          "defenderTag": "#QVUQ2VR98",
+          "stars": 2,
+          "destructionPercentage": 60,
+          "order": 47,
+          "duration": 108
+        }
       },
       {
         "tag": "#QQUUQYQVL",
@@ -618,9 +626,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/akv56gVSC8ZAOF6XmAuSy2cPrymeC1kOwe8pwz1yBok.png"
     },
     "clanLevel": 8,
-    "attacks": 13,
-    "stars": 21,
-    "destructionPercentage": 25.5,
+    "attacks": 14,
+    "stars": 23,
+    "destructionPercentage": 27.5,
     "members": [
       {
         "tag": "#QU0PPJ2YG",
@@ -961,6 +969,16 @@
         "name": "MorbidAngel",
         "townhallLevel": 14,
         "mapPosition": 20,
+        "attacks": [
+          {
+            "attackerTag": "#9QC9RVVR8",
+            "defenderTag": "#QVUQ2VR98",
+            "stars": 2,
+            "destructionPercentage": 60,
+            "order": 47,
+            "duration": 108
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#LCUL88JLG",
