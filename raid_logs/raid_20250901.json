@@ -2,9 +2,9 @@
   "state": "ongoing",
   "startTime": "20250829T070000.000Z",
   "endTime": "20250901T070000.000Z",
-  "capitalTotalLoot": 426879,
+  "capitalTotalLoot": 438279,
   "raidsCompleted": 6,
-  "totalAttacks": 117,
+  "totalAttacks": 121,
   "enemyDistrictsDestroyed": 38,
   "offensiveReward": 0,
   "defensiveReward": 0,
@@ -164,10 +164,10 @@
     {
       "tag": "#G9CC9G2VQ",
       "name": "Grizz",
-      "attacks": 1,
+      "attacks": 5,
       "attackLimit": 5,
       "bonusAttackLimit": 0,
-      "capitalResourcesLooted": 3005
+      "capitalResourcesLooted": 14405
     },
     {
       "tag": "#LCUL88JLG",
@@ -1550,7 +1550,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/zKb2KeY9RULgwgpod_To5yFR0wc82oy7XpNc648WHxA.png"
         }
       },
-      "attackCount": 6,
+      "attackCount": 10,
       "districtCount": 9,
       "districtsDestroyed": 2,
       "districts": [
@@ -1567,19 +1567,55 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 54,
+          "stars": 1,
+          "attackCount": 2,
+          "totalLooted": 5305,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#G9CC9G2VQ",
+                "name": "Grizz"
+              },
+              "destructionPercent": 54,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#G9CC9G2VQ",
+                "name": "Grizz"
+              },
+              "destructionPercent": 32,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 78,
+          "stars": 1,
+          "attackCount": 2,
+          "totalLooted": 6095,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#G9CC9G2VQ",
+                "name": "Grizz"
+              },
+              "destructionPercent": 78,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#G9CC9G2VQ",
+                "name": "Grizz"
+              },
+              "destructionPercent": 49,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000003,

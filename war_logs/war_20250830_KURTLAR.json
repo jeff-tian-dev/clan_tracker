@@ -15,7 +15,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/SDaPAleElDurilJwEJ4hTNB9YR3pRupEbuncsdoGpvc.png"
     },
     "clanLevel": 9,
-    "attacks": 50,
+    "attacks": 51,
     "stars": 89,
     "destructionPercentage": 99.666664,
     "members": [
@@ -501,9 +501,25 @@
             "destructionPercentage": 53,
             "order": 76,
             "duration": 88
+          },
+          {
+            "attackerTag": "#2QRGJQJ2Q",
+            "defenderTag": "#L9280JYRP",
+            "stars": 1,
+            "destructionPercentage": 38,
+            "order": 78,
+            "duration": 93
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PUJUQC9G2",
+          "defenderTag": "#2QRGJQJ2Q",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 80,
+          "duration": 89
+        }
       },
       {
         "tag": "#J88YJGY9",
@@ -790,7 +806,15 @@
             "duration": 140
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PUJUQC9G2",
+          "defenderTag": "#LGGLYVUPP",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 79,
+          "duration": 85
+        }
       },
       {
         "tag": "#LCUL88JLG",
@@ -876,9 +900,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/akv56gVSC8ZAOF6XmAuSy2cPrymeC1kOwe8pwz1yBok.png"
     },
     "clanLevel": 8,
-    "attacks": 27,
-    "stars": 52,
-    "destructionPercentage": 61.666668,
+    "attacks": 29,
+    "stars": 58,
+    "destructionPercentage": 68.333336,
     "members": [
       {
         "tag": "#QU0PPJ2YG",
@@ -928,7 +952,7 @@
             "duration": 92
           }
         ],
-        "opponentAttacks": 3,
+        "opponentAttacks": 4,
         "bestOpponentAttack": {
           "attackerTag": "#G28CVVRJL",
           "defenderTag": "#L9280JYRP",
@@ -1097,6 +1121,24 @@
         "name": "Ozzy",
         "townhallLevel": 17,
         "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#PUJUQC9G2",
+            "defenderTag": "#LGGLYVUPP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 79,
+            "duration": 85
+          },
+          {
+            "attackerTag": "#PUJUQC9G2",
+            "defenderTag": "#2QRGJQJ2Q",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 80,
+            "duration": 89
+          }
+        ],
         "opponentAttacks": 6,
         "bestOpponentAttack": {
           "attackerTag": "#G28CVVRJL",
