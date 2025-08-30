@@ -784,9 +784,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/OhtTblf6zMquAVMcZLzsBj6COTERnWKaDHCjZfjlAkU.png"
         }
       },
-      "attackCount": 17,
+      "attackCount": 25,
       "districtCount": 9,
-      "districtsDestroyed": 5,
+      "districtsDestroyed": 8,
       "districts": [
         {
           "id": 70000000,
@@ -801,10 +801,44 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 12048,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#VJRP880Q",
+                "name": "Oscar"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#VJRP880Q",
+                "name": "Oscar"
+              },
+              "destructionPercent": 97,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#VJRP880Q",
+                "name": "Oscar"
+              },
+              "destructionPercent": 58,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#VJRP880Q",
+                "name": "Oscar"
+              },
+              "destructionPercent": 33,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000002,
@@ -837,11 +871,19 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 90,
-          "stars": 1,
-          "attackCount": 3,
-          "totalLooted": 9370,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 11694,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#20888VRGL",
+                "name": "oscar daddy"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#QUQL2CLVC",
@@ -915,10 +957,36 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11987,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#20888VRGL",
+                "name": "oscar daddy"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#VJRP880Q",
+                "name": "Oscar"
+              },
+              "destructionPercent": 93,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#VJRP880Q",
+                "name": "Oscar"
+              },
+              "destructionPercent": 40,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000006,

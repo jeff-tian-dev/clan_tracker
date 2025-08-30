@@ -15,7 +15,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/SDaPAleElDurilJwEJ4hTNB9YR3pRupEbuncsdoGpvc.png"
     },
     "clanLevel": 9,
-    "attacks": 35,
+    "attacks": 36,
     "stars": 83,
     "destructionPercentage": 93.73333,
     "members": [
@@ -31,6 +31,16 @@
         "name": "destroyer",
         "townhallLevel": 16,
         "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#UJP2UYRY",
+            "defenderTag": "#PUJUQC9G2",
+            "stars": 2,
+            "destructionPercentage": 78,
+            "order": 50,
+            "duration": 75
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#Q09UQVCC0",
@@ -809,7 +819,7 @@
         "name": "Ozzy",
         "townhallLevel": 17,
         "mapPosition": 1,
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
           "attackerTag": "#G28CVVRJL",
           "defenderTag": "#PUJUQC9G2",
