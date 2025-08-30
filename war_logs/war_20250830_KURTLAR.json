@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/SDaPAleElDurilJwEJ4hTNB9YR3pRupEbuncsdoGpvc.png"
     },
     "clanLevel": 9,
-    "attacks": 33,
-    "stars": 81,
-    "destructionPercentage": 93.666664,
+    "attacks": 35,
+    "stars": 83,
+    "destructionPercentage": 93.73333,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -441,6 +441,24 @@
         "name": "Edison123",
         "townhallLevel": 14,
         "mapPosition": 20,
+        "attacks": [
+          {
+            "attackerTag": "#9VU0VU90G",
+            "defenderTag": "#2LVJRY9CL",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 48,
+            "duration": 121
+          },
+          {
+            "attackerTag": "#9VU0VU90G",
+            "defenderTag": "#Q9G9P0288",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 49,
+            "duration": 104
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#LLC8GPRYJ",
@@ -743,14 +761,14 @@
         "name": "BRAVE HEART",
         "townhallLevel": 14,
         "mapPosition": 12,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#GLU9LC2LG",
+          "attackerTag": "#9VU0VU90G",
           "defenderTag": "#2LVJRY9CL",
-          "stars": 2,
-          "destructionPercentage": 99,
-          "order": 36,
-          "duration": 180
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 48,
+          "duration": 121
         }
       },
       {
@@ -1009,14 +1027,14 @@
         "name": "Naci Bey",
         "townhallLevel": 14,
         "mapPosition": 13,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#QQUUQYQVL",
+          "attackerTag": "#9VU0VU90G",
           "defenderTag": "#Q9G9P0288",
-          "stars": 2,
-          "destructionPercentage": 99,
-          "order": 5,
-          "duration": 180
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 49,
+          "duration": 104
         }
       },
       {
