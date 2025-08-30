@@ -15,7 +15,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/SDaPAleElDurilJwEJ4hTNB9YR3pRupEbuncsdoGpvc.png"
     },
     "clanLevel": 9,
-    "attacks": 47,
+    "attacks": 50,
     "stars": 89,
     "destructionPercentage": 99.666664,
     "members": [
@@ -24,6 +24,24 @@
         "name": "Badboy101",
         "townhallLevel": 13,
         "mapPosition": 28,
+        "attacks": [
+          {
+            "attackerTag": "#RUVPQQR0",
+            "defenderTag": "#QQGQCQV28",
+            "stars": 2,
+            "destructionPercentage": 66,
+            "order": 73,
+            "duration": 90
+          },
+          {
+            "attackerTag": "#RUVPQQR0",
+            "defenderTag": "#QU0PPJ2YG",
+            "stars": 2,
+            "destructionPercentage": 52,
+            "order": 74,
+            "duration": 70
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#QU0PPJ2YG",
@@ -90,7 +108,15 @@
             "duration": 154
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#8PGGP920C",
+          "defenderTag": "#GLU9LC2LG",
+          "stars": 1,
+          "destructionPercentage": 46,
+          "order": 75,
+          "duration": 78
+        }
       },
       {
         "tag": "#2920V9PV",
@@ -467,6 +493,16 @@
         "name": "KingFighter COC",
         "townhallLevel": 15,
         "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#2QRGJQJ2Q",
+            "defenderTag": "#LYVCRCPQV",
+            "stars": 2,
+            "destructionPercentage": 53,
+            "order": 76,
+            "duration": 88
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -840,9 +876,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/akv56gVSC8ZAOF6XmAuSy2cPrymeC1kOwe8pwz1yBok.png"
     },
     "clanLevel": 8,
-    "attacks": 25,
-    "stars": 50,
-    "destructionPercentage": 58.6,
+    "attacks": 26,
+    "stars": 51,
+    "destructionPercentage": 60.133335,
     "members": [
       {
         "tag": "#QU0PPJ2YG",
@@ -859,7 +895,7 @@
             "duration": 100
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#LGGLYVUPP",
           "defenderTag": "#QU0PPJ2YG",
@@ -1232,6 +1268,16 @@
         "name": "*sEhAbEe.!",
         "townhallLevel": 15,
         "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#8PGGP920C",
+            "defenderTag": "#GLU9LC2LG",
+            "stars": 1,
+            "destructionPercentage": 46,
+            "order": 75,
+            "duration": 78
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#UJP2UYRY",
@@ -1400,7 +1446,7 @@
             "duration": 105
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#YQ8L9JVJ2",
           "defenderTag": "#LYVCRCPQV",
@@ -1466,7 +1512,7 @@
             "duration": 60
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#Q2QQL2YVV",
           "defenderTag": "#QQGQCQV28",
