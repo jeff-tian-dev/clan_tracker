@@ -2,13 +2,21 @@
   "state": "ongoing",
   "startTime": "20250829T070000.000Z",
   "endTime": "20250901T070000.000Z",
-  "capitalTotalLoot": 377325,
+  "capitalTotalLoot": 391310,
   "raidsCompleted": 5,
-  "totalAttacks": 103,
-  "enemyDistrictsDestroyed": 34,
+  "totalAttacks": 108,
+  "enemyDistrictsDestroyed": 35,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
+    {
+      "tag": "#RUVPQQR0",
+      "name": "Badboy101",
+      "attacks": 3,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 8680
+    },
     {
       "tag": "#QR0RLJLGC",
       "name": "DSG",
@@ -164,10 +172,10 @@
     {
       "tag": "#LLYV29CU",
       "name": "1rose",
-      "attacks": 4,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 11866
+      "capitalResourcesLooted": 17171
     }
   ],
   "attackLog": [
@@ -1186,18 +1194,28 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/e44gvrLf0LlJdnXtWoal8bUYPiqjWyIbX_02hAxd9rE.png"
         }
       },
-      "attackCount": 21,
+      "attackCount": 26,
       "districtCount": 9,
-      "districtsDestroyed": 7,
+      "districtsDestroyed": 8,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
+          "destructionPercent": 21,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 1,
+          "totalLooted": 2430,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#RUVPQQR0",
+                "name": "Badboy101"
+              },
+              "destructionPercent": 21,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
@@ -1343,10 +1361,44 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 11555,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#RUVPQQR0",
+                "name": "Badboy101"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#RUVPQQR0",
+                "name": "Badboy101"
+              },
+              "destructionPercent": 85,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#LLYV29CU",
+                "name": "1rose"
+              },
+              "destructionPercent": 46,
+              "stars": 0
+            },
+            {
+              "attacker": {
+                "tag": "#LLYV29CU",
+                "name": "1rose"
+              },
+              "destructionPercent": 37,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000006,
