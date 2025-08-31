@@ -2970,9 +2970,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/4boI13dfvyDu_N3ZyU3dRS_hE-k23dA16A1kr_VMjZM.png"
         }
       },
-      "attackCount": 2,
+      "attackCount": 6,
       "districtCount": 9,
-      "districtsDestroyed": 0,
+      "districtsDestroyed": 1,
       "districts": [
         {
           "id": 70000000,
@@ -2987,10 +2987,36 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 83,
+          "stars": 1,
+          "attackCount": 3,
+          "totalLooted": 8970,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#28R0QYL8L",
+                "name": "Skeywalker"
+              },
+              "destructionPercent": 83,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#28R0QYL8L",
+                "name": "Skeywalker"
+              },
+              "destructionPercent": 49,
+              "stars": 0
+            },
+            {
+              "attacker": {
+                "tag": "#28R0QYL8L",
+                "name": "Skeywalker"
+              },
+              "destructionPercent": 30,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000002,
@@ -3041,11 +3067,19 @@
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 68,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 7865,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11753,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#28R0QYL8L",
+                "name": "Skeywalker"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#28R0QYL8L",
