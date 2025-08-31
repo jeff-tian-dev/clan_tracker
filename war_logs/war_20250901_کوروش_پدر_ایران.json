@@ -1,5 +1,5 @@
 {
-  "state": "preparation",
+  "state": "inWar",
   "teamSize": 35,
   "attacksPerMember": 2,
   "battleModifier": "none",
@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/SDaPAleElDurilJwEJ4hTNB9YR3pRupEbuncsdoGpvc.png"
     },
     "clanLevel": 9,
-    "attacks": 0,
-    "stars": 0,
-    "destructionPercentage": 0.0,
+    "attacks": 3,
+    "stars": 9,
+    "destructionPercentage": 8.571428,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -31,7 +31,15 @@
         "name": "DSG",
         "townhallLevel": 14,
         "mapPosition": 30,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GLQY2CCJR",
+          "defenderTag": "#QR0RLJLGC",
+          "stars": 2,
+          "destructionPercentage": 87,
+          "order": 1,
+          "duration": 129
+        }
       },
       {
         "tag": "#UJP2UYRY",
@@ -59,6 +67,24 @@
         "name": "je suis excit\u00e9",
         "townhallLevel": 16,
         "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#Q9QU8L8YV",
+            "defenderTag": "#2JCY0290C",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 3,
+            "duration": 130
+          },
+          {
+            "attackerTag": "#Q9QU8L8YV",
+            "defenderTag": "#G88LYLV09",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 5,
+            "duration": 104
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -87,6 +113,16 @@
         "name": "\u24c2\ufe0fBIG COCHY3\u24c2\ufe0f",
         "townhallLevel": 15,
         "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#9U2YP0RY",
+            "defenderTag": "#J8LR2020",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 2,
+            "duration": 88
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -171,7 +207,15 @@
         "name": "SHARMAJI",
         "townhallLevel": 14,
         "mapPosition": 32,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GLQY2CCJR",
+          "defenderTag": "#Y09Y2PP2Q",
+          "stars": 2,
+          "destructionPercentage": 86,
+          "order": 4,
+          "duration": 128
+        }
       },
       {
         "tag": "#QRP2RLV02",
@@ -204,7 +248,7 @@
       {
         "tag": "#9VU0VU90G",
         "name": "Edison123",
-        "townhallLevel": 14,
+        "townhallLevel": 15,
         "mapPosition": 21,
         "opponentAttacks": 0
       },
@@ -239,7 +283,7 @@
       {
         "tag": "#LCUL88JLG",
         "name": "Cookies",
-        "townhallLevel": 14,
+        "townhallLevel": 15,
         "mapPosition": 17,
         "opponentAttacks": 0
       },
@@ -275,9 +319,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/zy9b-Xw0xRWaGGTykbLhsXW9KNHu3FM0nyDlLm9J1Vs.png"
     },
     "clanLevel": 28,
-    "attacks": 0,
-    "stars": 0,
-    "destructionPercentage": 0.0,
+    "attacks": 2,
+    "stars": 4,
+    "destructionPercentage": 4.9428573,
     "members": [
       {
         "tag": "#QQRLJ0GPG",
@@ -361,13 +405,39 @@
         "name": "ARASH KHAN",
         "townhallLevel": 15,
         "mapPosition": 5,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#9U2YP0RY",
+          "defenderTag": "#J8LR2020",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 2,
+          "duration": 88
+        }
       },
       {
         "tag": "#GLQY2CCJR",
         "name": "\u0628\u062a\u0645\u0646",
         "townhallLevel": 14,
         "mapPosition": 30,
+        "attacks": [
+          {
+            "attackerTag": "#GLQY2CCJR",
+            "defenderTag": "#QR0RLJLGC",
+            "stars": 2,
+            "destructionPercentage": 87,
+            "order": 1,
+            "duration": 129
+          },
+          {
+            "attackerTag": "#GLQY2CCJR",
+            "defenderTag": "#Y09Y2PP2Q",
+            "stars": 2,
+            "destructionPercentage": 86,
+            "order": 4,
+            "duration": 128
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -417,7 +487,15 @@
         "name": "\u03da\u01f7\u3057\uff89\u03b6\u0404.\u02b7\u1d52\u02e1\u1da0",
         "townhallLevel": 16,
         "mapPosition": 4,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q9QU8L8YV",
+          "defenderTag": "#2JCY0290C",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 3,
+          "duration": 130
+        }
       },
       {
         "tag": "#RV0LLCL0",
@@ -522,7 +600,15 @@
         "name": "meysam",
         "townhallLevel": 15,
         "mapPosition": 6,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q9QU8L8YV",
+          "defenderTag": "#G88LYLV09",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 5,
+          "duration": 104
+        }
       }
     ]
   }

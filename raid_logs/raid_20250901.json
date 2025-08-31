@@ -2670,9 +2670,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/xXro3-How4UeBogChbE8uiFRM8iCM1jAQEKbGKKGhmU.png"
         }
       },
-      "attackCount": 15,
+      "attackCount": 21,
       "districtCount": 9,
-      "districtsDestroyed": 4,
+      "districtsDestroyed": 6,
       "districts": [
         {
           "id": 70000000,
@@ -2687,20 +2687,62 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11571,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#CP9VUC2J",
+                "name": "Elite-Warrior"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#CP9VUC2J",
+                "name": "Elite-Warrior"
+              },
+              "destructionPercent": 43,
+              "stars": 0
+            },
+            {
+              "attacker": {
+                "tag": "#CP9VUC2J",
+                "name": "Elite-Warrior"
+              },
+              "destructionPercent": 18,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 31,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 3315,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10721,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#CP9VUC2J",
+                "name": "Elite-Warrior"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#CP9VUC2J",
+                "name": "Elite-Warrior"
+              },
+              "destructionPercent": 70,
+              "stars": 1
+            },
             {
               "attacker": {
                 "tag": "#8LJVGU9Y",
@@ -2785,10 +2827,20 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
+          "destructionPercent": 37,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 1,
+          "totalLooted": 3325,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#CP9VUC2J",
+                "name": "Elite-Warrior"
+              },
+              "destructionPercent": 37,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000006,
@@ -2900,7 +2952,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/4boI13dfvyDu_N3ZyU3dRS_hE-k23dA16A1kr_VMjZM.png"
         }
       },
-      "attackCount": 0,
+      "attackCount": 2,
       "districtCount": 9,
       "districtsDestroyed": 0,
       "districts": [
@@ -2971,10 +3023,28 @@
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 68,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 7865,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#28R0QYL8L",
+                "name": "Skeywalker"
+              },
+              "destructionPercent": 68,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#28R0QYL8L",
+                "name": "Skeywalker"
+              },
+              "destructionPercent": 40,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000008,
