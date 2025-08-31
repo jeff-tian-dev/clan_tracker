@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250829T070000.000Z",
   "endTime": "20250901T070000.000Z",
-  "capitalTotalLoot": 468371,
+  "capitalTotalLoot": 488417,
   "raidsCompleted": 6,
-  "totalAttacks": 127,
-  "enemyDistrictsDestroyed": 41,
+  "totalAttacks": 133,
+  "enemyDistrictsDestroyed": 44,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -192,6 +192,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 17171
+    },
+    {
+      "tag": "#G2YC2CJLQ",
+      "name": "king 2",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 20046
     }
   ],
   "attackLog": [
@@ -1558,28 +1566,54 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/zKb2KeY9RULgwgpod_To5yFR0wc82oy7XpNc648WHxA.png"
         }
       },
-      "attackCount": 16,
+      "attackCount": 22,
       "districtCount": 9,
-      "districtsDestroyed": 5,
+      "districtsDestroyed": 8,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
+          "destructionPercent": 45,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 1,
+          "totalLooted": 3430,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#G2YC2CJLQ",
+                "name": "king 2"
+              },
+              "destructionPercent": 45,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 54,
-          "stars": 1,
-          "attackCount": 2,
-          "totalLooted": 5305,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 11853,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#G2YC2CJLQ",
+                "name": "king 2"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#G2YC2CJLQ",
+                "name": "king 2"
+              },
+              "destructionPercent": 85,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#G9CC9G2VQ",
@@ -1602,11 +1636,19 @@
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 78,
-          "stars": 1,
-          "attackCount": 2,
-          "totalLooted": 6095,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 9887,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#G2YC2CJLQ",
+                "name": "king 2"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#G9CC9G2VQ",
@@ -1629,11 +1671,27 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 48,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 4185,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10461,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#G2YC2CJLQ",
+                "name": "king 2"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#G2YC2CJLQ",
+                "name": "king 2"
+              },
+              "destructionPercent": 90,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#2920V9PV",
