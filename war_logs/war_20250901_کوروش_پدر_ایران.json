@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/SDaPAleElDurilJwEJ4hTNB9YR3pRupEbuncsdoGpvc.png"
     },
     "clanLevel": 9,
-    "attacks": 3,
-    "stars": 9,
-    "destructionPercentage": 8.571428,
+    "attacks": 5,
+    "stars": 13,
+    "destructionPercentage": 13.942857,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -60,7 +60,15 @@
         "name": "Sushant Bhaita",
         "townhallLevel": 14,
         "mapPosition": 29,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GR2YU92QJ",
+          "defenderTag": "#Q0YQURYCY",
+          "stars": 2,
+          "destructionPercentage": 89,
+          "order": 6,
+          "duration": 134
+        }
       },
       {
         "tag": "#Q9QU8L8YV",
@@ -106,7 +114,15 @@
         "name": "cyan",
         "townhallLevel": 14,
         "mapPosition": 28,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#22GJ9L2JY",
+          "defenderTag": "#Q2QQL2YVV",
+          "stars": 2,
+          "destructionPercentage": 95,
+          "order": 7,
+          "duration": 180
+        }
       },
       {
         "tag": "#9U2YP0RY",
@@ -207,6 +223,24 @@
         "name": "SHARMAJI",
         "townhallLevel": 14,
         "mapPosition": 32,
+        "attacks": [
+          {
+            "attackerTag": "#Y09Y2PP2Q",
+            "defenderTag": "#899Y22UJJ",
+            "stars": 1,
+            "destructionPercentage": 88,
+            "order": 8,
+            "duration": 119
+          },
+          {
+            "attackerTag": "#Y09Y2PP2Q",
+            "defenderTag": "#GYRVJQ2CL",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 9,
+            "duration": 54
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#GLQY2CCJR",
@@ -222,7 +256,15 @@
         "name": "JT",
         "townhallLevel": 14,
         "mapPosition": 31,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#22GJ9L2JY",
+          "defenderTag": "#QRP2RLV02",
+          "stars": 2,
+          "destructionPercentage": 99,
+          "order": 10,
+          "duration": 169
+        }
       },
       {
         "tag": "#8UR0V2VR0",
@@ -319,9 +361,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/zy9b-Xw0xRWaGGTykbLhsXW9KNHu3FM0nyDlLm9J1Vs.png"
     },
     "clanLevel": 28,
-    "attacks": 2,
-    "stars": 4,
-    "destructionPercentage": 4.9428573,
+    "attacks": 5,
+    "stars": 10,
+    "destructionPercentage": 13.028571,
     "members": [
       {
         "tag": "#QQRLJ0GPG",
@@ -398,6 +440,24 @@
         "name": "mary@",
         "townhallLevel": 15,
         "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#22GJ9L2JY",
+            "defenderTag": "#Q2QQL2YVV",
+            "stars": 2,
+            "destructionPercentage": 95,
+            "order": 7,
+            "duration": 180
+          },
+          {
+            "attackerTag": "#22GJ9L2JY",
+            "defenderTag": "#QRP2RLV02",
+            "stars": 2,
+            "destructionPercentage": 99,
+            "order": 10,
+            "duration": 169
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -459,14 +519,30 @@
         "name": "\u2695\ufe0f\u25aa\ufe0fSHAILIN\u25aa\ufe0f\u2695\ufe0f",
         "townhallLevel": 9,
         "mapPosition": 35,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Y09Y2PP2Q",
+          "defenderTag": "#GYRVJQ2CL",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 9,
+          "duration": 54
+        }
       },
       {
         "tag": "#899Y22UJJ",
         "name": "\u062d\u0633\u06cc\u0646\u2661\u2661\u2661",
         "townhallLevel": 14,
         "mapPosition": 34,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Y09Y2PP2Q",
+          "defenderTag": "#899Y22UJJ",
+          "stars": 1,
+          "destructionPercentage": 88,
+          "order": 8,
+          "duration": 119
+        }
       },
       {
         "tag": "#8R2L2QQVP",
@@ -530,6 +606,16 @@
         "name": "Marjan",
         "townhallLevel": 14,
         "mapPosition": 18,
+        "attacks": [
+          {
+            "attackerTag": "#GR2YU92QJ",
+            "defenderTag": "#Q0YQURYCY",
+            "stars": 2,
+            "destructionPercentage": 89,
+            "order": 6,
+            "duration": 134
+          }
+        ],
         "opponentAttacks": 0
       },
       {

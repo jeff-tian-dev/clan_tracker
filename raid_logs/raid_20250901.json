@@ -2,9 +2,9 @@
   "state": "ongoing",
   "startTime": "20250829T070000.000Z",
   "endTime": "20250901T070000.000Z",
-  "capitalTotalLoot": 498523,
+  "capitalTotalLoot": 500483,
   "raidsCompleted": 7,
-  "totalAttacks": 136,
+  "totalAttacks": 137,
   "enemyDistrictsDestroyed": 45,
   "offensiveReward": 0,
   "defensiveReward": 0,
@@ -80,6 +80,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 0,
       "capitalResourcesLooted": 12715
+    },
+    {
+      "tag": "#YJUYGR9GP",
+      "name": "dipranjan",
+      "attacks": 1,
+      "attackLimit": 5,
+      "bonusAttackLimit": 0,
+      "capitalResourcesLooted": 1960
     },
     {
       "tag": "#QVUQ2VR98",
@@ -1890,7 +1898,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/WTgupz9icM_7UcgOF5sAAi3PaLq2jZqRfdKQjsPHXcQ.png"
         }
       },
-      "attackCount": 0,
+      "attackCount": 1,
       "districtCount": 9,
       "districtsDestroyed": 0,
       "districts": [
@@ -1970,10 +1978,20 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
+          "destructionPercent": 12,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 1,
+          "totalLooted": 1960,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YJUYGR9GP",
+                "name": "dipranjan"
+              },
+              "destructionPercent": 12,
+              "stars": 0
+            }
+          ]
         }
       ]
     }
