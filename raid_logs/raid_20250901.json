@@ -2670,9 +2670,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/xXro3-How4UeBogChbE8uiFRM8iCM1jAQEKbGKKGhmU.png"
         }
       },
-      "attackCount": 9,
+      "attackCount": 15,
       "districtCount": 9,
-      "districtsDestroyed": 2,
+      "districtsDestroyed": 4,
       "districts": [
         {
           "id": 70000000,
@@ -2696,20 +2696,38 @@
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
+          "destructionPercent": 31,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 1,
+          "totalLooted": 3315,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#8LJVGU9Y",
+                "name": "\u0421r\u0444wl\u0435\u0443"
+              },
+              "destructionPercent": 31,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 67,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 7250,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11109,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#8LJVGU9Y",
+                "name": "\u0421r\u0444wl\u0435\u0443"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#2JRLRRL0G",
@@ -2830,10 +2848,44 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 12135,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#8LJVGU9Y",
+                "name": "\u0421r\u0444wl\u0435\u0443"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#8LJVGU9Y",
+                "name": "\u0421r\u0444wl\u0435\u0443"
+              },
+              "destructionPercent": 94,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#8LJVGU9Y",
+                "name": "\u0421r\u0444wl\u0435\u0443"
+              },
+              "destructionPercent": 65,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#8LJVGU9Y",
+                "name": "\u0421r\u0444wl\u0435\u0443"
+              },
+              "destructionPercent": 21,
+              "stars": 0
+            }
+          ]
         }
       ]
     }
