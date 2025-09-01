@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/SDaPAleElDurilJwEJ4hTNB9YR3pRupEbuncsdoGpvc.png"
     },
     "clanLevel": 9,
-    "attacks": 35,
-    "stars": 87,
-    "destructionPercentage": 86.22857,
+    "attacks": 38,
+    "stars": 92,
+    "destructionPercentage": 93.74286,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -87,13 +87,39 @@
             "duration": 149
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#G0RUGYP80",
+          "defenderTag": "#GLU9LC2LG",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 67,
+          "duration": 157
+        }
       },
       {
         "tag": "#Q0YQURYCY",
         "name": "Sushant Bhaita",
         "townhallLevel": 14,
         "mapPosition": 29,
+        "attacks": [
+          {
+            "attackerTag": "#Q0YQURYCY",
+            "defenderTag": "#GLQY2CCJR",
+            "stars": 1,
+            "destructionPercentage": 82,
+            "order": 63,
+            "duration": 123
+          },
+          {
+            "attackerTag": "#Q0YQURYCY",
+            "defenderTag": "#G9LUPQQ89",
+            "stars": 2,
+            "destructionPercentage": 97,
+            "order": 64,
+            "duration": 133
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#GR2YU92QJ",
@@ -127,7 +153,15 @@
             "duration": 104
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2GJCPJC90",
+          "defenderTag": "#Q9QU8L8YV",
+          "stars": 2,
+          "destructionPercentage": 99,
+          "order": 65,
+          "duration": 136
+        }
       },
       {
         "tag": "#8VQYULVQQ",
@@ -235,7 +269,15 @@
             "duration": 82
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#J8LR2020",
+          "defenderTag": "#9U2YP0RY",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 68,
+          "duration": 151
+        }
       },
       {
         "tag": "#YJUYGR9GP",
@@ -293,7 +335,15 @@
             "duration": 127
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#RV0LLCL0",
+          "defenderTag": "#QVUQ2VR98",
+          "stars": 2,
+          "destructionPercentage": 76,
+          "order": 62,
+          "duration": 117
+        }
       },
       {
         "tag": "#L2J2Q2R9P",
@@ -421,16 +471,24 @@
             "destructionPercentage": 100,
             "order": 16,
             "duration": 138
+          },
+          {
+            "attackerTag": "#GQCGCUVCG",
+            "defenderTag": "#LCPQRGLRU",
+            "stars": 2,
+            "destructionPercentage": 84,
+            "order": 61,
+            "duration": 135
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#9VVRY2RGJ",
+          "attackerTag": "#G0RUGYP80",
           "defenderTag": "#GQCGCUVCG",
-          "stars": 2,
-          "destructionPercentage": 92,
-          "order": 14,
-          "duration": 129
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 69,
+          "duration": 164
         }
       },
       {
@@ -453,7 +511,15 @@
         "name": "Sir Hazelnut\u2122\ufe0f",
         "townhallLevel": 15,
         "mapPosition": 9,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2GJCPJC90",
+          "defenderTag": "#YJ2UV2GY",
+          "stars": 2,
+          "destructionPercentage": 86,
+          "order": 66,
+          "duration": 131
+        }
       },
       {
         "tag": "#P0RYJG09R",
@@ -771,9 +837,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/zy9b-Xw0xRWaGGTykbLhsXW9KNHu3FM0nyDlLm9J1Vs.png"
     },
     "clanLevel": 28,
-    "attacks": 25,
-    "stars": 54,
-    "destructionPercentage": 57.771427,
+    "attacks": 31,
+    "stars": 67,
+    "destructionPercentage": 71.171425,
     "members": [
       {
         "tag": "#QQRLJ0GPG",
@@ -795,6 +861,24 @@
         "name": "\u0632\u0646\u062f\u0627\u0646\u06cc",
         "townhallLevel": 15,
         "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#G0RUGYP80",
+            "defenderTag": "#GLU9LC2LG",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 67,
+            "duration": 157
+          },
+          {
+            "attackerTag": "#G0RUGYP80",
+            "defenderTag": "#GQCGCUVCG",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 69,
+            "duration": 164
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#GLU9LC2LG",
@@ -928,7 +1012,15 @@
         "name": "\u0633\u0644\u0637\u0627\u0646",
         "townhallLevel": 14,
         "mapPosition": 32,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GQCGCUVCG",
+          "defenderTag": "#LCPQRGLRU",
+          "stars": 2,
+          "destructionPercentage": 84,
+          "order": 61,
+          "duration": 135
+        }
       },
       {
         "tag": "#LRCRJVJYV",
@@ -983,6 +1075,16 @@
         "name": "ARASH KHAN",
         "townhallLevel": 15,
         "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#J8LR2020",
+            "defenderTag": "#9U2YP0RY",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 68,
+            "duration": 151
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#9U2YP0RY",
@@ -1016,7 +1118,15 @@
             "duration": 128
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q0YQURYCY",
+          "defenderTag": "#GLQY2CCJR",
+          "stars": 1,
+          "destructionPercentage": 82,
+          "order": 63,
+          "duration": 123
+        }
       },
       {
         "tag": "#LCCLQ22V2",
@@ -1038,6 +1148,24 @@
         "name": "bib@k tnt",
         "townhallLevel": 15,
         "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#2GJCPJC90",
+            "defenderTag": "#Q9QU8L8YV",
+            "stars": 2,
+            "destructionPercentage": 99,
+            "order": 65,
+            "duration": 136
+          },
+          {
+            "attackerTag": "#2GJCPJC90",
+            "defenderTag": "#YJ2UV2GY",
+            "stars": 2,
+            "destructionPercentage": 86,
+            "order": 66,
+            "duration": 131
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#8VQYULVQQ",
@@ -1172,6 +1300,14 @@
             "destructionPercentage": 100,
             "order": 60,
             "duration": 107
+          },
+          {
+            "attackerTag": "#RV0LLCL0",
+            "defenderTag": "#QVUQ2VR98",
+            "stars": 2,
+            "destructionPercentage": 76,
+            "order": 62,
+            "duration": 117
           }
         ],
         "opponentAttacks": 1,
@@ -1363,7 +1499,15 @@
             "duration": 108
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q0YQURYCY",
+          "defenderTag": "#G9LUPQQ89",
+          "stars": 2,
+          "destructionPercentage": 97,
+          "order": 64,
+          "duration": 133
+        }
       },
       {
         "tag": "#2L8Y0LCU9",
