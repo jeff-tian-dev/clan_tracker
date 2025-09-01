@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/SDaPAleElDurilJwEJ4hTNB9YR3pRupEbuncsdoGpvc.png"
     },
     "clanLevel": 9,
-    "attacks": 23,
-    "stars": 55,
-    "destructionPercentage": 56.45714,
+    "attacks": 24,
+    "stars": 58,
+    "destructionPercentage": 59.314285,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -174,6 +174,14 @@
             "destructionPercentage": 91,
             "order": 39,
             "duration": 164
+          },
+          {
+            "attackerTag": "#Q2QQL2YVV",
+            "defenderTag": "#RV0LLCL0",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 43,
+            "duration": 160
           }
         ],
         "opponentAttacks": 1,
@@ -263,7 +271,15 @@
             "duration": 142
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2PGCCJL80",
+          "defenderTag": "#QQUUQYQVL",
+          "stars": 1,
+          "destructionPercentage": 83,
+          "order": 42,
+          "duration": 173
+        }
       },
       {
         "tag": "#YQ8L9JVJ2",
@@ -631,9 +647,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/zy9b-Xw0xRWaGGTykbLhsXW9KNHu3FM0nyDlLm9J1Vs.png"
     },
     "clanLevel": 28,
-    "attacks": 18,
-    "stars": 43,
-    "destructionPercentage": 46.914288,
+    "attacks": 19,
+    "stars": 44,
+    "destructionPercentage": 49.285713,
     "members": [
       {
         "tag": "#QQRLJ0GPG",
@@ -1000,7 +1016,15 @@
         "name": "\u270b BARAN \u270b",
         "townhallLevel": 14,
         "mapPosition": 29,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q2QQL2YVV",
+          "defenderTag": "#RV0LLCL0",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 43,
+          "duration": 160
+        }
       },
       {
         "tag": "#YG80R02LR",
@@ -1022,6 +1046,14 @@
             "destructionPercentage": 96,
             "order": 40,
             "duration": 126
+          },
+          {
+            "attackerTag": "#2PGCCJL80",
+            "defenderTag": "#QQUUQYQVL",
+            "stars": 1,
+            "destructionPercentage": 83,
+            "order": 42,
+            "duration": 173
           }
         ],
         "opponentAttacks": 1,
