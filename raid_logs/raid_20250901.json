@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250829T070000.000Z",
   "endTime": "20250901T070000.000Z",
-  "capitalTotalLoot": 525850,
+  "capitalTotalLoot": 541648,
   "raidsCompleted": 7,
-  "totalAttacks": 143,
-  "enemyDistrictsDestroyed": 47,
+  "totalAttacks": 146,
+  "enemyDistrictsDestroyed": 48,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -76,10 +76,10 @@
     {
       "tag": "#9U2YP0RY",
       "name": "\u24c2\ufe0fBIG COCHY3\u24c2\ufe0f",
-      "attacks": 3,
+      "attacks": 6,
       "attackLimit": 5,
-      "bonusAttackLimit": 0,
-      "capitalResourcesLooted": 12715
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 28513
     },
     {
       "tag": "#YJUYGR9GP",
@@ -1906,9 +1906,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/WTgupz9icM_7UcgOF5sAAi3PaLq2jZqRfdKQjsPHXcQ.png"
         }
       },
-      "attackCount": 7,
+      "attackCount": 10,
       "districtCount": 9,
-      "districtsDestroyed": 2,
+      "districtsDestroyed": 3,
       "districts": [
         {
           "id": 70000000,
@@ -1941,20 +1941,46 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10353,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#9U2YP0RY",
+                "name": "\u24c2\ufe0fBIG COCHY3\u24c2\ufe0f"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#9U2YP0RY",
+                "name": "\u24c2\ufe0fBIG COCHY3\u24c2\ufe0f"
+              },
+              "destructionPercent": 51,
+              "stars": 2
+            }
+          ]
         },
         {
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 39,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 3910,
+          "destructionPercent": 82,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 9355,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#9U2YP0RY",
+                "name": "\u24c2\ufe0fBIG COCHY3\u24c2\ufe0f"
+              },
+              "destructionPercent": 82,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#Y2PVPPU8C",
