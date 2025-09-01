@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250829T070000.000Z",
   "endTime": "20250901T070000.000Z",
-  "capitalTotalLoot": 500483,
+  "capitalTotalLoot": 525850,
   "raidsCompleted": 7,
-  "totalAttacks": 137,
-  "enemyDistrictsDestroyed": 45,
+  "totalAttacks": 143,
+  "enemyDistrictsDestroyed": 47,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -200,6 +200,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 22124
+    },
+    {
+      "tag": "#Y2PVPPU8C",
+      "name": "\u2b50\u2b505 StarFree\u2b50\u2b50\u2b50",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 25367
     },
     {
       "tag": "#LLYV29CU",
@@ -1898,9 +1906,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/WTgupz9icM_7UcgOF5sAAi3PaLq2jZqRfdKQjsPHXcQ.png"
         }
       },
-      "attackCount": 1,
+      "attackCount": 7,
       "districtCount": 9,
-      "districtsDestroyed": 0,
+      "districtsDestroyed": 2,
       "districts": [
         {
           "id": 70000000,
@@ -1942,10 +1950,20 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
+          "destructionPercent": 39,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 1,
+          "totalLooted": 3910,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Y2PVPPU8C",
+                "name": "\u2b50\u2b505 StarFree\u2b50\u2b50\u2b50"
+              },
+              "destructionPercent": 39,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000005,
@@ -1969,20 +1987,62 @@
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11588,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Y2PVPPU8C",
+                "name": "\u2b50\u2b505 StarFree\u2b50\u2b50\u2b50"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Y2PVPPU8C",
+                "name": "\u2b50\u2b505 StarFree\u2b50\u2b50\u2b50"
+              },
+              "destructionPercent": 82,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#Y2PVPPU8C",
+                "name": "\u2b50\u2b505 StarFree\u2b50\u2b50\u2b50"
+              },
+              "destructionPercent": 40,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 12,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 1960,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11829,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#Y2PVPPU8C",
+                "name": "\u2b50\u2b505 StarFree\u2b50\u2b50\u2b50"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Y2PVPPU8C",
+                "name": "\u2b50\u2b505 StarFree\u2b50\u2b50\u2b50"
+              },
+              "destructionPercent": 73,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#YJUYGR9GP",
