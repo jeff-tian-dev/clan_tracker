@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/SDaPAleElDurilJwEJ4hTNB9YR3pRupEbuncsdoGpvc.png"
     },
     "clanLevel": 9,
-    "attacks": 39,
-    "stars": 95,
-    "destructionPercentage": 96.6,
+    "attacks": 41,
+    "stars": 97,
+    "destructionPercentage": 97.11429,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -702,6 +702,16 @@
         "name": "MALIK MALIK",
         "townhallLevel": 14,
         "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#QRRUQP89V",
+            "defenderTag": "#QYU2R292C",
+            "stars": 2,
+            "destructionPercentage": 75,
+            "order": 78,
+            "duration": 127
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#2PGCCJL80",
@@ -725,6 +735,14 @@
             "destructionPercentage": 100,
             "order": 47,
             "duration": 153
+          },
+          {
+            "attackerTag": "#G9CC9G2VQ",
+            "defenderTag": "#GLQY2CCJR",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 77,
+            "duration": 106
           }
         ],
         "opponentAttacks": 1,
@@ -982,7 +1000,7 @@
         "name": "\u0647\u0627\u0634\u0645",
         "townhallLevel": 14,
         "mapPosition": 16,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#QQUUQYQVL",
           "defenderTag": "#QYU2R292C",
@@ -1194,14 +1212,14 @@
             "duration": 128
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#Q0YQURYCY",
+          "attackerTag": "#G9CC9G2VQ",
           "defenderTag": "#GLQY2CCJR",
-          "stars": 1,
-          "destructionPercentage": 82,
-          "order": 63,
-          "duration": 123
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 77,
+          "duration": 106
         }
       },
       {
