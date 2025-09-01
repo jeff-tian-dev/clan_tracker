@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/SDaPAleElDurilJwEJ4hTNB9YR3pRupEbuncsdoGpvc.png"
     },
     "clanLevel": 9,
-    "attacks": 21,
-    "stars": 53,
-    "destructionPercentage": 53.857143,
+    "attacks": 23,
+    "stars": 55,
+    "destructionPercentage": 56.45714,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -166,6 +166,16 @@
         "name": "cyan",
         "townhallLevel": 14,
         "mapPosition": 28,
+        "attacks": [
+          {
+            "attackerTag": "#Q2QQL2YVV",
+            "defenderTag": "#G2JYVLRU8",
+            "stars": 2,
+            "destructionPercentage": 91,
+            "order": 39,
+            "duration": 164
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#22GJ9L2JY",
@@ -481,6 +491,14 @@
             "destructionPercentage": 3,
             "order": 38,
             "duration": 32
+          },
+          {
+            "attackerTag": "#GGYGQ8098",
+            "defenderTag": "#YU2CVYV28",
+            "stars": 1,
+            "destructionPercentage": 4,
+            "order": 41,
+            "duration": 15
           }
         ],
         "opponentAttacks": 1,
@@ -498,7 +516,15 @@
         "name": "MALIK MALIK",
         "townhallLevel": 14,
         "mapPosition": 15,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2PGCCJL80",
+          "defenderTag": "#QRRUQP89V",
+          "stars": 2,
+          "destructionPercentage": 96,
+          "order": 40,
+          "duration": 126
+        }
       },
       {
         "tag": "#G9CC9G2VQ",
@@ -605,9 +631,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/zy9b-Xw0xRWaGGTykbLhsXW9KNHu3FM0nyDlLm9J1Vs.png"
     },
     "clanLevel": 28,
-    "attacks": 17,
-    "stars": 41,
-    "destructionPercentage": 44.17143,
+    "attacks": 18,
+    "stars": 43,
+    "destructionPercentage": 46.914288,
     "members": [
       {
         "tag": "#QQRLJ0GPG",
@@ -691,7 +717,15 @@
         "name": "HAJI elyas",
         "townhallLevel": 14,
         "mapPosition": 28,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q2QQL2YVV",
+          "defenderTag": "#G2JYVLRU8",
+          "stars": 2,
+          "destructionPercentage": 91,
+          "order": 39,
+          "duration": 164
+        }
       },
       {
         "tag": "#9909R98UR",
@@ -980,6 +1014,16 @@
         "name": "BLACK TIGER",
         "townhallLevel": 14,
         "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#2PGCCJL80",
+            "defenderTag": "#QRRUQP89V",
+            "stars": 2,
+            "destructionPercentage": 96,
+            "order": 40,
+            "duration": 126
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#GLU9LC2LG",
@@ -1121,7 +1165,7 @@
             "duration": 174
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#Y2PVPPU8C",
           "defenderTag": "#YU2CVYV28",
