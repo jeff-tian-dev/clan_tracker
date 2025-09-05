@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250905T070000.000Z",
   "endTime": "20250908T070000.000Z",
-  "capitalTotalLoot": 162984,
+  "capitalTotalLoot": 176983,
   "raidsCompleted": 1,
-  "totalAttacks": 43,
-  "enemyDistrictsDestroyed": 13,
+  "totalAttacks": 48,
+  "enemyDistrictsDestroyed": 15,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -80,6 +80,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 15790
+    },
+    {
+      "tag": "#LLYV29CU",
+      "name": "1rose",
+      "attacks": 5,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 13999
     }
   ],
   "attackLog": [
@@ -466,9 +474,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/D86XuEJ_yoqCfQnyk0O6CQoRvdGB5bvCRS2EST9t23A.png"
         }
       },
-      "attackCount": 11,
+      "attackCount": 16,
       "districtCount": 9,
-      "districtsDestroyed": 4,
+      "districtsDestroyed": 6,
       "districts": [
         {
           "id": 70000000,
@@ -483,11 +491,19 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 97,
-          "stars": 1,
-          "attackCount": 2,
-          "totalLooted": 9460,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10670,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#LLYV29CU",
+                "name": "1rose"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#Q2QQL2YVV",
@@ -512,8 +528,18 @@
           "districtHallLevel": 5,
           "destructionPercent": 0,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 1,
+          "totalLooted": 0,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LLYV29CU",
+                "name": "1rose"
+              },
+              "destructionPercent": 0,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000003,
@@ -573,20 +599,46 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 96,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 8620,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LLYV29CU",
+                "name": "1rose"
+              },
+              "destructionPercent": 96,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#LLYV29CU",
+                "name": "1rose"
+              },
+              "destructionPercent": 46,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 59,
-          "stars": 2,
-          "attackCount": 1,
-          "totalLooted": 5935,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10104,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#LLYV29CU",
+                "name": "1rose"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#QRP2RLV02",
