@@ -2,20 +2,20 @@
   "state": "ongoing",
   "startTime": "20250905T070000.000Z",
   "endTime": "20250908T070000.000Z",
-  "capitalTotalLoot": 63185,
+  "capitalTotalLoot": 90924,
   "raidsCompleted": 0,
-  "totalAttacks": 19,
-  "enemyDistrictsDestroyed": 5,
+  "totalAttacks": 26,
+  "enemyDistrictsDestroyed": 7,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
     {
       "tag": "#RUVPQQR0",
       "name": "Badboy101",
-      "attacks": 1,
+      "attacks": 6,
       "attackLimit": 5,
-      "bonusAttackLimit": 0,
-      "capitalResourcesLooted": 4450
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 25140
     },
     {
       "tag": "#Q0YQURYCY",
@@ -40,6 +40,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 20594
+    },
+    {
+      "tag": "#GPCRPCRJG",
+      "name": "FLARE-X",
+      "attacks": 2,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 7049
     }
   ],
   "attackLog": [
@@ -54,9 +62,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/lBFX68ykagoKe2-AVl-_WjathU9WiyFS3xaX2IChu6E.png"
         }
       },
-      "attackCount": 19,
+      "attackCount": 26,
       "districtCount": 9,
-      "districtsDestroyed": 5,
+      "districtsDestroyed": 7,
       "districts": [
         {
           "id": 70000000,
@@ -71,20 +79,54 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 12015,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#RUVPQQR0",
+                "name": "Badboy101"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#RUVPQQR0",
+                "name": "Badboy101"
+              },
+              "destructionPercent": 77,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#RUVPQQR0",
+                "name": "Badboy101"
+              },
+              "destructionPercent": 28,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 45,
-          "stars": 1,
-          "attackCount": 1,
-          "totalLooted": 4450,
+          "destructionPercent": 88,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 8655,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#RUVPQQR0",
+                "name": "Badboy101"
+              },
+              "destructionPercent": 88,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#RUVPQQR0",
@@ -177,10 +219,36 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11519,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GPCRPCRJG",
+                "name": "FLARE-X"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GPCRPCRJG",
+                "name": "FLARE-X"
+              },
+              "destructionPercent": 60,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#RUVPQQR0",
+                "name": "Badboy101"
+              },
+              "destructionPercent": 39,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000006,
@@ -318,9 +386,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/V_WK67vy4vzqbwmOAJ_EDHx7YaNJWyejiH6kMU6Iqtg.png"
         }
       },
-      "attackCount": 6,
+      "attackCount": 10,
       "districtCount": 9,
-      "districtsDestroyed": 2,
+      "districtsDestroyed": 3,
       "districts": [
         {
           "id": 70000000,
@@ -405,10 +473,36 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11373,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#9Q0UU89L",
+                "name": "Night Witch"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#9Q0UU89L",
+                "name": "Night Witch"
+              },
+              "destructionPercent": 68,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#9Q0UU89L",
+                "name": "Night Witch"
+              },
+              "destructionPercent": 38,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000004,
@@ -432,10 +526,20 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 52,
+          "stars": 2,
+          "attackCount": 1,
+          "totalLooted": 5955,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#9Q0UU89L",
+                "name": "Night Witch"
+              },
+              "destructionPercent": 52,
+              "stars": 2
+            }
+          ]
         },
         {
           "id": 70000007,

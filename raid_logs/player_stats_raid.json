@@ -2529,10 +2529,10 @@
       },
       {
         "date": "20250908",
-        "attacksUsed": 1,
-        "capitalGold": 4450,
-        "avgLootPerAttack": 4450.0,
-        "attacksMissed": 4,
+        "attacksUsed": 6,
+        "capitalGold": 25140,
+        "avgLootPerAttack": 4190.0,
+        "attacksMissed": 0,
         "missedRaid": false
       }
     ]
@@ -7613,7 +7613,7 @@
       }
     ]
   },
-  "timestamp": "2025-09-05 11:00:04",
+  "timestamp": "2025-09-05 12:00:03",
   "#LJVP0GRUG": {
     "name": "Agi",
     "tag": "#LJVP0GRUG",
@@ -24067,6 +24067,100 @@
   "#GPCRPCRJG": {
     "name": "FLARE-X",
     "tag": "#GPCRPCRJG",
+    "history": [
+      {
+        "date": "20250630",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250707",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250714",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250721",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250728",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250804",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250811",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250818",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250825",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250901",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250908",
+        "attacksUsed": 2,
+        "capitalGold": 7049,
+        "avgLootPerAttack": 3524.5,
+        "attacksMissed": 4,
+        "missedRaid": false
+      }
+    ]
+  },
+  "#2CQLC28UP": {
+    "name": "gun",
+    "tag": "#2CQLC28UP",
     "history": [
       {
         "date": "20250630",
