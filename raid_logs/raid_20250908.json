@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250905T070000.000Z",
   "endTime": "20250908T070000.000Z",
-  "capitalTotalLoot": 337590,
+  "capitalTotalLoot": 357452,
   "raidsCompleted": 3,
-  "totalAttacks": 87,
-  "enemyDistrictsDestroyed": 29,
+  "totalAttacks": 91,
+  "enemyDistrictsDestroyed": 30,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -76,10 +76,10 @@
     {
       "tag": "#QVUQ2VR98",
       "name": "William the thi",
-      "attacks": 2,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 12297
+      "capitalResourcesLooted": 32159
     },
     {
       "tag": "#QQUUQYQVL",
@@ -1162,9 +1162,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/DSCNw-Ug7PTVWmG9qICnUT68j8W6UkQOfBZe-klAubU.png"
         }
       },
-      "attackCount": 6,
+      "attackCount": 10,
       "districtCount": 9,
-      "districtsDestroyed": 2,
+      "districtsDestroyed": 3,
       "districts": [
         {
           "id": 70000000,
@@ -1179,10 +1179,20 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 54,
+          "stars": 2,
+          "attackCount": 1,
+          "totalLooted": 4800,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QVUQ2VR98",
+                "name": "William the thi"
+              },
+              "destructionPercent": 54,
+              "stars": 2
+            }
+          ]
         },
         {
           "id": 70000002,
@@ -1261,19 +1271,47 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 54,
+          "stars": 1,
+          "attackCount": 1,
+          "totalLooted": 5235,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QVUQ2VR98",
+                "name": "William the thi"
+              },
+              "destructionPercent": 54,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9827,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QVUQ2VR98",
+                "name": "William the thi"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QVUQ2VR98",
+                "name": "William the thi"
+              },
+              "destructionPercent": 44,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000007,
