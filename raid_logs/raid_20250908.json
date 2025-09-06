@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250905T070000.000Z",
   "endTime": "20250908T070000.000Z",
-  "capitalTotalLoot": 357452,
+  "capitalTotalLoot": 361584,
   "raidsCompleted": 3,
-  "totalAttacks": 91,
-  "enemyDistrictsDestroyed": 30,
+  "totalAttacks": 92,
+  "enemyDistrictsDestroyed": 31,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -20,10 +20,10 @@
     {
       "tag": "#YVGGJLPRJ",
       "name": "Smog",
-      "attacks": 2,
+      "attacks": 3,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 9463
+      "capitalResourcesLooted": 13595
     },
     {
       "tag": "#GLU9LC2LG",
@@ -1162,9 +1162,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/DSCNw-Ug7PTVWmG9qICnUT68j8W6UkQOfBZe-klAubU.png"
         }
       },
-      "attackCount": 10,
+      "attackCount": 11,
       "districtCount": 9,
-      "districtsDestroyed": 3,
+      "districtsDestroyed": 4,
       "districts": [
         {
           "id": 70000000,
@@ -1271,11 +1271,19 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 4,
-          "destructionPercent": 54,
-          "stars": 1,
-          "attackCount": 1,
-          "totalLooted": 5235,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9367,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#YVGGJLPRJ",
+                "name": "Smog"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#QVUQ2VR98",
