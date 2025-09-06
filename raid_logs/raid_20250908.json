@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250905T070000.000Z",
   "endTime": "20250908T070000.000Z",
-  "capitalTotalLoot": 285005,
+  "capitalTotalLoot": 295256,
   "raidsCompleted": 2,
-  "totalAttacks": 75,
-  "enemyDistrictsDestroyed": 25,
+  "totalAttacks": 77,
+  "enemyDistrictsDestroyed": 26,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -60,10 +60,10 @@
     {
       "tag": "#QVUQ2VR98",
       "name": "William the thi",
-      "attacks": 1,
+      "attacks": 2,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 4586
+      "capitalResourcesLooted": 12297
     },
     {
       "tag": "#QQUUQYQVL",
@@ -100,10 +100,10 @@
     {
       "tag": "#GPCRPCRJG",
       "name": "FLARE-X",
-      "attacks": 2,
+      "attacks": 3,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 7049
+      "capitalResourcesLooted": 9589
     },
     {
       "tag": "#GGYGQ8098",
@@ -814,18 +814,28 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/kOteYKvUY4-FtjiZ_ADhIv9DfBr-wazO8QBPmF4bQ60.png"
         }
       },
-      "attackCount": 21,
+      "attackCount": 23,
       "districtCount": 9,
-      "districtsDestroyed": 7,
+      "districtsDestroyed": 8,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 14,
+          "stars": 1,
+          "attackCount": 1,
+          "totalLooted": 2540,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GPCRPCRJG",
+                "name": "FLARE-X"
+              },
+              "destructionPercent": 14,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000001,
@@ -971,11 +981,19 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 37,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 3745,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11456,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#QVUQ2VR98",
+                "name": "William the thi"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#PRGGL2J2V",
