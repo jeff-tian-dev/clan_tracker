@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250905T070000.000Z",
   "endTime": "20250908T070000.000Z",
-  "capitalTotalLoot": 361584,
+  "capitalTotalLoot": 375638,
   "raidsCompleted": 3,
-  "totalAttacks": 92,
-  "enemyDistrictsDestroyed": 31,
+  "totalAttacks": 95,
+  "enemyDistrictsDestroyed": 33,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -20,10 +20,10 @@
     {
       "tag": "#YVGGJLPRJ",
       "name": "Smog",
-      "attacks": 3,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 13595
+      "capitalResourcesLooted": 27649
     },
     {
       "tag": "#GLU9LC2LG",
@@ -1162,9 +1162,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/DSCNw-Ug7PTVWmG9qICnUT68j8W6UkQOfBZe-klAubU.png"
         }
       },
-      "attackCount": 11,
+      "attackCount": 14,
       "districtCount": 9,
-      "districtsDestroyed": 4,
+      "districtsDestroyed": 6,
       "districts": [
         {
           "id": 70000000,
@@ -1179,11 +1179,19 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 54,
-          "stars": 2,
-          "attackCount": 1,
-          "totalLooted": 4800,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10514,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#YVGGJLPRJ",
+                "name": "Smog"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#QVUQ2VR98",
@@ -1325,11 +1333,19 @@
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 3,
-          "destructionPercent": 73,
-          "stars": 2,
-          "attackCount": 1,
-          "totalLooted": 6960,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9970,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#YVGGJLPRJ",
+                "name": "Smog"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#GLU9LC2LG",
@@ -1344,10 +1360,20 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 2,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 95,
+          "stars": 2,
+          "attackCount": 1,
+          "totalLooted": 5330,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YVGGJLPRJ",
+                "name": "Smog"
+              },
+              "destructionPercent": 95,
+              "stars": 2
+            }
+          ]
         }
       ]
     }
