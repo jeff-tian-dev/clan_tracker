@@ -2,9 +2,9 @@
   "state": "ongoing",
   "startTime": "20250905T070000.000Z",
   "endTime": "20250908T070000.000Z",
-  "capitalTotalLoot": 176983,
+  "capitalTotalLoot": 181628,
   "raidsCompleted": 1,
-  "totalAttacks": 48,
+  "totalAttacks": 49,
   "enemyDistrictsDestroyed": 15,
   "offensiveReward": 0,
   "defensiveReward": 0,
@@ -84,10 +84,10 @@
     {
       "tag": "#LLYV29CU",
       "name": "1rose",
-      "attacks": 5,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 13999
+      "capitalResourcesLooted": 18644
     }
   ],
   "attackLog": [
@@ -474,7 +474,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/D86XuEJ_yoqCfQnyk0O6CQoRvdGB5bvCRS2EST9t23A.png"
         }
       },
-      "attackCount": 16,
+      "attackCount": 17,
       "districtCount": 9,
       "districtsDestroyed": 6,
       "districts": [
@@ -526,11 +526,19 @@
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 0,
+          "destructionPercent": 52,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 4645,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#LLYV29CU",
+                "name": "1rose"
+              },
+              "destructionPercent": 52,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#LLYV29CU",
@@ -718,9 +726,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/V_WK67vy4vzqbwmOAJ_EDHx7YaNJWyejiH6kMU6Iqtg.png"
         }
       },
-      "attackCount": 10,
+      "attackCount": 15,
       "districtCount": 9,
-      "districtsDestroyed": 3,
+      "districtsDestroyed": 4,
       "districts": [
         {
           "id": 70000000,
@@ -840,10 +848,36 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 73,
+          "stars": 2,
+          "attackCount": 3,
+          "totalLooted": 10300,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#L2R9VYRGC",
+                "name": "t\u00f9g"
+              },
+              "destructionPercent": 73,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#L2R9VYRGC",
+                "name": "t\u00f9g"
+              },
+              "destructionPercent": 49,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#L2R9VYRGC",
+                "name": "t\u00f9g"
+              },
+              "destructionPercent": 25,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000005,
@@ -877,10 +911,28 @@
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11660,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#L2R9VYRGC",
+                "name": "t\u00f9g"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#L2R9VYRGC",
+                "name": "t\u00f9g"
+              },
+              "destructionPercent": 57,
+              "stars": 2
+            }
+          ]
         },
         {
           "id": 70000008,
