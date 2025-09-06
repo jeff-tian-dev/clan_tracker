@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250905T070000.000Z",
   "endTime": "20250908T070000.000Z",
-  "capitalTotalLoot": 181628,
+  "capitalTotalLoot": 186214,
   "raidsCompleted": 1,
-  "totalAttacks": 49,
-  "enemyDistrictsDestroyed": 15,
+  "totalAttacks": 50,
+  "enemyDistrictsDestroyed": 16,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -48,6 +48,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 20094
+    },
+    {
+      "tag": "#QVUQ2VR98",
+      "name": "William the thi",
+      "attacks": 1,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 4586
     },
     {
       "tag": "#QQUUQYQVL",
@@ -474,9 +482,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/D86XuEJ_yoqCfQnyk0O6CQoRvdGB5bvCRS2EST9t23A.png"
         }
       },
-      "attackCount": 17,
+      "attackCount": 18,
       "districtCount": 9,
-      "districtsDestroyed": 6,
+      "districtsDestroyed": 7,
       "districts": [
         {
           "id": 70000000,
@@ -526,11 +534,19 @@
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 52,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 4645,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 9231,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#QVUQ2VR98",
+                "name": "William the thi"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#LLYV29CU",
@@ -726,9 +742,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/V_WK67vy4vzqbwmOAJ_EDHx7YaNJWyejiH6kMU6Iqtg.png"
         }
       },
-      "attackCount": 15,
+      "attackCount": 16,
       "districtCount": 9,
-      "districtsDestroyed": 4,
+      "districtsDestroyed": 5,
       "districts": [
         {
           "id": 70000000,
@@ -848,11 +864,19 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 73,
-          "stars": 2,
-          "attackCount": 3,
-          "totalLooted": 10300,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 12344,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#L2R9VYRGC",
+                "name": "t\u00f9g"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#L2R9VYRGC",
