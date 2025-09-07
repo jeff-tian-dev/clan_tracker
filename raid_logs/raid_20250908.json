@@ -2076,7 +2076,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/7eP0npC-ibF7iIw6N4uRSIy1L1j0DogsGCjye20PdJo.png"
         }
       },
-      "attackCount": 2,
+      "attackCount": 3,
       "districtCount": 9,
       "districtsDestroyed": 1,
       "districts": [
@@ -2174,10 +2174,20 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 46,
+          "stars": 1,
+          "attackCount": 1,
+          "totalLooted": 4625,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#L0CPVVVU2",
+                "name": "Jo"
+              },
+              "destructionPercent": 46,
+              "stars": 1
+            }
+          ]
         }
       ]
     }
