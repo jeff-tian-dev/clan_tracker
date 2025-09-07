@@ -2230,7 +2230,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/7eP0npC-ibF7iIw6N4uRSIy1L1j0DogsGCjye20PdJo.png"
         }
       },
-      "attackCount": 9,
+      "attackCount": 10,
       "districtCount": 9,
       "districtsDestroyed": 3,
       "districts": [
@@ -2355,10 +2355,20 @@
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 40,
+          "stars": 1,
+          "attackCount": 1,
+          "totalLooted": 4565,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#PRLCG8UJ",
+                "name": "TAMAA"
+              },
+              "destructionPercent": 40,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000008,
