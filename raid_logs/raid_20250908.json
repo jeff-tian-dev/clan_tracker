@@ -1608,7 +1608,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/V_WK67vy4vzqbwmOAJ_EDHx7YaNJWyejiH6kMU6Iqtg.png"
         }
       },
-      "attackCount": 24,
+      "attackCount": 29,
       "districtCount": 9,
       "districtsDestroyed": 8,
       "districts": [
@@ -1616,10 +1616,52 @@
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 99,
+          "stars": 1,
+          "attackCount": 5,
+          "totalLooted": 12370,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2VQGC0GPY",
+                "name": "L\u00ea Tri\u1ec7u"
+              },
+              "destructionPercent": 99,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#2VQGC0GPY",
+                "name": "L\u00ea Tri\u1ec7u"
+              },
+              "destructionPercent": 93,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#2VQGC0GPY",
+                "name": "L\u00ea Tri\u1ec7u"
+              },
+              "destructionPercent": 83,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#2VQGC0GPY",
+                "name": "L\u00ea Tri\u1ec7u"
+              },
+              "destructionPercent": 64,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#2VQGC0GPY",
+                "name": "L\u00ea Tri\u1ec7u"
+              },
+              "destructionPercent": 44,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
@@ -2230,9 +2272,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/7eP0npC-ibF7iIw6N4uRSIy1L1j0DogsGCjye20PdJo.png"
         }
       },
-      "attackCount": 10,
+      "attackCount": 20,
       "districtCount": 9,
-      "districtsDestroyed": 3,
+      "districtsDestroyed": 5,
       "districts": [
         {
           "id": 70000000,
@@ -2282,29 +2324,89 @@
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 91,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 9655,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QRU0RQU28",
+                "name": "maz abiliam"
+              },
+              "destructionPercent": 91,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#QRU0RQU28",
+                "name": "maz abiliam"
+              },
+              "destructionPercent": 46,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11640,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QRU0RQU28",
+                "name": "maz abiliam"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QRU0RQU28",
+                "name": "maz abiliam"
+              },
+              "destructionPercent": 72,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#QRU0RQU28",
+                "name": "maz abiliam"
+              },
+              "destructionPercent": 40,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 15,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 2070,
+          "destructionPercent": 95,
+          "stars": 2,
+          "attackCount": 3,
+          "totalLooted": 10955,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#LCYRQUYVY",
+                "name": "Terah aku lah"
+              },
+              "destructionPercent": 95,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#QRU0RQU28",
+                "name": "maz abiliam"
+              },
+              "destructionPercent": 64,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#90V8R2UCP",
@@ -2319,10 +2421,28 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 77,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 7955,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#9QCU8CRUY",
+                "name": "(\u262cmaruciel\u262c)"
+              },
+              "destructionPercent": 77,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#9QCU8CRUY",
+                "name": "(\u262cmaruciel\u262c)"
+              },
+              "destructionPercent": 40,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000006,
@@ -2355,11 +2475,19 @@
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 40,
-          "stars": 1,
-          "attackCount": 1,
-          "totalLooted": 4565,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11519,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#LCYRQUYVY",
+                "name": "Terah aku lah"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#PRLCG8UJ",
