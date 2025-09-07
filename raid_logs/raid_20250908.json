@@ -2,9 +2,9 @@
   "state": "ongoing",
   "startTime": "20250905T070000.000Z",
   "endTime": "20250908T070000.000Z",
-  "capitalTotalLoot": 420648,
+  "capitalTotalLoot": 424928,
   "raidsCompleted": 6,
-  "totalAttacks": 107,
+  "totalAttacks": 108,
   "enemyDistrictsDestroyed": 38,
   "offensiveReward": 0,
   "defensiveReward": 0,
@@ -152,6 +152,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 15790
+    },
+    {
+      "tag": "#LGGLYVUPP",
+      "name": "siwi2isuus2",
+      "attacks": 1,
+      "attackLimit": 5,
+      "bonusAttackLimit": 0,
+      "capitalResourcesLooted": 4280
     },
     {
       "tag": "#LLYV29CU",
@@ -1446,7 +1454,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/8lnaeqnGiwfQ5rQwKoCRu2hD_5MR0XE1-fy-Vk-AoKg.png"
         }
       },
-      "attackCount": 7,
+      "attackCount": 8,
       "districtCount": 9,
       "districtsDestroyed": 2,
       "districts": [
@@ -1508,11 +1516,19 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 38,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 3925,
+          "destructionPercent": 74,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 8205,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#LGGLYVUPP",
+                "name": "siwi2isuus2"
+              },
+              "destructionPercent": 74,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#2CQLC28UP",
