@@ -2076,9 +2076,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/7eP0npC-ibF7iIw6N4uRSIy1L1j0DogsGCjye20PdJo.png"
         }
       },
-      "attackCount": 0,
+      "attackCount": 2,
       "districtCount": 9,
-      "districtsDestroyed": 0,
+      "districtsDestroyed": 1,
       "districts": [
         {
           "id": 70000000,
@@ -2138,10 +2138,28 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11700,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QVL9URPQU",
+                "name": "ibaL"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QVL9URPQU",
+                "name": "ibaL"
+              },
+              "destructionPercent": 46,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000007,
