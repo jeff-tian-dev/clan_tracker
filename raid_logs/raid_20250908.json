@@ -3,7 +3,7 @@
   "startTime": "20250905T070000.000Z",
   "endTime": "20250908T070000.000Z",
   "capitalTotalLoot": 420648,
-  "raidsCompleted": 4,
+  "raidsCompleted": 5,
   "totalAttacks": 107,
   "enemyDistrictsDestroyed": 38,
   "offensiveReward": 0,
@@ -1880,37 +1880,105 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/D_hCTzXVsHKz9vIHHCNrATZ1aYemn271odrmdBoEYe4.png"
         }
       },
-      "attackCount": 12,
+      "attackCount": 25,
       "districtCount": 9,
-      "districtsDestroyed": 2,
+      "districtsDestroyed": 9,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 13616,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#G8UV2JGJV",
+                "name": "Melan"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#G8UV2JGJV",
+                "name": "Melan"
+              },
+              "destructionPercent": 92,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#G8UV2JGJV",
+                "name": "Melan"
+              },
+              "destructionPercent": 70,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#GQ8LCGVCR",
+                "name": "Melan"
+              },
+              "destructionPercent": 42,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11388,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GQ8LCGVCR",
+                "name": "Melan"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GQ8LCGVCR",
+                "name": "Melan"
+              },
+              "destructionPercent": 60,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#GQ8LCGVCR",
+                "name": "Melan"
+              },
+              "destructionPercent": 34,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 95,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 9415,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10841,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#9V992LLLV",
+                "name": "S\u00c3M\u00dcR\u00c3\u00cc CHAMP"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#8YCCCV8C0",
@@ -1933,11 +2001,19 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 87,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 9310,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11667,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#9V992LLLV",
+                "name": "S\u00c3M\u00dcR\u00c3\u00cc CHAMP"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#PVU00P8PU",
@@ -1960,11 +2036,19 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 72,
-          "stars": 1,
-          "attackCount": 3,
-          "totalLooted": 7775,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 12047,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#9V992LLLV",
+                "name": "S\u00c3M\u00dcR\u00c3\u00cc CHAMP"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#8YCCCV8C0",
@@ -1995,11 +2079,19 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 58,
-          "stars": 1,
-          "attackCount": 1,
-          "totalLooted": 5300,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11447,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#9V992LLLV",
+                "name": "S\u00c3M\u00dcR\u00c3\u00cc CHAMP"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#9V992LLLV",
@@ -2014,10 +2106,28 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11424,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GQ8LCGVCR",
+                "name": "Melan"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GQ8LCGVCR",
+                "name": "Melan"
+              },
+              "destructionPercent": 52,
+              "stars": 2
+            }
+          ]
         },
         {
           "id": 70000007,
