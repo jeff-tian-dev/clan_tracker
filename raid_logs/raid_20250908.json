@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250905T070000.000Z",
   "endTime": "20250908T070000.000Z",
-  "capitalTotalLoot": 463532,
+  "capitalTotalLoot": 485494,
   "raidsCompleted": 7,
-  "totalAttacks": 119,
-  "enemyDistrictsDestroyed": 42,
+  "totalAttacks": 125,
+  "enemyDistrictsDestroyed": 44,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -136,6 +136,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 17609
+    },
+    {
+      "tag": "#9VU0VU90G",
+      "name": "Edison123",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 21962
     },
     {
       "tag": "#GGYGQ8098",
@@ -1462,9 +1470,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/8lnaeqnGiwfQ5rQwKoCRu2hD_5MR0XE1-fy-Vk-AoKg.png"
         }
       },
-      "attackCount": 19,
+      "attackCount": 25,
       "districtCount": 9,
-      "districtsDestroyed": 6,
+      "districtsDestroyed": 8,
       "districts": [
         {
           "id": 70000000,
@@ -1479,19 +1487,71 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11418,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#9VU0VU90G",
+                "name": "Edison123"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#9VU0VU90G",
+                "name": "Edison123"
+              },
+              "destructionPercent": 62,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#9VU0VU90G",
+                "name": "Edison123"
+              },
+              "destructionPercent": 30,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10544,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#9VU0VU90G",
+                "name": "Edison123"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#9VU0VU90G",
+                "name": "Edison123"
+              },
+              "destructionPercent": 57,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#9VU0VU90G",
+                "name": "Edison123"
+              },
+              "destructionPercent": 28,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000003,
