@@ -3,7 +3,7 @@
   "startTime": "20250905T070000.000Z",
   "endTime": "20250908T070000.000Z",
   "capitalTotalLoot": 444423,
-  "raidsCompleted": 7,
+  "raidsCompleted": 6,
   "totalAttacks": 114,
   "enemyDistrictsDestroyed": 40,
   "offensiveReward": 0,
@@ -2688,10 +2688,146 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/G6-0GLGxSIMbhLNa4IhCBZpXOdL1j237YpZ8_DU23rQ.png"
         }
       },
-      "attackCount": 0,
-      "districtCount": 0,
+      "attackCount": 6,
+      "districtCount": 9,
       "districtsDestroyed": 0,
-      "districts": []
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 10,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 5,
+          "destructionPercent": 76,
+          "stars": 1,
+          "attackCount": 2,
+          "totalLooted": 8230,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#PRV2VC9R8",
+                "name": "MAIN JAX VN"
+              },
+              "destructionPercent": 76,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#PRV2VC9R8",
+                "name": "MAIN JAX VN"
+              },
+              "destructionPercent": 39,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 5,
+          "destructionPercent": 94,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 10355,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#PRV2VC9R8",
+                "name": "MAIN JAX VN"
+              },
+              "destructionPercent": 94,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#PJ22JCGRY",
+                "name": "Legends TrungLy"
+              },
+              "destructionPercent": 42,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 4,
+          "destructionPercent": 90,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 10150,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#PRV2VC9R8",
+                "name": "MAIN JAX VN"
+              },
+              "destructionPercent": 90,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#PRV2VC9R8",
+                "name": "MAIN JAX VN"
+              },
+              "destructionPercent": 48,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 4,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        }
+      ]
     }
   ]
 }
