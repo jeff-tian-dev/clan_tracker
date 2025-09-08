@@ -3,7 +3,7 @@
   "startTime": "20250905T070000.000Z",
   "endTime": "20250908T070000.000Z",
   "capitalTotalLoot": 463532,
-  "raidsCompleted": 6,
+  "raidsCompleted": 7,
   "totalAttacks": 119,
   "enemyDistrictsDestroyed": 42,
   "offensiveReward": 0,
@@ -1726,19 +1726,27 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/V_WK67vy4vzqbwmOAJ_EDHx7YaNJWyejiH6kMU6Iqtg.png"
         }
       },
-      "attackCount": 29,
+      "attackCount": 30,
       "districtCount": 9,
-      "districtsDestroyed": 8,
+      "districtsDestroyed": 9,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 99,
-          "stars": 1,
-          "attackCount": 5,
-          "totalLooted": 12370,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 6,
+          "totalLooted": 14051,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#CLQLRCCJ",
+                "name": "CheeHuat"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#2VQGC0GPY",
