@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250905T070000.000Z",
   "endTime": "20250908T070000.000Z",
-  "capitalTotalLoot": 531870,
+  "capitalTotalLoot": 548142,
   "raidsCompleted": 8,
-  "totalAttacks": 135,
-  "enemyDistrictsDestroyed": 47,
+  "totalAttacks": 139,
+  "enemyDistrictsDestroyed": 48,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -16,6 +16,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 25140
+    },
+    {
+      "tag": "#YCL08PR8L",
+      "name": "kannapi Gaming",
+      "attacks": 4,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 16272
     },
     {
       "tag": "#UJP2UYRY",
@@ -1834,9 +1842,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/NzKUSYHAZ7S7CgHQUNJ7E3ZNAhnPk96_pouFeKdlnMk.png"
         }
       },
-      "attackCount": 6,
+      "attackCount": 10,
       "districtCount": 9,
-      "districtsDestroyed": 2,
+      "districtsDestroyed": 3,
       "districts": [
         {
           "id": 70000000,
@@ -1869,10 +1877,20 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 56,
+          "stars": 1,
+          "attackCount": 1,
+          "totalLooted": 4200,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YCL08PR8L",
+                "name": "kannapi Gaming"
+              },
+              "destructionPercent": 56,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000004,
@@ -1968,10 +1986,36 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 12072,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YCL08PR8L",
+                "name": "kannapi Gaming"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#YCL08PR8L",
+                "name": "kannapi Gaming"
+              },
+              "destructionPercent": 82,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#YCL08PR8L",
+                "name": "kannapi Gaming"
+              },
+              "destructionPercent": 30,
+              "stars": 0
+            }
+          ]
         }
       ]
     }
