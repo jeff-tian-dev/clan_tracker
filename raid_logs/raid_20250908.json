@@ -3,7 +3,7 @@
   "startTime": "20250905T070000.000Z",
   "endTime": "20250908T070000.000Z",
   "capitalTotalLoot": 444423,
-  "raidsCompleted": 6,
+  "raidsCompleted": 7,
   "totalAttacks": 114,
   "enemyDistrictsDestroyed": 40,
   "offensiveReward": 0,
@@ -2676,6 +2676,22 @@
           ]
         }
       ]
+    },
+    {
+      "attacker": {
+        "tag": "#2YYV2QQGV",
+        "name": "L\u00ednh \u0110\u00e1nh Thu\u00ea",
+        "level": 19,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/G6-0GLGxSIMbhLNa4IhCBZpXOdL1j237YpZ8_DU23rQ.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/G6-0GLGxSIMbhLNa4IhCBZpXOdL1j237YpZ8_DU23rQ.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/G6-0GLGxSIMbhLNa4IhCBZpXOdL1j237YpZ8_DU23rQ.png"
+        }
+      },
+      "attackCount": 0,
+      "districtCount": 0,
+      "districtsDestroyed": 0,
+      "districts": []
     }
   ]
 }
