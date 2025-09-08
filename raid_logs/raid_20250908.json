@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250905T070000.000Z",
   "endTime": "20250908T070000.000Z",
-  "capitalTotalLoot": 548142,
+  "capitalTotalLoot": 552877,
   "raidsCompleted": 8,
-  "totalAttacks": 139,
-  "enemyDistrictsDestroyed": 48,
+  "totalAttacks": 140,
+  "enemyDistrictsDestroyed": 49,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -20,10 +20,10 @@
     {
       "tag": "#YCL08PR8L",
       "name": "kannapi Gaming",
-      "attacks": 4,
+      "attacks": 5,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 16272
+      "capitalResourcesLooted": 21007
     },
     {
       "tag": "#UJP2UYRY",
@@ -1842,9 +1842,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/NzKUSYHAZ7S7CgHQUNJ7E3ZNAhnPk96_pouFeKdlnMk.png"
         }
       },
-      "attackCount": 10,
+      "attackCount": 11,
       "districtCount": 9,
-      "districtsDestroyed": 3,
+      "districtsDestroyed": 4,
       "districts": [
         {
           "id": 70000000,
@@ -1877,11 +1877,19 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 56,
-          "stars": 1,
-          "attackCount": 1,
-          "totalLooted": 4200,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 8935,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#YCL08PR8L",
+                "name": "kannapi Gaming"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#YCL08PR8L",
