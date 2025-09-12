@@ -445,7 +445,15 @@
             "duration": 157
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#P0PULCUYL",
+          "defenderTag": "#YQ8L9JVJ2",
+          "stars": 2,
+          "destructionPercentage": 63,
+          "order": 67,
+          "duration": 130
+        }
       },
       {
         "tag": "#LU2YYG2UJ",
@@ -467,7 +475,15 @@
         "name": "You",
         "townhallLevel": 15,
         "mapPosition": 11,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#P0PULCUYL",
+          "defenderTag": "#22GQU2V2V",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 66,
+          "duration": 144
+        }
       },
       {
         "tag": "#L29JP8GLL",
@@ -797,9 +813,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/CA8ZWoWZJHELBBqCiwgITL7uJreCcSB_HZvyZkkN0Go.png"
     },
     "clanLevel": 21,
-    "attacks": 35,
-    "stars": 79,
-    "destructionPercentage": 82.25714,
+    "attacks": 37,
+    "stars": 84,
+    "destructionPercentage": 86.91428,
     "members": [
       {
         "tag": "#LP88PPPJP",
@@ -1320,6 +1336,24 @@
         "name": "ARIF#27",
         "townhallLevel": 17,
         "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#P0PULCUYL",
+            "defenderTag": "#22GQU2V2V",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 66,
+            "duration": 144
+          },
+          {
+            "attackerTag": "#P0PULCUYL",
+            "defenderTag": "#YQ8L9JVJ2",
+            "stars": 2,
+            "destructionPercentage": 63,
+            "order": 67,
+            "duration": 130
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#Y2PVPPU8C",
