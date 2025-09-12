@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/SDaPAleElDurilJwEJ4hTNB9YR3pRupEbuncsdoGpvc.png"
     },
     "clanLevel": 9,
-    "attacks": 35,
-    "stars": 68,
-    "destructionPercentage": 70.4,
+    "attacks": 37,
+    "stars": 71,
+    "destructionPercentage": 72.62857,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -357,6 +357,14 @@
             "destructionPercentage": 77,
             "order": 72,
             "duration": 150
+          },
+          {
+            "attackerTag": "#QVUQ2VR98",
+            "defenderTag": "#G20LCRRRC",
+            "stars": 2,
+            "destructionPercentage": 66,
+            "order": 73,
+            "duration": 164
           }
         ],
         "opponentAttacks": 2,
@@ -780,6 +788,16 @@
         "name": "Cookies",
         "townhallLevel": 15,
         "mapPosition": 18,
+        "attacks": [
+          {
+            "attackerTag": "#LCUL88JLG",
+            "defenderTag": "#G8PQCGL8U",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 74,
+            "duration": 178
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#9PJP8889R",
@@ -1595,13 +1613,13 @@
             "duration": 137
           }
         ],
-        "opponentAttacks": 3,
+        "opponentAttacks": 4,
         "bestOpponentAttack": {
-          "attackerTag": "#Q2QQL2YVV",
+          "attackerTag": "#LCUL88JLG",
           "defenderTag": "#G8PQCGL8U",
-          "stars": 2,
-          "destructionPercentage": 88,
-          "order": 65,
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 74,
           "duration": 178
         }
       },
@@ -1627,7 +1645,15 @@
             "duration": 180
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QVUQ2VR98",
+          "defenderTag": "#G20LCRRRC",
+          "stars": 2,
+          "destructionPercentage": 66,
+          "order": 73,
+          "duration": 164
+        }
       },
       {
         "tag": "#LP0922290",
