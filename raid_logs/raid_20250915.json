@@ -2,13 +2,22 @@
   "state": "ongoing",
   "startTime": "20250912T070000.000Z",
   "endTime": "20250915T070000.000Z",
-  "capitalTotalLoot": 0,
+  "capitalTotalLoot": 9655,
   "raidsCompleted": 0,
-  "totalAttacks": 0,
+  "totalAttacks": 2,
   "enemyDistrictsDestroyed": 0,
   "offensiveReward": 0,
   "defensiveReward": 0,
-  "members": [],
+  "members": [
+    {
+      "tag": "#2920V9PV",
+      "name": "Ryan",
+      "attacks": 2,
+      "attackLimit": 5,
+      "bonusAttackLimit": 0,
+      "capitalResourcesLooted": 9655
+    }
+  ],
   "attackLog": [
     {
       "defender": {
@@ -21,7 +30,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/sLVBgg0QSmf6FlAMV7lViP-3D8EFGI4c7k3wBNrMWuA.png"
         }
       },
-      "attackCount": 0,
+      "attackCount": 2,
       "districtCount": 9,
       "districtsDestroyed": 0,
       "districts": [
@@ -101,10 +110,28 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 78,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 9655,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2920V9PV",
+                "name": "Ryan"
+              },
+              "destructionPercent": 78,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#2920V9PV",
+                "name": "Ryan"
+              },
+              "destructionPercent": 28,
+              "stars": 0
+            }
+          ]
         }
       ]
     }
