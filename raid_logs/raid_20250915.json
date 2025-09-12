@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250912T070000.000Z",
   "endTime": "20250915T070000.000Z",
-  "capitalTotalLoot": 228083,
+  "capitalTotalLoot": 247666,
   "raidsCompleted": 3,
-  "totalAttacks": 59,
-  "enemyDistrictsDestroyed": 20,
+  "totalAttacks": 65,
+  "enemyDistrictsDestroyed": 21,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -80,6 +80,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 22750
+    },
+    {
+      "tag": "#QQUUQYQVL",
+      "name": "9/11",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 19583
     },
     {
       "tag": "#GLP0CQQ9G",
@@ -758,9 +766,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/-QVLkwovPJYdp1Yc7i1Ha4iwgc7le23iahXHTouVGnQ.png"
         }
       },
-      "attackCount": 7,
+      "attackCount": 13,
       "districtCount": 9,
-      "districtsDestroyed": 2,
+      "districtsDestroyed": 3,
       "districts": [
         {
           "id": 70000000,
@@ -837,11 +845,27 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 40,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 3960,
+          "destructionPercent": 88,
+          "stars": 2,
+          "attackCount": 3,
+          "totalLooted": 9755,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#QQUUQYQVL",
+                "name": "9/11"
+              },
+              "destructionPercent": 88,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#QQUUQYQVL",
+                "name": "9/11"
+              },
+              "destructionPercent": 55,
+              "stars": 1
+            },
             {
               "attacker": {
                 "tag": "#QVUQ2VR98",
@@ -856,10 +880,20 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
+          "destructionPercent": 22,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 1,
+          "totalLooted": 1770,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QQUUQYQVL",
+                "name": "9/11"
+              },
+              "destructionPercent": 22,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000007,
@@ -900,10 +934,36 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 12018,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QQUUQYQVL",
+                "name": "9/11"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QQUUQYQVL",
+                "name": "9/11"
+              },
+              "destructionPercent": 84,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#QQUUQYQVL",
+                "name": "9/11"
+              },
+              "destructionPercent": 38,
+              "stars": 1
+            }
+          ]
         }
       ]
     }

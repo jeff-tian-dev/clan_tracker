@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/SDaPAleElDurilJwEJ4hTNB9YR3pRupEbuncsdoGpvc.png"
     },
     "clanLevel": 9,
-    "attacks": 32,
-    "stars": 66,
-    "destructionPercentage": 68.2,
+    "attacks": 35,
+    "stars": 68,
+    "destructionPercentage": 70.4,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -349,6 +349,16 @@
         "name": "William the thi",
         "townhallLevel": 14,
         "mapPosition": 28,
+        "attacks": [
+          {
+            "attackerTag": "#QVUQ2VR98",
+            "defenderTag": "#L9ULCRPPJ",
+            "stars": 2,
+            "destructionPercentage": 77,
+            "order": 72,
+            "duration": 150
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#Q8YCG82JU",
@@ -412,6 +422,24 @@
         "name": "9/11",
         "townhallLevel": 14,
         "mapPosition": 26,
+        "attacks": [
+          {
+            "attackerTag": "#QQUUQYQVL",
+            "defenderTag": "#GL20PGR80",
+            "stars": 1,
+            "destructionPercentage": 54,
+            "order": 70,
+            "duration": 66
+          },
+          {
+            "attackerTag": "#QQUUQYQVL",
+            "defenderTag": "#G8PQCGL8U",
+            "stars": 0,
+            "destructionPercentage": 46,
+            "order": 71,
+            "duration": 75
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#Q8YCG82JU",
@@ -1267,7 +1295,15 @@
             "duration": 104
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QVUQ2VR98",
+          "defenderTag": "#L9ULCRPPJ",
+          "stars": 2,
+          "destructionPercentage": 77,
+          "order": 72,
+          "duration": 150
+        }
       },
       {
         "tag": "#QPU2Y89YG",
@@ -1347,7 +1383,7 @@
             "duration": 122
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#RUVPQQR0",
           "defenderTag": "#GL20PGR80",
@@ -1559,7 +1595,7 @@
             "duration": 137
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
           "attackerTag": "#Q2QQL2YVV",
           "defenderTag": "#G8PQCGL8U",
