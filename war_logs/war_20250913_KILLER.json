@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/SDaPAleElDurilJwEJ4hTNB9YR3pRupEbuncsdoGpvc.png"
     },
     "clanLevel": 9,
-    "attacks": 30,
-    "stars": 62,
-    "destructionPercentage": 63.82857,
+    "attacks": 32,
+    "stars": 66,
+    "destructionPercentage": 68.2,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -686,6 +686,24 @@
         "name": "Grizz",
         "townhallLevel": 14,
         "mapPosition": 29,
+        "attacks": [
+          {
+            "attackerTag": "#G9CC9G2VQ",
+            "defenderTag": "#2YP99GYYL",
+            "stars": 2,
+            "destructionPercentage": 70,
+            "order": 68,
+            "duration": 117
+          },
+          {
+            "attackerTag": "#G9CC9G2VQ",
+            "defenderTag": "#9L200U2CV",
+            "stars": 2,
+            "destructionPercentage": 83,
+            "order": 69,
+            "duration": 122
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#QVLQUY0JL",
@@ -1158,7 +1176,15 @@
             "duration": 129
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#G9CC9G2VQ",
+          "defenderTag": "#2YP99GYYL",
+          "stars": 2,
+          "destructionPercentage": 70,
+          "order": 68,
+          "duration": 117
+        }
       },
       {
         "tag": "#9GJ9VY88Y",
@@ -1467,7 +1493,15 @@
             "duration": 115
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#G9CC9G2VQ",
+          "defenderTag": "#9L200U2CV",
+          "stars": 2,
+          "destructionPercentage": 83,
+          "order": 69,
+          "duration": 122
+        }
       },
       {
         "tag": "#LCJ0C92UG",

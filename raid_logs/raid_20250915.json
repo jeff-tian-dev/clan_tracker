@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250912T070000.000Z",
   "endTime": "20250915T070000.000Z",
-  "capitalTotalLoot": 205333,
+  "capitalTotalLoot": 228083,
   "raidsCompleted": 3,
-  "totalAttacks": 53,
-  "enemyDistrictsDestroyed": 18,
+  "totalAttacks": 59,
+  "enemyDistrictsDestroyed": 20,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -72,6 +72,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 30205
+    },
+    {
+      "tag": "#QVUQ2VR98",
+      "name": "William the thi",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 22750
     },
     {
       "tag": "#GLP0CQQ9G",
@@ -750,9 +758,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/-QVLkwovPJYdp1Yc7i1Ha4iwgc7le23iahXHTouVGnQ.png"
         }
       },
-      "attackCount": 1,
+      "attackCount": 7,
       "districtCount": 9,
-      "districtsDestroyed": 0,
+      "districtsDestroyed": 2,
       "districts": [
         {
           "id": 70000000,
@@ -785,10 +793,36 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11790,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QVUQ2VR98",
+                "name": "William the thi"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QVUQ2VR98",
+                "name": "William the thi"
+              },
+              "destructionPercent": 78,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#QVUQ2VR98",
+                "name": "William the thi"
+              },
+              "destructionPercent": 44,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000004,
@@ -803,10 +837,20 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
+          "destructionPercent": 40,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 1,
+          "totalLooted": 3960,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QVUQ2VR98",
+                "name": "William the thi"
+              },
+              "destructionPercent": 40,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000006,
@@ -821,11 +865,27 @@
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 45,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 5200,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 12200,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#QVUQ2VR98",
+                "name": "William the thi"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QVUQ2VR98",
+                "name": "William the thi"
+              },
+              "destructionPercent": 87,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#YCL08PR8L",
