@@ -268,7 +268,15 @@
         "name": "gun",
         "townhallLevel": 15,
         "mapPosition": 10,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2G0QP8RG9",
+          "defenderTag": "#2CQLC28UP",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 34,
+          "duration": 143
+        }
       },
       {
         "tag": "#LU20Y0VC0",
@@ -549,9 +557,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/CA8ZWoWZJHELBBqCiwgITL7uJreCcSB_HZvyZkkN0Go.png"
     },
     "clanLevel": 21,
-    "attacks": 18,
-    "stars": 38,
-    "destructionPercentage": 43.771427,
+    "attacks": 19,
+    "stars": 41,
+    "destructionPercentage": 46.62857,
     "members": [
       {
         "tag": "#LP88PPPJP",
@@ -721,6 +729,16 @@
         "name": "maw",
         "townhallLevel": 17,
         "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#2G0QP8RG9",
+            "defenderTag": "#2CQLC28UP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 34,
+            "duration": 143
+          }
+        ],
         "opponentAttacks": 0
       },
       {

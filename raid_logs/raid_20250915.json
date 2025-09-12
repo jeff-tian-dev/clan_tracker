@@ -2,9 +2,9 @@
   "state": "ongoing",
   "startTime": "20250912T070000.000Z",
   "endTime": "20250915T070000.000Z",
-  "capitalTotalLoot": 127865,
+  "capitalTotalLoot": 131870,
   "raidsCompleted": 1,
-  "totalAttacks": 36,
+  "totalAttacks": 37,
   "enemyDistrictsDestroyed": 11,
   "offensiveReward": 0,
   "defensiveReward": 0,
@@ -12,10 +12,10 @@
     {
       "tag": "#RUVPQQR0",
       "name": "Badboy101",
-      "attacks": 4,
+      "attacks": 5,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 9969
+      "capitalResourcesLooted": 13974
     },
     {
       "tag": "#GU9YPRYJ",
@@ -434,7 +434,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/N7lbsgy0kHJPnPI_Ggamtex17dDEe0_ml_1lDPGPl_8.png"
         }
       },
-      "attackCount": 6,
+      "attackCount": 7,
       "districtCount": 9,
       "districtsDestroyed": 2,
       "districts": [
@@ -549,11 +549,19 @@
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 39,
-          "stars": 1,
-          "attackCount": 1,
-          "totalLooted": 4320,
+          "destructionPercent": 73,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 8325,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#RUVPQQR0",
+                "name": "Badboy101"
+              },
+              "destructionPercent": 73,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#QYL88U9P0",
@@ -588,9 +596,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/gIQBrFNZb598YXDUwqwVSyKqaLIhb3N9q29RhSA5j54.png"
         }
       },
-      "attackCount": 6,
+      "attackCount": 17,
       "districtCount": 9,
-      "districtsDestroyed": 2,
+      "districtsDestroyed": 5,
       "districts": [
         {
           "id": 70000000,
@@ -640,28 +648,98 @@
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 87,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 8515,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LCUC202PR",
+                "name": "IND_Neil"
+              },
+              "destructionPercent": 87,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#LCUC202PR",
+                "name": "IND_Neil"
+              },
+              "destructionPercent": 50,
+              "stars": 2
+            }
+          ]
         },
         {
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11361,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#98VUVL90V",
+                "name": "great RK...."
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#98VUVL90V",
+                "name": "great RK...."
+              },
+              "destructionPercent": 63,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#98VUVL90V",
+                "name": "great RK...."
+              },
+              "destructionPercent": 34,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11681,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LCUC202PR",
+                "name": "IND_Neil"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#9QQPJ99GJ",
+                "name": "partha"
+              },
+              "destructionPercent": 58,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#98VUVL90V",
+                "name": "great RK...."
+              },
+              "destructionPercent": 25,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000005,
@@ -703,11 +781,27 @@
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 40,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 4105,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11993,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#9QQPJ99GJ",
+                "name": "partha"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#9QQPJ99GJ",
+                "name": "partha"
+              },
+              "destructionPercent": 82,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#9GGC22UP",
@@ -722,10 +816,20 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
+          "destructionPercent": 11,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 1,
+          "totalLooted": 1780,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#9QQPJ99GJ",
+                "name": "partha"
+              },
+              "destructionPercent": 11,
+              "stars": 0
+            }
+          ]
         }
       ]
     }
