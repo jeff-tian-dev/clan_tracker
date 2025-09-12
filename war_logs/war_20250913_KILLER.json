@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/SDaPAleElDurilJwEJ4hTNB9YR3pRupEbuncsdoGpvc.png"
     },
     "clanLevel": 9,
-    "attacks": 13,
-    "stars": 29,
-    "destructionPercentage": 31.971428,
+    "attacks": 15,
+    "stars": 31,
+    "destructionPercentage": 34.42857,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -340,7 +340,15 @@
         "name": "Sir Hazelnut\u2122\ufe0f",
         "townhallLevel": 15,
         "mapPosition": 16,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LR2G8Y0J0",
+          "defenderTag": "#YJ2UV2GY",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 31,
+          "duration": 169
+        }
       },
       {
         "tag": "#QRP2RLV02",
@@ -377,6 +385,24 @@
         "name": "FLARE-X",
         "townhallLevel": 15,
         "mapPosition": 23,
+        "attacks": [
+          {
+            "attackerTag": "#GPCRPCRJG",
+            "defenderTag": "#QVLQUY0JL",
+            "stars": 0,
+            "destructionPercentage": 36,
+            "order": 32,
+            "duration": 180
+          },
+          {
+            "attackerTag": "#GPCRPCRJG",
+            "defenderTag": "#8CYVJ2GVU",
+            "stars": 2,
+            "destructionPercentage": 50,
+            "order": 33,
+            "duration": 113
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -523,9 +549,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/CA8ZWoWZJHELBBqCiwgITL7uJreCcSB_HZvyZkkN0Go.png"
     },
     "clanLevel": 21,
-    "attacks": 17,
-    "stars": 35,
-    "destructionPercentage": 40.914288,
+    "attacks": 18,
+    "stars": 38,
+    "destructionPercentage": 43.771427,
     "members": [
       {
         "tag": "#LP88PPPJP",
@@ -547,6 +573,14 @@
             "destructionPercentage": 100,
             "order": 30,
             "duration": 119
+          },
+          {
+            "attackerTag": "#LR2G8Y0J0",
+            "defenderTag": "#YJ2UV2GY",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 31,
+            "duration": 169
           }
         ],
         "opponentAttacks": 0
@@ -556,7 +590,15 @@
         "name": "ONEL JR",
         "townhallLevel": 14,
         "mapPosition": 29,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GPCRPCRJG",
+          "defenderTag": "#QVLQUY0JL",
+          "stars": 0,
+          "destructionPercentage": 36,
+          "order": 32,
+          "duration": 180
+        }
       },
       {
         "tag": "#8RYG9YPG9",
@@ -1017,7 +1059,15 @@
         "name": "Best'VL",
         "townhallLevel": 15,
         "mapPosition": 24,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GPCRPCRJG",
+          "defenderTag": "#8CYVJ2GVU",
+          "stars": 2,
+          "destructionPercentage": 50,
+          "order": 33,
+          "duration": 113
+        }
       },
       {
         "tag": "#Y8U9LL2Y9",
