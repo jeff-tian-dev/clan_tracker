@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/SDaPAleElDurilJwEJ4hTNB9YR3pRupEbuncsdoGpvc.png"
     },
     "clanLevel": 9,
-    "attacks": 49,
-    "stars": 89,
-    "destructionPercentage": 90.942856,
+    "attacks": 50,
+    "stars": 90,
+    "destructionPercentage": 91.62857,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -82,7 +82,7 @@
         "name": "kannapi Gaming",
         "townhallLevel": 15,
         "mapPosition": 15,
-        "opponentAttacks": 6,
+        "opponentAttacks": 7,
         "bestOpponentAttack": {
           "attackerTag": "#G8J0VY8U8",
           "defenderTag": "#YCL08PR8L",
@@ -586,6 +586,14 @@
             "destructionPercentage": 100,
             "order": 76,
             "duration": 145
+          },
+          {
+            "attackerTag": "#L29JP8GLL",
+            "defenderTag": "#QPU2Y89YG",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 112,
+            "duration": 127
           }
         ],
         "opponentAttacks": 1,
@@ -1001,7 +1009,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/CA8ZWoWZJHELBBqCiwgITL7uJreCcSB_HZvyZkkN0Go.png"
     },
     "clanLevel": 21,
-    "attacks": 61,
+    "attacks": 62,
     "stars": 93,
     "destructionPercentage": 91.685715,
     "members": [
@@ -1018,6 +1026,14 @@
             "destructionPercentage": 100,
             "order": 89,
             "duration": 138
+          },
+          {
+            "attackerTag": "#LP88PPPJP",
+            "defenderTag": "#YCL08PR8L",
+            "stars": 2,
+            "destructionPercentage": 89,
+            "order": 111,
+            "duration": 167
           }
         ],
         "opponentAttacks": 1,
@@ -1554,14 +1570,14 @@
         "name": "SpeedColie",
         "townhallLevel": 15,
         "mapPosition": 18,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#QRP2RLV02",
+          "attackerTag": "#L29JP8GLL",
           "defenderTag": "#QPU2Y89YG",
-          "stars": 2,
-          "destructionPercentage": 76,
-          "order": 90,
-          "duration": 72
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 112,
+          "duration": 127
         }
       },
       {
