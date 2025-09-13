@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250912T070000.000Z",
   "endTime": "20250915T070000.000Z",
-  "capitalTotalLoot": 352627,
+  "capitalTotalLoot": 375719,
   "raidsCompleted": 4,
-  "totalAttacks": 90,
-  "enemyDistrictsDestroyed": 30,
+  "totalAttacks": 95,
+  "enemyDistrictsDestroyed": 33,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -114,12 +114,20 @@
       "capitalResourcesLooted": 8775
     },
     {
+      "tag": "#QRP2RLV02",
+      "name": "JT",
+      "attacks": 4,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 18646
+    },
+    {
       "tag": "#G28CVVRJL",
       "name": "exofall",
-      "attacks": 1,
+      "attacks": 2,
       "attackLimit": 5,
-      "bonusAttackLimit": 0,
-      "capitalResourcesLooted": 6695
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 11141
     },
     {
       "tag": "#GLP0CQQ9G",
@@ -1162,9 +1170,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/CtsXNMny7eqhlVOIoUX2mPCIsgWfk1p5VIOAHRfcwLw.png"
         }
       },
-      "attackCount": 9,
+      "attackCount": 14,
       "districtCount": 9,
-      "districtsDestroyed": 3,
+      "districtsDestroyed": 6,
       "districts": [
         {
           "id": 70000000,
@@ -1252,11 +1260,19 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 4,
-          "destructionPercent": 64,
-          "stars": 1,
-          "attackCount": 1,
-          "totalLooted": 5480,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9926,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#G28CVVRJL",
+                "name": "exofall"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#Q2QQL2YVV",
@@ -1271,19 +1287,55 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9384,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QRP2RLV02",
+                "name": "JT"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QRP2RLV02",
+                "name": "JT"
+              },
+              "destructionPercent": 47,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9262,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QRP2RLV02",
+                "name": "JT"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QRP2RLV02",
+                "name": "JT"
+              },
+              "destructionPercent": 67,
+              "stars": 2
+            }
+          ]
         },
         {
           "id": 70000007,
@@ -1670,7 +1722,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/LkiYvom1jkS6VOmRLn4VygT5VjDe_sDewXbrIxBUT5U.png"
         }
       },
-      "attackCount": 5,
+      "attackCount": 6,
       "districtCount": 9,
       "districtsDestroyed": 2,
       "districts": [
@@ -1794,10 +1846,20 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
+          "destructionPercent": 28,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 1,
+          "totalLooted": 3575,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2L9QQJL82",
+                "name": "\u26a1sonic\u26a1"
+              },
+              "destructionPercent": 28,
+              "stars": 0
+            }
+          ]
         }
       ]
     }
