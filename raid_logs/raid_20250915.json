@@ -1886,9 +1886,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/LkiYvom1jkS6VOmRLn4VygT5VjDe_sDewXbrIxBUT5U.png"
         }
       },
-      "attackCount": 17,
+      "attackCount": 23,
       "districtCount": 9,
-      "districtsDestroyed": 5,
+      "districtsDestroyed": 7,
       "districts": [
         {
           "id": 70000000,
@@ -1903,10 +1903,20 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
+          "destructionPercent": 27,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 1,
+          "totalLooted": 3600,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2YY8JYJV8",
+                "name": "jay2.0"
+              },
+              "destructionPercent": 27,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000002,
@@ -1998,20 +2008,62 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11798,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2YY8JYJV8",
+                "name": "jay2.0"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2YY8JYJV8",
+                "name": "jay2.0"
+              },
+              "destructionPercent": 68,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#2YY8JYJV8",
+                "name": "jay2.0"
+              },
+              "destructionPercent": 49,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 24,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 1870,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11894,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#2YY8JYJV8",
+                "name": "jay2.0"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2YY8JYJV8",
+                "name": "jay2.0"
+              },
+              "destructionPercent": 77,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#802C908JR",
