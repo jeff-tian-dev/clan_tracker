@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250912T070000.000Z",
   "endTime": "20250915T070000.000Z",
-  "capitalTotalLoot": 375719,
+  "capitalTotalLoot": 379734,
   "raidsCompleted": 4,
-  "totalAttacks": 95,
-  "enemyDistrictsDestroyed": 33,
+  "totalAttacks": 96,
+  "enemyDistrictsDestroyed": 34,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -160,6 +160,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 24381
+    },
+    {
+      "tag": "#PRGGL2J2V",
+      "name": "Swift",
+      "attacks": 1,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 4015
     }
   ],
   "attackLog": [
@@ -1170,9 +1178,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/CtsXNMny7eqhlVOIoUX2mPCIsgWfk1p5VIOAHRfcwLw.png"
         }
       },
-      "attackCount": 14,
+      "attackCount": 15,
       "districtCount": 9,
-      "districtsDestroyed": 6,
+      "districtsDestroyed": 7,
       "districts": [
         {
           "id": 70000000,
@@ -1241,11 +1249,19 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 4,
-          "destructionPercent": 65,
-          "stars": 2,
-          "attackCount": 1,
-          "totalLooted": 5420,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9435,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#PRGGL2J2V",
+                "name": "Swift"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#G9CC9G2VQ",
@@ -1722,9 +1738,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/LkiYvom1jkS6VOmRLn4VygT5VjDe_sDewXbrIxBUT5U.png"
         }
       },
-      "attackCount": 6,
+      "attackCount": 11,
       "districtCount": 9,
-      "districtsDestroyed": 2,
+      "districtsDestroyed": 3,
       "districts": [
         {
           "id": 70000000,
@@ -1757,10 +1773,36 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 67,
+          "stars": 2,
+          "attackCount": 3,
+          "totalLooted": 5930,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2L9QQJL82",
+                "name": "\u26a1sonic\u26a1"
+              },
+              "destructionPercent": 67,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#2L9QQJL82",
+                "name": "\u26a1sonic\u26a1"
+              },
+              "destructionPercent": 46,
+              "stars": 0
+            },
+            {
+              "attacker": {
+                "tag": "#2L9QQJL82",
+                "name": "\u26a1sonic\u26a1"
+              },
+              "destructionPercent": 35,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000004,
@@ -1846,11 +1888,27 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 28,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 3575,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11952,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#2L9QQJL82",
+                "name": "\u26a1sonic\u26a1"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2L9QQJL82",
+                "name": "\u26a1sonic\u26a1"
+              },
+              "destructionPercent": 84,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#2L9QQJL82",
