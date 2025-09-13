@@ -1,5 +1,5 @@
 {
-  "state": "inWar",
+  "state": "warEnded",
   "teamSize": 35,
   "attacksPerMember": 2,
   "battleModifier": "none",
@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/SDaPAleElDurilJwEJ4hTNB9YR3pRupEbuncsdoGpvc.png"
     },
     "clanLevel": 9,
-    "attacks": 50,
-    "stars": 90,
-    "destructionPercentage": 91.62857,
+    "attacks": 52,
+    "stars": 91,
+    "destructionPercentage": 92.14286,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -798,6 +798,24 @@
         "name": "ash",
         "townhallLevel": 15,
         "mapPosition": 25,
+        "attacks": [
+          {
+            "attackerTag": "#GJLQ0R8CV",
+            "defenderTag": "#GL20PGR80",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 115,
+            "duration": 156
+          },
+          {
+            "attackerTag": "#GJLQ0R8CV",
+            "defenderTag": "#Q8YCG82JU",
+            "stars": 1,
+            "destructionPercentage": 91,
+            "order": 116,
+            "duration": 180
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#9L200U2CV",
@@ -1447,7 +1465,7 @@
             "duration": 142
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#LLYV29CU",
           "defenderTag": "#Q8YCG82JU",
@@ -1685,14 +1703,14 @@
             "duration": 122
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#RUVPQQR0",
+          "attackerTag": "#GJLQ0R8CV",
           "defenderTag": "#GL20PGR80",
-          "stars": 2,
-          "destructionPercentage": 82,
-          "order": 9,
-          "duration": 104
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 115,
+          "duration": 156
         }
       },
       {
