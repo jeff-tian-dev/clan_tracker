@@ -82,13 +82,13 @@
         "name": "kannapi Gaming",
         "townhallLevel": 15,
         "mapPosition": 15,
-        "opponentAttacks": 4,
+        "opponentAttacks": 6,
         "bestOpponentAttack": {
-          "attackerTag": "#8RYG9YPG9",
+          "attackerTag": "#G8J0VY8U8",
           "defenderTag": "#YCL08PR8L",
           "stars": 2,
-          "destructionPercentage": 87,
-          "order": 87,
+          "destructionPercentage": 97,
+          "order": 109,
           "duration": 180
         }
       },
@@ -338,7 +338,7 @@
             "duration": 120
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
           "attackerTag": "#8RYG9YPG9",
           "defenderTag": "#9U2YP0RY",
@@ -760,14 +760,14 @@
             "duration": 149
           }
         ],
-        "opponentAttacks": 5,
+        "opponentAttacks": 6,
         "bestOpponentAttack": {
-          "attackerTag": "#GY2RCG2GL",
+          "attackerTag": "#G8Y8Q8LU0",
           "defenderTag": "#9VU0VU90G",
           "stars": 2,
-          "destructionPercentage": 93,
-          "order": 93,
-          "duration": 162
+          "destructionPercentage": 96,
+          "order": 107,
+          "duration": 180
         }
       },
       {
@@ -1001,9 +1001,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/CA8ZWoWZJHELBBqCiwgITL7uJreCcSB_HZvyZkkN0Go.png"
     },
     "clanLevel": 21,
-    "attacks": 57,
+    "attacks": 61,
     "stars": 93,
-    "destructionPercentage": 91.314285,
+    "destructionPercentage": 91.685715,
     "members": [
       {
         "tag": "#LP88PPPJP",
@@ -1142,6 +1142,14 @@
             "destructionPercentage": 56,
             "order": 54,
             "duration": 170
+          },
+          {
+            "attackerTag": "#G8QJRCYPR",
+            "defenderTag": "#9U2YP0RY",
+            "stars": 2,
+            "destructionPercentage": 57,
+            "order": 110,
+            "duration": 142
           }
         ],
         "opponentAttacks": 1,
@@ -1167,6 +1175,14 @@
             "destructionPercentage": 85,
             "order": 52,
             "duration": 150
+          },
+          {
+            "attackerTag": "#G8J0VY8U8",
+            "defenderTag": "#YCL08PR8L",
+            "stars": 2,
+            "destructionPercentage": 97,
+            "order": 109,
+            "duration": 180
           }
         ],
         "opponentAttacks": 2,
@@ -1258,6 +1274,14 @@
             "destructionPercentage": 100,
             "order": 47,
             "duration": 162
+          },
+          {
+            "attackerTag": "#G8Y8Q8LU0",
+            "defenderTag": "#9VU0VU90G",
+            "stars": 2,
+            "destructionPercentage": 96,
+            "order": 107,
+            "duration": 180
           }
         ],
         "opponentAttacks": 1,
@@ -1949,6 +1973,14 @@
             "destructionPercentage": 98,
             "order": 50,
             "duration": 180
+          },
+          {
+            "attackerTag": "#G20LCRRRC",
+            "defenderTag": "#YCL08PR8L",
+            "stars": 2,
+            "destructionPercentage": 88,
+            "order": 108,
+            "duration": 171
           }
         ],
         "opponentAttacks": 1,
