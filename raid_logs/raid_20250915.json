@@ -2,9 +2,9 @@
   "state": "ongoing",
   "startTime": "20250912T070000.000Z",
   "endTime": "20250915T070000.000Z",
-  "capitalTotalLoot": 272047,
+  "capitalTotalLoot": 279117,
   "raidsCompleted": 3,
-  "totalAttacks": 71,
+  "totalAttacks": 73,
   "enemyDistrictsDestroyed": 23,
   "offensiveReward": 0,
   "defensiveReward": 0,
@@ -60,10 +60,10 @@
     {
       "tag": "#PL09LLPUY",
       "name": "Regis\u6881",
-      "attacks": 4,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 21318
+      "capitalResourcesLooted": 28388
     },
     {
       "tag": "#9U2YP0RY",
@@ -774,7 +774,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/-QVLkwovPJYdp1Yc7i1Ha4iwgc7le23iahXHTouVGnQ.png"
         }
       },
-      "attackCount": 19,
+      "attackCount": 21,
       "districtCount": 9,
       "districtsDestroyed": 5,
       "districts": [
@@ -791,10 +791,28 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 58,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 7070,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#PL09LLPUY",
+                "name": "Regis\u6881"
+              },
+              "destructionPercent": 58,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#PL09LLPUY",
+                "name": "Regis\u6881"
+              },
+              "destructionPercent": 37,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000002,

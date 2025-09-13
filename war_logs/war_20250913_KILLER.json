@@ -67,7 +67,7 @@
             "duration": 88
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
           "attackerTag": "#G20LCRRRC",
           "defenderTag": "#QYL88U9P0",
@@ -287,14 +287,14 @@
             "duration": 178
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#G8PQCGL8U",
+          "attackerTag": "#QQCG9RLVJ",
           "defenderTag": "#Q2QQL2YVV",
-          "stars": 2,
-          "destructionPercentage": 97,
-          "order": 35,
-          "duration": 180
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 78,
+          "duration": 158
         }
       },
       {
@@ -662,7 +662,15 @@
         "name": "Edison123",
         "townhallLevel": 15,
         "mapPosition": 19,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QQCG9RLVJ",
+          "defenderTag": "#9VU0VU90G",
+          "stars": 2,
+          "destructionPercentage": 66,
+          "order": 79,
+          "duration": 95
+        }
       },
       {
         "tag": "#G909VPC0G",
@@ -895,9 +903,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/CA8ZWoWZJHELBBqCiwgITL7uJreCcSB_HZvyZkkN0Go.png"
     },
     "clanLevel": 21,
-    "attacks": 38,
-    "stars": 84,
-    "destructionPercentage": 86.91428,
+    "attacks": 41,
+    "stars": 87,
+    "destructionPercentage": 88.88571,
     "members": [
       {
         "tag": "#LP88PPPJP",
@@ -1034,6 +1042,14 @@
             "destructionPercentage": 100,
             "order": 17,
             "duration": 160
+          },
+          {
+            "attackerTag": "#G8JGQ0RY2",
+            "defenderTag": "#QYL88U9P0",
+            "stars": 1,
+            "destructionPercentage": 64,
+            "order": 80,
+            "duration": 116
           }
         ],
         "opponentAttacks": 1,
@@ -1396,6 +1412,24 @@
         "name": "TM\u00b0IYOOO",
         "townhallLevel": 14,
         "mapPosition": 31,
+        "attacks": [
+          {
+            "attackerTag": "#QQCG9RLVJ",
+            "defenderTag": "#Q2QQL2YVV",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 78,
+            "duration": 158
+          },
+          {
+            "attackerTag": "#QQCG9RLVJ",
+            "defenderTag": "#9VU0VU90G",
+            "stars": 2,
+            "destructionPercentage": 66,
+            "order": 79,
+            "duration": 95
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#LLYV29CU",
