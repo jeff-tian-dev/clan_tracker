@@ -239,14 +239,14 @@
             "duration": 126
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#LCJ0C92UG",
+          "attackerTag": "#P8C92GCV2",
           "defenderTag": "#Q9QU8L8YV",
-          "stars": 2,
-          "destructionPercentage": 95,
-          "order": 2,
-          "duration": 151
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 104,
+          "duration": 106
         }
       },
       {
@@ -760,7 +760,7 @@
             "duration": 149
           }
         ],
-        "opponentAttacks": 3,
+        "opponentAttacks": 5,
         "bestOpponentAttack": {
           "attackerTag": "#GY2RCG2GL",
           "defenderTag": "#9VU0VU90G",
@@ -775,14 +775,14 @@
         "name": "RDX sawon",
         "townhallLevel": 15,
         "mapPosition": 13,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#2CQ2R0GQJ",
+          "attackerTag": "#P8C92GCV2",
           "defenderTag": "#G909VPC0G",
-          "stars": 2,
-          "destructionPercentage": 81,
-          "order": 38,
-          "duration": 148
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 103,
+          "duration": 113
         }
       },
       {
@@ -1001,9 +1001,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/CA8ZWoWZJHELBBqCiwgITL7uJreCcSB_HZvyZkkN0Go.png"
     },
     "clanLevel": 21,
-    "attacks": 53,
-    "stars": 91,
-    "destructionPercentage": 90.62857,
+    "attacks": 57,
+    "stars": 93,
+    "destructionPercentage": 91.314285,
     "members": [
       {
         "tag": "#LP88PPPJP",
@@ -1076,6 +1076,14 @@
             "destructionPercentage": 100,
             "order": 42,
             "duration": 133
+          },
+          {
+            "attackerTag": "#QVLQUY0JL",
+            "defenderTag": "#9VU0VU90G",
+            "stars": 1,
+            "destructionPercentage": 76,
+            "order": 105,
+            "duration": 103
           }
         ],
         "opponentAttacks": 2,
@@ -1300,6 +1308,14 @@
             "destructionPercentage": 100,
             "order": 45,
             "duration": 142
+          },
+          {
+            "attackerTag": "#G92YU29PJ",
+            "defenderTag": "#9VU0VU90G",
+            "stars": 2,
+            "destructionPercentage": 79,
+            "order": 106,
+            "duration": 120
           }
         ],
         "opponentAttacks": 1,
@@ -1892,6 +1908,24 @@
         "name": "WHITE TIGER",
         "townhallLevel": 15,
         "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#P8C92GCV2",
+            "defenderTag": "#G909VPC0G",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 103,
+            "duration": 113
+          },
+          {
+            "attackerTag": "#P8C92GCV2",
+            "defenderTag": "#Q9QU8L8YV",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 104,
+            "duration": 106
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#22GQU2V2V",
