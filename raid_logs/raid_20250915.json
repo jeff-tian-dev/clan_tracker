@@ -3,7 +3,7 @@
   "startTime": "20250912T070000.000Z",
   "endTime": "20250915T070000.000Z",
   "capitalTotalLoot": 394824,
-  "raidsCompleted": 5,
+  "raidsCompleted": 6,
   "totalAttacks": 101,
   "enemyDistrictsDestroyed": 36,
   "offensiveReward": 0,
@@ -1886,28 +1886,78 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/LkiYvom1jkS6VOmRLn4VygT5VjDe_sDewXbrIxBUT5U.png"
         }
       },
-      "attackCount": 23,
+      "attackCount": 29,
       "districtCount": 9,
-      "districtsDestroyed": 7,
+      "districtsDestroyed": 9,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 14024,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QYG0JCLQL",
+                "name": "Pippamoo"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QYG0JCLQL",
+                "name": "Pippamoo"
+              },
+              "destructionPercent": 84,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#QYG0JCLQL",
+                "name": "Pippamoo"
+              },
+              "destructionPercent": 69,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#QYG0JCLQL",
+                "name": "Pippamoo"
+              },
+              "destructionPercent": 47,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 27,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 3600,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11955,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#QYG0JCLQL",
+                "name": "Pippamoo"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QYG0JCLQL",
+                "name": "Pippamoo"
+              },
+              "destructionPercent": 85,
+              "stars": 1
+            },
             {
               "attacker": {
                 "tag": "#2YY8JYJV8",
