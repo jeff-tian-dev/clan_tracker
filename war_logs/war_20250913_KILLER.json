@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/SDaPAleElDurilJwEJ4hTNB9YR3pRupEbuncsdoGpvc.png"
     },
     "clanLevel": 9,
-    "attacks": 37,
-    "stars": 71,
-    "destructionPercentage": 72.62857,
+    "attacks": 39,
+    "stars": 74,
+    "destructionPercentage": 73.942856,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -67,7 +67,7 @@
             "duration": 88
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#G20LCRRRC",
           "defenderTag": "#QYL88U9P0",
@@ -526,6 +526,16 @@
         "name": "phoenix",
         "townhallLevel": 16,
         "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#L29JP8GLL",
+            "defenderTag": "#8RYG9YPG9",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 76,
+            "duration": 145
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#G8QJRCYPR",
@@ -854,6 +864,14 @@
             "destructionPercentage": 90,
             "order": 10,
             "duration": 180
+          },
+          {
+            "attackerTag": "#LLYV29CU",
+            "defenderTag": "#QQCG9RLVJ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 75,
+            "duration": 167
           }
         ],
         "opponentAttacks": 1,
@@ -877,7 +895,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/CA8ZWoWZJHELBBqCiwgITL7uJreCcSB_HZvyZkkN0Go.png"
     },
     "clanLevel": 21,
-    "attacks": 37,
+    "attacks": 38,
     "stars": 84,
     "destructionPercentage": 86.91428,
     "members": [
@@ -943,14 +961,14 @@
         "name": "Try again",
         "townhallLevel": 15,
         "mapPosition": 9,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#8VQYULVQQ",
+          "attackerTag": "#L29JP8GLL",
           "defenderTag": "#8RYG9YPG9",
-          "stars": 1,
-          "destructionPercentage": 85,
-          "order": 59,
-          "duration": 123
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 76,
+          "duration": 145
         }
       },
       {
@@ -1091,6 +1109,16 @@
         "name": "YonKediri",
         "townhallLevel": 15,
         "mapPosition": 22,
+        "attacks": [
+          {
+            "attackerTag": "#22GYRQPC8",
+            "defenderTag": "#QYL88U9P0",
+            "stars": 2,
+            "destructionPercentage": 85,
+            "order": 77,
+            "duration": 156
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#LGGLYVUPP",
@@ -1368,14 +1396,14 @@
         "name": "TM\u00b0IYOOO",
         "townhallLevel": 14,
         "mapPosition": 31,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#Y8YPQJJ08",
+          "attackerTag": "#LLYV29CU",
           "defenderTag": "#QQCG9RLVJ",
-          "stars": 2,
-          "destructionPercentage": 69,
-          "order": 21,
-          "duration": 79
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 75,
+          "duration": 167
         }
       },
       {
