@@ -1738,9 +1738,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/LkiYvom1jkS6VOmRLn4VygT5VjDe_sDewXbrIxBUT5U.png"
         }
       },
-      "attackCount": 11,
+      "attackCount": 17,
       "districtCount": 9,
-      "districtsDestroyed": 3,
+      "districtsDestroyed": 5,
       "districts": [
         {
           "id": 70000000,
@@ -1764,20 +1764,62 @@
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 10616,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#802C908JR",
+                "name": "Dovahkiin"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#802C908JR",
+                "name": "Dovahkiin"
+              },
+              "destructionPercent": 77,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#802C908JR",
+                "name": "Dovahkiin"
+              },
+              "destructionPercent": 49,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#802C908JR",
+                "name": "Dovahkiin"
+              },
+              "destructionPercent": 25,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 67,
-          "stars": 2,
-          "attackCount": 3,
-          "totalLooted": 5930,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 11070,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#802C908JR",
+                "name": "Dovahkiin"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#2L9QQJL82",
@@ -1817,10 +1859,20 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
+          "destructionPercent": 24,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 1,
+          "totalLooted": 1870,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#802C908JR",
+                "name": "Dovahkiin"
+              },
+              "destructionPercent": 24,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000006,
