@@ -34,7 +34,15 @@
             "duration": 144
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QV9PVR2GL",
+          "defenderTag": "#QYL88U9P0",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 39,
+          "duration": 137
+        }
       },
       {
         "tag": "#UJP2UYRY",
@@ -92,7 +100,15 @@
             "duration": 149
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#G29YQLL9J",
+          "defenderTag": "#GLU9LC2LG",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 40,
+          "duration": 113
+        }
       },
       {
         "tag": "#Q9QU8L8YV",
@@ -424,7 +440,15 @@
         "name": "Edison123",
         "townhallLevel": 15,
         "mapPosition": 20,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QV9PVR2GL",
+          "defenderTag": "#9VU0VU90G",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 42,
+          "duration": 155
+        }
       },
       {
         "tag": "#PL8L8LR9L",
@@ -438,7 +462,15 @@
         "name": "ash",
         "townhallLevel": 15,
         "mapPosition": 23,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GLY8LG2LU",
+          "defenderTag": "#GJLQ0R8CV",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 41,
+          "duration": 141
+        }
       },
       {
         "tag": "#LCP2YQC8U",
@@ -470,7 +502,15 @@
             "duration": 90
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GJJ2U80JG",
+          "defenderTag": "#GGYGQ8098",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 38,
+          "duration": 115
+        }
       },
       {
         "tag": "#LGGLYVUPP",
@@ -560,9 +600,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/2kfYIZkNdcl362p5CCuWME6fkaONCUJMHobAkaJzgxY.png"
     },
     "clanLevel": 14,
-    "attacks": 14,
-    "stars": 40,
-    "destructionPercentage": 45.266666,
+    "attacks": 19,
+    "stars": 55,
+    "destructionPercentage": 61.933334,
     "members": [
       {
         "tag": "#9QVCVU09U",
@@ -710,6 +750,14 @@
             "destructionPercentage": 100,
             "order": 37,
             "duration": 124
+          },
+          {
+            "attackerTag": "#GJJ2U80JG",
+            "defenderTag": "#GGYGQ8098",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 38,
+            "duration": 115
           }
         ],
         "opponentAttacks": 1,
@@ -741,6 +789,16 @@
         "name": "mohamad",
         "townhallLevel": 15,
         "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#G29YQLL9J",
+            "defenderTag": "#GLU9LC2LG",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 40,
+            "duration": 113
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#9U2YP0RY",
@@ -937,6 +995,24 @@
         "name": "RASOOL_chogan",
         "townhallLevel": 15,
         "mapPosition": 21,
+        "attacks": [
+          {
+            "attackerTag": "#QV9PVR2GL",
+            "defenderTag": "#QYL88U9P0",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 39,
+            "duration": 137
+          },
+          {
+            "attackerTag": "#QV9PVR2GL",
+            "defenderTag": "#9VU0VU90G",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 42,
+            "duration": 155
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#LGGLYVUPP",
@@ -952,6 +1028,16 @@
         "name": "White Wolf",
         "townhallLevel": 14,
         "mapPosition": 23,
+        "attacks": [
+          {
+            "attackerTag": "#GLY8LG2LU",
+            "defenderTag": "#GJLQ0R8CV",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 41,
+            "duration": 141
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#GLU9LC2LG",
