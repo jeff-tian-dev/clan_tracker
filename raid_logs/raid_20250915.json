@@ -3,7 +3,7 @@
   "startTime": "20250912T070000.000Z",
   "endTime": "20250915T070000.000Z",
   "capitalTotalLoot": 635691,
-  "raidsCompleted": 8,
+  "raidsCompleted": 9,
   "totalAttacks": 160,
   "enemyDistrictsDestroyed": 58,
   "offensiveReward": 0,
@@ -3012,18 +3012,52 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/lQy6YWavwrzY4wMm9KzeEeFuyjbOiFyYvxZq2Lsy0_U.png"
         }
       },
-      "attackCount": 25,
+      "attackCount": 29,
       "districtCount": 9,
-      "districtsDestroyed": 8,
+      "districtsDestroyed": 9,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 13481,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QUJRC0YL",
+                "name": "ferre2002"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QUJRC0YL",
+                "name": "ferre2002"
+              },
+              "destructionPercent": 67,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#QUJRC0YL",
+                "name": "ferre2002"
+              },
+              "destructionPercent": 55,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#QUJRC0YL",
+                "name": "ferre2002"
+              },
+              "destructionPercent": 30,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
