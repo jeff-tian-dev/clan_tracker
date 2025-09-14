@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/SDaPAleElDurilJwEJ4hTNB9YR3pRupEbuncsdoGpvc.png"
     },
     "clanLevel": 9,
-    "attacks": 23,
-    "stars": 60,
-    "destructionPercentage": 70.333336,
+    "attacks": 24,
+    "stars": 62,
+    "destructionPercentage": 73.433334,
     "members": [
       {
         "tag": "#QYL88U9P0",
@@ -382,6 +382,16 @@
         "name": "phoenix",
         "townhallLevel": 16,
         "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#L29JP8GLL",
+            "defenderTag": "#Q9LQ02C2J",
+            "stars": 2,
+            "destructionPercentage": 93,
+            "order": 55,
+            "duration": 128
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#G0J20VVJL",
@@ -1356,7 +1366,15 @@
             "duration": 102
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#L29JP8GLL",
+          "defenderTag": "#Q9LQ02C2J",
+          "stars": 2,
+          "destructionPercentage": 93,
+          "order": 55,
+          "duration": 128
+        }
       }
     ]
   }
