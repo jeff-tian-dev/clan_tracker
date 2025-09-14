@@ -3012,9 +3012,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/lQy6YWavwrzY4wMm9KzeEeFuyjbOiFyYvxZq2Lsy0_U.png"
         }
       },
-      "attackCount": 23,
+      "attackCount": 25,
       "districtCount": 9,
-      "districtsDestroyed": 7,
+      "districtsDestroyed": 8,
       "districts": [
         {
           "id": 70000000,
@@ -3064,11 +3064,27 @@
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 23,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 2095,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10559,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#8Y20JL2J0",
+                "name": "DA,NINJA"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#8Y20JL2J0",
+                "name": "DA,NINJA"
+              },
+              "destructionPercent": 71,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#YYG09RP2P",
