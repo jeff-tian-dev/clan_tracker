@@ -2776,9 +2776,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/lQy6YWavwrzY4wMm9KzeEeFuyjbOiFyYvxZq2Lsy0_U.png"
         }
       },
-      "attackCount": 6,
+      "attackCount": 12,
       "districtCount": 9,
-      "districtsDestroyed": 1,
+      "districtsDestroyed": 2,
       "districts": [
         {
           "id": 70000000,
@@ -2829,28 +2829,82 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 83,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 9245,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GCY80P8LQ",
+                "name": "Abdul Jacool"
+              },
+              "destructionPercent": 83,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#GCY80P8LQ",
+                "name": "Abdul Jacool"
+              },
+              "destructionPercent": 43,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11861,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GCY80P8LQ",
+                "name": "Abdul Jacool"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GCY80P8LQ",
+                "name": "Abdul Jacool"
+              },
+              "destructionPercent": 80,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#GCY80P8LQ",
+                "name": "Abdul Jacool"
+              },
+              "destructionPercent": 25,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
+          "destructionPercent": 30,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 1,
+          "totalLooted": 3375,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GCY80P8LQ",
+                "name": "Abdul Jacool"
+              },
+              "destructionPercent": 30,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000006,
