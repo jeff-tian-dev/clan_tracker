@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250912T070000.000Z",
   "endTime": "20250915T070000.000Z",
-  "capitalTotalLoot": 646482,
-  "raidsCompleted": 9,
-  "totalAttacks": 164,
-  "enemyDistrictsDestroyed": 59,
+  "capitalTotalLoot": 696234,
+  "raidsCompleted": 10,
+  "totalAttacks": 177,
+  "enemyDistrictsDestroyed": 63,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -140,10 +140,10 @@
     {
       "tag": "#YQ8L9JVJ2",
       "name": "Sir Walnut\u2122\ufe0f",
-      "attacks": 3,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 8775
+      "capitalResourcesLooted": 17974
     },
     {
       "tag": "#22GQU2V2V",
@@ -180,10 +180,10 @@
     {
       "tag": "#G28CVVRJL",
       "name": "exofall",
-      "attacks": 2,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 11141
+      "capitalResourcesLooted": 27151
     },
     {
       "tag": "#GLP0CQQ9G",
@@ -200,6 +200,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 28462
+    },
+    {
+      "tag": "#GGYGQ8098",
+      "name": "Aurelian",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 24543
     },
     {
       "tag": "#G9CC9G2VQ",
@@ -2126,27 +2134,87 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/0fOc376hFdLElTgpplU8s_ZwiT1RB-GtTLsBuhQYMWs.png"
         }
       },
-      "attackCount": 17,
+      "attackCount": 29,
       "districtCount": 9,
-      "districtsDestroyed": 5,
+      "districtsDestroyed": 9,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 13781,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GGYGQ8098",
+                "name": "Aurelian"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GGYGQ8098",
+                "name": "Aurelian"
+              },
+              "destructionPercent": 84,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#GGYGQ8098",
+                "name": "Aurelian"
+              },
+              "destructionPercent": 64,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#GGYGQ8098",
+                "name": "Aurelian"
+              },
+              "destructionPercent": 35,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11712,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YQ8L9JVJ2",
+                "name": "Sir Walnut\u2122\ufe0f"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#G28CVVRJL",
+                "name": "exofall"
+              },
+              "destructionPercent": 73,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#G28CVVRJL",
+                "name": "exofall"
+              },
+              "destructionPercent": 40,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000002,
@@ -2187,11 +2255,27 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 40,
-          "stars": 1,
-          "attackCount": 2,
-          "totalLooted": 4945,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 11817,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#YQ8L9JVJ2",
+                "name": "Sir Walnut\u2122\ufe0f"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#G28CVVRJL",
+                "name": "exofall"
+              },
+              "destructionPercent": 87,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#P29JGPR2R",
@@ -2349,6 +2433,140 @@
               "stars": 0
             }
           ]
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11772,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GGYGQ8098",
+                "name": "Aurelian"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#YQ8L9JVJ2",
+                "name": "Sir Walnut\u2122\ufe0f"
+              },
+              "destructionPercent": 56,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#G28CVVRJL",
+                "name": "exofall"
+              },
+              "destructionPercent": 23,
+              "stars": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "defender": {
+        "tag": "#2LJRURUYV",
+        "name": "Noob Gang \u30b7\ufe0e",
+        "level": 20,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/kzQIJh381dbm9WX1cDl-2QyufFT9yQ5mibl0vafwLOw.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/kzQIJh381dbm9WX1cDl-2QyufFT9yQ5mibl0vafwLOw.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/kzQIJh381dbm9WX1cDl-2QyufFT9yQ5mibl0vafwLOw.png"
+        }
+      },
+      "attackCount": 1,
+      "districtCount": 9,
+      "districtsDestroyed": 0,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 10,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 5,
+          "destructionPercent": 58,
+          "stars": 2,
+          "attackCount": 1,
+          "totalLooted": 5615,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GGYGQ8098",
+                "name": "Aurelian"
+              },
+              "destructionPercent": 58,
+              "stars": 2
+            }
+          ]
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 4,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
         },
         {
           "id": 70000008,
