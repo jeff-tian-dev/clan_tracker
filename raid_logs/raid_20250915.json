@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250912T070000.000Z",
   "endTime": "20250915T070000.000Z",
-  "capitalTotalLoot": 528075,
+  "capitalTotalLoot": 551943,
   "raidsCompleted": 7,
-  "totalAttacks": 134,
-  "enemyDistrictsDestroyed": 48,
+  "totalAttacks": 140,
+  "enemyDistrictsDestroyed": 51,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -144,6 +144,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 25333
+    },
+    {
+      "tag": "#L29JP8GLL",
+      "name": "phoenix",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 23868
     },
     {
       "tag": "#QRP2RLV02",
@@ -1826,9 +1834,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/x8qTfmR_NhiE_696iwHENsPxoeNMiwoIG3MDV9sh8Cc.png"
         }
       },
-      "attackCount": 6,
+      "attackCount": 12,
       "districtCount": 9,
-      "districtsDestroyed": 3,
+      "districtsDestroyed": 6,
       "districts": [
         {
           "id": 70000000,
@@ -1852,29 +1860,81 @@
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 8963,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#L29JP8GLL",
+                "name": "phoenix"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#L29JP8GLL",
+                "name": "phoenix"
+              },
+              "destructionPercent": 86,
+              "stars": 2
+            }
+          ]
         },
         {
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10252,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#L29JP8GLL",
+                "name": "phoenix"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#L29JP8GLL",
+                "name": "phoenix"
+              },
+              "destructionPercent": 98,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#L29JP8GLL",
+                "name": "phoenix"
+              },
+              "destructionPercent": 48,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 4,
-          "destructionPercent": 53,
-          "stars": 1,
-          "attackCount": 1,
-          "totalLooted": 5395,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10048,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#L29JP8GLL",
+                "name": "phoenix"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#Q9QU8L8YV",
@@ -2654,9 +2714,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/lQy6YWavwrzY4wMm9KzeEeFuyjbOiFyYvxZq2Lsy0_U.png"
         }
       },
-      "attackCount": 0,
+      "attackCount": 6,
       "districtCount": 9,
-      "districtsDestroyed": 0,
+      "districtsDestroyed": 1,
       "districts": [
         {
           "id": 70000000,
@@ -2671,10 +2731,28 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 79,
+          "stars": 1,
+          "attackCount": 2,
+          "totalLooted": 8480,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2LPUCQJP",
+                "name": "christatopooh"
+              },
+              "destructionPercent": 79,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#2LPUCQJP",
+                "name": "christatopooh"
+              },
+              "destructionPercent": 35,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000002,
@@ -2716,19 +2794,55 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11481,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2LPUCQJP",
+                "name": "christatopooh"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2LPUCQJP",
+                "name": "christatopooh"
+              },
+              "destructionPercent": 54,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 86,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 9850,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2LPUCQJP",
+                "name": "christatopooh"
+              },
+              "destructionPercent": 86,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#2LPUCQJP",
+                "name": "christatopooh"
+              },
+              "destructionPercent": 40,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000008,
