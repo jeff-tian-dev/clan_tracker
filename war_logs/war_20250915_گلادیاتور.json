@@ -337,7 +337,15 @@
         "name": "dev mandloi",
         "townhallLevel": 15,
         "mapPosition": 13,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q9208U",
+          "defenderTag": "#QV808LL80",
+          "stars": 2,
+          "destructionPercentage": 63,
+          "order": 53,
+          "duration": 118
+        }
       },
       {
         "tag": "#22GQU2V2V",
@@ -407,7 +415,15 @@
             "duration": 109
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q9208U",
+          "defenderTag": "#YJ2UV2GY",
+          "stars": 2,
+          "destructionPercentage": 77,
+          "order": 54,
+          "duration": 143
+        }
       },
       {
         "tag": "#QRP2RLV02",
@@ -495,7 +511,15 @@
         "name": "HASAN",
         "townhallLevel": 15,
         "mapPosition": 16,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LPP82UVVY",
+          "defenderTag": "#PL8L8LR9L",
+          "stars": 2,
+          "destructionPercentage": 98,
+          "order": 51,
+          "duration": 157
+        }
       },
       {
         "tag": "#GJLQ0R8CV",
@@ -583,14 +607,14 @@
             "duration": 103
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#9QVCVU09U",
+          "attackerTag": "#LPP82UVVY",
           "defenderTag": "#LGGLYVUPP",
-          "stars": 1,
-          "destructionPercentage": 92,
-          "order": 49,
-          "duration": 137
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 52,
+          "duration": 97
         }
       },
       {
@@ -664,9 +688,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/2kfYIZkNdcl362p5CCuWME6fkaONCUJMHobAkaJzgxY.png"
     },
     "clanLevel": 14,
-    "attacks": 27,
-    "stars": 72,
-    "destructionPercentage": 86.23333,
+    "attacks": 31,
+    "stars": 80,
+    "destructionPercentage": 94.433334,
     "members": [
       {
         "tag": "#9QVCVU09U",
@@ -794,6 +818,24 @@
         "name": "sasan 2",
         "townhallLevel": 16,
         "mapPosition": 18,
+        "attacks": [
+          {
+            "attackerTag": "#LPP82UVVY",
+            "defenderTag": "#PL8L8LR9L",
+            "stars": 2,
+            "destructionPercentage": 98,
+            "order": 51,
+            "duration": 157
+          },
+          {
+            "attackerTag": "#LPP82UVVY",
+            "defenderTag": "#LGGLYVUPP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 52,
+            "duration": 97
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#QYL88U9P0",
@@ -973,6 +1015,24 @@
         "name": "mehrzad mk",
         "townhallLevel": 15,
         "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#Q9208U",
+            "defenderTag": "#QV808LL80",
+            "stars": 2,
+            "destructionPercentage": 63,
+            "order": 53,
+            "duration": 118
+          },
+          {
+            "attackerTag": "#Q9208U",
+            "defenderTag": "#YJ2UV2GY",
+            "stars": 2,
+            "destructionPercentage": 77,
+            "order": 54,
+            "duration": 143
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#9U2YP0RY",
