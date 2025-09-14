@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250912T070000.000Z",
   "endTime": "20250915T070000.000Z",
-  "capitalTotalLoot": 551943,
+  "capitalTotalLoot": 580405,
   "raidsCompleted": 7,
-  "totalAttacks": 140,
-  "enemyDistrictsDestroyed": 51,
+  "totalAttacks": 146,
+  "enemyDistrictsDestroyed": 53,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -176,6 +176,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 15224
+    },
+    {
+      "tag": "#LCP2YQC8U",
+      "name": "Nitin prajapati",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 28462
     },
     {
       "tag": "#G9CC9G2VQ",
@@ -1834,27 +1842,63 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/x8qTfmR_NhiE_696iwHENsPxoeNMiwoIG3MDV9sh8Cc.png"
         }
       },
-      "attackCount": 12,
+      "attackCount": 18,
       "districtCount": 9,
-      "districtsDestroyed": 6,
+      "districtsDestroyed": 8,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 9,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 85,
+          "stars": 1,
+          "attackCount": 2,
+          "totalLooted": 8440,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LCP2YQC8U",
+                "name": "Nitin prajapati"
+              },
+              "destructionPercent": 85,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#LCP2YQC8U",
+                "name": "Nitin prajapati"
+              },
+              "destructionPercent": 49,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10640,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LCP2YQC8U",
+                "name": "Nitin prajapati"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LCP2YQC8U",
+                "name": "Nitin prajapati"
+              },
+              "destructionPercent": 55,
+              "stars": 2
+            }
+          ]
         },
         {
           "id": 70000002,
@@ -1949,10 +1993,28 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9382,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LCP2YQC8U",
+                "name": "Nitin prajapati"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LCP2YQC8U",
+                "name": "Nitin prajapati"
+              },
+              "destructionPercent": 39,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000006,
