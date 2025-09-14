@@ -163,7 +163,15 @@
         "name": "Regis\u6881",
         "townhallLevel": 15,
         "mapPosition": 10,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2YUGU2YLG",
+          "defenderTag": "#PL09LLPUY",
+          "stars": 2,
+          "destructionPercentage": 82,
+          "order": 48,
+          "duration": 91
+        }
       },
       {
         "tag": "#Q2QQL2YVV",
@@ -236,21 +244,45 @@
             "duration": 88
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2YUGU2YLG",
+          "defenderTag": "#9U2YP0RY",
+          "stars": 2,
+          "destructionPercentage": 83,
+          "order": 47,
+          "duration": 107
+        }
       },
       {
         "tag": "#YJUYGR9GP",
         "name": "dipranjan",
         "townhallLevel": 15,
         "mapPosition": 18,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QVQJQ998R",
+          "defenderTag": "#YJUYGR9GP",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 46,
+          "duration": 86
+        }
       },
       {
         "tag": "#QVUQ2VR98",
         "name": "William the thi",
         "townhallLevel": 14,
         "mapPosition": 26,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#G29YQLL9J",
+          "defenderTag": "#QVUQ2VR98",
+          "stars": 2,
+          "destructionPercentage": 98,
+          "order": 43,
+          "duration": 164
+        }
       },
       {
         "tag": "#2CQLC28UP",
@@ -327,7 +359,15 @@
         "name": "King Killer",
         "townhallLevel": 15,
         "mapPosition": 17,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#9QVCVU09U",
+          "defenderTag": "#J88YJGY9",
+          "stars": 2,
+          "destructionPercentage": 84,
+          "order": 50,
+          "duration": 126
+        }
       },
       {
         "tag": "#L29JP8GLL",
@@ -477,7 +517,15 @@
         "name": "Nitin prajapati",
         "townhallLevel": 15,
         "mapPosition": 15,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QVQJQ998R",
+          "defenderTag": "#LCP2YQC8U",
+          "stars": 2,
+          "destructionPercentage": 90,
+          "order": 44,
+          "duration": 103
+        }
       },
       {
         "tag": "#GGYGQ8098",
@@ -535,14 +583,30 @@
             "duration": 103
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#9QVCVU09U",
+          "defenderTag": "#LGGLYVUPP",
+          "stars": 1,
+          "destructionPercentage": 92,
+          "order": 49,
+          "duration": 137
+        }
       },
       {
         "tag": "#LCUL88JLG",
         "name": "Cookies",
         "townhallLevel": 15,
         "mapPosition": 19,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GLY8LG2LU",
+          "defenderTag": "#LCUL88JLG",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 45,
+          "duration": 166
+        }
       },
       {
         "tag": "#Y2PVPPU8C",
@@ -600,15 +664,33 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/2kfYIZkNdcl362p5CCuWME6fkaONCUJMHobAkaJzgxY.png"
     },
     "clanLevel": 14,
-    "attacks": 19,
-    "stars": 55,
-    "destructionPercentage": 61.933334,
+    "attacks": 27,
+    "stars": 72,
+    "destructionPercentage": 86.23333,
     "members": [
       {
         "tag": "#9QVCVU09U",
         "name": "Puja mk",
         "townhallLevel": 14,
         "mapPosition": 24,
+        "attacks": [
+          {
+            "attackerTag": "#9QVCVU09U",
+            "defenderTag": "#LGGLYVUPP",
+            "stars": 1,
+            "destructionPercentage": 92,
+            "order": 49,
+            "duration": 137
+          },
+          {
+            "attackerTag": "#9QVCVU09U",
+            "defenderTag": "#J88YJGY9",
+            "stars": 2,
+            "destructionPercentage": 84,
+            "order": 50,
+            "duration": 126
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#QRP2RLV02",
@@ -624,6 +706,24 @@
         "name": "mahdi",
         "townhallLevel": 15,
         "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#QVQJQ998R",
+            "defenderTag": "#LCP2YQC8U",
+            "stars": 2,
+            "destructionPercentage": 90,
+            "order": 44,
+            "duration": 103
+          },
+          {
+            "attackerTag": "#QVQJQ998R",
+            "defenderTag": "#YJUYGR9GP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 46,
+            "duration": 86
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#YJ2UV2GY",
@@ -775,6 +875,24 @@
         "name": "farhad",
         "townhallLevel": 15,
         "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#2YUGU2YLG",
+            "defenderTag": "#9U2YP0RY",
+            "stars": 2,
+            "destructionPercentage": 83,
+            "order": 47,
+            "duration": 107
+          },
+          {
+            "attackerTag": "#2YUGU2YLG",
+            "defenderTag": "#PL09LLPUY",
+            "stars": 2,
+            "destructionPercentage": 82,
+            "order": 48,
+            "duration": 91
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -797,6 +915,14 @@
             "destructionPercentage": 100,
             "order": 40,
             "duration": 113
+          },
+          {
+            "attackerTag": "#G29YQLL9J",
+            "defenderTag": "#QVUQ2VR98",
+            "stars": 2,
+            "destructionPercentage": 98,
+            "order": 43,
+            "duration": 164
           }
         ],
         "opponentAttacks": 1,
@@ -1036,6 +1162,14 @@
             "destructionPercentage": 100,
             "order": 41,
             "duration": 141
+          },
+          {
+            "attackerTag": "#GLY8LG2LU",
+            "defenderTag": "#LCUL88JLG",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 45,
+            "duration": 166
           }
         ],
         "opponentAttacks": 1,
