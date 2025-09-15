@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/SDaPAleElDurilJwEJ4hTNB9YR3pRupEbuncsdoGpvc.png"
     },
     "clanLevel": 9,
-    "attacks": 34,
-    "stars": 81,
-    "destructionPercentage": 92.46667,
+    "attacks": 37,
+    "stars": 85,
+    "destructionPercentage": 98.46667,
     "members": [
       {
         "tag": "#QYL88U9P0",
@@ -199,7 +199,7 @@
             "duration": 158
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#2YUGU2YLG",
           "defenderTag": "#PL09LLPUY",
@@ -388,7 +388,7 @@
         "name": "You",
         "townhallLevel": 15,
         "mapPosition": 9,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#Q9LQ02C2J",
           "defenderTag": "#22GQU2V2V",
@@ -560,6 +560,16 @@
         "name": "Edison123",
         "townhallLevel": 15,
         "mapPosition": 20,
+        "attacks": [
+          {
+            "attackerTag": "#9VU0VU90G",
+            "defenderTag": "#QV9PVR2GL",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 72,
+            "duration": 122
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#QV9PVR2GL",
@@ -575,6 +585,24 @@
         "name": "HASAN",
         "townhallLevel": 15,
         "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#PL8L8LR9L",
+            "defenderTag": "#YPYYJVCL0",
+            "stars": 1,
+            "destructionPercentage": 70,
+            "order": 68,
+            "duration": 92
+          },
+          {
+            "attackerTag": "#PL8L8LR9L",
+            "defenderTag": "#LVULC2G00",
+            "stars": 2,
+            "destructionPercentage": 87,
+            "order": 69,
+            "duration": 105
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#LPP82UVVY",
@@ -788,7 +816,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/2kfYIZkNdcl362p5CCuWME6fkaONCUJMHobAkaJzgxY.png"
     },
     "clanLevel": 14,
-    "attacks": 33,
+    "attacks": 35,
     "stars": 81,
     "destructionPercentage": 95.26667,
     "members": [
@@ -878,6 +906,24 @@
         "name": "REZA",
         "townhallLevel": 13,
         "mapPosition": 29,
+        "attacks": [
+          {
+            "attackerTag": "#GQLJPJ9JV",
+            "defenderTag": "#22GQU2V2V",
+            "stars": 1,
+            "destructionPercentage": 21,
+            "order": 70,
+            "duration": 37
+          },
+          {
+            "attackerTag": "#GQLJPJ9JV",
+            "defenderTag": "#PL09LLPUY",
+            "stars": 1,
+            "destructionPercentage": 35,
+            "order": 71,
+            "duration": 59
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#LLYV29CU",
@@ -1331,14 +1377,14 @@
             "duration": 155
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#LGGLYVUPP",
+          "attackerTag": "#9VU0VU90G",
           "defenderTag": "#QV9PVR2GL",
-          "stars": 2,
-          "destructionPercentage": 77,
-          "order": 5,
-          "duration": 103
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 72,
+          "duration": 122
         }
       },
       {
@@ -1379,7 +1425,15 @@
         "name": "\u00b0\u2022mahdi\u2022\u00b0",
         "townhallLevel": 16,
         "mapPosition": 20,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PL8L8LR9L",
+          "defenderTag": "#LVULC2G00",
+          "stars": 2,
+          "destructionPercentage": 87,
+          "order": 69,
+          "duration": 105
+        }
       },
       {
         "tag": "#2PVRRP0VY",
@@ -1474,7 +1528,15 @@
         "name": "sasan",
         "townhallLevel": 15,
         "mapPosition": 19,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PL8L8LR9L",
+          "defenderTag": "#YPYYJVCL0",
+          "stars": 1,
+          "destructionPercentage": 70,
+          "order": 68,
+          "duration": 92
+        }
       },
       {
         "tag": "#PL0LQL928",
