@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/SDaPAleElDurilJwEJ4hTNB9YR3pRupEbuncsdoGpvc.png"
     },
     "clanLevel": 9,
-    "attacks": 30,
-    "stars": 73,
-    "destructionPercentage": 84.3,
+    "attacks": 34,
+    "stars": 81,
+    "destructionPercentage": 92.46667,
     "members": [
       {
         "tag": "#QYL88U9P0",
@@ -181,6 +181,24 @@
         "name": "Regis\u6881",
         "townhallLevel": 15,
         "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#PL09LLPUY",
+            "defenderTag": "#G9Q0JLGVQ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 64,
+            "duration": 103
+          },
+          {
+            "attackerTag": "#PL09LLPUY",
+            "defenderTag": "#G2Y28QUG",
+            "stars": 2,
+            "destructionPercentage": 98,
+            "order": 65,
+            "duration": 158
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#2YUGU2YLG",
@@ -716,6 +734,24 @@
         "name": "1rose",
         "townhallLevel": 14,
         "mapPosition": 28,
+        "attacks": [
+          {
+            "attackerTag": "#LLYV29CU",
+            "defenderTag": "#2PVRRP0VY",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 62,
+            "duration": 159
+          },
+          {
+            "attackerTag": "#LLYV29CU",
+            "defenderTag": "#GQLJPJ9JV",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 63,
+            "duration": 133
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#QCCR0LUJJ",
@@ -827,21 +863,29 @@
         "name": "\u0633\u0627\u0645",
         "townhallLevel": 16,
         "mapPosition": 16,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PL09LLPUY",
+          "defenderTag": "#G9Q0JLGVQ",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 64,
+          "duration": 103
+        }
       },
       {
         "tag": "#GQLJPJ9JV",
         "name": "REZA",
         "townhallLevel": 13,
         "mapPosition": 29,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#GGYGQ8098",
+          "attackerTag": "#LLYV29CU",
           "defenderTag": "#GQLJPJ9JV",
-          "stars": 2,
-          "destructionPercentage": 54,
-          "order": 34,
-          "duration": 90
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 63,
+          "duration": 133
         }
       },
       {
@@ -1014,14 +1058,14 @@
         "name": "masoud",
         "townhallLevel": 15,
         "mapPosition": 17,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#J88YJGY9",
+          "attackerTag": "#PL09LLPUY",
           "defenderTag": "#G2Y28QUG",
-          "stars": 1,
-          "destructionPercentage": 99,
-          "order": 61,
-          "duration": 172
+          "stars": 2,
+          "destructionPercentage": 98,
+          "order": 65,
+          "duration": 158
         }
       },
       {
@@ -1352,7 +1396,15 @@
             "duration": 120
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LLYV29CU",
+          "defenderTag": "#2PVRRP0VY",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 62,
+          "duration": 159
+        }
       },
       {
         "tag": "#QCUL2Y28P",
