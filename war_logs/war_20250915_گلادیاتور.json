@@ -439,14 +439,14 @@
             "duration": 172
           }
         ],
-        "opponentAttacks": 3,
+        "opponentAttacks": 4,
         "bestOpponentAttack": {
-          "attackerTag": "#G2Y28QUG",
+          "attackerTag": "#LVULC2G00",
           "defenderTag": "#J88YJGY9",
-          "stars": 2,
-          "destructionPercentage": 91,
-          "order": 79,
-          "duration": 96
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 80,
+          "duration": 104
         }
       },
       {
@@ -637,14 +637,14 @@
             "duration": 105
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#LPP82UVVY",
+          "attackerTag": "#LVULC2G00",
           "defenderTag": "#PL8L8LR9L",
-          "stars": 2,
-          "destructionPercentage": 98,
-          "order": 51,
-          "duration": 157
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 81,
+          "duration": 92
         }
       },
       {
@@ -850,9 +850,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/2kfYIZkNdcl362p5CCuWME6fkaONCUJMHobAkaJzgxY.png"
     },
     "clanLevel": 14,
-    "attacks": 38,
-    "stars": 82,
-    "destructionPercentage": 95.566666,
+    "attacks": 40,
+    "stars": 84,
+    "destructionPercentage": 95.933334,
     "members": [
       {
         "tag": "#9QVCVU09U",
@@ -1477,6 +1477,24 @@
         "name": "\u00b0\u2022mahdi\u2022\u00b0",
         "townhallLevel": 16,
         "mapPosition": 20,
+        "attacks": [
+          {
+            "attackerTag": "#LVULC2G00",
+            "defenderTag": "#J88YJGY9",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 80,
+            "duration": 104
+          },
+          {
+            "attackerTag": "#LVULC2G00",
+            "defenderTag": "#PL8L8LR9L",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 81,
+            "duration": 92
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#9VU0VU90G",
