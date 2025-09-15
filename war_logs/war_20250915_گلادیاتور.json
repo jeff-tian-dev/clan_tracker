@@ -280,7 +280,7 @@
             "duration": 88
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#2YUGU2YLG",
           "defenderTag": "#9U2YP0RY",
@@ -868,7 +868,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/2kfYIZkNdcl362p5CCuWME6fkaONCUJMHobAkaJzgxY.png"
     },
     "clanLevel": 14,
-    "attacks": 47,
+    "attacks": 48,
     "stars": 87,
     "destructionPercentage": 98.26667,
     "members": [
@@ -1688,6 +1688,16 @@
         "name": "sasan",
         "townhallLevel": 15,
         "mapPosition": 19,
+        "attacks": [
+          {
+            "attackerTag": "#YPYYJVCL0",
+            "defenderTag": "#9U2YP0RY",
+            "stars": 0,
+            "destructionPercentage": 47,
+            "order": 91,
+            "duration": 95
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#22GQU2V2V",
