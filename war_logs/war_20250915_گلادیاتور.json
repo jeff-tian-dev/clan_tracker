@@ -15,8 +15,8 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/SDaPAleElDurilJwEJ4hTNB9YR3pRupEbuncsdoGpvc.png"
     },
     "clanLevel": 9,
-    "attacks": 41,
-    "stars": 87,
+    "attacks": 43,
+    "stars": 89,
     "destructionPercentage": 98.96667,
     "members": [
       {
@@ -391,14 +391,14 @@
         "name": "dev mandloi",
         "townhallLevel": 15,
         "mapPosition": 13,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#Q9208U",
+          "attackerTag": "#980RVRCCU",
           "defenderTag": "#QV808LL80",
-          "stars": 2,
-          "destructionPercentage": 63,
-          "order": 53,
-          "duration": 118
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 89,
+          "duration": 157
         }
       },
       {
@@ -406,6 +406,24 @@
         "name": "You",
         "townhallLevel": 15,
         "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#22GQU2V2V",
+            "defenderTag": "#YPYYJVCL0",
+            "stars": 2,
+            "destructionPercentage": 69,
+            "order": 86,
+            "duration": 136
+          },
+          {
+            "attackerTag": "#22GQU2V2V",
+            "defenderTag": "#LPP82UVVY",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 87,
+            "duration": 134
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#Q9LQ02C2J",
@@ -538,7 +556,7 @@
             "duration": 88
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#2PVRRP0VY",
           "defenderTag": "#QRP2RLV02",
@@ -667,14 +685,14 @@
         "name": "Nitin prajapati",
         "townhallLevel": 15,
         "mapPosition": 15,
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#QVQJQ998R",
+          "attackerTag": "#980RVRCCU",
           "defenderTag": "#LCP2YQC8U",
-          "stars": 2,
-          "destructionPercentage": 90,
-          "order": 44,
-          "duration": 103
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 88,
+          "duration": 131
         }
       },
       {
@@ -850,9 +868,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/2kfYIZkNdcl362p5CCuWME6fkaONCUJMHobAkaJzgxY.png"
     },
     "clanLevel": 14,
-    "attacks": 43,
-    "stars": 84,
-    "destructionPercentage": 95.933334,
+    "attacks": 46,
+    "stars": 86,
+    "destructionPercentage": 97.5,
     "members": [
       {
         "tag": "#9QVCVU09U",
@@ -1042,14 +1060,14 @@
             "duration": 97
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#QYL88U9P0",
+          "attackerTag": "#22GQU2V2V",
           "defenderTag": "#LPP82UVVY",
-          "stars": 2,
-          "destructionPercentage": 99,
-          "order": 31,
-          "duration": 144
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 87,
+          "duration": 134
         }
       },
       {
@@ -1351,6 +1369,24 @@
         "name": "Nabudgar",
         "townhallLevel": 15,
         "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#980RVRCCU",
+            "defenderTag": "#LCP2YQC8U",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 88,
+            "duration": 131
+          },
+          {
+            "attackerTag": "#980RVRCCU",
+            "defenderTag": "#QV808LL80",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 89,
+            "duration": 157
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#UJP2UYRY",
@@ -1584,6 +1620,14 @@
             "destructionPercentage": 53,
             "order": 83,
             "duration": 50
+          },
+          {
+            "attackerTag": "#GLJRU8CYV",
+            "defenderTag": "#QRP2RLV02",
+            "stars": 2,
+            "destructionPercentage": 71,
+            "order": 85,
+            "duration": 89
           }
         ],
         "opponentAttacks": 1,
@@ -1634,14 +1678,14 @@
         "name": "sasan",
         "townhallLevel": 15,
         "mapPosition": 19,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#PL8L8LR9L",
+          "attackerTag": "#22GQU2V2V",
           "defenderTag": "#YPYYJVCL0",
-          "stars": 1,
-          "destructionPercentage": 70,
-          "order": 68,
-          "duration": 92
+          "stars": 2,
+          "destructionPercentage": 69,
+          "order": 86,
+          "duration": 136
         }
       },
       {
