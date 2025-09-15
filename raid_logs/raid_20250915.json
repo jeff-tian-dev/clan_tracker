@@ -3734,9 +3734,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/y0FqWhkm4foB5VziVQt50ljtGLEduWsYLWBJL355R2E.png"
         }
       },
-      "attackCount": 5,
+      "attackCount": 14,
       "districtCount": 9,
-      "districtsDestroyed": 1,
+      "districtsDestroyed": 4,
       "districts": [
         {
           "id": 70000000,
@@ -3769,10 +3769,36 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11565,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2P9JGCP92",
+                "name": "Flo"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2P9JGCP92",
+                "name": "Flo"
+              },
+              "destructionPercent": 84,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#2P9JGCP92",
+                "name": "Flo"
+              },
+              "destructionPercent": 43,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000004,
@@ -3830,29 +3856,81 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11454,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2P9JGCP92",
+                "name": "Flo"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2P9JGCP92",
+                "name": "Flo"
+              },
+              "destructionPercent": 50,
+              "stars": 2
+            }
+          ]
         },
         {
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 97,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 11060,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#CGGY2YU2",
+                "name": "Mad_Saint88"
+              },
+              "destructionPercent": 97,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#2P9JGCP92",
+                "name": "Flo"
+              },
+              "destructionPercent": 47,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 31,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 4510,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 12201,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#CGGY2YU2",
+                "name": "Mad_Saint88"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#CGGY2YU2",
+                "name": "Mad_Saint88"
+              },
+              "destructionPercent": 98,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#2Y0RU09L",

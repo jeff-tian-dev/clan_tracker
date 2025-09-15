@@ -17851,7 +17851,7 @@
       }
     ]
   },
-  "timestamp": "2025-09-15 00:00:04",
+  "timestamp": "2025-09-15 01:00:04",
   "#GPPQ0JCJR": {
     "name": "Goujii",
     "tag": "#GPPQ0JCJR",
@@ -33782,10 +33782,10 @@
       },
       {
         "date": "20250915",
-        "attacksUsed": 1,
-        "starsEarned": 2,
-        "destruction": 93,
-        "attacksMissed": 1,
+        "attacksUsed": 2,
+        "starsEarned": 5,
+        "destruction": 193,
+        "attacksMissed": 0,
         "zeroParticipation": false
       }
     ]
@@ -34043,6 +34043,20 @@
   "#P0JYUG29R": {
     "name": "hs",
     "tag": "#P0JYUG29R",
+    "history": [
+      {
+        "date": "20250915",
+        "attacksUsed": "---",
+        "starsEarned": "---",
+        "destruction": "---",
+        "attacksMissed": 0,
+        "zeroParticipation": true
+      }
+    ]
+  },
+  "#Y8CJRG2QU": {
+    "name": "D-lost village",
+    "tag": "#Y8CJRG2QU",
     "history": [
       {
         "date": "20250915",

@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/SDaPAleElDurilJwEJ4hTNB9YR3pRupEbuncsdoGpvc.png"
     },
     "clanLevel": 9,
-    "attacks": 40,
-    "stars": 86,
-    "destructionPercentage": 98.9,
+    "attacks": 41,
+    "stars": 87,
+    "destructionPercentage": 98.96667,
     "members": [
       {
         "tag": "#QYL88U9P0",
@@ -328,14 +328,14 @@
             "duration": 68
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#G29YQLL9J",
+          "attackerTag": "#G2Y28QUG",
           "defenderTag": "#QVUQ2VR98",
-          "stars": 2,
-          "destructionPercentage": 98,
-          "order": 43,
-          "duration": 164
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 77,
+          "duration": 102
         }
       },
       {
@@ -439,14 +439,14 @@
             "duration": 172
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#9QVCVU09U",
+          "attackerTag": "#G2Y28QUG",
           "defenderTag": "#J88YJGY9",
           "stars": 2,
-          "destructionPercentage": 84,
-          "order": 50,
-          "duration": 126
+          "destructionPercentage": 91,
+          "order": 79,
+          "duration": 96
         }
       },
       {
@@ -462,6 +462,14 @@
             "destructionPercentage": 93,
             "order": 55,
             "duration": 128
+          },
+          {
+            "attackerTag": "#L29JP8GLL",
+            "defenderTag": "#G2Y28QUG",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 78,
+            "duration": 126
           }
         ],
         "opponentAttacks": 1,
@@ -842,9 +850,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/2kfYIZkNdcl362p5CCuWME6fkaONCUJMHobAkaJzgxY.png"
     },
     "clanLevel": 14,
-    "attacks": 36,
-    "stars": 81,
-    "destructionPercentage": 95.26667,
+    "attacks": 38,
+    "stars": 82,
+    "destructionPercentage": 95.566666,
     "members": [
       {
         "tag": "#9QVCVU09U",
@@ -1130,14 +1138,32 @@
         "name": "masoud",
         "townhallLevel": 15,
         "mapPosition": 17,
-        "opponentAttacks": 2,
+        "attacks": [
+          {
+            "attackerTag": "#G2Y28QUG",
+            "defenderTag": "#QVUQ2VR98",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 77,
+            "duration": 102
+          },
+          {
+            "attackerTag": "#G2Y28QUG",
+            "defenderTag": "#J88YJGY9",
+            "stars": 2,
+            "destructionPercentage": 91,
+            "order": 79,
+            "duration": 96
+          }
+        ],
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#PL09LLPUY",
+          "attackerTag": "#L29JP8GLL",
           "defenderTag": "#G2Y28QUG",
-          "stars": 2,
-          "destructionPercentage": 98,
-          "order": 65,
-          "duration": 158
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 78,
+          "duration": 126
         }
       },
       {
