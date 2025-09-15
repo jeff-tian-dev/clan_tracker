@@ -421,7 +421,7 @@
             "duration": 172
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#9QVCVU09U",
           "defenderTag": "#J88YJGY9",
@@ -752,14 +752,14 @@
             "duration": 133
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#QCCR0LUJJ",
+          "attackerTag": "#LLLPC8P8Y",
           "defenderTag": "#LLYV29CU",
-          "stars": 2,
-          "destructionPercentage": 75,
-          "order": 35,
-          "duration": 112
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 67,
+          "duration": 115
         }
       },
       {
@@ -788,9 +788,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/2kfYIZkNdcl362p5CCuWME6fkaONCUJMHobAkaJzgxY.png"
     },
     "clanLevel": 14,
-    "attacks": 31,
-    "stars": 80,
-    "destructionPercentage": 94.433334,
+    "attacks": 33,
+    "stars": 81,
+    "destructionPercentage": 95.26667,
     "members": [
       {
         "tag": "#9QVCVU09U",
@@ -1441,6 +1441,24 @@
         "name": "amir",
         "townhallLevel": 15,
         "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#LLLPC8P8Y",
+            "defenderTag": "#J88YJGY9",
+            "stars": 2,
+            "destructionPercentage": 58,
+            "order": 66,
+            "duration": 67
+          },
+          {
+            "attackerTag": "#LLLPC8P8Y",
+            "defenderTag": "#LLYV29CU",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 67,
+            "duration": 115
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#YJ2UV2GY",
