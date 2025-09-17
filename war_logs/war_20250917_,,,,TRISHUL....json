@@ -205,7 +205,15 @@
             "duration": 106
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#200L8V2JC",
+          "defenderTag": "#PL09LLPUY",
+          "stars": 2,
+          "destructionPercentage": 91,
+          "order": 58,
+          "duration": 124
+        }
       },
       {
         "tag": "#Q2QQL2YVV",
@@ -255,7 +263,15 @@
             "duration": 78
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#990PY0L2U",
+          "defenderTag": "#9U2YP0RY",
+          "stars": 1,
+          "destructionPercentage": 90,
+          "order": 59,
+          "duration": 180
+        }
       },
       {
         "tag": "#YJUYGR9GP",
@@ -383,7 +399,15 @@
         "name": "You",
         "townhallLevel": 15,
         "mapPosition": 9,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#990PY0L2U",
+          "defenderTag": "#22GQU2V2V",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 60,
+          "duration": 163
+        }
       },
       {
         "tag": "#J88YJGY9",
@@ -724,15 +748,33 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/T36LWqJ8qaJ8RZeOqtiVSTTZykrZ-pOZ4TiVh6v2nIM.png"
     },
     "clanLevel": 21,
-    "attacks": 19,
-    "stars": 46,
-    "destructionPercentage": 54.2,
+    "attacks": 22,
+    "stars": 52,
+    "destructionPercentage": 63.566666,
     "members": [
       {
         "tag": "#990PY0L2U",
         "name": "EVIL SAHIL",
         "townhallLevel": 16,
         "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#990PY0L2U",
+            "defenderTag": "#9U2YP0RY",
+            "stars": 1,
+            "destructionPercentage": 90,
+            "order": 59,
+            "duration": 180
+          },
+          {
+            "attackerTag": "#990PY0L2U",
+            "defenderTag": "#22GQU2V2V",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 60,
+            "duration": 163
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#Y2PVPPU8C",
@@ -884,6 +926,16 @@
         "name": "rShivansh",
         "townhallLevel": 15,
         "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#200L8V2JC",
+            "defenderTag": "#PL09LLPUY",
+            "stars": 2,
+            "destructionPercentage": 91,
+            "order": 58,
+            "duration": 124
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#YJ2UV2GY",
