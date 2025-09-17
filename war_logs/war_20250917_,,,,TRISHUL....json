@@ -81,7 +81,15 @@
             "duration": 172
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YV0JCYJ8L",
+          "defenderTag": "#GLU9LC2LG",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 50,
+          "duration": 102
+        }
       },
       {
         "tag": "#Q0YQURYCY",
@@ -654,9 +662,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/T36LWqJ8qaJ8RZeOqtiVSTTZykrZ-pOZ4TiVh6v2nIM.png"
     },
     "clanLevel": 21,
-    "attacks": 15,
-    "stars": 36,
-    "destructionPercentage": 41.8,
+    "attacks": 16,
+    "stars": 39,
+    "destructionPercentage": 45.133335,
     "members": [
       {
         "tag": "#990PY0L2U",
@@ -1117,6 +1125,16 @@
         "name": "ankit raj",
         "townhallLevel": 15,
         "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#YV0JCYJ8L",
+            "defenderTag": "#GLU9LC2LG",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 50,
+            "duration": 102
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#9VU0VU90G",
