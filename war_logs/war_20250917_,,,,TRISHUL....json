@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/SDaPAleElDurilJwEJ4hTNB9YR3pRupEbuncsdoGpvc.png"
     },
     "clanLevel": 9,
-    "attacks": 36,
-    "stars": 77,
-    "destructionPercentage": 89.8,
+    "attacks": 38,
+    "stars": 81,
+    "destructionPercentage": 95.933334,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -66,7 +66,15 @@
             "duration": 134
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#9QUG282QR",
+          "defenderTag": "#UJP2UYRY",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 54,
+          "duration": 157
+        }
       },
       {
         "tag": "#GLU9LC2LG",
@@ -294,6 +302,24 @@
         "name": "consent",
         "townhallLevel": 13,
         "mapPosition": 29,
+        "attacks": [
+          {
+            "attackerTag": "#QVPJG8JPJ",
+            "defenderTag": "#YGRYL98QC",
+            "stars": 2,
+            "destructionPercentage": 85,
+            "order": 56,
+            "duration": 137
+          },
+          {
+            "attackerTag": "#QVPJG8JPJ",
+            "defenderTag": "#PJY9J9UGL",
+            "stars": 2,
+            "destructionPercentage": 99,
+            "order": 57,
+            "duration": 180
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#PJY9J9UGL",
@@ -342,7 +368,15 @@
             "duration": 180
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#9QUG282QR",
+          "defenderTag": "#YQ8L9JVJ2",
+          "stars": 1,
+          "destructionPercentage": 72,
+          "order": 55,
+          "duration": 124
+        }
       },
       {
         "tag": "#22GQU2V2V",
@@ -690,9 +724,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/T36LWqJ8qaJ8RZeOqtiVSTTZykrZ-pOZ4TiVh6v2nIM.png"
     },
     "clanLevel": 21,
-    "attacks": 17,
-    "stars": 42,
-    "destructionPercentage": 48.466667,
+    "attacks": 19,
+    "stars": 46,
+    "destructionPercentage": 54.2,
     "members": [
       {
         "tag": "#990PY0L2U",
@@ -905,7 +939,15 @@
         "name": "KILLER KING",
         "townhallLevel": 13,
         "mapPosition": 27,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QVPJG8JPJ",
+          "defenderTag": "#YGRYL98QC",
+          "stars": 2,
+          "destructionPercentage": 85,
+          "order": 56,
+          "duration": 137
+        }
       },
       {
         "tag": "#V08J0JJU",
@@ -927,6 +969,24 @@
         "name": "brock",
         "townhallLevel": 17,
         "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#9QUG282QR",
+            "defenderTag": "#UJP2UYRY",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 54,
+            "duration": 157
+          },
+          {
+            "attackerTag": "#9QUG282QR",
+            "defenderTag": "#YQ8L9JVJ2",
+            "stars": 1,
+            "destructionPercentage": 72,
+            "order": 55,
+            "duration": 124
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#YQ8L9JVJ2",
@@ -1146,7 +1206,15 @@
             "duration": 89
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QVPJG8JPJ",
+          "defenderTag": "#PJY9J9UGL",
+          "stars": 2,
+          "destructionPercentage": 99,
+          "order": 57,
+          "duration": 180
+        }
       },
       {
         "tag": "#YV0JCYJ8L",
