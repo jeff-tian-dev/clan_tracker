@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/SDaPAleElDurilJwEJ4hTNB9YR3pRupEbuncsdoGpvc.png"
     },
     "clanLevel": 9,
-    "attacks": 42,
+    "attacks": 43,
     "stars": 84,
-    "destructionPercentage": 97.666664,
+    "destructionPercentage": 97.833336,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -262,7 +262,15 @@
             "duration": 119
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#9JRGGUY2G",
+          "defenderTag": "#Q2QQL2YVV",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 75,
+          "duration": 101
+        }
       },
       {
         "tag": "#9U2YP0RY",
@@ -335,7 +343,15 @@
             "duration": 64
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#9JRGGUY2G",
+          "defenderTag": "#QVUQ2VR98",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 77,
+          "duration": 148
+        }
       },
       {
         "tag": "#QVPJG8JPJ",
@@ -638,7 +654,15 @@
             "duration": 101
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#200L8V2JC",
+          "defenderTag": "#9VU0VU90G",
+          "stars": 2,
+          "destructionPercentage": 87,
+          "order": 74,
+          "duration": 111
+        }
       },
       {
         "tag": "#GJLQ0R8CV",
@@ -815,6 +839,14 @@
             "destructionPercentage": 100,
             "order": 46,
             "duration": 163
+          },
+          {
+            "attackerTag": "#LLYV29CU",
+            "defenderTag": "#92YRJ20LG",
+            "stars": 2,
+            "destructionPercentage": 90,
+            "order": 76,
+            "duration": 180
           }
         ],
         "opponentAttacks": 1,
@@ -838,9 +870,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/T36LWqJ8qaJ8RZeOqtiVSTTZykrZ-pOZ4TiVh6v2nIM.png"
     },
     "clanLevel": 21,
-    "attacks": 31,
-    "stars": 72,
-    "destructionPercentage": 85.433334,
+    "attacks": 34,
+    "stars": 80,
+    "destructionPercentage": 95.0,
     "members": [
       {
         "tag": "#990PY0L2U",
@@ -1034,6 +1066,14 @@
             "destructionPercentage": 91,
             "order": 58,
             "duration": 124
+          },
+          {
+            "attackerTag": "#200L8V2JC",
+            "defenderTag": "#9VU0VU90G",
+            "stars": 2,
+            "destructionPercentage": 87,
+            "order": 74,
+            "duration": 111
           }
         ],
         "opponentAttacks": 2,
@@ -1364,6 +1404,24 @@
         "name": "Lucifer Gaurav",
         "townhallLevel": 14,
         "mapPosition": 21,
+        "attacks": [
+          {
+            "attackerTag": "#9JRGGUY2G",
+            "defenderTag": "#Q2QQL2YVV",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 75,
+            "duration": 101
+          },
+          {
+            "attackerTag": "#9JRGGUY2G",
+            "defenderTag": "#QVUQ2VR98",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 77,
+            "duration": 148
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#QRP2RLV02",
@@ -1478,14 +1536,14 @@
             "duration": 99
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#LGGLYVUPP",
+          "attackerTag": "#LLYV29CU",
           "defenderTag": "#92YRJ20LG",
           "stars": 2,
-          "destructionPercentage": 85,
-          "order": 27,
-          "duration": 105
+          "destructionPercentage": 90,
+          "order": 76,
+          "duration": 180
         }
       },
       {
