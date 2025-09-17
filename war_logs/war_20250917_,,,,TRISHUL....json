@@ -130,14 +130,14 @@
         "name": "Sushant Bhaita",
         "townhallLevel": 14,
         "mapPosition": 26,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#LP2P02C88",
+          "attackerTag": "#8CVJ92C9U",
           "defenderTag": "#Q0YQURYCY",
           "stars": 1,
-          "destructionPercentage": 60,
-          "order": 65,
-          "duration": 116
+          "destructionPercentage": 80,
+          "order": 78,
+          "duration": 165
         }
       },
       {
@@ -424,14 +424,14 @@
             "duration": 180
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#9QUG282QR",
+          "attackerTag": "#P92CQ82P8",
           "defenderTag": "#YQ8L9JVJ2",
-          "stars": 1,
-          "destructionPercentage": 72,
-          "order": 55,
-          "duration": 124
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 79,
+          "duration": 126
         }
       },
       {
@@ -621,7 +621,7 @@
             "duration": 166
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#L0P828GU9",
           "defenderTag": "#G28CVVRJL",
@@ -870,9 +870,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/T36LWqJ8qaJ8RZeOqtiVSTTZykrZ-pOZ4TiVh6v2nIM.png"
     },
     "clanLevel": 21,
-    "attacks": 34,
-    "stars": 80,
-    "destructionPercentage": 95.0,
+    "attacks": 37,
+    "stars": 82,
+    "destructionPercentage": 96.6,
     "members": [
       {
         "tag": "#990PY0L2U",
@@ -993,6 +993,14 @@
             "destructionPercentage": 79,
             "order": 22,
             "duration": 147
+          },
+          {
+            "attackerTag": "#8CVJ92C9U",
+            "defenderTag": "#Q0YQURYCY",
+            "stars": 1,
+            "destructionPercentage": 80,
+            "order": 78,
+            "duration": 165
           }
         ],
         "opponentAttacks": 2,
@@ -1293,6 +1301,24 @@
         "name": "Ultimate shadow",
         "townhallLevel": 17,
         "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#P92CQ82P8",
+            "defenderTag": "#YQ8L9JVJ2",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 79,
+            "duration": 126
+          },
+          {
+            "attackerTag": "#P92CQ82P8",
+            "defenderTag": "#G28CVVRJL",
+            "stars": 2,
+            "destructionPercentage": 60,
+            "order": 80,
+            "duration": 167
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#G28CVVRJL",
