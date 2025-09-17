@@ -509,7 +509,15 @@
         "name": "ash",
         "townhallLevel": 15,
         "mapPosition": 20,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YV0JCYJ8L",
+          "defenderTag": "#GJLQ0R8CV",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 51,
+          "duration": 104
+        }
       },
       {
         "tag": "#GGYGQ8098",
@@ -662,9 +670,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/T36LWqJ8qaJ8RZeOqtiVSTTZykrZ-pOZ4TiVh6v2nIM.png"
     },
     "clanLevel": 21,
-    "attacks": 16,
-    "stars": 39,
-    "destructionPercentage": 45.133335,
+    "attacks": 17,
+    "stars": 42,
+    "destructionPercentage": 48.466667,
     "members": [
       {
         "tag": "#990PY0L2U",
@@ -1133,6 +1141,14 @@
             "destructionPercentage": 100,
             "order": 50,
             "duration": 102
+          },
+          {
+            "attackerTag": "#YV0JCYJ8L",
+            "defenderTag": "#GJLQ0R8CV",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 51,
+            "duration": 104
           }
         ],
         "opponentAttacks": 2,
