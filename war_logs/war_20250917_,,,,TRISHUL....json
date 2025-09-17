@@ -15,7 +15,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/SDaPAleElDurilJwEJ4hTNB9YR3pRupEbuncsdoGpvc.png"
     },
     "clanLevel": 9,
-    "attacks": 41,
+    "attacks": 42,
     "stars": 84,
     "destructionPercentage": 97.666664,
     "members": [
@@ -49,7 +49,15 @@
             "duration": 99
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#92YRJ20LG",
+          "defenderTag": "#QYL88U9P0",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 71,
+          "duration": 90
+        }
       },
       {
         "tag": "#UJP2UYRY",
@@ -693,6 +701,14 @@
             "destructionPercentage": 100,
             "order": 47,
             "duration": 122
+          },
+          {
+            "attackerTag": "#G9CC9G2VQ",
+            "defenderTag": "#92YRJ20LG",
+            "stars": 2,
+            "destructionPercentage": 68,
+            "order": 73,
+            "duration": 128
           }
         ],
         "opponentAttacks": 1,
@@ -743,7 +759,15 @@
         "name": "Cookies",
         "townhallLevel": 15,
         "mapPosition": 16,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#92YRJ20LG",
+          "defenderTag": "#LCUL88JLG",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 72,
+          "duration": 99
+        }
       },
       {
         "tag": "#Y2PVPPU8C",
@@ -814,9 +838,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/T36LWqJ8qaJ8RZeOqtiVSTTZykrZ-pOZ4TiVh6v2nIM.png"
     },
     "clanLevel": 21,
-    "attacks": 29,
-    "stars": 66,
-    "destructionPercentage": 78.76667,
+    "attacks": 31,
+    "stars": 72,
+    "destructionPercentage": 85.433334,
     "members": [
       {
         "tag": "#990PY0L2U",
@@ -1436,7 +1460,25 @@
         "name": "Chilled",
         "townhallLevel": 14,
         "mapPosition": 17,
-        "opponentAttacks": 1,
+        "attacks": [
+          {
+            "attackerTag": "#92YRJ20LG",
+            "defenderTag": "#QYL88U9P0",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 71,
+            "duration": 90
+          },
+          {
+            "attackerTag": "#92YRJ20LG",
+            "defenderTag": "#LCUL88JLG",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 72,
+            "duration": 99
+          }
+        ],
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#LGGLYVUPP",
           "defenderTag": "#92YRJ20LG",
