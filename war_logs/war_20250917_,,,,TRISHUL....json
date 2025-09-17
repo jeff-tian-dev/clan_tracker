@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/SDaPAleElDurilJwEJ4hTNB9YR3pRupEbuncsdoGpvc.png"
     },
     "clanLevel": 9,
-    "attacks": 34,
-    "stars": 74,
-    "destructionPercentage": 86.13333,
+    "attacks": 36,
+    "stars": 77,
+    "destructionPercentage": 89.8,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -39,6 +39,16 @@
         "name": "voldemort",
         "townhallLevel": 15,
         "mapPosition": 18,
+        "attacks": [
+          {
+            "attackerTag": "#QYL88U9P0",
+            "defenderTag": "#8CJ8GC8UY",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 52,
+            "duration": 99
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -371,6 +381,16 @@
         "name": "phoenix",
         "townhallLevel": 16,
         "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#L29JP8GLL",
+            "defenderTag": "#YUYC9RJ0P",
+            "stars": 2,
+            "destructionPercentage": 67,
+            "order": 53,
+            "duration": 118
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#82L9CPYL0",
@@ -955,14 +975,14 @@
         "name": "MANMOHAN",
         "townhallLevel": 16,
         "mapPosition": 6,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#8VQYULVQQ",
+          "attackerTag": "#L29JP8GLL",
           "defenderTag": "#YUYC9RJ0P",
           "stars": 2,
-          "destructionPercentage": 57,
-          "order": 18,
-          "duration": 76
+          "destructionPercentage": 67,
+          "order": 53,
+          "duration": 118
         }
       },
       {
@@ -1254,7 +1274,15 @@
         "name": "\u00c7LasheR Shu\u00dfhrO",
         "townhallLevel": 13,
         "mapPosition": 26,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QYL88U9P0",
+          "defenderTag": "#8CJ8GC8UY",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 52,
+          "duration": 99
+        }
       }
     ]
   }
