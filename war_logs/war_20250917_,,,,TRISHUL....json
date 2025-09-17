@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/SDaPAleElDurilJwEJ4hTNB9YR3pRupEbuncsdoGpvc.png"
     },
     "clanLevel": 9,
-    "attacks": 43,
-    "stars": 84,
-    "destructionPercentage": 97.833336,
+    "attacks": 44,
+    "stars": 85,
+    "destructionPercentage": 98.333336,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -47,6 +47,14 @@
             "destructionPercentage": 100,
             "order": 52,
             "duration": 99
+          },
+          {
+            "attackerTag": "#QYL88U9P0",
+            "defenderTag": "#YGRYL98QC",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 81,
+            "duration": 83
           }
         ],
         "opponentAttacks": 1,
@@ -130,14 +138,14 @@
         "name": "Sushant Bhaita",
         "townhallLevel": 14,
         "mapPosition": 26,
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#8CVJ92C9U",
+          "attackerTag": "#Q2VGU2GVG",
           "defenderTag": "#Q0YQURYCY",
-          "stars": 1,
-          "destructionPercentage": 80,
-          "order": 78,
-          "duration": 165
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 83,
+          "duration": 89
         }
       },
       {
@@ -588,14 +596,14 @@
             "duration": 88
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#PCGQ02QJR",
+          "attackerTag": "#LJUPUVGRG",
           "defenderTag": "#QRP2RLV02",
-          "stars": 2,
-          "destructionPercentage": 95,
-          "order": 19,
-          "duration": 180
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 89,
+          "duration": 108
         }
       },
       {
@@ -654,14 +662,14 @@
             "duration": 101
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 4,
         "bestOpponentAttack": {
-          "attackerTag": "#200L8V2JC",
+          "attackerTag": "#LJUPUVGRG",
           "defenderTag": "#9VU0VU90G",
-          "stars": 2,
-          "destructionPercentage": 87,
-          "order": 74,
-          "duration": 111
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 88,
+          "duration": 140
         }
       },
       {
@@ -768,14 +776,14 @@
             "duration": 157
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#PVRJV2LC0",
+          "attackerTag": "#8L8YVG9Y2",
           "defenderTag": "#LGGLYVUPP",
-          "stars": 2,
-          "destructionPercentage": 94,
-          "order": 70,
-          "duration": 108
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 85,
+          "duration": 135
         }
       },
       {
@@ -849,14 +857,14 @@
             "duration": 180
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#8CVJ92C9U",
+          "attackerTag": "#Q2VGU2GVG",
           "defenderTag": "#LLYV29CU",
-          "stars": 2,
-          "destructionPercentage": 79,
-          "order": 22,
-          "duration": 147
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 82,
+          "duration": 105
         }
       }
     ]
@@ -870,9 +878,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/T36LWqJ8qaJ8RZeOqtiVSTTZykrZ-pOZ4TiVh6v2nIM.png"
     },
     "clanLevel": 21,
-    "attacks": 37,
-    "stars": 82,
-    "destructionPercentage": 96.6,
+    "attacks": 45,
+    "stars": 88,
+    "destructionPercentage": 98.76667,
     "members": [
       {
         "tag": "#990PY0L2U",
@@ -937,6 +945,24 @@
         "name": "Lucifer@Gaurav",
         "townhallLevel": 15,
         "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#8L8YVG9Y2",
+            "defenderTag": "#LGGLYVUPP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 85,
+            "duration": 135
+          },
+          {
+            "attackerTag": "#8L8YVG9Y2",
+            "defenderTag": "#9VU0VU90G",
+            "stars": 2,
+            "destructionPercentage": 96,
+            "order": 86,
+            "duration": 180
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#PL09LLPUY",
@@ -1124,6 +1150,24 @@
         "name": "RAJDIP 2.0",
         "townhallLevel": 14,
         "mapPosition": 18,
+        "attacks": [
+          {
+            "attackerTag": "#Q2VGU2GVG",
+            "defenderTag": "#LLYV29CU",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 82,
+            "duration": 105
+          },
+          {
+            "attackerTag": "#Q2VGU2GVG",
+            "defenderTag": "#Q0YQURYCY",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 83,
+            "duration": 89
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#9VU0VU90G",
@@ -1139,14 +1183,14 @@
         "name": "KILLER KING",
         "townhallLevel": 13,
         "mapPosition": 27,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#QVPJG8JPJ",
+          "attackerTag": "#QYL88U9P0",
           "defenderTag": "#YGRYL98QC",
-          "stars": 2,
-          "destructionPercentage": 85,
-          "order": 56,
-          "duration": 137
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 81,
+          "duration": 83
         }
       },
       {
@@ -1334,6 +1378,24 @@
         "name": "ghost rider",
         "townhallLevel": 14,
         "mapPosition": 19,
+        "attacks": [
+          {
+            "attackerTag": "#LJUPUVGRG",
+            "defenderTag": "#9VU0VU90G",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 88,
+            "duration": 140
+          },
+          {
+            "attackerTag": "#LJUPUVGRG",
+            "defenderTag": "#QRP2RLV02",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 89,
+            "duration": 108
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#GLU9LC2LG",
@@ -1349,6 +1411,16 @@
         "name": "Harry",
         "townhallLevel": 15,
         "mapPosition": 23,
+        "attacks": [
+          {
+            "attackerTag": "#9RJ80JPPQ",
+            "defenderTag": "#QRP2RLV02",
+            "stars": 1,
+            "destructionPercentage": 88,
+            "order": 87,
+            "duration": 157
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#Q2QQL2YVV",
@@ -1577,6 +1649,16 @@
         "name": "\u2660\ufe0f\u2764\ufe0fAshman\u2764\ufe0f\u2660\ufe0f",
         "townhallLevel": 15,
         "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#QRJLQGYQ",
+            "defenderTag": "#9VU0VU90G",
+            "stars": 2,
+            "destructionPercentage": 88,
+            "order": 84,
+            "duration": 141
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#Q9QU8L8YV",
