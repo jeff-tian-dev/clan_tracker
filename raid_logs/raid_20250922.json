@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250919T070000.000Z",
   "endTime": "20250922T070000.000Z",
-  "capitalTotalLoot": 50781,
+  "capitalTotalLoot": 79294,
   "raidsCompleted": 0,
-  "totalAttacks": 9,
-  "enemyDistrictsDestroyed": 3,
+  "totalAttacks": 15,
+  "enemyDistrictsDestroyed": 6,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -20,10 +20,18 @@
     {
       "tag": "#9JU9LUPCL",
       "name": "TheSaurusPG",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 30003
+    },
+    {
+      "tag": "#LLYV29CU",
+      "name": "1rose",
       "attacks": 3,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 16764
+      "capitalResourcesLooted": 15274
     }
   ],
   "attackLog": [
@@ -38,9 +46,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/hHyH4u7FRkSmSo2MhCDEAvbIugKGzQtoFUOvTNO4ACs.png"
         }
       },
-      "attackCount": 9,
+      "attackCount": 15,
       "districtCount": 9,
-      "districtsDestroyed": 3,
+      "districtsDestroyed": 6,
       "districts": [
         {
           "id": 70000000,
@@ -64,19 +72,55 @@
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10178,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LLYV29CU",
+                "name": "1rose"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LLYV29CU",
+                "name": "1rose"
+              },
+              "destructionPercent": 38,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11256,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LLYV29CU",
+                "name": "1rose"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#9JU9LUPCL",
+                "name": "TheSaurusPG"
+              },
+              "destructionPercent": 55,
+              "stars": 2
+            }
+          ]
         },
         {
           "id": 70000004,
@@ -109,11 +153,27 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 43,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 4950,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 12029,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#9JU9LUPCL",
+                "name": "TheSaurusPG"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#9JU9LUPCL",
+                "name": "TheSaurusPG"
+              },
+              "destructionPercent": 93,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#9JU9LUPCL",
