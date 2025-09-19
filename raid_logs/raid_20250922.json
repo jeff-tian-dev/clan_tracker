@@ -724,5 +724,192 @@
       ]
     }
   ],
-  "defenseLog": []
+  "defenseLog": [
+    {
+      "attacker": {
+        "tag": "#9JYVV88",
+        "name": "piece of schmit",
+        "level": 31,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/24tQg8QOi7MjSZ-ky9zgNXWnCY6Jqo9eFOve9Es_DgQ.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/24tQg8QOi7MjSZ-ky9zgNXWnCY6Jqo9eFOve9Es_DgQ.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/24tQg8QOi7MjSZ-ky9zgNXWnCY6Jqo9eFOve9Es_DgQ.png"
+        }
+      },
+      "attackCount": 10,
+      "districtCount": 9,
+      "districtsDestroyed": 3,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 10,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 5,
+          "destructionPercent": 43,
+          "stars": 1,
+          "attackCount": 2,
+          "totalLooted": 6070,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#80290JV2Y",
+                "name": "TKelley Jr"
+              },
+              "destructionPercent": 43,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#80290JV2Y",
+                "name": "TKelley Jr"
+              },
+              "destructionPercent": 28,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11748,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#908GQRJ0",
+                "name": "Tkelley"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#908GQRJ0",
+                "name": "Tkelley"
+              },
+              "destructionPercent": 66,
+              "stars": 2
+            }
+          ]
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 12026,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#80290JV2Y",
+                "name": "TKelley Jr"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#908GQRJ0",
+                "name": "Tkelley"
+              },
+              "destructionPercent": 87,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#908GQRJ0",
+                "name": "Tkelley"
+              },
+              "destructionPercent": 47,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11904,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#80290JV2Y",
+                "name": "TKelley Jr"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#80290JV2Y",
+                "name": "TKelley Jr"
+              },
+              "destructionPercent": 82,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#80290JV2Y",
+                "name": "TKelley Jr"
+              },
+              "destructionPercent": 23,
+              "stars": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
