@@ -2,13 +2,21 @@
   "state": "ongoing",
   "startTime": "20250919T070000.000Z",
   "endTime": "20250922T070000.000Z",
-  "capitalTotalLoot": 117503,
+  "capitalTotalLoot": 155284,
   "raidsCompleted": 1,
-  "totalAttacks": 25,
-  "enemyDistrictsDestroyed": 10,
+  "totalAttacks": 35,
+  "enemyDistrictsDestroyed": 13,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
+    {
+      "tag": "#Y8CJRG2QU",
+      "name": "D-lost village",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 23129
+    },
     {
       "tag": "#UJP2UYRY",
       "name": "destroyer",
@@ -16,6 +24,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 34017
+    },
+    {
+      "tag": "#QQPYQPV0C",
+      "name": "Robin",
+      "attacks": 4,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 14652
     },
     {
       "tag": "#GG89RGY00",
@@ -362,9 +378,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/Si54izsut9_JhuL9UPeru-8mwxZvosFRr0aFu9nwCFw.png"
         }
       },
-      "attackCount": 2,
+      "attackCount": 12,
       "districtCount": 9,
-      "districtsDestroyed": 1,
+      "districtsDestroyed": 4,
       "districts": [
         {
           "id": 70000000,
@@ -397,19 +413,55 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11574,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Y8CJRG2QU",
+                "name": "D-lost village"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Y8CJRG2QU",
+                "name": "D-lost village"
+              },
+              "destructionPercent": 79,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#Y8CJRG2QU",
+                "name": "D-lost village"
+              },
+              "destructionPercent": 38,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
+          "destructionPercent": 30,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 1,
+          "totalLooted": 3520,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QQPYQPV0C",
+                "name": "Robin"
+              },
+              "destructionPercent": 30,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000005,
@@ -424,10 +476,36 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11555,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Y8CJRG2QU",
+                "name": "D-lost village"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Y8CJRG2QU",
+                "name": "D-lost village"
+              },
+              "destructionPercent": 87,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#Y8CJRG2QU",
+                "name": "D-lost village"
+              },
+              "destructionPercent": 44,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000007,
@@ -460,10 +538,36 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11132,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QQPYQPV0C",
+                "name": "Robin"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QQPYQPV0C",
+                "name": "Robin"
+              },
+              "destructionPercent": 79,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#QQPYQPV0C",
+                "name": "Robin"
+              },
+              "destructionPercent": 33,
+              "stars": 0
+            }
+          ]
         }
       ]
     }
