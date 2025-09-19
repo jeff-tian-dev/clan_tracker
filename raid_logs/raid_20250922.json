@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250919T070000.000Z",
   "endTime": "20250922T070000.000Z",
-  "capitalTotalLoot": 208129,
-  "raidsCompleted": 1,
-  "totalAttacks": 50,
-  "enemyDistrictsDestroyed": 17,
+  "capitalTotalLoot": 232708,
+  "raidsCompleted": 2,
+  "totalAttacks": 56,
+  "enemyDistrictsDestroyed": 18,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -40,6 +40,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 23042
+    },
+    {
+      "tag": "#QPPYC0V90",
+      "name": "Raghav",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 24579
     },
     {
       "tag": "#QQPYQPV0C",
@@ -402,19 +410,27 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/Si54izsut9_JhuL9UPeru-8mwxZvosFRr0aFu9nwCFw.png"
         }
       },
-      "attackCount": 27,
+      "attackCount": 28,
       "districtCount": 9,
-      "districtsDestroyed": 8,
+      "districtsDestroyed": 9,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 82,
-          "stars": 2,
-          "attackCount": 3,
-          "totalLooted": 11040,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 13919,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#QPPYC0V90",
+                "name": "Raghav"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#RUVPQQR0",
@@ -720,6 +736,150 @@
               "stars": 0
             }
           ]
+        }
+      ]
+    },
+    {
+      "defender": {
+        "tag": "#PG2YRJVY",
+        "name": "iran clean bnd",
+        "level": 24,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/QQZ5TzE5ZzMTblwJKl02SKuhUQc_SRme6-nYk83juH8.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/QQZ5TzE5ZzMTblwJKl02SKuhUQc_SRme6-nYk83juH8.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/QQZ5TzE5ZzMTblwJKl02SKuhUQc_SRme6-nYk83juH8.png"
+        }
+      },
+      "attackCount": 5,
+      "districtCount": 9,
+      "districtsDestroyed": 0,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 10,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 5,
+          "destructionPercent": 22,
+          "stars": 0,
+          "attackCount": 1,
+          "totalLooted": 2565,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QPPYC0V90",
+                "name": "Raghav"
+              },
+              "destructionPercent": 22,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 5,
+          "destructionPercent": 78,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 7885,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QPPYC0V90",
+                "name": "Raghav"
+              },
+              "destructionPercent": 78,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#QPPYC0V90",
+                "name": "Raghav"
+              },
+              "destructionPercent": 50,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 4,
+          "destructionPercent": 98,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 11250,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QPPYC0V90",
+                "name": "Raghav"
+              },
+              "destructionPercent": 98,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#QPPYC0V90",
+                "name": "Raghav"
+              },
+              "destructionPercent": 41,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 4,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
         }
       ]
     }
