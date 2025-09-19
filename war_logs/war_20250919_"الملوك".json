@@ -371,7 +371,15 @@
             "duration": 151
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#9Y9ULPCVV",
+          "defenderTag": "#YQ8L9JVJ2",
+          "stars": 2,
+          "destructionPercentage": 88,
+          "order": 64,
+          "duration": 154
+        }
       },
       {
         "tag": "#22GQU2V2V",
@@ -444,14 +452,14 @@
         "name": "phoenix",
         "townhallLevel": 16,
         "mapPosition": 4,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#92820RGCP",
+          "attackerTag": "#9Y9ULPCVV",
           "defenderTag": "#L29JP8GLL",
-          "stars": 2,
-          "destructionPercentage": 50,
-          "order": 2,
-          "duration": 71
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 65,
+          "duration": 163
         }
       },
       {
@@ -745,9 +753,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Fx8kHQbuE5jd92IldPTs1QMsIGR6AGuwS_5jFWYNkaw.png"
     },
     "clanLevel": 18,
-    "attacks": 20,
-    "stars": 45,
-    "destructionPercentage": 63.08,
+    "attacks": 22,
+    "stars": 48,
+    "destructionPercentage": 68.6,
     "members": [
       {
         "tag": "#9RRC8P9U",
@@ -1122,6 +1130,24 @@
         "name": "NBL~{ZOBAIR}",
         "townhallLevel": 17,
         "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#9Y9ULPCVV",
+            "defenderTag": "#YQ8L9JVJ2",
+            "stars": 2,
+            "destructionPercentage": 88,
+            "order": 64,
+            "duration": 154
+          },
+          {
+            "attackerTag": "#9Y9ULPCVV",
+            "defenderTag": "#L29JP8GLL",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 65,
+            "duration": 163
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#Q9QU8L8YV",
