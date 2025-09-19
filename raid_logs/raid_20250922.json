@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250919T070000.000Z",
   "endTime": "20250922T070000.000Z",
-  "capitalTotalLoot": 232708,
+  "capitalTotalLoot": 294986,
   "raidsCompleted": 2,
-  "totalAttacks": 56,
-  "enemyDistrictsDestroyed": 18,
+  "totalAttacks": 70,
+  "enemyDistrictsDestroyed": 22,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -34,6 +34,14 @@
       "capitalResourcesLooted": 34017
     },
     {
+      "tag": "#PL09LLPUY",
+      "name": "Regis\u6881",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 26865
+    },
+    {
       "tag": "#P0QV2CLQV",
       "name": "RAHNAS\u2764\ufe0f",
       "attacks": 6,
@@ -60,10 +68,10 @@
     {
       "tag": "#GG89RGY00",
       "name": "No Smile",
-      "attacks": 4,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 12012
+      "capitalResourcesLooted": 18162
     },
     {
       "tag": "#2R2JYRRU",
@@ -80,6 +88,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 30003
+    },
+    {
+      "tag": "#8RVLYPYYG",
+      "name": "Daddy\u2b50(Pitaji)",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 29263
     },
     {
       "tag": "#LLYV29CU",
@@ -750,9 +766,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/QQZ5TzE5ZzMTblwJKl02SKuhUQc_SRme6-nYk83juH8.png"
         }
       },
-      "attackCount": 5,
+      "attackCount": 19,
       "districtCount": 9,
-      "districtsDestroyed": 0,
+      "districtsDestroyed": 4,
       "districts": [
         {
           "id": 70000000,
@@ -767,29 +783,89 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 95,
+          "stars": 2,
+          "attackCount": 3,
+          "totalLooted": 10755,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GG89RGY00",
+                "name": "No Smile"
+              },
+              "destructionPercent": 95,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#8RVLYPYYG",
+                "name": "Daddy\u2b50(Pitaji)"
+              },
+              "destructionPercent": 60,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#8RVLYPYYG",
+                "name": "Daddy\u2b50(Pitaji)"
+              },
+              "destructionPercent": 40,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10363,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#8RVLYPYYG",
+                "name": "Daddy\u2b50(Pitaji)"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#8RVLYPYYG",
+                "name": "Daddy\u2b50(Pitaji)"
+              },
+              "destructionPercent": 64,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 22,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 2565,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11412,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#PL09LLPUY",
+                "name": "Regis\u6881"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#PL09LLPUY",
+                "name": "Regis\u6881"
+              },
+              "destructionPercent": 63,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#QPPYC0V90",
@@ -804,20 +880,38 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 58,
+          "stars": 1,
+          "attackCount": 1,
+          "totalLooted": 6585,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#8RVLYPYYG",
+                "name": "Daddy\u2b50(Pitaji)"
+              },
+              "destructionPercent": 58,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 78,
+          "destructionPercent": 91,
           "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 7885,
+          "attackCount": 3,
+          "totalLooted": 10135,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#GG89RGY00",
+                "name": "No Smile"
+              },
+              "destructionPercent": 91,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#QPPYC0V90",
@@ -840,10 +934,36 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11967,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#PL09LLPUY",
+                "name": "Regis\u6881"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#PL09LLPUY",
+                "name": "Regis\u6881"
+              },
+              "destructionPercent": 78,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#PL09LLPUY",
+                "name": "Regis\u6881"
+              },
+              "destructionPercent": 35,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000007,
@@ -876,10 +996,28 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11511,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#PL09LLPUY",
+                "name": "Regis\u6881"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#8RVLYPYYG",
+                "name": "Daddy\u2b50(Pitaji)"
+              },
+              "destructionPercent": 54,
+              "stars": 1
+            }
+          ]
         }
       ]
     }
@@ -896,9 +1034,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/24tQg8QOi7MjSZ-ky9zgNXWnCY6Jqo9eFOve9Es_DgQ.png"
         }
       },
-      "attackCount": 10,
+      "attackCount": 16,
       "districtCount": 9,
-      "districtsDestroyed": 3,
+      "districtsDestroyed": 5,
       "districts": [
         {
           "id": 70000000,
@@ -931,20 +1069,62 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 11784,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#8GQ0P2PR",
+                "name": "Quinton"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#8GQ0P2PR",
+                "name": "Quinton"
+              },
+              "destructionPercent": 94,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#8GQ0P2PR",
+                "name": "Quinton"
+              },
+              "destructionPercent": 64,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#8GQ0P2PR",
+                "name": "Quinton"
+              },
+              "destructionPercent": 38,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 43,
-          "stars": 1,
-          "attackCount": 2,
-          "totalLooted": 6070,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11678,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#8GQ0P2PR",
+                "name": "Quinton"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#80290JV2Y",
@@ -967,10 +1147,20 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
+          "destructionPercent": 37,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 1,
+          "totalLooted": 2335,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#8GQ0P2PR",
+                "name": "Quinton"
+              },
+              "destructionPercent": 37,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000006,
