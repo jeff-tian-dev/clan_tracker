@@ -1,5 +1,5 @@
 {
-  "state": "preparation",
+  "state": "inWar",
   "teamSize": 30,
   "attacksPerMember": 2,
   "battleModifier": "none",
@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Uwe8sJr6b6dIEiWFEd9k-ODCbVwotrNdkfZKeEOHr4M.png"
     },
     "clanLevel": 10,
-    "attacks": 0,
-    "stars": 0,
-    "destructionPercentage": 0.0,
+    "attacks": 3,
+    "stars": 8,
+    "destructionPercentage": 9.433333,
     "members": [
       {
         "tag": "#QYL88U9P0",
@@ -38,12 +38,20 @@
         "name": "destroyer",
         "townhallLevel": 16,
         "mapPosition": 6,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#8VPY2G92R",
+          "defenderTag": "#UJP2UYRY",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 5,
+          "duration": 119
+        }
       },
       {
         "tag": "#GLU9LC2LG",
         "name": "JLai",
-        "townhallLevel": 14,
+        "townhallLevel": 15,
         "mapPosition": 25,
         "opponentAttacks": 0
       },
@@ -66,7 +74,33 @@
         "name": "Regis\u6881",
         "townhallLevel": 15,
         "mapPosition": 12,
-        "opponentAttacks": 0
+        "attacks": [
+          {
+            "attackerTag": "#PL09LLPUY",
+            "defenderTag": "#8V2UVQ00C",
+            "stars": 2,
+            "destructionPercentage": 83,
+            "order": 2,
+            "duration": 126
+          },
+          {
+            "attackerTag": "#PL09LLPUY",
+            "defenderTag": "#LLGGCYCGV",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 4,
+            "duration": 111
+          }
+        ],
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#8V2UVQ00C",
+          "defenderTag": "#PL09LLPUY",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 6,
+          "duration": 138
+        }
       },
       {
         "tag": "#Q2QQL2YVV",
@@ -94,7 +128,15 @@
         "name": "gun",
         "townhallLevel": 15,
         "mapPosition": 10,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#8VPY2G92R",
+          "defenderTag": "#2CQLC28UP",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 1,
+          "duration": 89
+        }
       },
       {
         "tag": "#YQ8L9JVJ2",
@@ -108,7 +150,15 @@
         "name": "You",
         "townhallLevel": 15,
         "mapPosition": 11,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#8V2UVQ00C",
+          "defenderTag": "#22GQU2V2V",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 7,
+          "duration": 164
+        }
       },
       {
         "tag": "#J88YJGY9",
@@ -206,6 +256,16 @@
         "name": "siwi2isuus2",
         "townhallLevel": 15,
         "mapPosition": 23,
+        "attacks": [
+          {
+            "attackerTag": "#LGGLYVUPP",
+            "defenderTag": "#G8UP88Y8V",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 3,
+            "duration": 89
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -240,9 +300,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/wTDMScAyhz3oW_A20Sp7bzfoRXCFn_6g_oKzGXBc6hM.png"
     },
     "clanLevel": 25,
-    "attacks": 0,
-    "stars": 0,
-    "destructionPercentage": 0.0,
+    "attacks": 4,
+    "stars": 12,
+    "destructionPercentage": 13.333333,
     "members": [
       {
         "tag": "#YQVGGUG0L",
@@ -263,13 +323,39 @@
         "name": "Icy",
         "townhallLevel": 14,
         "mapPosition": 23,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LGGLYVUPP",
+          "defenderTag": "#G8UP88Y8V",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 3,
+          "duration": 89
+        }
       },
       {
         "tag": "#8VPY2G92R",
         "name": "Tarun",
         "townhallLevel": 17,
         "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#8VPY2G92R",
+            "defenderTag": "#2CQLC28UP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 1,
+            "duration": 89
+          },
+          {
+            "attackerTag": "#8VPY2G92R",
+            "defenderTag": "#UJP2UYRY",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 5,
+            "duration": 119
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -312,7 +398,33 @@
         "name": "HellBoY",
         "townhallLevel": 15,
         "mapPosition": 12,
-        "opponentAttacks": 0
+        "attacks": [
+          {
+            "attackerTag": "#8V2UVQ00C",
+            "defenderTag": "#PL09LLPUY",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 6,
+            "duration": 138
+          },
+          {
+            "attackerTag": "#8V2UVQ00C",
+            "defenderTag": "#22GQU2V2V",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 7,
+            "duration": 164
+          }
+        ],
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PL09LLPUY",
+          "defenderTag": "#8V2UVQ00C",
+          "stars": 2,
+          "destructionPercentage": 83,
+          "order": 2,
+          "duration": 126
+        }
       },
       {
         "tag": "#LCRLPGYYJ",
@@ -354,7 +466,15 @@
         "name": "Sushil",
         "townhallLevel": 15,
         "mapPosition": 13,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PL09LLPUY",
+          "defenderTag": "#LLGGCYCGV",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 4,
+          "duration": 111
+        }
       },
       {
         "tag": "#PYVY9YJCR",
