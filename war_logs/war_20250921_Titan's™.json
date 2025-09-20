@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Uwe8sJr6b6dIEiWFEd9k-ODCbVwotrNdkfZKeEOHr4M.png"
     },
     "clanLevel": 10,
-    "attacks": 3,
-    "stars": 8,
-    "destructionPercentage": 9.433333,
+    "attacks": 4,
+    "stars": 10,
+    "destructionPercentage": 12.133333,
     "members": [
       {
         "tag": "#QYL88U9P0",
@@ -264,6 +264,14 @@
             "destructionPercentage": 100,
             "order": 3,
             "duration": 89
+          },
+          {
+            "attackerTag": "#LGGLYVUPP",
+            "defenderTag": "#LCRLPGYYJ",
+            "stars": 2,
+            "destructionPercentage": 81,
+            "order": 8,
+            "duration": 133
           }
         ],
         "opponentAttacks": 0
@@ -431,7 +439,15 @@
         "name": "Master Anurag",
         "townhallLevel": 15,
         "mapPosition": 22,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LGGLYVUPP",
+          "defenderTag": "#LCRLPGYYJ",
+          "stars": 2,
+          "destructionPercentage": 81,
+          "order": 8,
+          "duration": 133
+        }
       },
       {
         "tag": "#QVJ2GRRQR",
