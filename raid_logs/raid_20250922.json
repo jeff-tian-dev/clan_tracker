@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250919T070000.000Z",
   "endTime": "20250922T070000.000Z",
-  "capitalTotalLoot": 474451,
+  "capitalTotalLoot": 480080,
   "raidsCompleted": 5,
-  "totalAttacks": 113,
-  "enemyDistrictsDestroyed": 41,
+  "totalAttacks": 115,
+  "enemyDistrictsDestroyed": 42,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -28,10 +28,10 @@
     {
       "tag": "#QYL88U9P0",
       "name": "voldemort",
-      "attacks": 2,
+      "attacks": 4,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 6925
+      "capitalResourcesLooted": 12554
     },
     {
       "tag": "#UJP2UYRY",
@@ -1462,9 +1462,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/WnhVwfMZuY6siCdrBYzN4xbWHdxdKHkjMIZVwNchW_8.png"
         }
       },
-      "attackCount": 13,
+      "attackCount": 15,
       "districtCount": 9,
-      "districtsDestroyed": 5,
+      "districtsDestroyed": 6,
       "districts": [
         {
           "id": 70000000,
@@ -1488,11 +1488,27 @@
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 55,
-          "stars": 1,
-          "attackCount": 1,
-          "totalLooted": 4595,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10224,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#QYL88U9P0",
+                "name": "voldemort"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QYL88U9P0",
+                "name": "voldemort"
+              },
+              "destructionPercent": 82,
+              "stars": 1
+            },
             {
               "attacker": {
                 "tag": "#GLU9LC2LG",
@@ -2002,7 +2018,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/9gu7ZfUljm0fX4EftXljEz2w3cvSqH68XTvkKSjjtqk.png"
         }
       },
-      "attackCount": 0,
+      "attackCount": 2,
       "districtCount": 9,
       "districtsDestroyed": 0,
       "districts": [
@@ -2019,10 +2035,28 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 62,
+          "stars": 1,
+          "attackCount": 2,
+          "totalLooted": 8160,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LLYRC28PV",
+                "name": "McMuckerson"
+              },
+              "destructionPercent": 62,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#LLYRC28PV",
+                "name": "McMuckerson"
+              },
+              "destructionPercent": 23,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000002,
