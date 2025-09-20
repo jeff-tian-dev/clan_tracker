@@ -60,7 +60,15 @@
         "name": "je suis excit\u00e9",
         "townhallLevel": 17,
         "mapPosition": 9,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#98VRJV8UP",
+          "defenderTag": "#Q9QU8L8YV",
+          "stars": 2,
+          "destructionPercentage": 75,
+          "order": 10,
+          "duration": 135
+        }
       },
       {
         "tag": "#8VQYULVQQ",
@@ -193,7 +201,15 @@
         "name": "83c",
         "townhallLevel": 17,
         "mapPosition": 3,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YLLYPQCVR",
+          "defenderTag": "#QYCLC0JLL",
+          "stars": 1,
+          "destructionPercentage": 75,
+          "order": 9,
+          "duration": 170
+        }
       },
       {
         "tag": "#QRP2RLV02",
@@ -308,9 +324,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/wTDMScAyhz3oW_A20Sp7bzfoRXCFn_6g_oKzGXBc6hM.png"
     },
     "clanLevel": 25,
-    "attacks": 4,
-    "stars": 12,
-    "destructionPercentage": 13.333333,
+    "attacks": 6,
+    "stars": 15,
+    "destructionPercentage": 18.333334,
     "members": [
       {
         "tag": "#YQVGGUG0L",
@@ -553,6 +569,16 @@
         "name": "AVYAKT",
         "townhallLevel": 17,
         "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#98VRJV8UP",
+            "defenderTag": "#Q9QU8L8YV",
+            "stars": 2,
+            "destructionPercentage": 75,
+            "order": 10,
+            "duration": 135
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -574,6 +600,16 @@
         "name": "huiihuiihuii",
         "townhallLevel": 17,
         "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#YLLYPQCVR",
+            "defenderTag": "#QYCLC0JLL",
+            "stars": 1,
+            "destructionPercentage": 75,
+            "order": 9,
+            "duration": 170
+          }
+        ],
         "opponentAttacks": 0
       },
       {
