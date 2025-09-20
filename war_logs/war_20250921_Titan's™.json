@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Uwe8sJr6b6dIEiWFEd9k-ODCbVwotrNdkfZKeEOHr4M.png"
     },
     "clanLevel": 10,
-    "attacks": 4,
-    "stars": 10,
-    "destructionPercentage": 12.133333,
+    "attacks": 6,
+    "stars": 14,
+    "destructionPercentage": 16.833334,
     "members": [
       {
         "tag": "#QYL88U9P0",
@@ -304,6 +304,24 @@
         "name": "Swift",
         "townhallLevel": 16,
         "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#PRGGL2J2V",
+            "defenderTag": "#9CU22UCUR",
+            "stars": 2,
+            "destructionPercentage": 62,
+            "order": 11,
+            "duration": 97
+          },
+          {
+            "attackerTag": "#PRGGL2J2V",
+            "defenderTag": "#QJ800RV8U",
+            "stars": 2,
+            "destructionPercentage": 79,
+            "order": 12,
+            "duration": 137
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -387,7 +405,15 @@
         "name": "Jonas",
         "townhallLevel": 15,
         "mapPosition": 17,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PRGGL2J2V",
+          "defenderTag": "#QJ800RV8U",
+          "stars": 2,
+          "destructionPercentage": 79,
+          "order": 12,
+          "duration": 137
+        }
       },
       {
         "tag": "#82VYRU9R0",
@@ -484,7 +510,15 @@
         "name": "vansh warrior",
         "townhallLevel": 15,
         "mapPosition": 11,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PRGGL2J2V",
+          "defenderTag": "#9CU22UCUR",
+          "stars": 2,
+          "destructionPercentage": 62,
+          "order": 11,
+          "duration": 97
+        }
       },
       {
         "tag": "#Q98RGRPY0",
