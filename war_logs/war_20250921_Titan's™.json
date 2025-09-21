@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Uwe8sJr6b6dIEiWFEd9k-ODCbVwotrNdkfZKeEOHr4M.png"
     },
     "clanLevel": 10,
-    "attacks": 31,
-    "stars": 59,
-    "destructionPercentage": 73.13333,
+    "attacks": 32,
+    "stars": 62,
+    "destructionPercentage": 76.46667,
     "members": [
       {
         "tag": "#QYL88U9P0",
@@ -451,6 +451,16 @@
         "name": "No Smile",
         "townhallLevel": 15,
         "mapPosition": 21,
+        "attacks": [
+          {
+            "attackerTag": "#GG89RGY00",
+            "defenderTag": "#Q98RGRPY0",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 41,
+            "duration": 128
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -861,7 +871,15 @@
         "name": "\u2694\ufe0fKyurem\u2694\ufe0f",
         "townhallLevel": 13,
         "mapPosition": 28,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GG89RGY00",
+          "defenderTag": "#Q98RGRPY0",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 41,
+          "duration": 128
+        }
       },
       {
         "tag": "#LLGGCYCGV",
