@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Uwe8sJr6b6dIEiWFEd9k-ODCbVwotrNdkfZKeEOHr4M.png"
     },
     "clanLevel": 10,
-    "attacks": 6,
-    "stars": 14,
-    "destructionPercentage": 16.833334,
+    "attacks": 10,
+    "stars": 22,
+    "destructionPercentage": 28.233334,
     "members": [
       {
         "tag": "#QYL88U9P0",
@@ -115,6 +115,24 @@
         "name": "cyan",
         "townhallLevel": 14,
         "mapPosition": 27,
+        "attacks": [
+          {
+            "attackerTag": "#Q2QQL2YVV",
+            "defenderTag": "#LVUJ2UYY2",
+            "stars": 2,
+            "destructionPercentage": 76,
+            "order": 13,
+            "duration": 141
+          },
+          {
+            "attackerTag": "#Q2QQL2YVV",
+            "defenderTag": "#Y09PQGPC9",
+            "stars": 1,
+            "destructionPercentage": 90,
+            "order": 14,
+            "duration": 138
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -173,6 +191,16 @@
         "name": "King Killer",
         "townhallLevel": 15,
         "mapPosition": 18,
+        "attacks": [
+          {
+            "attackerTag": "#J88YJGY9",
+            "defenderTag": "#9JQVU02JG",
+            "stars": 2,
+            "destructionPercentage": 76,
+            "order": 15,
+            "duration": 180
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -223,6 +251,16 @@
         "name": "exofall",
         "townhallLevel": 17,
         "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#G28CVVRJL",
+            "defenderTag": "#8LP0YVRVR",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 16,
+            "duration": 147
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -358,7 +396,15 @@
         "name": "sanjay gupta",
         "townhallLevel": 14,
         "mapPosition": 27,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q2QQL2YVV",
+          "defenderTag": "#LVUJ2UYY2",
+          "stars": 2,
+          "destructionPercentage": 76,
+          "order": 13,
+          "duration": 141
+        }
       },
       {
         "tag": "#G8UP88Y8V",
@@ -434,7 +480,15 @@
         "name": "NEO",
         "townhallLevel": 14,
         "mapPosition": 26,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q2QQL2YVV",
+          "defenderTag": "#Y09PQGPC9",
+          "stars": 1,
+          "destructionPercentage": 90,
+          "order": 14,
+          "duration": 138
+        }
       },
       {
         "tag": "#GJUPJVUGY",
@@ -561,7 +615,15 @@
         "name": "mitesh",
         "townhallLevel": 15,
         "mapPosition": 16,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#J88YJGY9",
+          "defenderTag": "#9JQVU02JG",
+          "stars": 2,
+          "destructionPercentage": 76,
+          "order": 15,
+          "duration": 180
+        }
       },
       {
         "tag": "#YL8CJ29GG",
@@ -596,7 +658,15 @@
         "name": "CHanakya #2",
         "townhallLevel": 17,
         "mapPosition": 2,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#G28CVVRJL",
+          "defenderTag": "#8LP0YVRVR",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 16,
+          "duration": 147
+        }
       },
       {
         "tag": "#98VRJV8UP",
