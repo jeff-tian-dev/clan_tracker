@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250919T070000.000Z",
   "endTime": "20250922T070000.000Z",
-  "capitalTotalLoot": 555838,
+  "capitalTotalLoot": 564223,
   "raidsCompleted": 6,
-  "totalAttacks": 136,
-  "enemyDistrictsDestroyed": 48,
+  "totalAttacks": 138,
+  "enemyDistrictsDestroyed": 49,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -36,10 +36,10 @@
     {
       "tag": "#QYL88U9P0",
       "name": "voldemort",
-      "attacks": 4,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 12554
+      "capitalResourcesLooted": 20939
     },
     {
       "tag": "#UJP2UYRY",
@@ -1802,9 +1802,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/KwQhzSDZDrKsAk3tzJ-_bzuQjyIdpIrGPNIoyjdD52Y.png"
         }
       },
-      "attackCount": 11,
+      "attackCount": 13,
       "districtCount": 9,
-      "districtsDestroyed": 3,
+      "districtsDestroyed": 4,
       "districts": [
         {
           "id": 70000000,
@@ -1846,11 +1846,27 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 26,
-          "stars": 1,
-          "attackCount": 1,
-          "totalLooted": 3230,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11615,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#QYL88U9P0",
+                "name": "voldemort"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QYL88U9P0",
+                "name": "voldemort"
+              },
+              "destructionPercent": 63,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#8880L0C",

@@ -429,7 +429,15 @@
             "duration": 167
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YQVGGUG0L",
+          "defenderTag": "#G28CVVRJL",
+          "stars": 1,
+          "destructionPercentage": 53,
+          "order": 40,
+          "duration": 67
+        }
       },
       {
         "tag": "#9VU0VU90G",
@@ -586,15 +594,25 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/wTDMScAyhz3oW_A20Sp7bzfoRXCFn_6g_oKzGXBc6hM.png"
     },
     "clanLevel": 25,
-    "attacks": 8,
-    "stars": 19,
-    "destructionPercentage": 23.433332,
+    "attacks": 9,
+    "stars": 20,
+    "destructionPercentage": 25.2,
     "members": [
       {
         "tag": "#YQVGGUG0L",
         "name": "Raj",
         "townhallLevel": 17,
         "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#YQVGGUG0L",
+            "defenderTag": "#G28CVVRJL",
+            "stars": 1,
+            "destructionPercentage": 53,
+            "order": 40,
+            "duration": 67
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#G28CVVRJL",
