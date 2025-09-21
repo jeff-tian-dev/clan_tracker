@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Uwe8sJr6b6dIEiWFEd9k-ODCbVwotrNdkfZKeEOHr4M.png"
     },
     "clanLevel": 10,
-    "attacks": 27,
-    "stars": 53,
-    "destructionPercentage": 64.36667,
+    "attacks": 31,
+    "stars": 59,
+    "destructionPercentage": 73.13333,
     "members": [
       {
         "tag": "#QYL88U9P0",
@@ -296,6 +296,24 @@
         "name": "Raghav",
         "townhallLevel": 15,
         "mapPosition": 24,
+        "attacks": [
+          {
+            "attackerTag": "#QPPYC0V90",
+            "defenderTag": "#YL8CJ29GG",
+            "stars": 1,
+            "destructionPercentage": 75,
+            "order": 36,
+            "duration": 180
+          },
+          {
+            "attackerTag": "#QPPYC0V90",
+            "defenderTag": "#QR8UQ9RYC",
+            "stars": 2,
+            "destructionPercentage": 86,
+            "order": 38,
+            "duration": 180
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#LCRLPGYYJ",
@@ -311,6 +329,24 @@
         "name": "Robin",
         "townhallLevel": 15,
         "mapPosition": 19,
+        "attacks": [
+          {
+            "attackerTag": "#QQPYQPV0C",
+            "defenderTag": "#G2Q9PQCUJ",
+            "stars": 2,
+            "destructionPercentage": 78,
+            "order": 37,
+            "duration": 105
+          },
+          {
+            "attackerTag": "#QQPYQPV0C",
+            "defenderTag": "#YL8CJ29GG",
+            "stars": 2,
+            "destructionPercentage": 99,
+            "order": 39,
+            "duration": 146
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -866,7 +902,15 @@
         "name": "OP \u2022 SAM",
         "townhallLevel": 14,
         "mapPosition": 25,
-        "opponentAttacks": 0
+        "opponentAttacks": 2,
+        "bestOpponentAttack": {
+          "attackerTag": "#QQPYQPV0C",
+          "defenderTag": "#YL8CJ29GG",
+          "stars": 2,
+          "destructionPercentage": 99,
+          "order": 39,
+          "duration": 146
+        }
       },
       {
         "tag": "#P9UGR0P8Y",
@@ -888,7 +932,15 @@
         "name": "ItzzzGautam07",
         "townhallLevel": 15,
         "mapPosition": 20,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QQPYQPV0C",
+          "defenderTag": "#G2Q9PQCUJ",
+          "stars": 2,
+          "destructionPercentage": 78,
+          "order": 37,
+          "duration": 105
+        }
       },
       {
         "tag": "#Q8Y00LGC0",
@@ -950,7 +1002,15 @@
         "name": "ididid",
         "townhallLevel": 15,
         "mapPosition": 21,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QPPYC0V90",
+          "defenderTag": "#QR8UQ9RYC",
+          "stars": 2,
+          "destructionPercentage": 86,
+          "order": 38,
+          "duration": 180
+        }
       },
       {
         "tag": "#YGGQLCQJ0",
