@@ -42,14 +42,14 @@
             "duration": 81
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#LCRLPGYYJ",
+          "attackerTag": "#PYVY9YJCR",
           "defenderTag": "#QYL88U9P0",
-          "stars": 2,
-          "destructionPercentage": 83,
-          "order": 33,
-          "duration": 146
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 85,
+          "duration": 134
         }
       },
       {
@@ -351,14 +351,14 @@
             "duration": 142
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#YQVGGUG0L",
+          "attackerTag": "#9P8RRPUP0",
           "defenderTag": "#YQ8L9JVJ2",
-          "stars": 2,
-          "destructionPercentage": 75,
-          "order": 74,
-          "duration": 95
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 87,
+          "duration": 108
         }
       },
       {
@@ -630,14 +630,14 @@
         "name": "Edison123",
         "townhallLevel": 15,
         "mapPosition": 20,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#82VYRU9R0",
+          "attackerTag": "#9CU22UCUR",
           "defenderTag": "#9VU0VU90G",
-          "stars": 2,
-          "destructionPercentage": 97,
-          "order": 49,
-          "duration": 180
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 84,
+          "duration": 154
         }
       },
       {
@@ -663,14 +663,14 @@
             "duration": 99
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#YGGQLCQJ0",
+          "attackerTag": "#9CU22UCUR",
           "defenderTag": "#GG89RGY00",
-          "stars": 2,
-          "destructionPercentage": 69,
-          "order": 44,
-          "duration": 88
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 88,
+          "duration": 87
         }
       },
       {
@@ -696,14 +696,14 @@
             "duration": 148
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#Q8Y00LGC0",
+          "attackerTag": "#9P8RRPUP0",
           "defenderTag": "#2R2JYRRU",
-          "stars": 1,
-          "destructionPercentage": 62,
-          "order": 82,
-          "duration": 113
+          "stars": 2,
+          "destructionPercentage": 88,
+          "order": 86,
+          "duration": 153
         }
       },
       {
@@ -802,7 +802,15 @@
             "duration": 133
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PYVY9YJCR",
+          "defenderTag": "#LGGLYVUPP",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 83,
+          "duration": 107
+        }
       },
       {
         "tag": "#Y2PVPPU8C",
@@ -896,9 +904,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/wTDMScAyhz3oW_A20Sp7bzfoRXCFn_6g_oKzGXBc6hM.png"
     },
     "clanLevel": 25,
-    "attacks": 35,
-    "stars": 75,
-    "destructionPercentage": 90.46667,
+    "attacks": 41,
+    "stars": 83,
+    "destructionPercentage": 97.2,
     "members": [
       {
         "tag": "#YQVGGUG0L",
@@ -1244,6 +1252,24 @@
         "name": "vansh warrior",
         "townhallLevel": 15,
         "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#9CU22UCUR",
+            "defenderTag": "#9VU0VU90G",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 84,
+            "duration": 154
+          },
+          {
+            "attackerTag": "#9CU22UCUR",
+            "defenderTag": "#GG89RGY00",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 88,
+            "duration": 87
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#9U2YP0RY",
@@ -1299,6 +1325,24 @@
         "name": "beat boy",
         "townhallLevel": 15,
         "mapPosition": 18,
+        "attacks": [
+          {
+            "attackerTag": "#PYVY9YJCR",
+            "defenderTag": "#LGGLYVUPP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 83,
+            "duration": 107
+          },
+          {
+            "attackerTag": "#PYVY9YJCR",
+            "defenderTag": "#QYL88U9P0",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 85,
+            "duration": 134
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#22GQU2V2V",
@@ -1314,6 +1358,24 @@
         "name": "NARUTO",
         "townhallLevel": 17,
         "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#9P8RRPUP0",
+            "defenderTag": "#2R2JYRRU",
+            "stars": 2,
+            "destructionPercentage": 88,
+            "order": 86,
+            "duration": 153
+          },
+          {
+            "attackerTag": "#9P8RRPUP0",
+            "defenderTag": "#YQ8L9JVJ2",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 87,
+            "duration": 108
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#QYCLC0JLL",
