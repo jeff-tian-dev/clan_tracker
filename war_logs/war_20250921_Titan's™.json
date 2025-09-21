@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Uwe8sJr6b6dIEiWFEd9k-ODCbVwotrNdkfZKeEOHr4M.png"
     },
     "clanLevel": 10,
-    "attacks": 53,
-    "stars": 86,
-    "destructionPercentage": 97.6,
+    "attacks": 54,
+    "stars": 87,
+    "destructionPercentage": 98.166664,
     "members": [
       {
         "tag": "#QYL88U9P0",
@@ -133,14 +133,14 @@
             "duration": 168
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 4,
         "bestOpponentAttack": {
-          "attackerTag": "#Y09PQGPC9",
+          "attackerTag": "#Q8Y00LGC0",
           "defenderTag": "#GLU9LC2LG",
-          "stars": 2,
-          "destructionPercentage": 93,
-          "order": 64,
-          "duration": 160
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 100,
+          "duration": 110
         }
       },
       {
@@ -199,7 +199,7 @@
             "duration": 162
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
           "attackerTag": "#20VQLRRPG",
           "defenderTag": "#8VQYULVQQ",
@@ -298,7 +298,7 @@
             "duration": 93
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 4,
         "bestOpponentAttack": {
           "attackerTag": "#QR8UQ9RYC",
           "defenderTag": "#9U2YP0RY",
@@ -676,6 +676,16 @@
         "name": "Edison123",
         "townhallLevel": 15,
         "mapPosition": 20,
+        "attacks": [
+          {
+            "attackerTag": "#9VU0VU90G",
+            "defenderTag": "#P88RY00QG",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 97,
+            "duration": 105
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#9CU22UCUR",
@@ -958,9 +968,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/wTDMScAyhz3oW_A20Sp7bzfoRXCFn_6g_oKzGXBc6hM.png"
     },
     "clanLevel": 25,
-    "attacks": 43,
-    "stars": 84,
-    "destructionPercentage": 98.03333,
+    "attacks": 48,
+    "stars": 85,
+    "destructionPercentage": 98.26667,
     "members": [
       {
         "tag": "#YQVGGUG0L",
@@ -1000,6 +1010,24 @@
         "name": "sanjay gupta",
         "townhallLevel": 14,
         "mapPosition": 27,
+        "attacks": [
+          {
+            "attackerTag": "#LVUJ2UYY2",
+            "defenderTag": "#GLU9LC2LG",
+            "stars": 2,
+            "destructionPercentage": 83,
+            "order": 98,
+            "duration": 124
+          },
+          {
+            "attackerTag": "#LVUJ2UYY2",
+            "defenderTag": "#9U2YP0RY",
+            "stars": 1,
+            "destructionPercentage": 59,
+            "order": 99,
+            "duration": 74
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#QRP2RLV02",
@@ -1129,14 +1157,14 @@
             "duration": 113
           }
         ],
-        "opponentAttacks": 4,
+        "opponentAttacks": 5,
         "bestOpponentAttack": {
-          "attackerTag": "#G9CC9G2VQ",
+          "attackerTag": "#9VU0VU90G",
           "defenderTag": "#P88RY00QG",
-          "stars": 2,
-          "destructionPercentage": 83,
-          "order": 18,
-          "duration": 126
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 97,
+          "duration": 105
         }
       },
       {
@@ -1544,6 +1572,24 @@
         "name": "ItzzzGautam07",
         "townhallLevel": 15,
         "mapPosition": 20,
+        "attacks": [
+          {
+            "attackerTag": "#G2Q9PQCUJ",
+            "defenderTag": "#9U2YP0RY",
+            "stars": 2,
+            "destructionPercentage": 90,
+            "order": 101,
+            "duration": 146
+          },
+          {
+            "attackerTag": "#G2Q9PQCUJ",
+            "defenderTag": "#8VQYULVQQ",
+            "stars": 2,
+            "destructionPercentage": 85,
+            "order": 102,
+            "duration": 143
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#QQPYQPV0C",
@@ -1567,6 +1613,14 @@
             "destructionPercentage": 62,
             "order": 82,
             "duration": 113
+          },
+          {
+            "attackerTag": "#Q8Y00LGC0",
+            "defenderTag": "#GLU9LC2LG",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 100,
+            "duration": 110
           }
         ],
         "opponentAttacks": 2,

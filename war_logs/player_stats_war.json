@@ -2669,11 +2669,11 @@
       },
       {
         "date": "20250921",
-        "attacksUsed": 0,
-        "starsEarned": 0,
-        "destruction": 0,
-        "attacksMissed": 2,
-        "zeroParticipation": true
+        "attacksUsed": 1,
+        "starsEarned": 3,
+        "destruction": 100,
+        "attacksMissed": 1,
+        "zeroParticipation": false
       }
     ]
   },
@@ -20299,7 +20299,7 @@
       }
     ]
   },
-  "timestamp": "2025-09-21 12:00:03",
+  "timestamp": "2025-09-21 13:00:04",
   "#GPPQ0JCJR": {
     "name": "Goujii",
     "tag": "#GPPQ0JCJR",
@@ -41415,6 +41415,20 @@
   "#G2YLQPYP2": {
     "name": "nadare",
     "tag": "#G2YLQPYP2",
+    "history": [
+      {
+        "date": "20250921",
+        "attacksUsed": "---",
+        "starsEarned": "---",
+        "destruction": "---",
+        "attacksMissed": 0,
+        "zeroParticipation": true
+      }
+    ]
+  },
+  "#YRG89QC8": {
+    "name": "DrinkingTea",
+    "tag": "#YRG89QC8",
     "history": [
       {
         "date": "20250921",
