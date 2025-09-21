@@ -20299,7 +20299,7 @@
       }
     ]
   },
-  "timestamp": "2025-09-21 05:00:03",
+  "timestamp": "2025-09-21 06:00:03",
   "#GPPQ0JCJR": {
     "name": "Goujii",
     "tag": "#GPPQ0JCJR",
@@ -41088,10 +41088,10 @@
       },
       {
         "date": "20250921",
-        "attacksUsed": 1,
-        "starsEarned": 3,
-        "destruction": 100,
-        "attacksMissed": 1,
+        "attacksUsed": 2,
+        "starsEarned": 6,
+        "destruction": 200,
+        "attacksMissed": 0,
         "zeroParticipation": false
       }
     ]
@@ -41110,10 +41110,10 @@
       },
       {
         "date": "20250921",
-        "attacksUsed": 1,
-        "starsEarned": 3,
-        "destruction": 100,
-        "attacksMissed": 1,
+        "attacksUsed": 2,
+        "starsEarned": 6,
+        "destruction": 200,
+        "attacksMissed": 0,
         "zeroParticipation": false
       }
     ]
@@ -41303,6 +41303,20 @@
   "#9YC08UJLL": {
     "name": "james bond 007",
     "tag": "#9YC08UJLL",
+    "history": [
+      {
+        "date": "20250921",
+        "attacksUsed": "---",
+        "starsEarned": "---",
+        "destruction": "---",
+        "attacksMissed": 0,
+        "zeroParticipation": true
+      }
+    ]
+  },
+  "#G8UL2LUQL": {
+    "name": "shinzo",
+    "tag": "#G8UL2LUQL",
     "history": [
       {
         "date": "20250921",

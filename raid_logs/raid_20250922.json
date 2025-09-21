@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250919T070000.000Z",
   "endTime": "20250922T070000.000Z",
-  "capitalTotalLoot": 587391,
+  "capitalTotalLoot": 609176,
   "raidsCompleted": 6,
-  "totalAttacks": 144,
-  "enemyDistrictsDestroyed": 51,
+  "totalAttacks": 150,
+  "enemyDistrictsDestroyed": 53,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -136,6 +136,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 20787
+    },
+    {
+      "tag": "#QYCLC0JLL",
+      "name": "83c",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 21785
     },
     {
       "tag": "#QRP2RLV02",
@@ -1810,9 +1818,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/KwQhzSDZDrKsAk3tzJ-_bzuQjyIdpIrGPNIoyjdD52Y.png"
         }
       },
-      "attackCount": 19,
+      "attackCount": 25,
       "districtCount": 9,
-      "districtsDestroyed": 6,
+      "districtsDestroyed": 8,
       "districts": [
         {
           "id": 70000000,
@@ -1827,19 +1835,71 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11511,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QYCLC0JLL",
+                "name": "83c"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QYCLC0JLL",
+                "name": "83c"
+              },
+              "destructionPercent": 75,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#QYCLC0JLL",
+                "name": "83c"
+              },
+              "destructionPercent": 23,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10274,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QYCLC0JLL",
+                "name": "83c"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QYCLC0JLL",
+                "name": "83c"
+              },
+              "destructionPercent": 63,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#QYCLC0JLL",
+                "name": "83c"
+              },
+              "destructionPercent": 41,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000003,
