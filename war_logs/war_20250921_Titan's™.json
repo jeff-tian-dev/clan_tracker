@@ -15,16 +15,24 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Uwe8sJr6b6dIEiWFEd9k-ODCbVwotrNdkfZKeEOHr4M.png"
     },
     "clanLevel": 10,
-    "attacks": 26,
-    "stars": 51,
-    "destructionPercentage": 63.7,
+    "attacks": 27,
+    "stars": 53,
+    "destructionPercentage": 64.36667,
     "members": [
       {
         "tag": "#QYL88U9P0",
         "name": "voldemort",
         "townhallLevel": 15,
         "mapPosition": 22,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LCRLPGYYJ",
+          "defenderTag": "#QYL88U9P0",
+          "stars": 2,
+          "destructionPercentage": 83,
+          "order": 33,
+          "duration": 146
+        }
       },
       {
         "tag": "#Y0282L0CC",
@@ -288,7 +296,15 @@
         "name": "Raghav",
         "townhallLevel": 15,
         "mapPosition": 24,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LCRLPGYYJ",
+          "defenderTag": "#QPPYC0V90",
+          "stars": 2,
+          "destructionPercentage": 70,
+          "order": 34,
+          "duration": 149
+        }
       },
       {
         "tag": "#QQPYQPV0C",
@@ -398,6 +414,16 @@
         "name": "taz",
         "townhallLevel": 17,
         "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#2R2JYRRU",
+            "defenderTag": "#YLLYPQCVR",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 35,
+            "duration": 139
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -524,9 +550,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/wTDMScAyhz3oW_A20Sp7bzfoRXCFn_6g_oKzGXBc6hM.png"
     },
     "clanLevel": 25,
-    "attacks": 6,
-    "stars": 15,
-    "destructionPercentage": 18.333334,
+    "attacks": 8,
+    "stars": 19,
+    "destructionPercentage": 23.433332,
     "members": [
       {
         "tag": "#YQVGGUG0L",
@@ -711,6 +737,24 @@
         "name": "Master Anurag",
         "townhallLevel": 15,
         "mapPosition": 22,
+        "attacks": [
+          {
+            "attackerTag": "#LCRLPGYYJ",
+            "defenderTag": "#QYL88U9P0",
+            "stars": 2,
+            "destructionPercentage": 83,
+            "order": 33,
+            "duration": 146
+          },
+          {
+            "attackerTag": "#LCRLPGYYJ",
+            "defenderTag": "#QPPYC0V90",
+            "stars": 2,
+            "destructionPercentage": 70,
+            "order": 34,
+            "duration": 149
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#LGGLYVUPP",
@@ -938,14 +982,14 @@
             "duration": 170
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#YQ8L9JVJ2",
+          "attackerTag": "#2R2JYRRU",
           "defenderTag": "#YLLYPQCVR",
-          "stars": 1,
-          "destructionPercentage": 80,
-          "order": 21,
-          "duration": 142
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 35,
+          "duration": 139
         }
       },
       {

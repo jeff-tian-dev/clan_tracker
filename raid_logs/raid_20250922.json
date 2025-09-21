@@ -2322,9 +2322,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/9gu7ZfUljm0fX4EftXljEz2w3cvSqH68XTvkKSjjtqk.png"
         }
       },
-      "attackCount": 19,
+      "attackCount": 25,
       "districtCount": 9,
-      "districtsDestroyed": 5,
+      "districtsDestroyed": 8,
       "districts": [
         {
           "id": 70000000,
@@ -2339,11 +2339,19 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 62,
-          "stars": 1,
-          "attackCount": 2,
-          "totalLooted": 8160,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11868,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#QQLG289LR",
+                "name": "Nicholas"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#LLYRC28PV",
@@ -2401,11 +2409,19 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 70,
-          "stars": 1,
-          "attackCount": 3,
-          "totalLooted": 6930,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 11316,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#QQLG289LR",
+                "name": "Nicholas"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#8R828JCRR",
@@ -2436,10 +2452,44 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 11810,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QQLG289LR",
+                "name": "Nicholas"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QQLG289LR",
+                "name": "Nicholas"
+              },
+              "destructionPercent": 51,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#QQLG289LR",
+                "name": "Nicholas"
+              },
+              "destructionPercent": 43,
+              "stars": 0
+            },
+            {
+              "attacker": {
+                "tag": "#QQLG289LR",
+                "name": "Nicholas"
+              },
+              "destructionPercent": 36,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000005,
