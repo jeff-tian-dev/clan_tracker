@@ -211,7 +211,15 @@
             "duration": 138
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YL8CJ29GG",
+          "defenderTag": "#Q2QQL2YVV",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 58,
+          "duration": 157
+        }
       },
       {
         "tag": "#9U2YP0RY",
@@ -236,7 +244,15 @@
             "duration": 93
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PVUCYUV8R",
+          "defenderTag": "#9U2YP0RY",
+          "stars": 2,
+          "destructionPercentage": 88,
+          "order": 61,
+          "duration": 180
+        }
       },
       {
         "tag": "#QVPJG8JPJ",
@@ -457,14 +473,14 @@
             "duration": 93
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#YLLYPQCVR",
+          "attackerTag": "#8GYJ2UVUR",
           "defenderTag": "#QYCLC0JLL",
-          "stars": 1,
-          "destructionPercentage": 75,
-          "order": 9,
-          "duration": 170
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 59,
+          "duration": 116
         }
       },
       {
@@ -505,14 +521,14 @@
             "duration": 167
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#YQVGGUG0L",
+          "attackerTag": "#8GYJ2UVUR",
           "defenderTag": "#G28CVVRJL",
-          "stars": 1,
-          "destructionPercentage": 53,
-          "order": 40,
-          "duration": 67
+          "stars": 2,
+          "destructionPercentage": 87,
+          "order": 60,
+          "duration": 113
         }
       },
       {
@@ -723,7 +739,15 @@
         "name": "HK..LV..Priyu",
         "townhallLevel": 15,
         "mapPosition": 14,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PVUCYUV8R",
+          "defenderTag": "#YV9PLLY2R",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 62,
+          "duration": 169
+        }
       }
     ]
   },
@@ -736,9 +760,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/wTDMScAyhz3oW_A20Sp7bzfoRXCFn_6g_oKzGXBc6hM.png"
     },
     "clanLevel": 25,
-    "attacks": 20,
-    "stars": 47,
-    "destructionPercentage": 59.733334,
+    "attacks": 25,
+    "stars": 58,
+    "destructionPercentage": 71.3,
     "members": [
       {
         "tag": "#YQVGGUG0L",
@@ -1009,6 +1033,24 @@
         "name": "KID FLASH",
         "townhallLevel": 15,
         "mapPosition": 19,
+        "attacks": [
+          {
+            "attackerTag": "#PVUCYUV8R",
+            "defenderTag": "#9U2YP0RY",
+            "stars": 2,
+            "destructionPercentage": 88,
+            "order": 61,
+            "duration": 180
+          },
+          {
+            "attackerTag": "#PVUCYUV8R",
+            "defenderTag": "#YV9PLLY2R",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 62,
+            "duration": 169
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#YJ2UV2GY",
@@ -1132,6 +1174,16 @@
         "name": "OP \u2022 SAM",
         "townhallLevel": 14,
         "mapPosition": 25,
+        "attacks": [
+          {
+            "attackerTag": "#YL8CJ29GG",
+            "defenderTag": "#Q2QQL2YVV",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 58,
+            "duration": 157
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#QQPYQPV0C",
@@ -1315,6 +1367,24 @@
         "name": "Sulabh singh",
         "townhallLevel": 16,
         "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#8GYJ2UVUR",
+            "defenderTag": "#QYCLC0JLL",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 59,
+            "duration": 116
+          },
+          {
+            "attackerTag": "#8GYJ2UVUR",
+            "defenderTag": "#G28CVVRJL",
+            "stars": 2,
+            "destructionPercentage": 87,
+            "order": 60,
+            "duration": 113
+          }
+        ],
         "opponentAttacks": 0
       },
       {
