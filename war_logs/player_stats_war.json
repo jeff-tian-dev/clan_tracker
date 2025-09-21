@@ -20299,7 +20299,7 @@
       }
     ]
   },
-  "timestamp": "2025-09-21 09:00:03",
+  "timestamp": "2025-09-21 10:00:03",
   "#GPPQ0JCJR": {
     "name": "Goujii",
     "tag": "#GPPQ0JCJR",
@@ -36414,10 +36414,10 @@
       },
       {
         "date": "20250921",
-        "attacksUsed": 1,
-        "starsEarned": 2,
-        "destruction": 83,
-        "attacksMissed": 1,
+        "attacksUsed": 2,
+        "starsEarned": 5,
+        "destruction": 183,
+        "attacksMissed": 0,
         "zeroParticipation": false
       }
     ]
@@ -39578,11 +39578,11 @@
       },
       {
         "date": "20250921",
-        "attacksUsed": 0,
-        "starsEarned": 0,
-        "destruction": 0,
-        "attacksMissed": 2,
-        "zeroParticipation": true
+        "attacksUsed": 2,
+        "starsEarned": 6,
+        "destruction": 200,
+        "attacksMissed": 0,
+        "zeroParticipation": false
       }
     ]
   },
@@ -41359,6 +41359,20 @@
   "#YRUC0CLRJ": {
     "name": "Niku",
     "tag": "#YRUC0CLRJ",
+    "history": [
+      {
+        "date": "20250921",
+        "attacksUsed": "---",
+        "starsEarned": "---",
+        "destruction": "---",
+        "attacksMissed": 0,
+        "zeroParticipation": true
+      }
+    ]
+  },
+  "#2UVQGU9PL": {
+    "name": "圖JAVAD圖",
+    "tag": "#2UVQGU9PL",
     "history": [
       {
         "date": "20250921",

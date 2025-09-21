@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250919T070000.000Z",
   "endTime": "20250922T070000.000Z",
-  "capitalTotalLoot": 622663,
+  "capitalTotalLoot": 641887,
   "raidsCompleted": 8,
-  "totalAttacks": 155,
-  "enemyDistrictsDestroyed": 54,
+  "totalAttacks": 159,
+  "enemyDistrictsDestroyed": 55,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -64,6 +64,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 13487
+    },
+    {
+      "tag": "#2UVQGU9PL",
+      "name": "\u5716JAVAD\u5716",
+      "attacks": 4,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 19224
     },
     {
       "tag": "#Q9QU8L8YV",
@@ -2182,9 +2190,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/wm8nsxB5v1ulsGIux0bRqXTtOhU_WvjEluEAHCe1tAI.png"
         }
       },
-      "attackCount": 0,
+      "attackCount": 4,
       "districtCount": 9,
-      "districtsDestroyed": 0,
+      "districtsDestroyed": 1,
       "districts": [
         {
           "id": 70000000,
@@ -2226,10 +2234,28 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10489,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2UVQGU9PL",
+                "name": "\u5716JAVAD\u5716"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2UVQGU9PL",
+                "name": "\u5716JAVAD\u5716"
+              },
+              "destructionPercent": 62,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000005,
@@ -2253,10 +2279,28 @@
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 81,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 8735,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2UVQGU9PL",
+                "name": "\u5716JAVAD\u5716"
+              },
+              "destructionPercent": 81,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#2UVQGU9PL",
+                "name": "\u5716JAVAD\u5716"
+              },
+              "destructionPercent": 44,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000008,
