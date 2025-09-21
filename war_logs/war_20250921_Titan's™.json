@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Uwe8sJr6b6dIEiWFEd9k-ODCbVwotrNdkfZKeEOHr4M.png"
     },
     "clanLevel": 10,
-    "attacks": 50,
-    "stars": 84,
-    "destructionPercentage": 97.2,
+    "attacks": 51,
+    "stars": 86,
+    "destructionPercentage": 97.6,
     "members": [
       {
         "tag": "#QYL88U9P0",
@@ -57,6 +57,16 @@
         "name": "Schneider",
         "townhallLevel": 15,
         "mapPosition": 17,
+        "attacks": [
+          {
+            "attackerTag": "#Y0282L0CC",
+            "defenderTag": "#PYVY9YJCR",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 93,
+            "duration": 152
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#9JQVU02JG",
@@ -189,7 +199,7 @@
             "duration": 162
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#20VQLRRPG",
           "defenderTag": "#8VQYULVQQ",
@@ -930,7 +940,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/wTDMScAyhz3oW_A20Sp7bzfoRXCFn_6g_oKzGXBc6hM.png"
     },
     "clanLevel": 25,
-    "attacks": 41,
+    "attacks": 42,
     "stars": 83,
     "destructionPercentage": 97.2,
     "members": [
@@ -1369,14 +1379,14 @@
             "duration": 134
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#22GQU2V2V",
+          "attackerTag": "#Y0282L0CC",
           "defenderTag": "#PYVY9YJCR",
-          "stars": 1,
-          "destructionPercentage": 88,
-          "order": 45,
-          "duration": 158
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 93,
+          "duration": 152
         }
       },
       {
@@ -1680,6 +1690,14 @@
             "destructionPercentage": 75,
             "order": 9,
             "duration": 170
+          },
+          {
+            "attackerTag": "#YLLYPQCVR",
+            "defenderTag": "#8VQYULVQQ",
+            "stars": 1,
+            "destructionPercentage": 62,
+            "order": 92,
+            "duration": 180
           }
         ],
         "opponentAttacks": 2,
