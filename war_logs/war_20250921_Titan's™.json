@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Uwe8sJr6b6dIEiWFEd9k-ODCbVwotrNdkfZKeEOHr4M.png"
     },
     "clanLevel": 10,
-    "attacks": 32,
-    "stars": 62,
-    "destructionPercentage": 76.46667,
+    "attacks": 33,
+    "stars": 64,
+    "destructionPercentage": 76.8,
     "members": [
       {
         "tag": "#QYL88U9P0",
@@ -459,6 +459,14 @@
             "destructionPercentage": 100,
             "order": 41,
             "duration": 128
+          },
+          {
+            "attackerTag": "#GG89RGY00",
+            "defenderTag": "#Y09PQGPC9",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 42,
+            "duration": 99
           }
         ],
         "opponentAttacks": 0
@@ -584,7 +592,15 @@
             "duration": 137
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#20VQLRRPG",
+          "defenderTag": "#PRGGL2J2V",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 43,
+          "duration": 151
+        }
       },
       {
         "tag": "#YV9PLLY2R",
@@ -604,9 +620,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/wTDMScAyhz3oW_A20Sp7bzfoRXCFn_6g_oKzGXBc6hM.png"
     },
     "clanLevel": 25,
-    "attacks": 9,
-    "stars": 20,
-    "destructionPercentage": 25.2,
+    "attacks": 10,
+    "stars": 23,
+    "destructionPercentage": 28.533333,
     "members": [
       {
         "tag": "#YQVGGUG0L",
@@ -738,14 +754,14 @@
         "name": "NEO",
         "townhallLevel": 14,
         "mapPosition": 26,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#Q2QQL2YVV",
+          "attackerTag": "#GG89RGY00",
           "defenderTag": "#Y09PQGPC9",
-          "stars": 1,
-          "destructionPercentage": 90,
-          "order": 14,
-          "duration": 138
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 42,
+          "duration": 99
         }
       },
       {
@@ -1100,6 +1116,16 @@
         "name": "abhinav abhi",
         "townhallLevel": 16,
         "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#20VQLRRPG",
+            "defenderTag": "#PRGGL2J2V",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 43,
+            "duration": 151
+          }
+        ],
         "opponentAttacks": 0
       }
     ]
