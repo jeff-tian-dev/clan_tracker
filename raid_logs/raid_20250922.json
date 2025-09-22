@@ -2,9 +2,9 @@
   "state": "ongoing",
   "startTime": "20250919T070000.000Z",
   "endTime": "20250922T070000.000Z",
-  "capitalTotalLoot": 780232,
+  "capitalTotalLoot": 790977,
   "raidsCompleted": 9,
-  "totalAttacks": 191,
+  "totalAttacks": 196,
   "enemyDistrictsDestroyed": 68,
   "offensiveReward": 0,
   "defensiveReward": 0,
@@ -248,6 +248,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 29263
+    },
+    {
+      "tag": "#LGGLYVUPP",
+      "name": "siwi2isuus2",
+      "attacks": 5,
+      "attackLimit": 5,
+      "bonusAttackLimit": 0,
+      "capitalResourcesLooted": 10745
     },
     {
       "tag": "#LLYV29CU",
@@ -2522,7 +2530,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/XlA6Nh0IlR-yXfe1DRMsqM9ULh5s603isu-9IMo0Hg4.png"
         }
       },
-      "attackCount": 13,
+      "attackCount": 18,
       "districtCount": 9,
       "districtsDestroyed": 5,
       "districts": [
@@ -2539,19 +2547,55 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 55,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 5585,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LGGLYVUPP",
+                "name": "siwi2isuus2"
+              },
+              "destructionPercent": 55,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#LGGLYVUPP",
+                "name": "siwi2isuus2"
+              },
+              "destructionPercent": 33,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 49,
+          "stars": 1,
+          "attackCount": 2,
+          "totalLooted": 4190,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LGGLYVUPP",
+                "name": "siwi2isuus2"
+              },
+              "destructionPercent": 49,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#LGGLYVUPP",
+                "name": "siwi2isuus2"
+              },
+              "destructionPercent": 24,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000003,
@@ -2619,10 +2663,20 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
+          "destructionPercent": 10,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 1,
+          "totalLooted": 970,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LGGLYVUPP",
+                "name": "siwi2isuus2"
+              },
+              "destructionPercent": 10,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000006,
@@ -3554,6 +3608,244 @@
           "stars": 0,
           "attackCount": 0,
           "totalLooted": 0
+        }
+      ]
+    },
+    {
+      "attacker": {
+        "tag": "#2Q9QQPGLV",
+        "name": "ANGKOT LEGEND",
+        "level": 13,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/N8ftzlvusgM5dp4vmvDsL3dvoLMnnmAGzJ4PzutfDWU.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/N8ftzlvusgM5dp4vmvDsL3dvoLMnnmAGzJ4PzutfDWU.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/N8ftzlvusgM5dp4vmvDsL3dvoLMnnmAGzJ4PzutfDWU.png"
+        }
+      },
+      "attackCount": 16,
+      "districtCount": 9,
+      "districtsDestroyed": 6,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 10,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11550,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#L2PYQLC8Y",
+                "name": "A.L RIFA'I 6"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#L2PYQLC8Y",
+                "name": "A.L RIFA'I 6"
+              },
+              "destructionPercent": 72,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#L2PYQLC8Y",
+                "name": "A.L RIFA'I 6"
+              },
+              "destructionPercent": 43,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11996,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#L2PYQLC8Y",
+                "name": "A.L RIFA'I 6"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#L22CUQJP9",
+                "name": "A.L RIFA'I 2"
+              },
+              "destructionPercent": 64,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#L22CUQJP9",
+                "name": "A.L RIFA'I 2"
+              },
+              "destructionPercent": 42,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 12035,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#L22CUQJP9",
+                "name": "A.L RIFA'I 2"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#L22CUQJP9",
+                "name": "A.L RIFA'I 2"
+              },
+              "destructionPercent": 96,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#L22CUQJP9",
+                "name": "A.L RIFA'I 2"
+              },
+              "destructionPercent": 55,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11703,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#L22CUQJP9",
+                "name": "A.L RIFA'I 2"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QC28Y02CL",
+                "name": "A.L RIFA'I N"
+              },
+              "destructionPercent": 63,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 12173,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QC28Y02CL",
+                "name": "A.L RIFA'I N"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QC28Y02CL",
+                "name": "A.L RIFA'I N"
+              },
+              "destructionPercent": 95,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#QC28Y02CL",
+                "name": "A.L RIFA'I N"
+              },
+              "destructionPercent": 44,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11865,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QC28Y02CL",
+                "name": "A.L RIFA'I N"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QC28Y02CL",
+                "name": "A.L RIFA'I N"
+              },
+              "destructionPercent": 38,
+              "stars": 0
+            }
+          ]
         }
       ]
     }
