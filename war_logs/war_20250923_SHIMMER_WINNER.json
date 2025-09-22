@@ -1,5 +1,5 @@
 {
-  "state": "preparation",
+  "state": "inWar",
   "teamSize": 35,
   "attacksPerMember": 2,
   "battleModifier": "none",
@@ -415,7 +415,7 @@
       {
         "tag": "#LCGCUCQ2U",
         "name": "ekicrom",
-        "townhallLevel": 15,
+        "townhallLevel": 16,
         "mapPosition": 11,
         "opponentAttacks": 0
       },
