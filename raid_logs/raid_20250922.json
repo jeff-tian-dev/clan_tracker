@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250919T070000.000Z",
   "endTime": "20250922T070000.000Z",
-  "capitalTotalLoot": 790977,
+  "capitalTotalLoot": 813453,
   "raidsCompleted": 9,
-  "totalAttacks": 196,
-  "enemyDistrictsDestroyed": 68,
+  "totalAttacks": 202,
+  "enemyDistrictsDestroyed": 71,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -40,6 +40,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 20939
+    },
+    {
+      "tag": "#Y0282L0CC",
+      "name": "Schneider",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 22476
     },
     {
       "tag": "#UJP2UYRY",
@@ -2530,9 +2538,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/XlA6Nh0IlR-yXfe1DRMsqM9ULh5s603isu-9IMo0Hg4.png"
         }
       },
-      "attackCount": 18,
+      "attackCount": 24,
       "districtCount": 9,
-      "districtsDestroyed": 5,
+      "districtsDestroyed": 8,
       "districts": [
         {
           "id": 70000000,
@@ -2547,11 +2555,27 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 55,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 5585,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 12006,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#Y0282L0CC",
+                "name": "Schneider"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Y0282L0CC",
+                "name": "Schneider"
+              },
+              "destructionPercent": 93,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#LGGLYVUPP",
@@ -2574,11 +2598,27 @@
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 49,
-          "stars": 1,
-          "attackCount": 2,
-          "totalLooted": 4190,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 10751,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#Y0282L0CC",
+                "name": "Schneider"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Y0282L0CC",
+                "name": "Schneider"
+              },
+              "destructionPercent": 81,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#LGGLYVUPP",
@@ -2663,11 +2703,27 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 10,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 970,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10464,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#Y0282L0CC",
+                "name": "Schneider"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Y0282L0CC",
+                "name": "Schneider"
+              },
+              "destructionPercent": 44,
+              "stars": 0
+            },
             {
               "attacker": {
                 "tag": "#LGGLYVUPP",
@@ -3622,9 +3678,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/N8ftzlvusgM5dp4vmvDsL3dvoLMnnmAGzJ4PzutfDWU.png"
         }
       },
-      "attackCount": 16,
+      "attackCount": 20,
       "districtCount": 9,
-      "districtsDestroyed": 6,
+      "districtsDestroyed": 7,
       "districts": [
         {
           "id": 70000000,
@@ -3639,19 +3695,55 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
+          "destructionPercent": 47,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 2,
+          "totalLooted": 5765,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LP2GYQC9U",
+                "name": "A.L RIFA'I 8"
+              },
+              "destructionPercent": 47,
+              "stars": 0
+            },
+            {
+              "attacker": {
+                "tag": "#LP2GYQC9U",
+                "name": "A.L RIFA'I 8"
+              },
+              "destructionPercent": 19,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10178,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#L2PYQLC8Y",
+                "name": "A.L RIFA'I 6"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#L2PYQLC8Y",
+                "name": "A.L RIFA'I 6"
+              },
+              "destructionPercent": 48,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000003,
