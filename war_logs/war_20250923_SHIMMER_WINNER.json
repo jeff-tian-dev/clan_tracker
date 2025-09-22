@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Uwe8sJr6b6dIEiWFEd9k-ODCbVwotrNdkfZKeEOHr4M.png"
     },
     "clanLevel": 10,
-    "attacks": 0,
-    "stars": 0,
-    "destructionPercentage": 0.0,
+    "attacks": 1,
+    "stars": 3,
+    "destructionPercentage": 2.857143,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -45,7 +45,15 @@
         "name": "Schneider",
         "townhallLevel": 15,
         "mapPosition": 19,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GPCRY8GCU",
+          "defenderTag": "#Y0282L0CC",
+          "stars": 2,
+          "destructionPercentage": 93,
+          "order": 1,
+          "duration": 161
+        }
       },
       {
         "tag": "#UJP2UYRY",
@@ -87,6 +95,16 @@
         "name": "cyan",
         "townhallLevel": 14,
         "mapPosition": 32,
+        "attacks": [
+          {
+            "attackerTag": "#Q2QQL2YVV",
+            "defenderTag": "#GQRLC2CL2",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 3,
+            "duration": 75
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -248,7 +266,15 @@
         "name": "\u2b50\u2b505 StarFree\u2b50\u2b50\u2b50",
         "townhallLevel": 17,
         "mapPosition": 2,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YVU98PV0C",
+          "defenderTag": "#Y2PVPPU8C",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 2,
+          "duration": 157
+        }
       },
       {
         "tag": "#90LVV2QJG",
@@ -275,9 +301,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3tvARf1rjvMRljQH3N3bY2JC2QK-4ABhJ-2XS7jQSfw.png"
     },
     "clanLevel": 19,
-    "attacks": 0,
-    "stars": 0,
-    "destructionPercentage": 0.0,
+    "attacks": 2,
+    "stars": 5,
+    "destructionPercentage": 5.5142856,
     "members": [
       {
         "tag": "#QC9QUL0JL",
@@ -347,6 +373,16 @@
         "name": "SAKA",
         "townhallLevel": 17,
         "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#YVU98PV0C",
+            "defenderTag": "#Y2PVPPU8C",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 2,
+            "duration": 157
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -361,6 +397,16 @@
         "name": "Arian",
         "townhallLevel": 15,
         "mapPosition": 19,
+        "attacks": [
+          {
+            "attackerTag": "#GPCRY8GCU",
+            "defenderTag": "#Y0282L0CC",
+            "stars": 2,
+            "destructionPercentage": 93,
+            "order": 1,
+            "duration": 161
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -382,7 +428,15 @@
         "name": "El zain 04",
         "townhallLevel": 16,
         "mapPosition": 32,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q2QQL2YVV",
+          "defenderTag": "#GQRLC2CL2",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 3,
+          "duration": 75
+        }
       },
       {
         "tag": "#G929RQG2Y",
