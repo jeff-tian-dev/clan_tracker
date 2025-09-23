@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Uwe8sJr6b6dIEiWFEd9k-ODCbVwotrNdkfZKeEOHr4M.png"
     },
     "clanLevel": 10,
-    "attacks": 20,
-    "stars": 35,
-    "destructionPercentage": 36.771427,
+    "attacks": 22,
+    "stars": 40,
+    "destructionPercentage": 42.2,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -331,7 +331,15 @@
         "name": "Sir Hazelnut\u2122\ufe0f",
         "townhallLevel": 15,
         "mapPosition": 18,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QV9RG0QLC",
+          "defenderTag": "#YJ2UV2GY",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 36,
+          "duration": 131
+        }
       },
       {
         "tag": "#QYCLC0JLL",
@@ -368,6 +376,16 @@
         "name": "Dakkans",
         "townhallLevel": 15,
         "mapPosition": 21,
+        "attacks": [
+          {
+            "attackerTag": "#LC8G0Q8CV",
+            "defenderTag": "#PPRCJ2UCQ",
+            "stars": 2,
+            "destructionPercentage": 90,
+            "order": 35,
+            "duration": 180
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -478,6 +496,16 @@
         "name": "Grizz",
         "townhallLevel": 14,
         "mapPosition": 31,
+        "attacks": [
+          {
+            "attackerTag": "#G9CC9G2VQ",
+            "defenderTag": "#GY2YR0YCV",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 34,
+            "duration": 111
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#G9YUPUQUY",
@@ -553,9 +581,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3tvARf1rjvMRljQH3N3bY2JC2QK-4ABhJ-2XS7jQSfw.png"
     },
     "clanLevel": 19,
-    "attacks": 13,
-    "stars": 31,
-    "destructionPercentage": 32.2,
+    "attacks": 14,
+    "stars": 34,
+    "destructionPercentage": 35.057144,
     "members": [
       {
         "tag": "#QC9QUL0JL",
@@ -622,7 +650,15 @@
         "name": "sasuke",
         "townhallLevel": 15,
         "mapPosition": 22,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LC8G0Q8CV",
+          "defenderTag": "#PPRCJ2UCQ",
+          "stars": 2,
+          "destructionPercentage": 90,
+          "order": 35,
+          "duration": 180
+        }
       },
       {
         "tag": "#20VC9VVUU",
@@ -776,7 +812,15 @@
         "name": "H E X A",
         "townhallLevel": 15,
         "mapPosition": 29,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#G9CC9G2VQ",
+          "defenderTag": "#GY2YR0YCV",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 34,
+          "duration": 111
+        }
       },
       {
         "tag": "#GRJ9R08R0",
@@ -1023,6 +1067,14 @@
             "destructionPercentage": 65,
             "order": 5,
             "duration": 124
+          },
+          {
+            "attackerTag": "#QV9RG0QLC",
+            "defenderTag": "#YJ2UV2GY",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 36,
+            "duration": 131
           }
         ],
         "opponentAttacks": 0
