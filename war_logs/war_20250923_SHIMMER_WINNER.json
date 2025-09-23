@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Uwe8sJr6b6dIEiWFEd9k-ODCbVwotrNdkfZKeEOHr4M.png"
     },
     "clanLevel": 10,
-    "attacks": 44,
-    "stars": 78,
-    "destructionPercentage": 77.6,
+    "attacks": 46,
+    "stars": 82,
+    "destructionPercentage": 82.11429,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -120,7 +120,15 @@
         "name": "destroyer",
         "townhallLevel": 17,
         "mapPosition": 8,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GQRLC2CL2",
+          "defenderTag": "#UJP2UYRY",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 95,
+          "duration": 146
+        }
       },
       {
         "tag": "#GLU9LC2LG",
@@ -211,7 +219,15 @@
             "duration": 140
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GQRLC2CL2",
+          "defenderTag": "#8VQYULVQQ",
+          "stars": 1,
+          "destructionPercentage": 95,
+          "order": 96,
+          "duration": 179
+        }
       },
       {
         "tag": "#PL09LLPUY",
@@ -817,6 +833,24 @@
         "name": "siwi2isuus2",
         "townhallLevel": 15,
         "mapPosition": 29,
+        "attacks": [
+          {
+            "attackerTag": "#LGGLYVUPP",
+            "defenderTag": "#PCJ90UQRU",
+            "stars": 2,
+            "destructionPercentage": 83,
+            "order": 93,
+            "duration": 119
+          },
+          {
+            "attackerTag": "#LGGLYVUPP",
+            "defenderTag": "#9JRCJ2Y98",
+            "stars": 2,
+            "destructionPercentage": 75,
+            "order": 94,
+            "duration": 114
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#GY9CG2G0V",
@@ -937,9 +971,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3tvARf1rjvMRljQH3N3bY2JC2QK-4ABhJ-2XS7jQSfw.png"
     },
     "clanLevel": 19,
-    "attacks": 48,
-    "stars": 96,
-    "destructionPercentage": 93.314285,
+    "attacks": 50,
+    "stars": 100,
+    "destructionPercentage": 98.88571,
     "members": [
       {
         "tag": "#QC9QUL0JL",
@@ -1180,7 +1214,15 @@
         "name": "Yuukii\u3164chan",
         "townhallLevel": 16,
         "mapPosition": 14,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LGGLYVUPP",
+          "defenderTag": "#PCJ90UQRU",
+          "stars": 2,
+          "destructionPercentage": 83,
+          "order": 93,
+          "duration": 119
+        }
       },
       {
         "tag": "#GPCRY8GCU",
@@ -1286,6 +1328,24 @@
         "name": "El zain 04",
         "townhallLevel": 16,
         "mapPosition": 32,
+        "attacks": [
+          {
+            "attackerTag": "#GQRLC2CL2",
+            "defenderTag": "#UJP2UYRY",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 95,
+            "duration": 146
+          },
+          {
+            "attackerTag": "#GQRLC2CL2",
+            "defenderTag": "#8VQYULVQQ",
+            "stars": 1,
+            "destructionPercentage": 95,
+            "order": 96,
+            "duration": 179
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#Q2QQL2YVV",
@@ -1400,7 +1460,15 @@
         "name": "hajurul",
         "townhallLevel": 15,
         "mapPosition": 15,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LGGLYVUPP",
+          "defenderTag": "#9JRCJ2Y98",
+          "stars": 2,
+          "destructionPercentage": 75,
+          "order": 94,
+          "duration": 114
+        }
       },
       {
         "tag": "#LCGCUCQ2U",
