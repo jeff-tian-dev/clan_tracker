@@ -69,14 +69,14 @@
         "name": "Schneider",
         "townhallLevel": 15,
         "mapPosition": 19,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#GPCRY8GCU",
+          "attackerTag": "#PPRCJ2UCQ",
           "defenderTag": "#Y0282L0CC",
-          "stars": 2,
-          "destructionPercentage": 93,
-          "order": 1,
-          "duration": 161
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 66,
+          "duration": 101
         }
       },
       {
@@ -109,14 +109,14 @@
             "duration": 170
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#YYRV8RYC8",
+          "attackerTag": "#PPRCJ2UCQ",
           "defenderTag": "#GLU9LC2LG",
-          "stars": 2,
-          "destructionPercentage": 68,
-          "order": 59,
-          "duration": 105
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 65,
+          "duration": 132
         }
       },
       {
@@ -783,9 +783,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3tvARf1rjvMRljQH3N3bY2JC2QK-4ABhJ-2XS7jQSfw.png"
     },
     "clanLevel": 19,
-    "attacks": 32,
-    "stars": 76,
-    "destructionPercentage": 74.8,
+    "attacks": 34,
+    "stars": 78,
+    "destructionPercentage": 75.91428,
     "members": [
       {
         "tag": "#QC9QUL0JL",
@@ -852,6 +852,24 @@
         "name": "sasuke",
         "townhallLevel": 15,
         "mapPosition": 22,
+        "attacks": [
+          {
+            "attackerTag": "#PPRCJ2UCQ",
+            "defenderTag": "#GLU9LC2LG",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 65,
+            "duration": 132
+          },
+          {
+            "attackerTag": "#PPRCJ2UCQ",
+            "defenderTag": "#Y0282L0CC",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 66,
+            "duration": 101
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#LC8G0Q8CV",
