@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Uwe8sJr6b6dIEiWFEd9k-ODCbVwotrNdkfZKeEOHr4M.png"
     },
     "clanLevel": 10,
-    "attacks": 24,
-    "stars": 45,
-    "destructionPercentage": 47.6,
+    "attacks": 26,
+    "stars": 51,
+    "destructionPercentage": 53.314285,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -465,6 +465,24 @@
         "name": "No Smile",
         "townhallLevel": 15,
         "mapPosition": 28,
+        "attacks": [
+          {
+            "attackerTag": "#GG89RGY00",
+            "defenderTag": "#22ULPGVCV",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 41,
+            "duration": 156
+          },
+          {
+            "attackerTag": "#GG89RGY00",
+            "defenderTag": "#G9YUPUQUY",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 42,
+            "duration": 106
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -539,7 +557,15 @@
         "name": "siwi2isuus2",
         "townhallLevel": 15,
         "mapPosition": 29,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GY9CG2G0V",
+          "defenderTag": "#LGGLYVUPP",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 40,
+          "duration": 146
+        }
       },
       {
         "tag": "#Y2PVPPU8C",
@@ -579,7 +605,15 @@
         "name": "OPTIMUS PRIME",
         "townhallLevel": 15,
         "mapPosition": 14,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GY9CG2G0V",
+          "defenderTag": "#90LVV2QJG",
+          "stars": 2,
+          "destructionPercentage": 85,
+          "order": 39,
+          "duration": 115
+        }
       },
       {
         "tag": "#PRGGL2J2V",
@@ -599,9 +633,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3tvARf1rjvMRljQH3N3bY2JC2QK-4ABhJ-2XS7jQSfw.png"
     },
     "clanLevel": 19,
-    "attacks": 14,
-    "stars": 34,
-    "destructionPercentage": 35.057144,
+    "attacks": 16,
+    "stars": 39,
+    "destructionPercentage": 40.342857,
     "members": [
       {
         "tag": "#QC9QUL0JL",
@@ -809,7 +843,15 @@
             "duration": 102
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GG89RGY00",
+          "defenderTag": "#G9YUPUQUY",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 42,
+          "duration": 106
+        }
       },
       {
         "tag": "#GQRLC2CL2",
@@ -970,6 +1012,24 @@
         "name": "modin o3",
         "townhallLevel": 15,
         "mapPosition": 24,
+        "attacks": [
+          {
+            "attackerTag": "#GY9CG2G0V",
+            "defenderTag": "#90LVV2QJG",
+            "stars": 2,
+            "destructionPercentage": 85,
+            "order": 39,
+            "duration": 115
+          },
+          {
+            "attackerTag": "#GY9CG2G0V",
+            "defenderTag": "#LGGLYVUPP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 40,
+            "duration": 146
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -1086,7 +1146,15 @@
         "name": "\u00a5\u00b0 S U G A \u00b0\u00a5",
         "townhallLevel": 14,
         "mapPosition": 27,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GG89RGY00",
+          "defenderTag": "#22ULPGVCV",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 41,
+          "duration": 156
+        }
       },
       {
         "tag": "#QV9RG0QLC",
