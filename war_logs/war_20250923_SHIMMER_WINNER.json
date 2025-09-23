@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Uwe8sJr6b6dIEiWFEd9k-ODCbVwotrNdkfZKeEOHr4M.png"
     },
     "clanLevel": 10,
-    "attacks": 46,
-    "stars": 82,
-    "destructionPercentage": 82.11429,
+    "attacks": 54,
+    "stars": 93,
+    "destructionPercentage": 91.34286,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -120,6 +120,24 @@
         "name": "destroyer",
         "townhallLevel": 17,
         "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#UJP2UYRY",
+            "defenderTag": "#GP9RGC2R0",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 102,
+            "duration": 90
+          },
+          {
+            "attackerTag": "#UJP2UYRY",
+            "defenderTag": "#QV9RG0QLC",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 105,
+            "duration": 67
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#GQRLC2CL2",
@@ -275,6 +293,14 @@
             "destructionPercentage": 100,
             "order": 3,
             "duration": 75
+          },
+          {
+            "attackerTag": "#Q2QQL2YVV",
+            "defenderTag": "#Q9LYG02CJ",
+            "stars": 2,
+            "destructionPercentage": 74,
+            "order": 106,
+            "duration": 85
           }
         ],
         "opponentAttacks": 1,
@@ -517,6 +543,24 @@
         "name": "Sir Hazelnut\u2122\ufe0f",
         "townhallLevel": 15,
         "mapPosition": 18,
+        "attacks": [
+          {
+            "attackerTag": "#YJ2UV2GY",
+            "defenderTag": "#20VC9VVUU",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 103,
+            "duration": 104
+          },
+          {
+            "attackerTag": "#YJ2UV2GY",
+            "defenderTag": "#8J99CJY0P",
+            "stars": 2,
+            "destructionPercentage": 92,
+            "order": 109,
+            "duration": 133
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#QV9RG0QLC",
@@ -557,6 +601,16 @@
         "name": "JT",
         "townhallLevel": 14,
         "mapPosition": 33,
+        "attacks": [
+          {
+            "attackerTag": "#QRP2RLV02",
+            "defenderTag": "#YYRV8RYC8",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 104,
+            "duration": 122
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#GRJ9R08R0",
@@ -686,14 +740,32 @@
         "name": "Edison123",
         "townhallLevel": 15,
         "mapPosition": 25,
-        "opponentAttacks": 2,
+        "attacks": [
+          {
+            "attackerTag": "#9VU0VU90G",
+            "defenderTag": "#8J99CJY0P",
+            "stars": 1,
+            "destructionPercentage": 91,
+            "order": 107,
+            "duration": 160
+          },
+          {
+            "attackerTag": "#9VU0VU90G",
+            "defenderTag": "#PPRCJ2UCQ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 108,
+            "duration": 145
+          }
+        ],
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#YYRV8RYC8",
+          "attackerTag": "#2CPGL9P9L",
           "defenderTag": "#9VU0VU90G",
-          "stars": 2,
-          "destructionPercentage": 72,
-          "order": 60,
-          "duration": 75
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 101,
+          "duration": 136
         }
       },
       {
@@ -971,9 +1043,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3tvARf1rjvMRljQH3N3bY2JC2QK-4ABhJ-2XS7jQSfw.png"
     },
     "clanLevel": 19,
-    "attacks": 54,
-    "stars": 104,
-    "destructionPercentage": 99.2,
+    "attacks": 55,
+    "stars": 105,
+    "destructionPercentage": 100.0,
     "members": [
       {
         "tag": "#QC9QUL0JL",
@@ -1112,14 +1184,14 @@
             "duration": 101
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#LC8G0Q8CV",
+          "attackerTag": "#9VU0VU90G",
           "defenderTag": "#PPRCJ2UCQ",
-          "stars": 2,
-          "destructionPercentage": 90,
-          "order": 35,
-          "duration": 180
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 108,
+          "duration": 145
         }
       },
       {
@@ -1127,7 +1199,15 @@
         "name": "\u03a9R OBITO \u25ce\u25ce\u25ce (O",
         "townhallLevel": 15,
         "mapPosition": 18,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YJ2UV2GY",
+          "defenderTag": "#20VC9VVUU",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 103,
+          "duration": 104
+        }
       },
       {
         "tag": "#G8QVC8CQP",
@@ -1200,7 +1280,15 @@
             "duration": 158
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 2,
+        "bestOpponentAttack": {
+          "attackerTag": "#YJ2UV2GY",
+          "defenderTag": "#8J99CJY0P",
+          "stars": 2,
+          "destructionPercentage": 92,
+          "order": 109,
+          "duration": 133
+        }
       },
       {
         "tag": "#YVU98PV0C",
@@ -1306,14 +1394,14 @@
             "duration": 75
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#QPPYC0V90",
+          "attackerTag": "#QRP2RLV02",
           "defenderTag": "#YYRV8RYC8",
-          "stars": 2,
-          "destructionPercentage": 89,
-          "order": 37,
-          "duration": 180
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 104,
+          "duration": 122
         }
       },
       {
@@ -1732,6 +1820,14 @@
             "destructionPercentage": 74,
             "order": 69,
             "duration": 145
+          },
+          {
+            "attackerTag": "#2CPGL9P9L",
+            "defenderTag": "#9VU0VU90G",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 101,
+            "duration": 136
           }
         ],
         "opponentAttacks": 1,
@@ -1767,7 +1863,7 @@
             "duration": 109
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#G9CC9G2VQ",
           "defenderTag": "#Q9LYG02CJ",
@@ -1792,14 +1888,14 @@
             "duration": 152
           }
         ],
-        "opponentAttacks": 3,
+        "opponentAttacks": 4,
         "bestOpponentAttack": {
-          "attackerTag": "#90LVV2QJG",
+          "attackerTag": "#UJP2UYRY",
           "defenderTag": "#GP9RGC2R0",
-          "stars": 2,
-          "destructionPercentage": 90,
-          "order": 76,
-          "duration": 180
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 102,
+          "duration": 90
         }
       },
       {
@@ -1939,7 +2035,15 @@
             "duration": 131
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#UJP2UYRY",
+          "defenderTag": "#QV9RG0QLC",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 105,
+          "duration": 67
+        }
       },
       {
         "tag": "#9J8RYCL99",
