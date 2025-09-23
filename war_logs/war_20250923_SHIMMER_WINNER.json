@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Uwe8sJr6b6dIEiWFEd9k-ODCbVwotrNdkfZKeEOHr4M.png"
     },
     "clanLevel": 10,
-    "attacks": 30,
-    "stars": 58,
-    "destructionPercentage": 59.54286,
+    "attacks": 32,
+    "stars": 60,
+    "destructionPercentage": 61.685715,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -384,6 +384,24 @@
         "name": "Robin",
         "townhallLevel": 15,
         "mapPosition": 22,
+        "attacks": [
+          {
+            "attackerTag": "#QQPYQPV0C",
+            "defenderTag": "#G2CLL9YQ8",
+            "stars": 2,
+            "destructionPercentage": 75,
+            "order": 54,
+            "duration": 98
+          },
+          {
+            "attackerTag": "#QQPYQPV0C",
+            "defenderTag": "#YYRV8RYC8",
+            "stars": 2,
+            "destructionPercentage": 80,
+            "order": 55,
+            "duration": 113
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#G2CLL9YQ8",
@@ -414,14 +432,14 @@
         "name": "83c",
         "townhallLevel": 17,
         "mapPosition": 3,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#PYYG22J8L",
+          "attackerTag": "#9UGY2VRUP",
           "defenderTag": "#QYCLC0JLL",
-          "stars": 2,
-          "destructionPercentage": 82,
-          "order": 4,
-          "duration": 165
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 53,
+          "duration": 157
         }
       },
       {
@@ -709,9 +727,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3tvARf1rjvMRljQH3N3bY2JC2QK-4ABhJ-2XS7jQSfw.png"
     },
     "clanLevel": 19,
-    "attacks": 22,
-    "stars": 55,
-    "destructionPercentage": 55.57143,
+    "attacks": 23,
+    "stars": 56,
+    "destructionPercentage": 56.085712,
     "members": [
       {
         "tag": "#QC9QUL0JL",
@@ -894,7 +912,7 @@
         "name": "^Aulia Jasmine^",
         "townhallLevel": 14,
         "mapPosition": 30,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#QPPYC0V90",
           "defenderTag": "#YYRV8RYC8",
@@ -1126,7 +1144,15 @@
             "duration": 131
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QQPYQPV0C",
+          "defenderTag": "#G2CLL9YQ8",
+          "stars": 2,
+          "destructionPercentage": 75,
+          "order": 54,
+          "duration": 98
+        }
       },
       {
         "tag": "#2Y8JVQ9LU",
@@ -1277,6 +1303,16 @@
         "name": "TB\u2763\ufe0fEl Zain 3",
         "townhallLevel": 17,
         "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#9UGY2VRUP",
+            "defenderTag": "#QYCLC0JLL",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 53,
+            "duration": 157
+          }
+        ],
         "opponentAttacks": 4,
         "bestOpponentAttack": {
           "attackerTag": "#2R2JYRRU",
