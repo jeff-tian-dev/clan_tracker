@@ -15,7 +15,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Uwe8sJr6b6dIEiWFEd9k-ODCbVwotrNdkfZKeEOHr4M.png"
     },
     "clanLevel": 10,
-    "attacks": 54,
+    "attacks": 57,
     "stars": 93,
     "destructionPercentage": 91.34286,
     "members": [
@@ -318,6 +318,16 @@
         "name": "\u24c2\ufe0fBIG COCHY3\u24c2\ufe0f",
         "townhallLevel": 15,
         "mapPosition": 17,
+        "attacks": [
+          {
+            "attackerTag": "#9U2YP0RY",
+            "defenderTag": "#Q0VPCLYVQ",
+            "stars": 2,
+            "destructionPercentage": 92,
+            "order": 110,
+            "duration": 137
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#8J99CJY0P",
@@ -396,6 +406,24 @@
         "name": "You",
         "townhallLevel": 15,
         "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#22GQU2V2V",
+            "defenderTag": "#G2CLL9YQ8",
+            "stars": 1,
+            "destructionPercentage": 78,
+            "order": 111,
+            "duration": 139
+          },
+          {
+            "attackerTag": "#22GQU2V2V",
+            "defenderTag": "#Q0VPCLYVQ",
+            "stars": 2,
+            "destructionPercentage": 78,
+            "order": 112,
+            "duration": 133
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#LCGCUCQ2U",
@@ -1706,7 +1734,7 @@
             "duration": 131
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#QQPYQPV0C",
           "defenderTag": "#G2CLL9YQ8",
@@ -1903,7 +1931,7 @@
         "name": "Echo_Kyy",
         "townhallLevel": 15,
         "mapPosition": 13,
-        "opponentAttacks": 1,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
           "attackerTag": "#90LVV2QJG",
           "defenderTag": "#Q0VPCLYVQ",
