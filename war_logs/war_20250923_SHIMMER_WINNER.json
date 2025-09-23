@@ -436,14 +436,14 @@
             "duration": 132
           }
         ],
-        "opponentAttacks": 3,
+        "opponentAttacks": 4,
         "bestOpponentAttack": {
-          "attackerTag": "#GY2YR0YCV",
+          "attackerTag": "#GP9RGC2R0",
           "defenderTag": "#J88YJGY9",
-          "stars": 2,
-          "destructionPercentage": 98,
-          "order": 48,
-          "duration": 165
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 97,
+          "duration": 152
         }
       },
       {
@@ -971,9 +971,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3tvARf1rjvMRljQH3N3bY2JC2QK-4ABhJ-2XS7jQSfw.png"
     },
     "clanLevel": 19,
-    "attacks": 50,
-    "stars": 100,
-    "destructionPercentage": 98.88571,
+    "attacks": 51,
+    "stars": 101,
+    "destructionPercentage": 98.942856,
     "members": [
       {
         "tag": "#QC9QUL0JL",
@@ -1756,6 +1756,16 @@
         "name": "XinThePublic",
         "townhallLevel": 15,
         "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#GP9RGC2R0",
+            "defenderTag": "#J88YJGY9",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 97,
+            "duration": 152
+          }
+        ],
         "opponentAttacks": 3,
         "bestOpponentAttack": {
           "attackerTag": "#90LVV2QJG",
