@@ -15,15 +15,33 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Uwe8sJr6b6dIEiWFEd9k-ODCbVwotrNdkfZKeEOHr4M.png"
     },
     "clanLevel": 10,
-    "attacks": 32,
-    "stars": 60,
-    "destructionPercentage": 61.685715,
+    "attacks": 34,
+    "stars": 62,
+    "destructionPercentage": 64.62857,
     "members": [
       {
         "tag": "#RUVPQQR0",
         "name": "Badboy101",
         "townhallLevel": 13,
         "mapPosition": 34,
+        "attacks": [
+          {
+            "attackerTag": "#RUVPQQR0",
+            "defenderTag": "#GYPYP8899",
+            "stars": 1,
+            "destructionPercentage": 88,
+            "order": 67,
+            "duration": 104
+          },
+          {
+            "attackerTag": "#RUVPQQR0",
+            "defenderTag": "#G8QVC8CQP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 68,
+            "duration": 104
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#GRJ9R08R0",
@@ -892,14 +910,14 @@
         "name": "Hexa",
         "townhallLevel": 12,
         "mapPosition": 35,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#GGYGQ8098",
+          "attackerTag": "#RUVPQQR0",
           "defenderTag": "#G8QVC8CQP",
-          "stars": 2,
-          "destructionPercentage": 85,
-          "order": 24,
-          "duration": 146
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 68,
+          "duration": 104
         }
       },
       {
@@ -1363,7 +1381,15 @@
             "duration": 100
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#RUVPQQR0",
+          "defenderTag": "#GYPYP8899",
+          "stars": 1,
+          "destructionPercentage": 88,
+          "order": 67,
+          "duration": 104
+        }
       },
       {
         "tag": "#2CPGL9P9L",
