@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Uwe8sJr6b6dIEiWFEd9k-ODCbVwotrNdkfZKeEOHr4M.png"
     },
     "clanLevel": 10,
-    "attacks": 34,
-    "stars": 62,
-    "destructionPercentage": 64.62857,
+    "attacks": 38,
+    "stars": 67,
+    "destructionPercentage": 68.685715,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -378,7 +378,7 @@
             "duration": 132
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#GY2YR0YCV",
           "defenderTag": "#J88YJGY9",
@@ -562,13 +562,13 @@
             "duration": 160
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#PYYG22J8L",
+          "attackerTag": "#YVU98PV0C",
           "defenderTag": "#G28CVVRJL",
           "stars": 2,
-          "destructionPercentage": 87,
-          "order": 12,
+          "destructionPercentage": 99,
+          "order": 71,
           "duration": 180
         }
       },
@@ -577,6 +577,24 @@
         "name": "OPTIMUS PRIME",
         "townhallLevel": 16,
         "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#PR88G9LPG",
+            "defenderTag": "#P2QU8P0R2",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 72,
+            "duration": 164
+          },
+          {
+            "attackerTag": "#PR88G9LPG",
+            "defenderTag": "#92Q80Y2U9",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 74,
+            "duration": 156
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -642,7 +660,15 @@
             "duration": 148
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#G929RQG2Y",
+          "defenderTag": "#2R2JYRRU",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 75,
+          "duration": 135
+        }
       },
       {
         "tag": "#GGYGQ8098",
@@ -755,6 +781,24 @@
         "name": "OPTIMUS PRIME",
         "townhallLevel": 15,
         "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#90LVV2QJG",
+            "defenderTag": "#Q0VPCLYVQ",
+            "stars": 2,
+            "destructionPercentage": 92,
+            "order": 70,
+            "duration": 180
+          },
+          {
+            "attackerTag": "#90LVV2QJG",
+            "defenderTag": "#GP9RGC2R0",
+            "stars": 2,
+            "destructionPercentage": 90,
+            "order": 76,
+            "duration": 180
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#8J99CJY0P",
@@ -801,9 +845,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/3tvARf1rjvMRljQH3N3bY2JC2QK-4ABhJ-2XS7jQSfw.png"
     },
     "clanLevel": 19,
-    "attacks": 34,
-    "stars": 78,
-    "destructionPercentage": 75.91428,
+    "attacks": 38,
+    "stars": 81,
+    "destructionPercentage": 79.11429,
     "members": [
       {
         "tag": "#QC9QUL0JL",
@@ -825,14 +869,14 @@
         "name": "\u00a5\u2605Modin\u2605Pur\u2605\u00a5",
         "townhallLevel": 16,
         "mapPosition": 7,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#8VQYULVQQ",
+          "attackerTag": "#PR88G9LPG",
           "defenderTag": "#92Q80Y2U9",
-          "stars": 2,
-          "destructionPercentage": 79,
-          "order": 26,
-          "duration": 140
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 74,
+          "duration": 156
         }
       },
       {
@@ -973,6 +1017,14 @@
             "destructionPercentage": 100,
             "order": 2,
             "duration": 157
+          },
+          {
+            "attackerTag": "#YVU98PV0C",
+            "defenderTag": "#G28CVVRJL",
+            "stars": 2,
+            "destructionPercentage": 99,
+            "order": 71,
+            "duration": 180
           }
         ],
         "opponentAttacks": 1,
@@ -1111,6 +1163,24 @@
         "name": "katara",
         "townhallLevel": 16,
         "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#G929RQG2Y",
+            "defenderTag": "#G28CVVRJL",
+            "stars": 2,
+            "destructionPercentage": 61,
+            "order": 73,
+            "duration": 98
+          },
+          {
+            "attackerTag": "#G929RQG2Y",
+            "defenderTag": "#2R2JYRRU",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 75,
+            "duration": 135
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#PRGGL2J2V",
@@ -1232,14 +1302,14 @@
         "name": "zain",
         "townhallLevel": 16,
         "mapPosition": 6,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#8VQYULVQQ",
+          "attackerTag": "#PR88G9LPG",
           "defenderTag": "#P2QU8P0R2",
-          "stars": 1,
-          "destructionPercentage": 91,
-          "order": 25,
-          "duration": 173
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 72,
+          "duration": 164
         }
       },
       {
@@ -1396,6 +1466,16 @@
         "name": "Mr. CoRo",
         "townhallLevel": 15,
         "mapPosition": 25,
+        "attacks": [
+          {
+            "attackerTag": "#2CPGL9P9L",
+            "defenderTag": "#J88YJGY9",
+            "stars": 2,
+            "destructionPercentage": 74,
+            "order": 69,
+            "duration": 145
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -1410,14 +1490,14 @@
         "name": "XinThePublic",
         "townhallLevel": 15,
         "mapPosition": 12,
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#PRGGL2J2V",
+          "attackerTag": "#90LVV2QJG",
           "defenderTag": "#GP9RGC2R0",
           "stars": 2,
-          "destructionPercentage": 70,
-          "order": 45,
-          "duration": 146
+          "destructionPercentage": 90,
+          "order": 76,
+          "duration": 180
         }
       },
       {
@@ -1425,7 +1505,15 @@
         "name": "Echo_Kyy",
         "townhallLevel": 15,
         "mapPosition": 13,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#90LVV2QJG",
+          "defenderTag": "#Q0VPCLYVQ",
+          "stars": 2,
+          "destructionPercentage": 92,
+          "order": 70,
+          "duration": 180
+        }
       },
       {
         "tag": "#PYYG22J8L",
