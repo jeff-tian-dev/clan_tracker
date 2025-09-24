@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Uwe8sJr6b6dIEiWFEd9k-ODCbVwotrNdkfZKeEOHr4M.png"
     },
     "clanLevel": 10,
-    "attacks": 8,
-    "stars": 22,
-    "destructionPercentage": 22.0,
+    "attacks": 13,
+    "stars": 35,
+    "destructionPercentage": 33.885715,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -77,6 +77,24 @@
         "name": "je suis excit\u00e9",
         "townhallLevel": 17,
         "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#Q9QU8L8YV",
+            "defenderTag": "#98PUQLLY9",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 12,
+            "duration": 119
+          },
+          {
+            "attackerTag": "#Q9QU8L8YV",
+            "defenderTag": "#P0Q9CCR9P",
+            "stars": 2,
+            "destructionPercentage": 86,
+            "order": 13,
+            "duration": 145
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -300,6 +318,16 @@
         "name": "Aurelian",
         "townhallLevel": 12,
         "mapPosition": 35,
+        "attacks": [
+          {
+            "attackerTag": "#GGYGQ8098",
+            "defenderTag": "#R0QY0UYUP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 11,
+            "duration": 44
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -328,6 +356,24 @@
         "name": "\u2b50\u2b505 StarFree\u2b50\u2b50\u2b50",
         "townhallLevel": 17,
         "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#Y2PVPPU8C",
+            "defenderTag": "#9R2V92G2C",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 14,
+            "duration": 123
+          },
+          {
+            "attackerTag": "#Y2PVPPU8C",
+            "defenderTag": "#9RVYVJV2J",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 15,
+            "duration": 175
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -400,14 +446,14 @@
         "name": "banoye bineshan",
         "townhallLevel": 17,
         "mapPosition": 3,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#YQ8L9JVJ2",
+          "attackerTag": "#Q9QU8L8YV",
           "defenderTag": "#P0Q9CCR9P",
-          "stars": 1,
-          "destructionPercentage": 70,
-          "order": 3,
-          "duration": 138
+          "stars": 2,
+          "destructionPercentage": 86,
+          "order": 13,
+          "duration": 145
         }
       },
       {
@@ -510,7 +556,15 @@
         "name": "\u0641\u0642\u0637 \u0628\u062e\u0627\u0637\u0631\u062a\u0648M",
         "townhallLevel": 17,
         "mapPosition": 5,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q9QU8L8YV",
+          "defenderTag": "#98PUQLLY9",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 12,
+          "duration": 119
+        }
       },
       {
         "tag": "#9GLYJ809J",
@@ -531,7 +585,15 @@
         "name": "Dr.Angel",
         "townhallLevel": 16,
         "mapPosition": 11,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Y2PVPPU8C",
+          "defenderTag": "#9RVYVJV2J",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 15,
+          "duration": 175
+        }
       },
       {
         "tag": "#9J0PGPG9L",
@@ -598,14 +660,30 @@
         "name": "\u0631\u0648\u06cc\u0627\u06cc \u0634\u0646\u06cc",
         "townhallLevel": 8,
         "mapPosition": 35,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GGYGQ8098",
+          "defenderTag": "#R0QY0UYUP",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 11,
+          "duration": 44
+        }
       },
       {
         "tag": "#9R2V92G2C",
         "name": "\u2764\ufe0fSOGAND\u2764\ufe0f",
         "townhallLevel": 16,
         "mapPosition": 10,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Y2PVPPU8C",
+          "defenderTag": "#9R2V92G2C",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 14,
+          "duration": 123
+        }
       },
       {
         "tag": "#PL90V8P9R",
