@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Uwe8sJr6b6dIEiWFEd9k-ODCbVwotrNdkfZKeEOHr4M.png"
     },
     "clanLevel": 10,
-    "attacks": 13,
-    "stars": 35,
-    "destructionPercentage": 33.885715,
+    "attacks": 18,
+    "stars": 47,
+    "destructionPercentage": 45.342857,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -134,6 +134,16 @@
         "name": "Regis\u6881",
         "townhallLevel": 16,
         "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#PL09LLPUY",
+            "defenderTag": "#G20QPGVRG",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 20,
+            "duration": 106
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -311,6 +321,24 @@
         "name": "taz",
         "townhallLevel": 17,
         "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#2R2JYRRU",
+            "defenderTag": "#P0Q9CCR9P",
+            "stars": 2,
+            "destructionPercentage": 87,
+            "order": 18,
+            "duration": 163
+          },
+          {
+            "attackerTag": "#2R2JYRRU",
+            "defenderTag": "#JCU8JJ82",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 19,
+            "duration": 125
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -396,6 +424,24 @@
         "name": "Swift",
         "townhallLevel": 16,
         "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#PRGGL2J2V",
+            "defenderTag": "#9GLYJ809J",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 16,
+            "duration": 148
+          },
+          {
+            "attackerTag": "#PRGGL2J2V",
+            "defenderTag": "#9C0U02PQR",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 17,
+            "duration": 87
+          }
+        ],
         "opponentAttacks": 0
       }
     ]
@@ -446,14 +492,14 @@
         "name": "banoye bineshan",
         "townhallLevel": 17,
         "mapPosition": 3,
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#Q9QU8L8YV",
+          "attackerTag": "#2R2JYRRU",
           "defenderTag": "#P0Q9CCR9P",
           "stars": 2,
-          "destructionPercentage": 86,
-          "order": 13,
-          "duration": 145
+          "destructionPercentage": 87,
+          "order": 18,
+          "duration": 163
         }
       },
       {
@@ -520,7 +566,15 @@
         "name": "pro.max",
         "townhallLevel": 16,
         "mapPosition": 15,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PL09LLPUY",
+          "defenderTag": "#G20QPGVRG",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 20,
+          "duration": 106
+        }
       },
       {
         "tag": "#YLRP98L8Q",
@@ -571,7 +625,15 @@
         "name": "mahtab",
         "townhallLevel": 16,
         "mapPosition": 12,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PRGGL2J2V",
+          "defenderTag": "#9GLYJ809J",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 16,
+          "duration": 148
+        }
       },
       {
         "tag": "#YJYR9UP90",
@@ -614,7 +676,15 @@
         "name": "LoveLiciousGril",
         "townhallLevel": 16,
         "mapPosition": 13,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PRGGL2J2V",
+          "defenderTag": "#9C0U02PQR",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 17,
+          "duration": 87
+        }
       },
       {
         "tag": "#PLJ89URP",
@@ -755,7 +825,15 @@
         "name": "\u2728RAMTIN\u2728",
         "townhallLevel": 16,
         "mapPosition": 14,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2R2JYRRU",
+          "defenderTag": "#JCU8JJ82",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 19,
+          "duration": 125
+        }
       },
       {
         "tag": "#9VLJY280G",
