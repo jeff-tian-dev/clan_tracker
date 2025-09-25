@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Uwe8sJr6b6dIEiWFEd9k-ODCbVwotrNdkfZKeEOHr4M.png"
     },
     "clanLevel": 10,
-    "attacks": 41,
-    "stars": 94,
-    "destructionPercentage": 92.91428,
+    "attacks": 43,
+    "stars": 95,
+    "destructionPercentage": 93.14286,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -81,7 +81,15 @@
             "duration": 78
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QLCVUCQ8P",
+          "defenderTag": "#UJP2UYRY",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 67,
+          "duration": 141
+        }
       },
       {
         "tag": "#GLU9LC2LG",
@@ -253,6 +261,24 @@
         "name": "consent",
         "townhallLevel": 13,
         "mapPosition": 34,
+        "attacks": [
+          {
+            "attackerTag": "#QVPJG8JPJ",
+            "defenderTag": "#LP022C09J",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 65,
+            "duration": 129
+          },
+          {
+            "attackerTag": "#QVPJG8JPJ",
+            "defenderTag": "#8LQQRR2LG",
+            "stars": 2,
+            "destructionPercentage": 98,
+            "order": 66,
+            "duration": 180
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#GL2R8QR2C",
@@ -801,9 +827,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/wD0d5SOaDJ1oHs0ysnAdxP2OqgJmSlJphgrl4dSL_2k.png"
     },
     "clanLevel": 26,
-    "attacks": 23,
-    "stars": 49,
-    "destructionPercentage": 50.142857,
+    "attacks": 24,
+    "stars": 52,
+    "destructionPercentage": 53.0,
     "members": [
       {
         "tag": "#QJ8VY28JP",
@@ -840,13 +866,13 @@
         "name": "Dr.yasinm2002",
         "townhallLevel": 16,
         "mapPosition": 28,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#QPPYC0V90",
+          "attackerTag": "#QVPJG8JPJ",
           "defenderTag": "#8LQQRR2LG",
           "stars": 2,
-          "destructionPercentage": 96,
-          "order": 34,
+          "destructionPercentage": 98,
+          "order": 66,
           "duration": 180
         }
       },
@@ -913,14 +939,14 @@
         "name": "kirito kazuto",
         "townhallLevel": 16,
         "mapPosition": 29,
-        "opponentAttacks": 3,
+        "opponentAttacks": 4,
         "bestOpponentAttack": {
-          "attackerTag": "#Q2QQL2YVV",
+          "attackerTag": "#QVPJG8JPJ",
           "defenderTag": "#LP022C09J",
-          "stars": 2,
-          "destructionPercentage": 94,
-          "order": 55,
-          "duration": 180
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 65,
+          "duration": 129
         }
       },
       {
@@ -1353,6 +1379,16 @@
         "name": "mM.king.Mm",
         "townhallLevel": 16,
         "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#QLCVUCQ8P",
+            "defenderTag": "#UJP2UYRY",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 67,
+            "duration": 141
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#GLU9LC2LG",
