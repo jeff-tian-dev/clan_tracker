@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Uwe8sJr6b6dIEiWFEd9k-ODCbVwotrNdkfZKeEOHr4M.png"
     },
     "clanLevel": 10,
-    "attacks": 36,
-    "stars": 83,
-    "destructionPercentage": 84.11429,
+    "attacks": 38,
+    "stars": 86,
+    "destructionPercentage": 85.14286,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -146,7 +146,33 @@
         "name": "INDxSayan",
         "townhallLevel": 16,
         "mapPosition": 13,
-        "opponentAttacks": 0
+        "attacks": [
+          {
+            "attackerTag": "#GYGC88RGG",
+            "defenderTag": "#990P28VJ8",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 60,
+            "duration": 171
+          },
+          {
+            "attackerTag": "#GYGC88RGG",
+            "defenderTag": "#PLJ89URP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 61,
+            "duration": 131
+          }
+        ],
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#JCU8JJ82",
+          "defenderTag": "#GYGC88RGG",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 59,
+          "duration": 166
+        }
       },
       {
         "tag": "#8VQYULVQQ",
@@ -242,7 +268,15 @@
         "name": "gun",
         "townhallLevel": 16,
         "mapPosition": 12,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#JCU8JJ82",
+          "defenderTag": "#2CQLC28UP",
+          "stars": 2,
+          "destructionPercentage": 81,
+          "order": 58,
+          "duration": 174
+        }
       },
       {
         "tag": "#YQ8L9JVJ2",
@@ -741,9 +775,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/wD0d5SOaDJ1oHs0ysnAdxP2OqgJmSlJphgrl4dSL_2k.png"
     },
     "clanLevel": 26,
-    "attacks": 21,
-    "stars": 44,
-    "destructionPercentage": 44.971428,
+    "attacks": 23,
+    "stars": 49,
+    "destructionPercentage": 50.142857,
     "members": [
       {
         "tag": "#QJ8VY28JP",
@@ -765,14 +799,14 @@
         "name": "Archer2023",
         "townhallLevel": 15,
         "mapPosition": 18,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#J88YJGY9",
+          "attackerTag": "#GYGC88RGG",
           "defenderTag": "#990P28VJ8",
-          "stars": 2,
-          "destructionPercentage": 81,
-          "order": 23,
-          "duration": 160
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 60,
+          "duration": 171
         }
       },
       {
@@ -1195,14 +1229,14 @@
             "duration": 160
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#J88YJGY9",
+          "attackerTag": "#GYGC88RGG",
           "defenderTag": "#PLJ89URP",
-          "stars": 1,
-          "destructionPercentage": 83,
-          "order": 25,
-          "duration": 150
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 61,
+          "duration": 131
         }
       },
       {
@@ -1405,6 +1439,24 @@
         "name": "\u2728RAMTIN\u2728",
         "townhallLevel": 16,
         "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#JCU8JJ82",
+            "defenderTag": "#2CQLC28UP",
+            "stars": 2,
+            "destructionPercentage": 81,
+            "order": 58,
+            "duration": 174
+          },
+          {
+            "attackerTag": "#JCU8JJ82",
+            "defenderTag": "#GYGC88RGG",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 59,
+            "duration": 166
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#2R2JYRRU",
