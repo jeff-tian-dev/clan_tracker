@@ -24,7 +24,15 @@
         "name": "Badboy101",
         "townhallLevel": 13,
         "mapPosition": 33,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#9QVPQR8LY",
+          "defenderTag": "#RUVPQQR0",
+          "stars": 1,
+          "destructionPercentage": 65,
+          "order": 56,
+          "duration": 127
+        }
       },
       {
         "tag": "#QYL88U9P0",
@@ -413,7 +421,15 @@
             "duration": 93
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#9QVPQR8LY",
+          "defenderTag": "#QRP2RLV02",
+          "stars": 1,
+          "destructionPercentage": 39,
+          "order": 57,
+          "duration": 107
+        }
       },
       {
         "tag": "#22C0YG88",
@@ -725,9 +741,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/wD0d5SOaDJ1oHs0ysnAdxP2OqgJmSlJphgrl4dSL_2k.png"
     },
     "clanLevel": 26,
-    "attacks": 19,
-    "stars": 42,
-    "destructionPercentage": 42.0,
+    "attacks": 21,
+    "stars": 44,
+    "destructionPercentage": 44.971428,
     "members": [
       {
         "tag": "#QJ8VY28JP",
@@ -779,6 +795,24 @@
         "name": "sardar",
         "townhallLevel": 13,
         "mapPosition": 31,
+        "attacks": [
+          {
+            "attackerTag": "#9QVPQR8LY",
+            "defenderTag": "#RUVPQQR0",
+            "stars": 1,
+            "destructionPercentage": 65,
+            "order": 56,
+            "duration": 127
+          },
+          {
+            "attackerTag": "#9QVPQR8LY",
+            "defenderTag": "#QRP2RLV02",
+            "stars": 1,
+            "destructionPercentage": 39,
+            "order": 57,
+            "duration": 107
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#QRP2RLV02",
