@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Uwe8sJr6b6dIEiWFEd9k-ODCbVwotrNdkfZKeEOHr4M.png"
     },
     "clanLevel": 10,
-    "attacks": 31,
-    "stars": 74,
-    "destructionPercentage": 74.74286,
+    "attacks": 32,
+    "stars": 76,
+    "destructionPercentage": 77.542854,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -31,7 +31,15 @@
         "name": "voldemort",
         "townhallLevel": 15,
         "mapPosition": 24,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PPGVRQCVY",
+          "defenderTag": "#QYL88U9P0",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 41,
+          "duration": 119
+        }
       },
       {
         "tag": "#L2Y892VU8",
@@ -80,7 +88,15 @@
             "duration": 168
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YJYR9UP90",
+          "defenderTag": "#GLU9LC2LG",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 43,
+          "duration": 148
+        }
       },
       {
         "tag": "#Q9QU8L8YV",
@@ -286,7 +302,15 @@
         "name": "Robin",
         "townhallLevel": 15,
         "mapPosition": 22,
-        "opponentAttacks": 0
+        "opponentAttacks": 2,
+        "bestOpponentAttack": {
+          "attackerTag": "#YJYR9UP90",
+          "defenderTag": "#QQPYQPV0C",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 42,
+          "duration": 106
+        }
       },
       {
         "tag": "#YJ2UV2GY",
@@ -328,7 +352,15 @@
             "duration": 119
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 2,
+        "bestOpponentAttack": {
+          "attackerTag": "#98PUQLLY9",
+          "defenderTag": "#QYCLC0JLL",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 38,
+          "duration": 158
+        }
       },
       {
         "tag": "#QRP2RLV02",
@@ -360,6 +392,16 @@
         "name": "joseph",
         "townhallLevel": 15,
         "mapPosition": 20,
+        "attacks": [
+          {
+            "attackerTag": "#22C0YG88",
+            "defenderTag": "#PL90V8P9R",
+            "stars": 2,
+            "destructionPercentage": 98,
+            "order": 36,
+            "duration": 180
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -457,7 +499,15 @@
             "duration": 125
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#98PUQLLY9",
+          "defenderTag": "#2R2JYRRU",
+          "stars": 2,
+          "destructionPercentage": 82,
+          "order": 39,
+          "duration": 126
+        }
       },
       {
         "tag": "#GGYGQ8098",
@@ -589,9 +639,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/wD0d5SOaDJ1oHs0ysnAdxP2OqgJmSlJphgrl4dSL_2k.png"
     },
     "clanLevel": 26,
-    "attacks": 4,
-    "stars": 11,
-    "destructionPercentage": 11.2,
+    "attacks": 11,
+    "stars": 25,
+    "destructionPercentage": 24.971428,
     "members": [
       {
         "tag": "#QJ8VY28JP",
@@ -658,6 +708,16 @@
         "name": "banoye bineshan",
         "townhallLevel": 17,
         "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#P0Q9CCR9P",
+            "defenderTag": "#QYCLC0JLL",
+            "stars": 1,
+            "destructionPercentage": 63,
+            "order": 37,
+            "duration": 117
+          }
+        ],
         "opponentAttacks": 4,
         "bestOpponentAttack": {
           "attackerTag": "#QYCLC0JLL",
@@ -795,6 +855,24 @@
         "name": "\u24dc\u24d0\u24db\u24d8\u24d7\u24d4 \u24dd\u24de\u24de\u24e1\u24d8",
         "townhallLevel": 15,
         "mapPosition": 22,
+        "attacks": [
+          {
+            "attackerTag": "#PPGVRQCVY",
+            "defenderTag": "#QQPYQPV0C",
+            "stars": 2,
+            "destructionPercentage": 89,
+            "order": 40,
+            "duration": 145
+          },
+          {
+            "attackerTag": "#PPGVRQCVY",
+            "defenderTag": "#QYL88U9P0",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 41,
+            "duration": 119
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -802,6 +880,24 @@
         "name": "\u0641\u0642\u0637 \u0628\u062e\u0627\u0637\u0631\u062a\u0648M",
         "townhallLevel": 17,
         "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#98PUQLLY9",
+            "defenderTag": "#QYCLC0JLL",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 38,
+            "duration": 158
+          },
+          {
+            "attackerTag": "#98PUQLLY9",
+            "defenderTag": "#2R2JYRRU",
+            "stars": 2,
+            "destructionPercentage": 82,
+            "order": 39,
+            "duration": 126
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#Q9QU8L8YV",
@@ -832,6 +928,24 @@
         "name": "\u2713\u2606\u0645\u0639\u0645\u0627\u06cc\u2764\u0645\u0646\u2606\u2713",
         "townhallLevel": 15,
         "mapPosition": 24,
+        "attacks": [
+          {
+            "attackerTag": "#YJYR9UP90",
+            "defenderTag": "#QQPYQPV0C",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 42,
+            "duration": 106
+          },
+          {
+            "attackerTag": "#YJYR9UP90",
+            "defenderTag": "#GLU9LC2LG",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 43,
+            "duration": 148
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -984,7 +1098,15 @@
         "name": "lost in you",
         "townhallLevel": 15,
         "mapPosition": 21,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#22C0YG88",
+          "defenderTag": "#PL90V8P9R",
+          "stars": 2,
+          "destructionPercentage": 98,
+          "order": 36,
+          "duration": 180
+        }
       },
       {
         "tag": "#QLCVUCQ8P",
