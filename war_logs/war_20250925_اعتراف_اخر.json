@@ -24,14 +24,14 @@
         "name": "Badboy101",
         "townhallLevel": 13,
         "mapPosition": 33,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#9QVPQR8LY",
+          "attackerTag": "#9VLJY280G",
           "defenderTag": "#RUVPQQR0",
-          "stars": 1,
-          "destructionPercentage": 65,
-          "order": 56,
-          "duration": 127
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 69,
+          "duration": 89
         }
       },
       {
@@ -507,14 +507,14 @@
             "duration": 93
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#9QVPQR8LY",
+          "attackerTag": "#9VLJY280G",
           "defenderTag": "#QRP2RLV02",
-          "stars": 1,
-          "destructionPercentage": 39,
-          "order": 57,
-          "duration": 107
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 68,
+          "duration": 87
         }
       },
       {
@@ -827,9 +827,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/wD0d5SOaDJ1oHs0ysnAdxP2OqgJmSlJphgrl4dSL_2k.png"
     },
     "clanLevel": 26,
-    "attacks": 24,
-    "stars": 52,
-    "destructionPercentage": 53.0,
+    "attacks": 26,
+    "stars": 56,
+    "destructionPercentage": 55.74286,
     "members": [
       {
         "tag": "#QJ8VY28JP",
@@ -1558,6 +1558,24 @@
         "name": "\u062f\u0644\u0634\u0627\u062f",
         "townhallLevel": 16,
         "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#9VLJY280G",
+            "defenderTag": "#QRP2RLV02",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 68,
+            "duration": 87
+          },
+          {
+            "attackerTag": "#9VLJY280G",
+            "defenderTag": "#RUVPQQR0",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 69,
+            "duration": 89
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#8VQYULVQQ",
