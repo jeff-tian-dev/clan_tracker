@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Uwe8sJr6b6dIEiWFEd9k-ODCbVwotrNdkfZKeEOHr4M.png"
     },
     "clanLevel": 10,
-    "attacks": 38,
-    "stars": 86,
-    "destructionPercentage": 85.14286,
+    "attacks": 41,
+    "stars": 94,
+    "destructionPercentage": 92.91428,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -372,6 +372,24 @@
         "name": "Robin",
         "townhallLevel": 15,
         "mapPosition": 22,
+        "attacks": [
+          {
+            "attackerTag": "#QQPYQPV0C",
+            "defenderTag": "#P0VYRLGU9",
+            "stars": 2,
+            "destructionPercentage": 72,
+            "order": 62,
+            "duration": 95
+          },
+          {
+            "attackerTag": "#QQPYQPV0C",
+            "defenderTag": "#GL2R8QR2C",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 63,
+            "duration": 85
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#YJYR9UP90",
@@ -395,6 +413,14 @@
             "destructionPercentage": 90,
             "order": 29,
             "duration": 121
+          },
+          {
+            "attackerTag": "#YJ2UV2GY",
+            "defenderTag": "#YLRP98L8Q",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 64,
+            "duration": 103
           }
         ],
         "opponentAttacks": 1,
@@ -997,7 +1023,15 @@
             "duration": 123
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YJ2UV2GY",
+          "defenderTag": "#YLRP98L8Q",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 64,
+          "duration": 103
+        }
       },
       {
         "tag": "#92U90YJVL",
@@ -1352,7 +1386,15 @@
             "duration": 127
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QQPYQPV0C",
+          "defenderTag": "#GL2R8QR2C",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 63,
+          "duration": 85
+        }
       },
       {
         "tag": "#GUV0V89GV",
@@ -1402,7 +1444,15 @@
             "duration": 98
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QQPYQPV0C",
+          "defenderTag": "#P0VYRLGU9",
+          "stars": 2,
+          "destructionPercentage": 72,
+          "order": 62,
+          "duration": 95
+        }
       },
       {
         "tag": "#90RVYR8LJ",
