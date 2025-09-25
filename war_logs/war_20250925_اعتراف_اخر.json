@@ -597,7 +597,15 @@
             "duration": 71
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YLYG0P8G0",
+          "defenderTag": "#GP89QGJPC",
+          "stars": 2,
+          "destructionPercentage": 93,
+          "order": 76,
+          "duration": 173
+        }
       },
       {
         "tag": "#G28CVVRJL",
@@ -776,7 +784,15 @@
             "duration": 114
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YLRP98L8Q",
+          "defenderTag": "#G9CC9G2VQ",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 77,
+          "duration": 104
+        }
       },
       {
         "tag": "#LGGLYVUPP",
@@ -877,9 +893,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/wD0d5SOaDJ1oHs0ysnAdxP2OqgJmSlJphgrl4dSL_2k.png"
     },
     "clanLevel": 26,
-    "attacks": 28,
-    "stars": 60,
-    "destructionPercentage": 60.6,
+    "attacks": 30,
+    "stars": 65,
+    "destructionPercentage": 66.11429,
     "members": [
       {
         "tag": "#QJ8VY28JP",
@@ -1019,6 +1035,16 @@
         "name": "\u0627\u0639\u062a\u0631\u0627\u0641 \u0627\u062e\u0631",
         "townhallLevel": 15,
         "mapPosition": 26,
+        "attacks": [
+          {
+            "attackerTag": "#YLYG0P8G0",
+            "defenderTag": "#GP89QGJPC",
+            "stars": 2,
+            "destructionPercentage": 93,
+            "order": 76,
+            "duration": 173
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#G9CC9G2VQ",
@@ -1105,6 +1131,14 @@
             "destructionPercentage": 91,
             "order": 44,
             "duration": 123
+          },
+          {
+            "attackerTag": "#YLRP98L8Q",
+            "defenderTag": "#G9CC9G2VQ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 77,
+            "duration": 104
           }
         ],
         "opponentAttacks": 1,
