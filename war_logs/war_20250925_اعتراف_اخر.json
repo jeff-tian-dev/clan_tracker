@@ -15,7 +15,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Uwe8sJr6b6dIEiWFEd9k-ODCbVwotrNdkfZKeEOHr4M.png"
     },
     "clanLevel": 10,
-    "attacks": 46,
+    "attacks": 47,
     "stars": 97,
     "destructionPercentage": 95.91428,
     "members": [
@@ -255,7 +255,15 @@
             "duration": 180
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GQL0VCPQQ",
+          "defenderTag": "#Q2QQL2YVV",
+          "stars": 1,
+          "destructionPercentage": 70,
+          "order": 74,
+          "duration": 87
+        }
       },
       {
         "tag": "#9U2YP0RY",
@@ -399,7 +407,15 @@
             "duration": 180
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GQL0VCPQQ",
+          "defenderTag": "#QPPYC0V90",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 75,
+          "duration": 107
+        }
       },
       {
         "tag": "#QQPYQPV0C",
@@ -538,6 +554,14 @@
             "destructionPercentage": 98,
             "order": 36,
             "duration": 180
+          },
+          {
+            "attackerTag": "#22C0YG88",
+            "defenderTag": "#8LQQRR2LG",
+            "stars": 2,
+            "destructionPercentage": 78,
+            "order": 73,
+            "duration": 105
           }
         ],
         "opponentAttacks": 1,
@@ -853,9 +877,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/wD0d5SOaDJ1oHs0ysnAdxP2OqgJmSlJphgrl4dSL_2k.png"
     },
     "clanLevel": 26,
-    "attacks": 26,
-    "stars": 56,
-    "destructionPercentage": 55.74286,
+    "attacks": 28,
+    "stars": 60,
+    "destructionPercentage": 60.6,
     "members": [
       {
         "tag": "#QJ8VY28JP",
@@ -892,7 +916,7 @@
         "name": "Dr.yasinm2002",
         "townhallLevel": 16,
         "mapPosition": 28,
-        "opponentAttacks": 4,
+        "opponentAttacks": 5,
         "bestOpponentAttack": {
           "attackerTag": "#QVPJG8JPJ",
           "defenderTag": "#8LQQRR2LG",
@@ -1275,6 +1299,24 @@
         "name": "MAHDI",
         "townhallLevel": 13,
         "mapPosition": 30,
+        "attacks": [
+          {
+            "attackerTag": "#GQL0VCPQQ",
+            "defenderTag": "#Q2QQL2YVV",
+            "stars": 1,
+            "destructionPercentage": 70,
+            "order": 74,
+            "duration": 87
+          },
+          {
+            "attackerTag": "#GQL0VCPQQ",
+            "defenderTag": "#QPPYC0V90",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 75,
+            "duration": 107
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#QRP2RLV02",
