@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Uwe8sJr6b6dIEiWFEd9k-ODCbVwotrNdkfZKeEOHr4M.png"
     },
     "clanLevel": 10,
-    "attacks": 27,
-    "stars": 67,
-    "destructionPercentage": 67.0,
+    "attacks": 31,
+    "stars": 74,
+    "destructionPercentage": 74.74286,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -261,6 +261,24 @@
         "name": "Raghav",
         "townhallLevel": 15,
         "mapPosition": 28,
+        "attacks": [
+          {
+            "attackerTag": "#QPPYC0V90",
+            "defenderTag": "#LP022C09J",
+            "stars": 2,
+            "destructionPercentage": 75,
+            "order": 32,
+            "duration": 173
+          },
+          {
+            "attackerTag": "#QPPYC0V90",
+            "defenderTag": "#8LQQRR2LG",
+            "stars": 2,
+            "destructionPercentage": 96,
+            "order": 34,
+            "duration": 180
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -349,6 +367,24 @@
         "name": "sandip",
         "townhallLevel": 15,
         "mapPosition": 29,
+        "attacks": [
+          {
+            "attackerTag": "#GP89QGJPC",
+            "defenderTag": "#LP022C09J",
+            "stars": 1,
+            "destructionPercentage": 79,
+            "order": 33,
+            "duration": 93
+          },
+          {
+            "attackerTag": "#GP89QGJPC",
+            "defenderTag": "#QJ8VY28JP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 35,
+            "duration": 71
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -374,7 +410,15 @@
             "duration": 145
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#9YLQ08802",
+          "defenderTag": "#G28CVVRJL",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 30,
+          "duration": 170
+        }
       },
       {
         "tag": "#PR88G9LPG",
@@ -484,7 +528,15 @@
             "duration": 175
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#9YLQ08802",
+          "defenderTag": "#Y2PVPPU8C",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 31,
+          "duration": 121
+        }
       },
       {
         "tag": "#90LVV2QJG",
@@ -537,16 +589,24 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/wD0d5SOaDJ1oHs0ysnAdxP2OqgJmSlJphgrl4dSL_2k.png"
     },
     "clanLevel": 26,
-    "attacks": 2,
-    "stars": 5,
-    "destructionPercentage": 5.4857144,
+    "attacks": 4,
+    "stars": 11,
+    "destructionPercentage": 11.2,
     "members": [
       {
         "tag": "#QJ8VY28JP",
         "name": "NIMA",
         "townhallLevel": 13,
         "mapPosition": 32,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GP89QGJPC",
+          "defenderTag": "#QJ8VY28JP",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 35,
+          "duration": 71
+        }
       },
       {
         "tag": "#990P28VJ8",
@@ -568,7 +628,15 @@
         "name": "Dr.yasinm2002",
         "townhallLevel": 16,
         "mapPosition": 28,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QPPYC0V90",
+          "defenderTag": "#8LQQRR2LG",
+          "stars": 2,
+          "destructionPercentage": 96,
+          "order": 34,
+          "duration": 180
+        }
       },
       {
         "tag": "#9QVPQR8LY",
@@ -605,7 +673,15 @@
         "name": "kirito kazuto",
         "townhallLevel": 16,
         "mapPosition": 29,
-        "opponentAttacks": 0
+        "opponentAttacks": 2,
+        "bestOpponentAttack": {
+          "attackerTag": "#QPPYC0V90",
+          "defenderTag": "#LP022C09J",
+          "stars": 2,
+          "destructionPercentage": 75,
+          "order": 32,
+          "duration": 173
+        }
       },
       {
         "tag": "#9LG0UCQ0U",
@@ -634,6 +710,24 @@
         "name": "Ahmad",
         "townhallLevel": 17,
         "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#9YLQ08802",
+            "defenderTag": "#G28CVVRJL",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 30,
+            "duration": 170
+          },
+          {
+            "attackerTag": "#9YLQ08802",
+            "defenderTag": "#Y2PVPPU8C",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 31,
+            "duration": 121
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#G28CVVRJL",
