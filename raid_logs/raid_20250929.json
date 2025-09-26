@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250926T070000.000Z",
   "endTime": "20250929T070000.000Z",
-  "capitalTotalLoot": 73754,
-  "raidsCompleted": 0,
-  "totalAttacks": 17,
-  "enemyDistrictsDestroyed": 7,
+  "capitalTotalLoot": 98144,
+  "raidsCompleted": 1,
+  "totalAttacks": 25,
+  "enemyDistrictsDestroyed": 9,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -28,10 +28,18 @@
     {
       "tag": "#80228GJGL",
       "name": "myathpone.",
-      "attacks": 2,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 9580
+      "capitalResourcesLooted": 17890
+    },
+    {
+      "tag": "#LC8G0Q8CV",
+      "name": "Dakkans",
+      "attacks": 4,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 16080
     },
     {
       "tag": "#2R2JYRRU",
@@ -54,18 +62,44 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/-xIz1bhKSu8WxsVT5JZZ9Kg6G7T-1XCtPEWIFlyMY3w.png"
         }
       },
-      "attackCount": 17,
+      "attackCount": 25,
       "districtCount": 9,
-      "districtsDestroyed": 7,
+      "districtsDestroyed": 9,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 13475,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LC8G0Q8CV",
+                "name": "Dakkans"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LC8G0Q8CV",
+                "name": "Dakkans"
+              },
+              "destructionPercent": 65,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#LC8G0Q8CV",
+                "name": "Dakkans"
+              },
+              "destructionPercent": 37,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
@@ -195,10 +229,52 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 5,
+          "totalLooted": 10915,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LC8G0Q8CV",
+                "name": "Dakkans"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#80228GJGL",
+                "name": "myathpone."
+              },
+              "destructionPercent": 75,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#80228GJGL",
+                "name": "myathpone."
+              },
+              "destructionPercent": 48,
+              "stars": 0
+            },
+            {
+              "attacker": {
+                "tag": "#80228GJGL",
+                "name": "myathpone."
+              },
+              "destructionPercent": 34,
+              "stars": 0
+            },
+            {
+              "attacker": {
+                "tag": "#80228GJGL",
+                "name": "myathpone."
+              },
+              "destructionPercent": 17,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000006,
@@ -290,23 +366,21 @@
           ]
         }
       ]
-    }
-  ],
-  "defenseLog": [
+    },
     {
-      "attacker": {
-        "tag": "#22PRLRUU8",
-        "name": "\u0645\u0632\u064a\u0643\u0627",
-        "level": 23,
+      "defender": {
+        "tag": "#2CPPCP2J",
+        "name": "pilillians",
+        "level": 27,
         "badgeUrls": {
-          "small": "https://api-assets.clashofclans.com/badges/70/a7gxXjX0p3KA56JCriNNmePDas6-Ms2_Hfj7qKigYK0.png",
-          "large": "https://api-assets.clashofclans.com/badges/512/a7gxXjX0p3KA56JCriNNmePDas6-Ms2_Hfj7qKigYK0.png",
-          "medium": "https://api-assets.clashofclans.com/badges/200/a7gxXjX0p3KA56JCriNNmePDas6-Ms2_Hfj7qKigYK0.png"
+          "small": "https://api-assets.clashofclans.com/badges/70/hb-iXKGXyCiIcNEnuX1GSzqrDco4Lr_iEPY1vdVAeIo.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/hb-iXKGXyCiIcNEnuX1GSzqrDco4Lr_iEPY1vdVAeIo.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/hb-iXKGXyCiIcNEnuX1GSzqrDco4Lr_iEPY1vdVAeIo.png"
         }
       },
-      "attackCount": 9,
+      "attackCount": 0,
       "districtCount": 9,
-      "districtsDestroyed": 2,
+      "districtsDestroyed": 0,
       "districts": [
         {
           "id": 70000000,
@@ -325,6 +399,132 @@
           "stars": 0,
           "attackCount": 0,
           "totalLooted": 0
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 4,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 4,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        }
+      ]
+    }
+  ],
+  "defenseLog": [
+    {
+      "attacker": {
+        "tag": "#22PRLRUU8",
+        "name": "\u0645\u0632\u064a\u0643\u0627",
+        "level": 23,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/a7gxXjX0p3KA56JCriNNmePDas6-Ms2_Hfj7qKigYK0.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/a7gxXjX0p3KA56JCriNNmePDas6-Ms2_Hfj7qKigYK0.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/a7gxXjX0p3KA56JCriNNmePDas6-Ms2_Hfj7qKigYK0.png"
+        }
+      },
+      "attackCount": 12,
+      "districtCount": 9,
+      "districtsDestroyed": 3,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 10,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11988,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LCR8LL8G0",
+                "name": "zekra"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LCR8LL8G0",
+                "name": "zekra"
+              },
+              "destructionPercent": 68,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#LCR8LL8G0",
+                "name": "zekra"
+              },
+              "destructionPercent": 27,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000002,
