@@ -478,9 +478,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/a7gxXjX0p3KA56JCriNNmePDas6-Ms2_Hfj7qKigYK0.png"
         }
       },
-      "attackCount": 18,
+      "attackCount": 24,
       "districtCount": 9,
-      "districtsDestroyed": 5,
+      "districtsDestroyed": 6,
       "districts": [
         {
           "id": 70000000,
@@ -530,20 +530,62 @@
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 57,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 5045,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#G0UR298RG",
+                "name": "\u0634\u0639\u0631"
+              },
+              "destructionPercent": 57,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#G0UR298RG",
+                "name": "\u0634\u0639\u0631"
+              },
+              "destructionPercent": 38,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 62,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 6055,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 5,
+          "totalLooted": 11571,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#G0UR298RG",
+                "name": "\u0634\u0639\u0631"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#G0UR298RG",
+                "name": "\u0634\u0639\u0631"
+              },
+              "destructionPercent": 82,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#G0UR298RG",
+                "name": "\u0634\u0639\u0631"
+              },
+              "destructionPercent": 71,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#GLP2V2L9Q",
@@ -566,10 +608,20 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
+          "destructionPercent": 13,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 1,
+          "totalLooted": 1570,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#G0UR298RG",
+                "name": "\u0634\u0639\u0631"
+              },
+              "destructionPercent": 13,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000005,
