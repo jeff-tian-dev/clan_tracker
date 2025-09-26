@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250926T070000.000Z",
   "endTime": "20250929T070000.000Z",
-  "capitalTotalLoot": 145984,
+  "capitalTotalLoot": 160856,
   "raidsCompleted": 2,
-  "totalAttacks": 38,
-  "enemyDistrictsDestroyed": 12,
+  "totalAttacks": 41,
+  "enemyDistrictsDestroyed": 13,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -72,6 +72,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 10172
+    },
+    {
+      "tag": "#PRGGL2J2V",
+      "name": "Swift",
+      "attacks": 3,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 14872
     }
   ],
   "attackLog": [
@@ -402,9 +410,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/hb-iXKGXyCiIcNEnuX1GSzqrDco4Lr_iEPY1vdVAeIo.png"
         }
       },
-      "attackCount": 13,
+      "attackCount": 16,
       "districtCount": 9,
-      "districtsDestroyed": 3,
+      "districtsDestroyed": 4,
       "districts": [
         {
           "id": 70000000,
@@ -438,10 +446,20 @@
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
+          "destructionPercent": 41,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 1,
+          "totalLooted": 3200,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#PRGGL2J2V",
+                "name": "Swift"
+              },
+              "destructionPercent": 41,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000003,
@@ -482,10 +500,28 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11672,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#PRGGL2J2V",
+                "name": "Swift"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#PRGGL2J2V",
+                "name": "Swift"
+              },
+              "destructionPercent": 50,
+              "stars": 2
+            }
+          ]
         },
         {
           "id": 70000005,

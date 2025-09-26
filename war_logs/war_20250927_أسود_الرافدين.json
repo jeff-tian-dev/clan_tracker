@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Uwe8sJr6b6dIEiWFEd9k-ODCbVwotrNdkfZKeEOHr4M.png"
     },
     "clanLevel": 10,
-    "attacks": 15,
-    "stars": 27,
-    "destructionPercentage": 33.566666,
+    "attacks": 16,
+    "stars": 30,
+    "destructionPercentage": 36.9,
     "members": [
       {
         "tag": "#QYL88U9P0",
@@ -181,7 +181,15 @@
         "name": "consent",
         "townhallLevel": 13,
         "mapPosition": 29,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QVY29UQQ2",
+          "defenderTag": "#QVPJG8JPJ",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 22,
+          "duration": 71
+        }
       },
       {
         "tag": "#2V0Q0V2LC",
@@ -242,7 +250,15 @@
         "name": "You",
         "townhallLevel": 15,
         "mapPosition": 13,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q2CYLYUR9",
+          "defenderTag": "#22GQU2V2V",
+          "stars": 2,
+          "destructionPercentage": 87,
+          "order": 21,
+          "duration": 79
+        }
       },
       {
         "tag": "#J88YJGY9",
@@ -285,6 +301,14 @@
             "destructionPercentage": 100,
             "order": 19,
             "duration": 74
+          },
+          {
+            "attackerTag": "#QRP2RLV02",
+            "defenderTag": "#QPU9P0YJP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 20,
+            "duration": 83
           }
         ],
         "opponentAttacks": 0
@@ -341,7 +365,15 @@
         "name": "Aurelian",
         "townhallLevel": 12,
         "mapPosition": 30,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QVY29UQQ2",
+          "defenderTag": "#GGYGQ8098",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 23,
+          "duration": 74
+        }
       },
       {
         "tag": "#LJJLL0G0V",
@@ -408,9 +440,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/cPniWc6A3A0PIls8KSOZMjZx9eqSA_FtxSoV1LATP6E.png"
     },
     "clanLevel": 15,
-    "attacks": 4,
-    "stars": 8,
-    "destructionPercentage": 10.733334,
+    "attacks": 7,
+    "stars": 16,
+    "destructionPercentage": 20.3,
     "members": [
       {
         "tag": "#PGGGYG298",
@@ -525,6 +557,24 @@
         "name": "\u0633\u06c1\u0670\u0641\u0627\u062d\u06c1",
         "townhallLevel": 14,
         "mapPosition": 30,
+        "attacks": [
+          {
+            "attackerTag": "#QVY29UQQ2",
+            "defenderTag": "#QVPJG8JPJ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 22,
+            "duration": 71
+          },
+          {
+            "attackerTag": "#QVY29UQQ2",
+            "defenderTag": "#GGYGQ8098",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 23,
+            "duration": 74
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -620,7 +670,15 @@
         "name": "Darm",
         "townhallLevel": 15,
         "mapPosition": 27,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QRP2RLV02",
+          "defenderTag": "#QPU9P0YJP",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 20,
+          "duration": 83
+        }
       },
       {
         "tag": "#GGU9QLY28",
@@ -652,6 +710,16 @@
         "name": "\u0645\u064e\u0640\u0640\u0627\u0653\u0633\u064e\u0640\u0640\u0670\u0629.",
         "townhallLevel": 16,
         "mapPosition": 17,
+        "attacks": [
+          {
+            "attackerTag": "#Q2CYLYUR9",
+            "defenderTag": "#22GQU2V2V",
+            "stars": 2,
+            "destructionPercentage": 87,
+            "order": 21,
+            "duration": 79
+          }
+        ],
         "opponentAttacks": 0
       },
       {
