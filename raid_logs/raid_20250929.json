@@ -532,7 +532,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/a7gxXjX0p3KA56JCriNNmePDas6-Ms2_Hfj7qKigYK0.png"
         }
       },
-      "attackCount": 32,
+      "attackCount": 37,
       "districtCount": 9,
       "districtsDestroyed": 8,
       "districts": [
@@ -540,10 +540,52 @@
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 88,
+          "stars": 1,
+          "attackCount": 5,
+          "totalLooted": 9660,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GY20Q8GLY",
+                "name": "vn"
+              },
+              "destructionPercent": 88,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#GY20Q8GLY",
+                "name": "vn"
+              },
+              "destructionPercent": 75,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#GY20Q8GLY",
+                "name": "vn"
+              },
+              "destructionPercent": 67,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#GY20Q8GLY",
+                "name": "vn"
+              },
+              "destructionPercent": 53,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#GY20Q8GLY",
+                "name": "vn"
+              },
+              "destructionPercent": 43,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
