@@ -478,9 +478,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/a7gxXjX0p3KA56JCriNNmePDas6-Ms2_Hfj7qKigYK0.png"
         }
       },
-      "attackCount": 12,
+      "attackCount": 18,
       "districtCount": 9,
-      "districtsDestroyed": 3,
+      "districtsDestroyed": 5,
       "districts": [
         {
           "id": 70000000,
@@ -539,10 +539,28 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 62,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 6055,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GLP2V2L9Q",
+                "name": "Ahmed Abdalluh"
+              },
+              "destructionPercent": 62,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#GLP2V2L9Q",
+                "name": "Ahmed Abdalluh"
+              },
+              "destructionPercent": 31,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000004,
@@ -557,11 +575,27 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 65,
-          "stars": 1,
-          "attackCount": 2,
-          "totalLooted": 6095,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 11948,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#GLP2V2L9Q",
+                "name": "Ahmed Abdalluh"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GLP2V2L9Q",
+                "name": "Ahmed Abdalluh"
+              },
+              "destructionPercent": 92,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#QVP90VCYU",
@@ -584,11 +618,27 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 42,
-          "stars": 1,
-          "attackCount": 1,
-          "totalLooted": 4645,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11934,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#GLP2V2L9Q",
+                "name": "Ahmed Abdalluh"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GLP2V2L9Q",
+                "name": "Ahmed Abdalluh"
+              },
+              "destructionPercent": 86,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#QVP90VCYU",
