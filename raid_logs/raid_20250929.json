@@ -2,9 +2,9 @@
   "state": "ongoing",
   "startTime": "20250926T070000.000Z",
   "endTime": "20250929T070000.000Z",
-  "capitalTotalLoot": 98144,
+  "capitalTotalLoot": 112389,
   "raidsCompleted": 1,
-  "totalAttacks": 25,
+  "totalAttacks": 30,
   "enemyDistrictsDestroyed": 9,
   "offensiveReward": 0,
   "defensiveReward": 0,
@@ -24,6 +24,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 12039
+    },
+    {
+      "tag": "#PRPULCGUR",
+      "name": "ALTRA LEGEND",
+      "attacks": 5,
+      "attackLimit": 5,
+      "bonusAttackLimit": 0,
+      "capitalResourcesLooted": 14245
     },
     {
       "tag": "#80228GJGL",
@@ -378,7 +386,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/hb-iXKGXyCiIcNEnuX1GSzqrDco4Lr_iEPY1vdVAeIo.png"
         }
       },
-      "attackCount": 0,
+      "attackCount": 5,
       "districtCount": 9,
       "districtsDestroyed": 0,
       "districts": [
@@ -431,19 +439,55 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
+          "destructionPercent": 39,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 2,
+          "totalLooted": 4765,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#PRPULCGUR",
+                "name": "ALTRA LEGEND"
+              },
+              "destructionPercent": 39,
+              "stars": 0
+            },
+            {
+              "attacker": {
+                "tag": "#PRPULCGUR",
+                "name": "ALTRA LEGEND"
+              },
+              "destructionPercent": 17,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 52,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 5945,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#PRPULCGUR",
+                "name": "ALTRA LEGEND"
+              },
+              "destructionPercent": 52,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#PRPULCGUR",
+                "name": "ALTRA LEGEND"
+              },
+              "destructionPercent": 32,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000007,
@@ -458,10 +502,20 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
+          "destructionPercent": 28,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 1,
+          "totalLooted": 3535,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#PRPULCGUR",
+                "name": "ALTRA LEGEND"
+              },
+              "destructionPercent": 28,
+              "stars": 0
+            }
+          ]
         }
       ]
     }
@@ -478,9 +532,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/a7gxXjX0p3KA56JCriNNmePDas6-Ms2_Hfj7qKigYK0.png"
         }
       },
-      "attackCount": 24,
+      "attackCount": 30,
       "districtCount": 9,
-      "districtsDestroyed": 6,
+      "districtsDestroyed": 7,
       "districts": [
         {
           "id": 70000000,
@@ -530,11 +584,35 @@
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 57,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 5045,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 5,
+          "totalLooted": 10514,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#QV0RR9CJY",
+                "name": "\u0627\u062d\u0645\u062f \u0627\u0644\u0632\u0639\u064a\u0645"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QV0RR9CJY",
+                "name": "\u0627\u062d\u0645\u062f \u0627\u0644\u0632\u0639\u064a\u0645"
+              },
+              "destructionPercent": 85,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#QV0RR9CJY",
+                "name": "\u0627\u062d\u0645\u062f \u0627\u0644\u0632\u0639\u064a\u0645"
+              },
+              "destructionPercent": 70,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#G0UR298RG",
@@ -608,11 +686,35 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 13,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 1570,
+          "destructionPercent": 69,
+          "stars": 2,
+          "attackCount": 4,
+          "totalLooted": 6705,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#QV0RR9CJY",
+                "name": "\u0627\u062d\u0645\u062f \u0627\u0644\u0632\u0639\u064a\u0645"
+              },
+              "destructionPercent": 69,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#QV0RR9CJY",
+                "name": "\u0627\u062d\u0645\u062f \u0627\u0644\u0632\u0639\u064a\u0645"
+              },
+              "destructionPercent": 34,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#QV0RR9CJY",
+                "name": "\u0627\u062d\u0645\u062f \u0627\u0644\u0632\u0639\u064a\u0645"
+              },
+              "destructionPercent": 23,
+              "stars": 1
+            },
             {
               "attacker": {
                 "tag": "#G0UR298RG",
