@@ -2,20 +2,20 @@
   "state": "ongoing",
   "startTime": "20250926T070000.000Z",
   "endTime": "20250929T070000.000Z",
-  "capitalTotalLoot": 10077,
+  "capitalTotalLoot": 23523,
   "raidsCompleted": 0,
-  "totalAttacks": 3,
-  "enemyDistrictsDestroyed": 1,
+  "totalAttacks": 6,
+  "enemyDistrictsDestroyed": 2,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
     {
       "tag": "#2R2JYRRU",
       "name": "taz",
-      "attacks": 3,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 10077
+      "capitalResourcesLooted": 23523
     }
   ],
   "attackLog": [
@@ -30,9 +30,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/-xIz1bhKSu8WxsVT5JZZ9Kg6G7T-1XCtPEWIFlyMY3w.png"
         }
       },
-      "attackCount": 3,
+      "attackCount": 6,
       "districtCount": 9,
-      "districtsDestroyed": 1,
+      "districtsDestroyed": 2,
       "districts": [
         {
           "id": 70000000,
@@ -100,10 +100,28 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9966,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2R2JYRRU",
+                "name": "taz"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2R2JYRRU",
+                "name": "taz"
+              },
+              "destructionPercent": 39,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000005,
@@ -127,10 +145,20 @@
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 33,
+          "stars": 1,
+          "attackCount": 1,
+          "totalLooted": 3480,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2R2JYRRU",
+                "name": "taz"
+              },
+              "destructionPercent": 33,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000008,
