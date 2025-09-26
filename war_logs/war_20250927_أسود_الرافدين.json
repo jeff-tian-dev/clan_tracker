@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Uwe8sJr6b6dIEiWFEd9k-ODCbVwotrNdkfZKeEOHr4M.png"
     },
     "clanLevel": 10,
-    "attacks": 0,
-    "stars": 0,
-    "destructionPercentage": 0.0,
+    "attacks": 6,
+    "stars": 12,
+    "destructionPercentage": 15.4,
     "members": [
       {
         "tag": "#QYL88U9P0",
@@ -38,7 +38,15 @@
         "name": "noah",
         "townhallLevel": 15,
         "mapPosition": 15,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GGU9QLY28",
+          "defenderTag": "#8CGJPJ88",
+          "stars": 2,
+          "destructionPercentage": 55,
+          "order": 4,
+          "duration": 71
+        }
       },
       {
         "tag": "#UJP2UYRY",
@@ -80,6 +88,24 @@
         "name": "Regis\u6881",
         "townhallLevel": 16,
         "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#PL09LLPUY",
+            "defenderTag": "#VUPLUG0V",
+            "stars": 2,
+            "destructionPercentage": 93,
+            "order": 1,
+            "duration": 144
+          },
+          {
+            "attackerTag": "#PL09LLPUY",
+            "defenderTag": "#CVY88L0V",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 2,
+            "duration": 112
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -122,6 +148,24 @@
         "name": "Sir Walnut\u2122\ufe0f",
         "townhallLevel": 17,
         "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#YQ8L9JVJ2",
+            "defenderTag": "#LV829R9YL",
+            "stars": 1,
+            "destructionPercentage": 89,
+            "order": 6,
+            "duration": 180
+          },
+          {
+            "attackerTag": "#YQ8L9JVJ2",
+            "defenderTag": "#2JQUPRU2U",
+            "stars": 2,
+            "destructionPercentage": 75,
+            "order": 7,
+            "duration": 144
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -178,6 +222,24 @@
         "name": "exofall",
         "townhallLevel": 17,
         "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#G28CVVRJL",
+            "defenderTag": "#J099LCU8",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 3,
+            "duration": 158
+          },
+          {
+            "attackerTag": "#G28CVVRJL",
+            "defenderTag": "#LV829R9YL",
+            "stars": 2,
+            "destructionPercentage": 94,
+            "order": 5,
+            "duration": 180
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -240,9 +302,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/cPniWc6A3A0PIls8KSOZMjZx9eqSA_FtxSoV1LATP6E.png"
     },
     "clanLevel": 15,
-    "attacks": 0,
-    "stars": 0,
-    "destructionPercentage": 0.0,
+    "attacks": 1,
+    "stars": 2,
+    "destructionPercentage": 1.8333334,
     "members": [
       {
         "tag": "#PGGGYG298",
@@ -305,7 +367,15 @@
         "name": "\u265b\u300eRAGNAR\u300f\u265b",
         "townhallLevel": 17,
         "mapPosition": 2,
-        "opponentAttacks": 0
+        "opponentAttacks": 2,
+        "bestOpponentAttack": {
+          "attackerTag": "#G28CVVRJL",
+          "defenderTag": "#LV829R9YL",
+          "stars": 2,
+          "destructionPercentage": 94,
+          "order": 5,
+          "duration": 180
+        }
       },
       {
         "tag": "#992PC009V",
@@ -326,7 +396,15 @@
         "name": "mr wick",
         "townhallLevel": 16,
         "mapPosition": 9,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PL09LLPUY",
+          "defenderTag": "#VUPLUG0V",
+          "stars": 2,
+          "destructionPercentage": 93,
+          "order": 1,
+          "duration": 144
+        }
       },
       {
         "tag": "#QVY29UQQ2",
@@ -361,7 +439,15 @@
         "name": "\u0635\u0648\u0641\u0640\u0640\u0640\u0640\u2661\u0640\u0640\u0640\u0640\u064a",
         "townhallLevel": 17,
         "mapPosition": 1,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#G28CVVRJL",
+          "defenderTag": "#J099LCU8",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 3,
+          "duration": 158
+        }
       },
       {
         "tag": "#8GCGRGYL0",
@@ -382,7 +468,15 @@
         "name": "\u2605\u300eGOLD\u300f\u2605\u300eA\u300f",
         "townhallLevel": 17,
         "mapPosition": 3,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YQ8L9JVJ2",
+          "defenderTag": "#2JQUPRU2U",
+          "stars": 2,
+          "destructionPercentage": 75,
+          "order": 7,
+          "duration": 144
+        }
       },
       {
         "tag": "#LLQQYUPQ0",
@@ -403,6 +497,16 @@
         "name": "\u062d\u064a\u062f\u0631 \u0627\u0644\u0633\u0627\u0639\u062f\u064a",
         "townhallLevel": 16,
         "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#GGU9QLY28",
+            "defenderTag": "#8CGJPJ88",
+            "stars": 2,
+            "destructionPercentage": 55,
+            "order": 4,
+            "duration": 71
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -431,7 +535,15 @@
         "name": "\u2661\u0639\u0640\u0640\u0627\u0670\u0634\u0640\u0640\u0642\u0640\u2661",
         "townhallLevel": 17,
         "mapPosition": 10,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PL09LLPUY",
+          "defenderTag": "#CVY88L0V",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 2,
+          "duration": 112
+        }
       },
       {
         "tag": "#P028Y2YGU",

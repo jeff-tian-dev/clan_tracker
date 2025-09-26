@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250926T070000.000Z",
   "endTime": "20250929T070000.000Z",
-  "capitalTotalLoot": 112389,
-  "raidsCompleted": 1,
-  "totalAttacks": 30,
-  "enemyDistrictsDestroyed": 9,
+  "capitalTotalLoot": 135812,
+  "raidsCompleted": 2,
+  "totalAttacks": 36,
+  "enemyDistrictsDestroyed": 11,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -24,6 +24,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 12039
+    },
+    {
+      "tag": "#PL09LLPUY",
+      "name": "Regis\u6881",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 23423
     },
     {
       "tag": "#PRPULCGUR",
@@ -386,9 +394,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/hb-iXKGXyCiIcNEnuX1GSzqrDco4Lr_iEPY1vdVAeIo.png"
         }
       },
-      "attackCount": 5,
+      "attackCount": 11,
       "districtCount": 9,
-      "districtsDestroyed": 0,
+      "districtsDestroyed": 2,
       "districts": [
         {
           "id": 70000000,
@@ -421,10 +429,36 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11706,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#PL09LLPUY",
+                "name": "Regis\u6881"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#PL09LLPUY",
+                "name": "Regis\u6881"
+              },
+              "destructionPercent": 95,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#PL09LLPUY",
+                "name": "Regis\u6881"
+              },
+              "destructionPercent": 40,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000004,
@@ -493,10 +527,36 @@
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11717,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#PL09LLPUY",
+                "name": "Regis\u6881"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#PL09LLPUY",
+                "name": "Regis\u6881"
+              },
+              "destructionPercent": 75,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#PL09LLPUY",
+                "name": "Regis\u6881"
+              },
+              "destructionPercent": 39,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000008,
@@ -532,19 +592,27 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/a7gxXjX0p3KA56JCriNNmePDas6-Ms2_Hfj7qKigYK0.png"
         }
       },
-      "attackCount": 37,
+      "attackCount": 38,
       "districtCount": 9,
-      "districtsDestroyed": 8,
+      "districtsDestroyed": 9,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 88,
-          "stars": 1,
-          "attackCount": 5,
-          "totalLooted": 9660,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 6,
+          "totalLooted": 13571,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#LVRL2VR0R",
+                "name": "eslam emam"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#GY20Q8GLY",
