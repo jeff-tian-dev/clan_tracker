@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250926T070000.000Z",
   "endTime": "20250929T070000.000Z",
-  "capitalTotalLoot": 387184,
-  "raidsCompleted": 5,
-  "totalAttacks": 95,
-  "enemyDistrictsDestroyed": 35,
+  "capitalTotalLoot": 424436,
+  "raidsCompleted": 6,
+  "totalAttacks": 103,
+  "enemyDistrictsDestroyed": 38,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -74,6 +74,14 @@
       "capitalResourcesLooted": 14245
     },
     {
+      "tag": "#2CQLC28UP",
+      "name": "gun",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 27761
+    },
+    {
       "tag": "#80228GJGL",
       "name": "myathpone.",
       "attacks": 6,
@@ -100,10 +108,10 @@
     {
       "tag": "#QYCLC0JLL",
       "name": "83c",
-      "attacks": 4,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 13421
+      "capitalResourcesLooted": 22912
     },
     {
       "tag": "#QRP2RLV02",
@@ -1106,19 +1114,43 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/ieraaXzCHqpiEA-pltmdOAD5n8sAddj7i6V7sTGVj38.png"
         }
       },
-      "attackCount": 22,
+      "attackCount": 25,
       "districtCount": 9,
-      "districtsDestroyed": 8,
+      "districtsDestroyed": 9,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 33,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 2350,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 13442,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#2CQLC28UP",
+                "name": "gun"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2CQLC28UP",
+                "name": "gun"
+              },
+              "destructionPercent": 88,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#2CQLC28UP",
+                "name": "gun"
+              },
+              "destructionPercent": 69,
+              "stars": 1
+            },
             {
               "attacker": {
                 "tag": "#L29JP8GLL",
@@ -1381,6 +1413,150 @@
                 "name": "Ryan"
               },
               "destructionPercent": 44,
+              "stars": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "defender": {
+        "tag": "#2LLC8LQL0",
+        "name": "Next In Line",
+        "level": 16,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/7TKwuNqwjHJqXG_9_GBSWBEwHaUb1hVXu6Mas-v30Vo.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/7TKwuNqwjHJqXG_9_GBSWBEwHaUb1hVXu6Mas-v30Vo.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/7TKwuNqwjHJqXG_9_GBSWBEwHaUb1hVXu6Mas-v30Vo.png"
+        }
+      },
+      "attackCount": 5,
+      "districtCount": 9,
+      "districtsDestroyed": 2,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 10,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9491,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QYCLC0JLL",
+                "name": "83c"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QYCLC0JLL",
+                "name": "83c"
+              },
+              "destructionPercent": 47,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 4,
+          "destructionPercent": 60,
+          "stars": 2,
+          "attackCount": 1,
+          "totalLooted": 6395,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2CQLC28UP",
+                "name": "gun"
+              },
+              "destructionPercent": 60,
+              "stars": 2
+            }
+          ]
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10274,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2CQLC28UP",
+                "name": "gun"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2CQLC28UP",
+                "name": "gun"
+              },
+              "destructionPercent": 35,
               "stars": 0
             }
           ]
