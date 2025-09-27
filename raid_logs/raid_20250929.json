@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250926T070000.000Z",
   "endTime": "20250929T070000.000Z",
-  "capitalTotalLoot": 298890,
+  "capitalTotalLoot": 323639,
   "raidsCompleted": 4,
-  "totalAttacks": 74,
-  "enemyDistrictsDestroyed": 27,
+  "totalAttacks": 80,
+  "enemyDistrictsDestroyed": 29,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -40,6 +40,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 38318
+    },
+    {
+      "tag": "#2920V9PV",
+      "name": "Ryan",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 24749
     },
     {
       "tag": "#PL09LLPUY",
@@ -1058,9 +1066,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/ieraaXzCHqpiEA-pltmdOAD5n8sAddj7i6V7sTGVj38.png"
         }
       },
-      "attackCount": 1,
+      "attackCount": 7,
       "districtCount": 9,
-      "districtsDestroyed": 0,
+      "districtsDestroyed": 2,
       "districts": [
         {
           "id": 70000000,
@@ -1120,20 +1128,46 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
+          "destructionPercent": 35,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 1,
+          "totalLooted": 3810,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2920V9PV",
+                "name": "Ryan"
+              },
+              "destructionPercent": 35,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 35,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 3375,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 12155,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#2920V9PV",
+                "name": "Ryan"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2920V9PV",
+                "name": "Ryan"
+              },
+              "destructionPercent": 85,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#PRGGL2J2V",
@@ -1148,10 +1182,36 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 12159,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2920V9PV",
+                "name": "Ryan"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2920V9PV",
+                "name": "Ryan"
+              },
+              "destructionPercent": 88,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#2920V9PV",
+                "name": "Ryan"
+              },
+              "destructionPercent": 44,
+              "stars": 0
+            }
+          ]
         }
       ]
     }
@@ -1588,7 +1648,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/bztgKoRtEgLZ0joI8bvClcF71HFFS0-YlcCmJ3ssmHw.png"
         }
       },
-      "attackCount": 13,
+      "attackCount": 14,
       "districtCount": 9,
       "districtsDestroyed": 4,
       "districts": [
@@ -1632,11 +1692,19 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 24,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 3230,
+          "destructionPercent": 50,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 6450,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#L9QQLVLLG",
+                "name": "Rudra"
+              },
+              "destructionPercent": 50,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#29202YJ28",
