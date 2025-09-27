@@ -15,15 +15,25 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Uwe8sJr6b6dIEiWFEd9k-ODCbVwotrNdkfZKeEOHr4M.png"
     },
     "clanLevel": 10,
-    "attacks": 33,
-    "stars": 47,
-    "destructionPercentage": 54.466667,
+    "attacks": 34,
+    "stars": 49,
+    "destructionPercentage": 56.866665,
     "members": [
       {
         "tag": "#QYL88U9P0",
         "name": "voldemort",
         "townhallLevel": 15,
         "mapPosition": 24,
+        "attacks": [
+          {
+            "attackerTag": "#QYL88U9P0",
+            "defenderTag": "#YR880UPVU",
+            "stars": 2,
+            "destructionPercentage": 72,
+            "order": 44,
+            "duration": 155
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -31,7 +41,15 @@
         "name": "Schneider",
         "townhallLevel": 15,
         "mapPosition": 19,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YRVC9CY20",
+          "defenderTag": "#Y0282L0CC",
+          "stars": 2,
+          "destructionPercentage": 73,
+          "order": 45,
+          "duration": 84
+        }
       },
       {
         "tag": "#8CGJPJ88",
@@ -620,9 +638,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/cPniWc6A3A0PIls8KSOZMjZx9eqSA_FtxSoV1LATP6E.png"
     },
     "clanLevel": 15,
-    "attacks": 10,
-    "stars": 21,
-    "destructionPercentage": 29.8,
+    "attacks": 11,
+    "stars": 23,
+    "destructionPercentage": 32.233334,
     "members": [
       {
         "tag": "#PGGGYG298",
@@ -804,7 +822,15 @@
         "name": "\u062d\u0645\u0648\u062f\u064a",
         "townhallLevel": 15,
         "mapPosition": 24,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QYL88U9P0",
+          "defenderTag": "#YR880UPVU",
+          "stars": 2,
+          "destructionPercentage": 72,
+          "order": 44,
+          "duration": 155
+        }
       },
       {
         "tag": "#P88Y0G80C",
@@ -1027,6 +1053,16 @@
         "name": "\u270c\ufe0f\u0641\u0644\u0633\u0637\u064a\u0646\u064a\u270c\ufe0f",
         "townhallLevel": 15,
         "mapPosition": 20,
+        "attacks": [
+          {
+            "attackerTag": "#YRVC9CY20",
+            "defenderTag": "#Y0282L0CC",
+            "stars": 2,
+            "destructionPercentage": 73,
+            "order": 45,
+            "duration": 84
+          }
+        ],
         "opponentAttacks": 0
       },
       {
