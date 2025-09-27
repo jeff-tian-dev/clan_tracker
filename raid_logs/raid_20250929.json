@@ -1664,9 +1664,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/bztgKoRtEgLZ0joI8bvClcF71HFFS0-YlcCmJ3ssmHw.png"
         }
       },
-      "attackCount": 18,
+      "attackCount": 24,
       "districtCount": 9,
-      "districtsDestroyed": 6,
+      "districtsDestroyed": 7,
       "districts": [
         {
           "id": 70000000,
@@ -1681,19 +1681,71 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 52,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 4675,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2QL9V209L",
+                "name": "Nat"
+              },
+              "destructionPercent": 52,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#2QL9V209L",
+                "name": "Nat"
+              },
+              "destructionPercent": 32,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 10823,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2QL9V209L",
+                "name": "Nat"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2QL9V209L",
+                "name": "Nat"
+              },
+              "destructionPercent": 94,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#2QL9V209L",
+                "name": "Nat"
+              },
+              "destructionPercent": 59,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#2QL9V209L",
+                "name": "Nat"
+              },
+              "destructionPercent": 30,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000003,

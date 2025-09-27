@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Uwe8sJr6b6dIEiWFEd9k-ODCbVwotrNdkfZKeEOHr4M.png"
     },
     "clanLevel": 10,
-    "attacks": 35,
-    "stars": 50,
-    "destructionPercentage": 59.333332,
+    "attacks": 37,
+    "stars": 53,
+    "destructionPercentage": 63.866665,
     "members": [
       {
         "tag": "#QYL88U9P0",
@@ -286,6 +286,24 @@
         "name": "sEbAsTiAn23",
         "townhallLevel": 15,
         "mapPosition": 17,
+        "attacks": [
+          {
+            "attackerTag": "#2V0Q0V2LC",
+            "defenderTag": "#Q2CYLYUR9",
+            "stars": 2,
+            "destructionPercentage": 88,
+            "order": 49,
+            "duration": 124
+          },
+          {
+            "attackerTag": "#2V0Q0V2LC",
+            "defenderTag": "#LQQR0L822",
+            "stars": 1,
+            "destructionPercentage": 48,
+            "order": 50,
+            "duration": 60
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#992PC009V",
@@ -496,13 +514,13 @@
             "duration": 180
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#LYVYGP9JY",
+          "attackerTag": "#J099LCU8",
           "defenderTag": "#G28CVVRJL",
           "stars": 2,
-          "destructionPercentage": 96,
-          "order": 15,
+          "destructionPercentage": 99,
+          "order": 48,
           "duration": 180
         }
       },
@@ -641,7 +659,15 @@
             "duration": 88
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LU8L9RCLU",
+          "defenderTag": "#PRGGL2J2V",
+          "stars": 1,
+          "destructionPercentage": 85,
+          "order": 51,
+          "duration": 98
+        }
       }
     ]
   },
@@ -654,9 +680,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/cPniWc6A3A0PIls8KSOZMjZx9eqSA_FtxSoV1LATP6E.png"
     },
     "clanLevel": 15,
-    "attacks": 12,
-    "stars": 26,
-    "destructionPercentage": 35.566666,
+    "attacks": 14,
+    "stars": 27,
+    "destructionPercentage": 38.5,
     "members": [
       {
         "tag": "#PGGGYG298",
@@ -670,7 +696,15 @@
         "name": "\u0639\u0645\u0631 \u0627\u0644\u0639\u0628\u064a\u062f\u064a",
         "townhallLevel": 15,
         "mapPosition": 18,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2V0Q0V2LC",
+          "defenderTag": "#LQQR0L822",
+          "stars": 1,
+          "destructionPercentage": 48,
+          "order": 50,
+          "duration": 60
+        }
       },
       {
         "tag": "#LG8U0V9Q2",
@@ -876,6 +910,14 @@
             "destructionPercentage": 99,
             "order": 43,
             "duration": 180
+          },
+          {
+            "attackerTag": "#LU8L9RCLU",
+            "defenderTag": "#PRGGL2J2V",
+            "stars": 1,
+            "destructionPercentage": 85,
+            "order": 51,
+            "duration": 98
           }
         ],
         "opponentAttacks": 3,
@@ -893,6 +935,16 @@
         "name": "\u0635\u0648\u0641\u0640\u0640\u0640\u0640\u2661\u0640\u0640\u0640\u0640\u064a",
         "townhallLevel": 17,
         "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#J099LCU8",
+            "defenderTag": "#G28CVVRJL",
+            "stars": 2,
+            "destructionPercentage": 99,
+            "order": 48,
+            "duration": 180
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#G28CVVRJL",
@@ -1010,7 +1062,15 @@
             "duration": 79
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2V0Q0V2LC",
+          "defenderTag": "#Q2CYLYUR9",
+          "stars": 2,
+          "destructionPercentage": 88,
+          "order": 49,
+          "duration": 124
+        }
       },
       {
         "tag": "#9GPU080LL",
