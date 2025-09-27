@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Uwe8sJr6b6dIEiWFEd9k-ODCbVwotrNdkfZKeEOHr4M.png"
     },
     "clanLevel": 10,
-    "attacks": 37,
-    "stars": 53,
-    "destructionPercentage": 63.866665,
+    "attacks": 39,
+    "stars": 56,
+    "destructionPercentage": 68.9,
     "members": [
       {
         "tag": "#QYL88U9P0",
@@ -264,7 +264,15 @@
             "duration": 87
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#G2RUJJCVC",
+          "defenderTag": "#9U2YP0RY",
+          "stars": 1,
+          "destructionPercentage": 77,
+          "order": 55,
+          "duration": 134
+        }
       },
       {
         "tag": "#QVPJG8JPJ",
@@ -439,7 +447,15 @@
             "duration": 114
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#G2RUJJCVC",
+          "defenderTag": "#YJ2UV2GY",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 54,
+          "duration": 164
+        }
       },
       {
         "tag": "#QYCLC0JLL",
@@ -601,6 +617,24 @@
         "name": "siwi2isuus2",
         "townhallLevel": 15,
         "mapPosition": 26,
+        "attacks": [
+          {
+            "attackerTag": "#LGGLYVUPP",
+            "defenderTag": "#QVY29UQQ2",
+            "stars": 2,
+            "destructionPercentage": 86,
+            "order": 52,
+            "duration": 124
+          },
+          {
+            "attackerTag": "#LGGLYVUPP",
+            "defenderTag": "#8GCGRGYL0",
+            "stars": 1,
+            "destructionPercentage": 65,
+            "order": 53,
+            "duration": 101
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -680,9 +714,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/cPniWc6A3A0PIls8KSOZMjZx9eqSA_FtxSoV1LATP6E.png"
     },
     "clanLevel": 15,
-    "attacks": 14,
-    "stars": 27,
-    "destructionPercentage": 38.5,
+    "attacks": 16,
+    "stars": 31,
+    "destructionPercentage": 44.4,
     "members": [
       {
         "tag": "#PGGGYG298",
@@ -865,7 +899,15 @@
             "duration": 74
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LGGLYVUPP",
+          "defenderTag": "#QVY29UQQ2",
+          "stars": 2,
+          "destructionPercentage": 86,
+          "order": 52,
+          "duration": 124
+        }
       },
       {
         "tag": "#YR880UPVU",
@@ -960,13 +1002,39 @@
         "name": "MUJTABA ALI",
         "townhallLevel": 15,
         "mapPosition": 22,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LGGLYVUPP",
+          "defenderTag": "#8GCGRGYL0",
+          "stars": 1,
+          "destructionPercentage": 65,
+          "order": 53,
+          "duration": 101
+        }
       },
       {
         "tag": "#G2RUJJCVC",
         "name": "\u0634\u0648\u0642\u2665\ufe0f",
         "townhallLevel": 15,
         "mapPosition": 23,
+        "attacks": [
+          {
+            "attackerTag": "#G2RUJJCVC",
+            "defenderTag": "#YJ2UV2GY",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 54,
+            "duration": 164
+          },
+          {
+            "attackerTag": "#G2RUJJCVC",
+            "defenderTag": "#9U2YP0RY",
+            "stars": 1,
+            "destructionPercentage": 77,
+            "order": 55,
+            "duration": 134
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#QYL88U9P0",
