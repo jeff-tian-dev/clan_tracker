@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Uwe8sJr6b6dIEiWFEd9k-ODCbVwotrNdkfZKeEOHr4M.png"
     },
     "clanLevel": 10,
-    "attacks": 34,
-    "stars": 49,
-    "destructionPercentage": 56.866665,
+    "attacks": 35,
+    "stars": 50,
+    "destructionPercentage": 59.333332,
     "members": [
       {
         "tag": "#QYL88U9P0",
@@ -32,6 +32,14 @@
             "destructionPercentage": 72,
             "order": 44,
             "duration": 155
+          },
+          {
+            "attackerTag": "#QYL88U9P0",
+            "defenderTag": "#G2RUJJCVC",
+            "stars": 1,
+            "destructionPercentage": 74,
+            "order": 47,
+            "duration": 114
           }
         ],
         "opponentAttacks": 0
@@ -381,7 +389,15 @@
         "name": "King Killer",
         "townhallLevel": 15,
         "mapPosition": 20,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YRVC9CY20",
+          "defenderTag": "#J88YJGY9",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 46,
+          "duration": 152
+        }
       },
       {
         "tag": "#GYLUJ8QPJ",
@@ -638,9 +654,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/cPniWc6A3A0PIls8KSOZMjZx9eqSA_FtxSoV1LATP6E.png"
     },
     "clanLevel": 15,
-    "attacks": 11,
-    "stars": 23,
-    "destructionPercentage": 32.233334,
+    "attacks": 12,
+    "stars": 26,
+    "destructionPercentage": 35.566666,
     "members": [
       {
         "tag": "#PGGGYG298",
@@ -899,7 +915,15 @@
         "name": "\u0634\u0648\u0642\u2665\ufe0f",
         "townhallLevel": 15,
         "mapPosition": 23,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QYL88U9P0",
+          "defenderTag": "#G2RUJJCVC",
+          "stars": 1,
+          "destructionPercentage": 74,
+          "order": 47,
+          "duration": 114
+        }
       },
       {
         "tag": "#2JQUPRU2U",
@@ -1061,6 +1085,14 @@
             "destructionPercentage": 73,
             "order": 45,
             "duration": 84
+          },
+          {
+            "attackerTag": "#YRVC9CY20",
+            "defenderTag": "#J88YJGY9",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 46,
+            "duration": 152
           }
         ],
         "opponentAttacks": 0
