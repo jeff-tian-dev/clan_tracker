@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250926T070000.000Z",
   "endTime": "20250929T070000.000Z",
-  "capitalTotalLoot": 341720,
+  "capitalTotalLoot": 352483,
   "raidsCompleted": 5,
-  "totalAttacks": 85,
-  "enemyDistrictsDestroyed": 31,
+  "totalAttacks": 87,
+  "enemyDistrictsDestroyed": 32,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -72,6 +72,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 17890
+    },
+    {
+      "tag": "#YRQPYVPV8",
+      "name": "\u26a1\u26a1Dhonichris\u26a1\u26a1",
+      "attacks": 2,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 10763
     },
     {
       "tag": "#QYCLC0JLL",
@@ -1082,9 +1090,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/ieraaXzCHqpiEA-pltmdOAD5n8sAddj7i6V7sTGVj38.png"
         }
       },
-      "attackCount": 12,
+      "attackCount": 14,
       "districtCount": 9,
-      "districtsDestroyed": 4,
+      "districtsDestroyed": 5,
       "districts": [
         {
           "id": 70000000,
@@ -1126,10 +1134,28 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10763,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YRQPYVPV8",
+                "name": "\u26a1\u26a1Dhonichris\u26a1\u26a1"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#YRQPYVPV8",
+                "name": "\u26a1\u26a1Dhonichris\u26a1\u26a1"
+              },
+              "destructionPercent": 60,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000005,
