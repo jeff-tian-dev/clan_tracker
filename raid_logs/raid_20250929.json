@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250926T070000.000Z",
   "endTime": "20250929T070000.000Z",
-  "capitalTotalLoot": 160856,
+  "capitalTotalLoot": 173563,
   "raidsCompleted": 2,
-  "totalAttacks": 41,
-  "enemyDistrictsDestroyed": 13,
+  "totalAttacks": 44,
+  "enemyDistrictsDestroyed": 14,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -52,10 +52,10 @@
     {
       "tag": "#LC8G0Q8CV",
       "name": "Dakkans",
-      "attacks": 4,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 16080
+      "capitalResourcesLooted": 24362
     },
     {
       "tag": "#2R2JYRRU",
@@ -76,10 +76,10 @@
     {
       "tag": "#PRGGL2J2V",
       "name": "Swift",
-      "attacks": 3,
+      "attacks": 4,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 14872
+      "capitalResourcesLooted": 19297
     }
   ],
   "attackLog": [
@@ -410,9 +410,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/hb-iXKGXyCiIcNEnuX1GSzqrDco4Lr_iEPY1vdVAeIo.png"
         }
       },
-      "attackCount": 16,
+      "attackCount": 19,
       "districtCount": 9,
-      "districtsDestroyed": 4,
+      "districtsDestroyed": 5,
       "districts": [
         {
           "id": 70000000,
@@ -446,11 +446,19 @@
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 41,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 3200,
+          "destructionPercent": 75,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 7625,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#PRGGL2J2V",
+                "name": "Swift"
+              },
+              "destructionPercent": 75,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#PRGGL2J2V",
@@ -624,11 +632,27 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 28,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 3535,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11817,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#LC8G0Q8CV",
+                "name": "Dakkans"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LC8G0Q8CV",
+                "name": "Dakkans"
+              },
+              "destructionPercent": 75,
+              "stars": 1
+            },
             {
               "attacker": {
                 "tag": "#PRPULCGUR",
