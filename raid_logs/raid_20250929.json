@@ -2,9 +2,9 @@
   "state": "ongoing",
   "startTime": "20250926T070000.000Z",
   "endTime": "20250929T070000.000Z",
-  "capitalTotalLoot": 323639,
+  "capitalTotalLoot": 328299,
   "raidsCompleted": 4,
-  "totalAttacks": 80,
+  "totalAttacks": 81,
   "enemyDistrictsDestroyed": 29,
   "offensiveReward": 0,
   "defensiveReward": 0,
@@ -72,6 +72,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 17890
+    },
+    {
+      "tag": "#QRP2RLV02",
+      "name": "JT",
+      "attacks": 1,
+      "attackLimit": 5,
+      "bonusAttackLimit": 0,
+      "capitalResourcesLooted": 4660
     },
     {
       "tag": "#LC8G0Q8CV",
@@ -1066,7 +1074,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/ieraaXzCHqpiEA-pltmdOAD5n8sAddj7i6V7sTGVj38.png"
         }
       },
-      "attackCount": 7,
+      "attackCount": 8,
       "districtCount": 9,
       "districtsDestroyed": 2,
       "districts": [
@@ -1128,11 +1136,19 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 35,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 3810,
+          "destructionPercent": 82,
+          "stars": 1,
+          "attackCount": 2,
+          "totalLooted": 8470,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#QRP2RLV02",
+                "name": "JT"
+              },
+              "destructionPercent": 82,
+              "stars": 1
+            },
             {
               "attacker": {
                 "tag": "#2920V9PV",
@@ -1648,9 +1664,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/bztgKoRtEgLZ0joI8bvClcF71HFFS0-YlcCmJ3ssmHw.png"
         }
       },
-      "attackCount": 14,
+      "attackCount": 18,
       "districtCount": 9,
-      "districtsDestroyed": 4,
+      "districtsDestroyed": 6,
       "districts": [
         {
           "id": 70000000,
@@ -1683,20 +1699,54 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11604,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LJRVURYGP",
+                "name": "Piyushpardhi"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LJRVURYGP",
+                "name": "Piyushpardhi"
+              },
+              "destructionPercent": 79,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#LJRVURYGP",
+                "name": "Piyushpardhi"
+              },
+              "destructionPercent": 38,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 50,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 6450,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11732,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#LJRVURYGP",
+                "name": "Piyushpardhi"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#L9QQLVLLG",
