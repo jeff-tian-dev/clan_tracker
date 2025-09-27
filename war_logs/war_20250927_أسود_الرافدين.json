@@ -97,7 +97,15 @@
             "duration": 112
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#P88Y0G80C",
+          "defenderTag": "#UJP2UYRY",
+          "stars": 2,
+          "destructionPercentage": 73,
+          "order": 71,
+          "duration": 72
+        }
       },
       {
         "tag": "#GLU9LC2LG",
@@ -402,7 +410,15 @@
             "duration": 144
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#P88Y0G80C",
+          "defenderTag": "#YQ8L9JVJ2",
+          "stars": 1,
+          "destructionPercentage": 33,
+          "order": 70,
+          "duration": 46
+        }
       },
       {
         "tag": "#LYJJ9PLV9",
@@ -832,9 +848,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/cPniWc6A3A0PIls8KSOZMjZx9eqSA_FtxSoV1LATP6E.png"
     },
     "clanLevel": 15,
-    "attacks": 23,
-    "stars": 49,
-    "destructionPercentage": 64.53333,
+    "attacks": 25,
+    "stars": 52,
+    "destructionPercentage": 68.066666,
     "members": [
       {
         "tag": "#PGGGYG298",
@@ -1105,6 +1121,24 @@
         "name": "karem",
         "townhallLevel": 16,
         "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#P88Y0G80C",
+            "defenderTag": "#YQ8L9JVJ2",
+            "stars": 1,
+            "destructionPercentage": 33,
+            "order": 70,
+            "duration": 46
+          },
+          {
+            "attackerTag": "#P88Y0G80C",
+            "defenderTag": "#UJP2UYRY",
+            "stars": 2,
+            "destructionPercentage": 73,
+            "order": 71,
+            "duration": 72
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#Q9QU8L8YV",
