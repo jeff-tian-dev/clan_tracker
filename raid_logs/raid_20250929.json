@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250926T070000.000Z",
   "endTime": "20250929T070000.000Z",
-  "capitalTotalLoot": 465718,
+  "capitalTotalLoot": 486354,
   "raidsCompleted": 6,
-  "totalAttacks": 111,
-  "enemyDistrictsDestroyed": 40,
+  "totalAttacks": 117,
+  "enemyDistrictsDestroyed": 44,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -160,6 +160,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 25715
+    },
+    {
+      "tag": "#9JU9LUPCL",
+      "name": "TheSaurusPG",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 20636
     },
     {
       "tag": "#G9CC9G2VQ",
@@ -1438,28 +1446,54 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/7TKwuNqwjHJqXG_9_GBSWBEwHaUb1hVXu6Mas-v30Vo.png"
         }
       },
-      "attackCount": 13,
+      "attackCount": 19,
       "districtCount": 9,
-      "districtsDestroyed": 4,
+      "districtsDestroyed": 8,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 56,
+          "stars": 1,
+          "attackCount": 2,
+          "totalLooted": 4600,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#9JU9LUPCL",
+                "name": "TheSaurusPG"
+              },
+              "destructionPercent": 56,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#9JU9LUPCL",
+                "name": "TheSaurusPG"
+              },
+              "destructionPercent": 28,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 74,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 7570,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11568,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#9JU9LUPCL",
+                "name": "TheSaurusPG"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#J88YJGY9",
@@ -1482,11 +1516,19 @@
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 50,
-          "stars": 1,
-          "attackCount": 1,
-          "totalLooted": 4295,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9949,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#9JU9LUPCL",
+                "name": "TheSaurusPG"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#J88YJGY9",
@@ -1501,11 +1543,19 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 75,
-          "stars": 1,
-          "attackCount": 1,
-          "totalLooted": 7570,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10349,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#9JU9LUPCL",
+                "name": "TheSaurusPG"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#Q2QQL2YVV",
@@ -1574,11 +1624,19 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 72,
-          "stars": 2,
-          "attackCount": 1,
-          "totalLooted": 6870,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10475,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#9JU9LUPCL",
+                "name": "TheSaurusPG"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#Q2QQL2YVV",
