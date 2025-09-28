@@ -2,9 +2,9 @@
   "state": "ongoing",
   "startTime": "20250926T070000.000Z",
   "endTime": "20250929T070000.000Z",
-  "capitalTotalLoot": 458848,
+  "capitalTotalLoot": 465718,
   "raidsCompleted": 6,
-  "totalAttacks": 110,
+  "totalAttacks": 111,
   "enemyDistrictsDestroyed": 40,
   "offensiveReward": 0,
   "defensiveReward": 0,
@@ -60,10 +60,10 @@
     {
       "tag": "#Q2QQL2YVV",
       "name": "cyan",
-      "attacks": 3,
+      "attacks": 4,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 18421
+      "capitalResourcesLooted": 25291
     },
     {
       "tag": "#PRPULCGUR",
@@ -1438,7 +1438,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/7TKwuNqwjHJqXG_9_GBSWBEwHaUb1hVXu6Mas-v30Vo.png"
         }
       },
-      "attackCount": 12,
+      "attackCount": 13,
       "districtCount": 9,
       "districtsDestroyed": 4,
       "districts": [
@@ -1574,10 +1574,20 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 72,
+          "stars": 2,
+          "attackCount": 1,
+          "totalLooted": 6870,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q2QQL2YVV",
+                "name": "cyan"
+              },
+              "destructionPercent": 72,
+              "stars": 2
+            }
+          ]
         },
         {
           "id": 70000007,
@@ -2410,6 +2420,104 @@
               "stars": 2
             }
           ]
+        }
+      ]
+    },
+    {
+      "attacker": {
+        "tag": "#2L88QPP9",
+        "name": "Barching Crazy\u2122",
+        "level": 37,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/z3dlLqdaMLAcPTdSw-WOn1ECR49msk-fV3Kv6mly79Q.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/z3dlLqdaMLAcPTdSw-WOn1ECR49msk-fV3Kv6mly79Q.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/z3dlLqdaMLAcPTdSw-WOn1ECR49msk-fV3Kv6mly79Q.png"
+        }
+      },
+      "attackCount": 0,
+      "districtCount": 9,
+      "districtsDestroyed": 0,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 10,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 4,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 4,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
         }
       ]
     }
