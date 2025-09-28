@@ -2862,7 +2862,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/z3dlLqdaMLAcPTdSw-WOn1ECR49msk-fV3Kv6mly79Q.png"
         }
       },
-      "attackCount": 0,
+      "attackCount": 1,
       "districtCount": 9,
       "districtsDestroyed": 0,
       "districts": [
@@ -2942,10 +2942,20 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
+          "destructionPercent": 27,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 1,
+          "totalLooted": 4140,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#RYQPCLQ2",
+                "name": "wizdimizm"
+              },
+              "destructionPercent": 27,
+              "stars": 0
+            }
+          ]
         }
       ]
     }
