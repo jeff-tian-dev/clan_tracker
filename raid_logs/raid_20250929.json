@@ -3360,9 +3360,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/z3dlLqdaMLAcPTdSw-WOn1ECR49msk-fV3Kv6mly79Q.png"
         }
       },
-      "attackCount": 7,
+      "attackCount": 10,
       "districtCount": 9,
-      "districtsDestroyed": 2,
+      "districtsDestroyed": 3,
       "districts": [
         {
           "id": 70000000,
@@ -3474,10 +3474,20 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 50,
+          "stars": 2,
+          "attackCount": 1,
+          "totalLooted": 6305,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#G0YJ92PQ",
+                "name": "garvpau"
+              },
+              "destructionPercent": 50,
+              "stars": 2
+            }
+          ]
         },
         {
           "id": 70000007,
@@ -3492,11 +3502,27 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 27,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 4140,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11811,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#G0YJ92PQ",
+                "name": "garvpau"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#G0YJ92PQ",
+                "name": "garvpau"
+              },
+              "destructionPercent": 84,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#RYQPCLQ2",
