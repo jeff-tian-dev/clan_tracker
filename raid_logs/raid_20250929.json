@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250926T070000.000Z",
   "endTime": "20250929T070000.000Z",
-  "capitalTotalLoot": 626919,
-  "raidsCompleted": 8,
-  "totalAttacks": 157,
-  "enemyDistrictsDestroyed": 56,
+  "capitalTotalLoot": 690410,
+  "raidsCompleted": 9,
+  "totalAttacks": 173,
+  "enemyDistrictsDestroyed": 63,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -122,6 +122,14 @@
       "capitalResourcesLooted": 17890
     },
     {
+      "tag": "#Q8RL00L0R",
+      "name": "sumit007",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 17227
+    },
+    {
       "tag": "#J88YJGY9",
       "name": "King Killer",
       "attacks": 6,
@@ -186,6 +194,14 @@
       "capitalResourcesLooted": 19584
     },
     {
+      "tag": "#2JGUV8CC",
+      "name": "Super Mario 03",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 29508
+    },
+    {
       "tag": "#2R2JYRRU",
       "name": "taz",
       "attacks": 6,
@@ -196,10 +212,10 @@
     {
       "tag": "#Y2CYC0QC0",
       "name": "kunalsingh",
-      "attacks": 2,
+      "attacks": 6,
       "attackLimit": 5,
-      "bonusAttackLimit": 0,
-      "capitalResourcesLooted": 6740
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 23496
     },
     {
       "tag": "#GGYGQ8098",
@@ -2158,28 +2174,78 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/CYGk6tKrCO07RHcnrQgpY-cRHqasV4BVWGcabvhXEmw.png"
         }
       },
-      "attackCount": 6,
+      "attackCount": 22,
       "districtCount": 9,
-      "districtsDestroyed": 2,
+      "districtsDestroyed": 9,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 5,
+          "totalLooted": 12740,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2JGUV8CC",
+                "name": "Super Mario 03"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Q8RL00L0R",
+                "name": "sumit007"
+              },
+              "destructionPercent": 73,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#Q8RL00L0R",
+                "name": "sumit007"
+              },
+              "destructionPercent": 57,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#Q8RL00L0R",
+                "name": "sumit007"
+              },
+              "destructionPercent": 51,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#Q8RL00L0R",
+                "name": "sumit007"
+              },
+              "destructionPercent": 8,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 58,
-          "stars": 1,
-          "attackCount": 2,
-          "totalLooted": 6740,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11124,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#Y2CYC0QC0",
+                "name": "kunalsingh"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#Y2CYC0QC0",
@@ -2229,19 +2295,55 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9487,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Y2CYC0QC0",
+                "name": "kunalsingh"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Y2CYC0QC0",
+                "name": "kunalsingh"
+              },
+              "destructionPercent": 58,
+              "stars": 2
+            }
+          ]
         },
         {
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9736,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2JGUV8CC",
+                "name": "Super Mario 03"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2JGUV8CC",
+                "name": "Super Mario 03"
+              },
+              "destructionPercent": 59,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000005,
@@ -2274,6 +2376,158 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 3,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 8664,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2JGUV8CC",
+                "name": "Super Mario 03"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Y2CYC0QC0",
+                "name": "kunalsingh"
+              },
+              "destructionPercent": 48,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9988,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2JGUV8CC",
+                "name": "Super Mario 03"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2JGUV8CC",
+                "name": "Super Mario 03"
+              },
+              "destructionPercent": 57,
+              "stars": 2
+            }
+          ]
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 3,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 8492,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q8RL00L0R",
+                "name": "sumit007"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Q8RL00L0R",
+                "name": "sumit007"
+              },
+              "destructionPercent": 45,
+              "stars": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "defender": {
+        "tag": "#28CQR9YCL",
+        "name": "number909number",
+        "level": 21,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/rscSYrGGuO5gLHDnGGyrIlQxsrEDU-2wFrAwRDrNtnQ.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/rscSYrGGuO5gLHDnGGyrIlQxsrEDU-2wFrAwRDrNtnQ.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/rscSYrGGuO5gLHDnGGyrIlQxsrEDU-2wFrAwRDrNtnQ.png"
+        }
+      },
+      "attackCount": 0,
+      "districtCount": 9,
+      "districtsDestroyed": 0,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 10,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 5,
           "destructionPercent": 0,
           "stars": 0,
           "attackCount": 0,
@@ -2291,7 +2545,7 @@
         {
           "id": 70000008,
           "name": "Goblin Mines",
-          "districtHallLevel": 3,
+          "districtHallLevel": 4,
           "destructionPercent": 0,
           "stars": 0,
           "attackCount": 0,
