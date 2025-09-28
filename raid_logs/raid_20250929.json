@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250926T070000.000Z",
   "endTime": "20250929T070000.000Z",
-  "capitalTotalLoot": 563186,
+  "capitalTotalLoot": 584024,
   "raidsCompleted": 7,
-  "totalAttacks": 138,
-  "enemyDistrictsDestroyed": 50,
+  "totalAttacks": 144,
+  "enemyDistrictsDestroyed": 51,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -64,6 +64,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 23423
+    },
+    {
+      "tag": "#YUGR9R0RG",
+      "name": "shivam",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 20838
     },
     {
       "tag": "#Q2QQL2YVV",
@@ -1778,9 +1786,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/X5zVsdH6aCLw47y__6cKyvj_Ey6O6vnBmrBCLTITG40.png"
         }
       },
-      "attackCount": 17,
+      "attackCount": 23,
       "districtCount": 9,
-      "districtsDestroyed": 5,
+      "districtsDestroyed": 6,
       "districts": [
         {
           "id": 70000000,
@@ -1795,10 +1803,36 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11403,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YUGR9R0RG",
+                "name": "shivam"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#YUGR9R0RG",
+                "name": "shivam"
+              },
+              "destructionPercent": 60,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#YUGR9R0RG",
+                "name": "shivam"
+              },
+              "destructionPercent": 28,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000002,
@@ -1866,10 +1900,36 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 89,
+          "stars": 2,
+          "attackCount": 3,
+          "totalLooted": 9435,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YUGR9R0RG",
+                "name": "shivam"
+              },
+              "destructionPercent": 89,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#YUGR9R0RG",
+                "name": "shivam"
+              },
+              "destructionPercent": 54,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#YUGR9R0RG",
+                "name": "shivam"
+              },
+              "destructionPercent": 23,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000005,
