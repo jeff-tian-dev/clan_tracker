@@ -2,9 +2,9 @@
   "state": "ongoing",
   "startTime": "20250926T070000.000Z",
   "endTime": "20250929T070000.000Z",
-  "capitalTotalLoot": 495223,
+  "capitalTotalLoot": 510198,
   "raidsCompleted": 7,
-  "totalAttacks": 121,
+  "totalAttacks": 124,
   "enemyDistrictsDestroyed": 45,
   "offensiveReward": 0,
   "defensiveReward": 0,
@@ -60,10 +60,10 @@
     {
       "tag": "#Q2QQL2YVV",
       "name": "cyan",
-      "attacks": 4,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 25291
+      "capitalResourcesLooted": 35281
     },
     {
       "tag": "#PRPULCGUR",
@@ -160,6 +160,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 25715
+    },
+    {
+      "tag": "#L80U2J9PC",
+      "name": "khushi",
+      "attacks": 1,
+      "attackLimit": 5,
+      "bonusAttackLimit": 0,
+      "capitalResourcesLooted": 4985
     },
     {
       "tag": "#9JU9LUPCL",
@@ -1746,7 +1754,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/X5zVsdH6aCLw47y__6cKyvj_Ey6O6vnBmrBCLTITG40.png"
         }
       },
-      "attackCount": 0,
+      "attackCount": 3,
       "districtCount": 9,
       "districtsDestroyed": 0,
       "districts": [
@@ -1781,10 +1789,28 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 84,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 9990,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q2QQL2YVV",
+                "name": "cyan"
+              },
+              "destructionPercent": 84,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#Q2QQL2YVV",
+                "name": "cyan"
+              },
+              "destructionPercent": 36,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000004,
@@ -1799,10 +1825,20 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
+          "destructionPercent": 37,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 1,
+          "totalLooted": 4985,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#L80U2J9PC",
+                "name": "khushi"
+              },
+              "destructionPercent": 37,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000006,
