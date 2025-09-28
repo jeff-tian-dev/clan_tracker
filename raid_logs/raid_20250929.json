@@ -2,9 +2,9 @@
   "state": "ongoing",
   "startTime": "20250926T070000.000Z",
   "endTime": "20250929T070000.000Z",
-  "capitalTotalLoot": 620179,
+  "capitalTotalLoot": 626919,
   "raidsCompleted": 8,
-  "totalAttacks": 155,
+  "totalAttacks": 157,
   "enemyDistrictsDestroyed": 56,
   "offensiveReward": 0,
   "defensiveReward": 0,
@@ -192,6 +192,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 23523
+    },
+    {
+      "tag": "#Y2CYC0QC0",
+      "name": "kunalsingh",
+      "attacks": 2,
+      "attackLimit": 5,
+      "bonusAttackLimit": 0,
+      "capitalResourcesLooted": 6740
     },
     {
       "tag": "#GGYGQ8098",
@@ -2150,7 +2158,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/CYGk6tKrCO07RHcnrQgpY-cRHqasV4BVWGcabvhXEmw.png"
         }
       },
-      "attackCount": 4,
+      "attackCount": 6,
       "districtCount": 9,
       "districtsDestroyed": 2,
       "districts": [
@@ -2167,10 +2175,28 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 58,
+          "stars": 1,
+          "attackCount": 2,
+          "totalLooted": 6740,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Y2CYC0QC0",
+                "name": "kunalsingh"
+              },
+              "destructionPercent": 58,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#Y2CYC0QC0",
+                "name": "kunalsingh"
+              },
+              "destructionPercent": 32,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000002,
