@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250926T070000.000Z",
   "endTime": "20250929T070000.000Z",
-  "capitalTotalLoot": 510198,
+  "capitalTotalLoot": 563186,
   "raidsCompleted": 7,
-  "totalAttacks": 124,
-  "enemyDistrictsDestroyed": 45,
+  "totalAttacks": 138,
+  "enemyDistrictsDestroyed": 50,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -50,6 +50,14 @@
       "capitalResourcesLooted": 24749
     },
     {
+      "tag": "#Q9QU8L8YV",
+      "name": "je suis excit\u00e9",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 23276
+    },
+    {
       "tag": "#PL09LLPUY",
       "name": "Regis\u6881",
       "attacks": 6,
@@ -64,6 +72,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 35281
+    },
+    {
+      "tag": "#9U2YP0RY",
+      "name": "\u24c2\ufe0fBIG COCHY3\u24c2\ufe0f",
+      "attacks": 2,
+      "attackLimit": 5,
+      "bonusAttackLimit": 0,
+      "capitalResourcesLooted": 9150
     },
     {
       "tag": "#PRPULCGUR",
@@ -104,6 +120,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 23850
+    },
+    {
+      "tag": "#QU9PCRPUV",
+      "name": "Hari",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 20562
     },
     {
       "tag": "#YRQPYVPV8",
@@ -1754,9 +1778,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/X5zVsdH6aCLw47y__6cKyvj_Ey6O6vnBmrBCLTITG40.png"
         }
       },
-      "attackCount": 3,
+      "attackCount": 17,
       "districtCount": 9,
-      "districtsDestroyed": 0,
+      "districtsDestroyed": 5,
       "districts": [
         {
           "id": 70000000,
@@ -1780,20 +1804,46 @@
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 92,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 9150,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#9U2YP0RY",
+                "name": "\u24c2\ufe0fBIG COCHY3\u24c2\ufe0f"
+              },
+              "destructionPercent": 92,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#9U2YP0RY",
+                "name": "\u24c2\ufe0fBIG COCHY3\u24c2\ufe0f"
+              },
+              "destructionPercent": 57,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 84,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 9990,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11781,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#QU9PCRPUV",
+                "name": "Hari"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#Q2QQL2YVV",
@@ -1825,11 +1875,27 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 37,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 4985,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 12035,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#QU9PCRPUV",
+                "name": "Hari"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QU9PCRPUV",
+                "name": "Hari"
+              },
+              "destructionPercent": 91,
+              "stars": 1
+            },
             {
               "attacker": {
                 "tag": "#L80U2J9PC",
@@ -1844,28 +1910,106 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11721,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QU9PCRPUV",
+                "name": "Hari"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QU9PCRPUV",
+                "name": "Hari"
+              },
+              "destructionPercent": 66,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#QU9PCRPUV",
+                "name": "Hari"
+              },
+              "destructionPercent": 36,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11450,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q9QU8L8YV",
+                "name": "je suis excit\u00e9"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Q9QU8L8YV",
+                "name": "je suis excit\u00e9"
+              },
+              "destructionPercent": 54,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#Q9QU8L8YV",
+                "name": "je suis excit\u00e9"
+              },
+              "destructionPercent": 28,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11826,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q9QU8L8YV",
+                "name": "je suis excit\u00e9"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Q9QU8L8YV",
+                "name": "je suis excit\u00e9"
+              },
+              "destructionPercent": 84,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#Q9QU8L8YV",
+                "name": "je suis excit\u00e9"
+              },
+              "destructionPercent": 37,
+              "stars": 1
+            }
+          ]
         }
       ]
     }
