@@ -1,5 +1,5 @@
 {
-  "state": "preparation",
+  "state": "inWar",
   "teamSize": 30,
   "attacksPerMember": 2,
   "battleModifier": "none",
@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Uwe8sJr6b6dIEiWFEd9k-ODCbVwotrNdkfZKeEOHr4M.png"
     },
     "clanLevel": 10,
-    "attacks": 0,
-    "stars": 0,
-    "destructionPercentage": 0.0,
+    "attacks": 4,
+    "stars": 9,
+    "destructionPercentage": 12.633333,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -59,6 +59,24 @@
         "name": "je suis excit\u00e9",
         "townhallLevel": 17,
         "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#Q9QU8L8YV",
+            "defenderTag": "#92QVC2CUG",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 3,
+            "duration": 112
+          },
+          {
+            "attackerTag": "#Q9QU8L8YV",
+            "defenderTag": "#CU208PGY",
+            "stars": 2,
+            "destructionPercentage": 86,
+            "order": 4,
+            "duration": 118
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -220,6 +238,24 @@
         "name": "\u2b50\u2b505 StarFree\u2b50\u2b50\u2b50",
         "townhallLevel": 17,
         "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#Y2PVPPU8C",
+            "defenderTag": "#9GCGCVVQR",
+            "stars": 2,
+            "destructionPercentage": 96,
+            "order": 1,
+            "duration": 180
+          },
+          {
+            "attackerTag": "#Y2PVPPU8C",
+            "defenderTag": "#9QYQQ8PRQ",
+            "stars": 2,
+            "destructionPercentage": 97,
+            "order": 2,
+            "duration": 180
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -305,14 +341,30 @@
         "name": "pinik",
         "townhallLevel": 17,
         "mapPosition": 5,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q9QU8L8YV",
+          "defenderTag": "#92QVC2CUG",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 3,
+          "duration": 112
+        }
       },
       {
         "tag": "#9GCGCVVQR",
         "name": "josen jr",
         "townhallLevel": 17,
         "mapPosition": 4,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Y2PVPPU8C",
+          "defenderTag": "#9GCGCVVQR",
+          "stars": 2,
+          "destructionPercentage": 96,
+          "order": 1,
+          "duration": 180
+        }
       },
       {
         "tag": "#2PJYCJQ0V",
@@ -417,14 +469,30 @@
         "name": "Boss",
         "townhallLevel": 17,
         "mapPosition": 2,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q9QU8L8YV",
+          "defenderTag": "#CU208PGY",
+          "stars": 2,
+          "destructionPercentage": 86,
+          "order": 4,
+          "duration": 118
+        }
       },
       {
         "tag": "#9QYQQ8PRQ",
         "name": "[ PROFESSOR ]",
         "townhallLevel": 17,
         "mapPosition": 3,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Y2PVPPU8C",
+          "defenderTag": "#9QYQQ8PRQ",
+          "stars": 2,
+          "destructionPercentage": 97,
+          "order": 2,
+          "duration": 180
+        }
       },
       {
         "tag": "#GCUCUJ89",
