@@ -2,9 +2,9 @@
   "state": "ongoing",
   "startTime": "20250926T070000.000Z",
   "endTime": "20250929T070000.000Z",
-  "capitalTotalLoot": 690410,
+  "capitalTotalLoot": 694260,
   "raidsCompleted": 9,
-  "totalAttacks": 173,
+  "totalAttacks": 174,
   "enemyDistrictsDestroyed": 63,
   "offensiveReward": 0,
   "defensiveReward": 0,
@@ -152,6 +152,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 20562
+    },
+    {
+      "tag": "#LPVG922PJ",
+      "name": "xMajinBoo3x",
+      "attacks": 1,
+      "attackLimit": 5,
+      "bonusAttackLimit": 0,
+      "capitalResourcesLooted": 3850
     },
     {
       "tag": "#YRQPYVPV8",
@@ -2466,7 +2474,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/rscSYrGGuO5gLHDnGGyrIlQxsrEDU-2wFrAwRDrNtnQ.png"
         }
       },
-      "attackCount": 0,
+      "attackCount": 1,
       "districtCount": 9,
       "districtsDestroyed": 0,
       "districts": [
@@ -2546,10 +2554,20 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
+          "destructionPercent": 33,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 1,
+          "totalLooted": 3850,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LPVG922PJ",
+                "name": "xMajinBoo3x"
+              },
+              "destructionPercent": 33,
+              "stars": 0
+            }
+          ]
         }
       ]
     }
