@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Uwe8sJr6b6dIEiWFEd9k-ODCbVwotrNdkfZKeEOHr4M.png"
     },
     "clanLevel": 10,
-    "attacks": 30,
-    "stars": 68,
-    "destructionPercentage": 78.933334,
+    "attacks": 32,
+    "stars": 72,
+    "destructionPercentage": 82.53333,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -315,7 +315,15 @@
         "name": "Sir Hazelnut\u2122\ufe0f",
         "townhallLevel": 15,
         "mapPosition": 16,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PYQY2RLQC",
+          "defenderTag": "#YJ2UV2GY",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 38,
+          "duration": 119
+        }
       },
       {
         "tag": "#QYCLC0JLL",
@@ -545,6 +553,24 @@
         "name": "Swift",
         "townhallLevel": 16,
         "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#PRGGL2J2V",
+            "defenderTag": "#8GUY82GU9",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 37,
+            "duration": 116
+          },
+          {
+            "attackerTag": "#PRGGL2J2V",
+            "defenderTag": "#LGV8LJ9P9",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 39,
+            "duration": 122
+          }
+        ],
         "opponentAttacks": 0
       }
     ]
@@ -558,23 +584,23 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/57ARHWzkvCUE38P2jBRhXOUiNb1eZtxQJpRbOg6K5TA.png"
     },
     "clanLevel": 28,
-    "attacks": 6,
-    "stars": 17,
-    "destructionPercentage": 19.866667,
+    "attacks": 7,
+    "stars": 20,
+    "destructionPercentage": 23.2,
     "members": [
       {
         "tag": "#8GUY82GU9",
         "name": "\u2620\ufe0f President \u2620\ufe0f",
         "townhallLevel": 16,
         "mapPosition": 12,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#8VQYULVQQ",
+          "attackerTag": "#PRGGL2J2V",
           "defenderTag": "#8GUY82GU9",
-          "stars": 2,
-          "destructionPercentage": 92,
-          "order": 29,
-          "duration": 155
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 37,
+          "duration": 116
         }
       },
       {
@@ -611,7 +637,15 @@
         "name": "Clash King",
         "townhallLevel": 15,
         "mapPosition": 14,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PRGGL2J2V",
+          "defenderTag": "#LGV8LJ9P9",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 39,
+          "duration": 122
+        }
       },
       {
         "tag": "#GYGCYULU",
@@ -769,6 +803,16 @@
         "name": "AriAzaelx05",
         "townhallLevel": 15,
         "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#PYQY2RLQC",
+            "defenderTag": "#YJ2UV2GY",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 38,
+            "duration": 119
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#8VQYULVQQ",

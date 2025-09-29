@@ -106,6 +106,14 @@
       "capitalResourcesLooted": 9150
     },
     {
+      "tag": "#Y99V2JYQ0",
+      "name": "BELIEVER",
+      "attacks": 0,
+      "attackLimit": 5,
+      "bonusAttackLimit": 0,
+      "capitalResourcesLooted": 0
+    },
+    {
       "tag": "#PRPULCGUR",
       "name": "ALTRA LEGEND",
       "attacks": 5,
@@ -3962,9 +3970,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/vEsIhn70gXX5Z7ro2LUWi9vQ9YRfdGucDHUKaNCV-bc.png"
         }
       },
-      "attackCount": 7,
+      "attackCount": 10,
       "districtCount": 9,
-      "districtsDestroyed": 2,
+      "districtsDestroyed": 3,
       "districts": [
         {
           "id": 70000000,
@@ -4014,10 +4022,36 @@
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10163,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#802VG28UG",
+                "name": "nupa sabi"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#802VG28UG",
+                "name": "nupa sabi"
+              },
+              "destructionPercent": 66,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#802VG28UG",
+                "name": "nupa sabi"
+              },
+              "destructionPercent": 39,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000003,
