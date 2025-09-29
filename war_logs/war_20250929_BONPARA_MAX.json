@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Uwe8sJr6b6dIEiWFEd9k-ODCbVwotrNdkfZKeEOHr4M.png"
     },
     "clanLevel": 10,
-    "attacks": 34,
-    "stars": 77,
-    "destructionPercentage": 88.333336,
+    "attacks": 35,
+    "stars": 78,
+    "destructionPercentage": 88.36667,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -126,6 +126,16 @@
         "name": "INDxSayan",
         "townhallLevel": 16,
         "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#GYGC88RGG",
+            "defenderTag": "#PYQY2RLQC",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 46,
+            "duration": 134
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#GLLYG0GU9",
@@ -891,14 +901,14 @@
             "duration": 122
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#8VQYULVQQ",
+          "attackerTag": "#GYGC88RGG",
           "defenderTag": "#PYQY2RLQC",
-          "stars": 2,
-          "destructionPercentage": 99,
-          "order": 30,
-          "duration": 180
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 46,
+          "duration": 134
         }
       },
       {

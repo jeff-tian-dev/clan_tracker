@@ -3,7 +3,7 @@
   "startTime": "20250926T070000.000Z",
   "endTime": "20250929T070000.000Z",
   "capitalTotalLoot": 838054,
-  "raidsCompleted": 10,
+  "raidsCompleted": 11,
   "totalAttacks": 209,
   "enemyDistrictsDestroyed": 76,
   "offensiveReward": 0,
@@ -3802,18 +3802,52 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/z3dlLqdaMLAcPTdSw-WOn1ECR49msk-fV3Kv6mly79Q.png"
         }
       },
-      "attackCount": 17,
+      "attackCount": 25,
       "districtCount": 9,
-      "districtsDestroyed": 5,
+      "districtsDestroyed": 9,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 13469,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#9YQYCCR2",
+                "name": "tcm1912"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#9YQYCCR2",
+                "name": "tcm1912"
+              },
+              "destructionPercent": 96,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#82LQ80V9",
+                "name": "winner"
+              },
+              "destructionPercent": 67,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#8JUL9RCV8",
+                "name": "Greg"
+              },
+              "destructionPercent": 55,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000001,
@@ -3854,10 +3888,28 @@
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10214,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#8JUL9RCV8",
+                "name": "Greg"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#8JUL9RCV8",
+                "name": "Greg"
+              },
+              "destructionPercent": 63,
+              "stars": 2
+            }
+          ]
         },
         {
           "id": 70000003,
@@ -3933,11 +3985,19 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 84,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 9855,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11993,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#8JUL9RCV8",
+                "name": "Greg"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#29QJJRU00",
@@ -3960,11 +4020,19 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 50,
-          "stars": 2,
-          "attackCount": 1,
-          "totalLooted": 6305,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11529,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#8JUL9RCV8",
+                "name": "Greg"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#G0YJ92PQ",
