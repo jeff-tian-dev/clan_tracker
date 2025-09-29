@@ -333,7 +333,15 @@
         "name": "myathpone.",
         "townhallLevel": 15,
         "mapPosition": 17,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#8GUY82GU9",
+          "defenderTag": "#80228GJGL",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 56,
+          "duration": 167
+        }
       },
       {
         "tag": "#YQ8L9JVJ2",
@@ -593,7 +601,15 @@
             "duration": 117
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GV9UGYUPL",
+          "defenderTag": "#GGYGQ8098",
+          "stars": 2,
+          "destructionPercentage": 53,
+          "order": 55,
+          "duration": 133
+        }
       },
       {
         "tag": "#G9CC9G2VQ",
@@ -714,15 +730,25 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/57ARHWzkvCUE38P2jBRhXOUiNb1eZtxQJpRbOg6K5TA.png"
     },
     "clanLevel": 28,
-    "attacks": 13,
-    "stars": 34,
-    "destructionPercentage": 42.666668,
+    "attacks": 15,
+    "stars": 39,
+    "destructionPercentage": 47.766666,
     "members": [
       {
         "tag": "#8GUY82GU9",
         "name": "\u2620\ufe0f President \u2620\ufe0f",
         "townhallLevel": 16,
         "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#8GUY82GU9",
+            "defenderTag": "#80228GJGL",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 56,
+            "duration": 167
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#PRGGL2J2V",
@@ -1093,6 +1119,16 @@
         "name": "Pinik Buzz..",
         "townhallLevel": 10,
         "mapPosition": 30,
+        "attacks": [
+          {
+            "attackerTag": "#GV9UGYUPL",
+            "defenderTag": "#GGYGQ8098",
+            "stars": 2,
+            "destructionPercentage": 53,
+            "order": 55,
+            "duration": 133
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#LPY98YRRC",
