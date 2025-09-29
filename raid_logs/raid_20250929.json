@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250926T070000.000Z",
   "endTime": "20250929T070000.000Z",
-  "capitalTotalLoot": 795072,
+  "capitalTotalLoot": 806380,
   "raidsCompleted": 10,
-  "totalAttacks": 200,
-  "enemyDistrictsDestroyed": 72,
+  "totalAttacks": 203,
+  "enemyDistrictsDestroyed": 73,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -276,10 +276,10 @@
     {
       "tag": "#LGGLYVUPP",
       "name": "siwi2isuus2",
-      "attacks": 3,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 11029
+      "capitalResourcesLooted": 22337
     },
     {
       "tag": "#RPYYL2G",
@@ -2838,9 +2838,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/oDXR1W8Fb92BRT9Jyvu45kANqFz6xGX-fhb_iEkh2t8.png"
         }
       },
-      "attackCount": 0,
+      "attackCount": 3,
       "districtCount": 9,
-      "districtsDestroyed": 0,
+      "districtsDestroyed": 1,
       "districts": [
         {
           "id": 70000000,
@@ -2918,10 +2918,36 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11308,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LGGLYVUPP",
+                "name": "siwi2isuus2"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LGGLYVUPP",
+                "name": "siwi2isuus2"
+              },
+              "destructionPercent": 75,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#LGGLYVUPP",
+                "name": "siwi2isuus2"
+              },
+              "destructionPercent": 46,
+              "stars": 1
+            }
+          ]
         }
       ]
     }
@@ -3936,9 +3962,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/vEsIhn70gXX5Z7ro2LUWi9vQ9YRfdGucDHUKaNCV-bc.png"
         }
       },
-      "attackCount": 2,
+      "attackCount": 7,
       "districtCount": 9,
-      "districtsDestroyed": 0,
+      "districtsDestroyed": 2,
       "districts": [
         {
           "id": 70000000,
@@ -3953,10 +3979,36 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11403,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q9YULYCU8",
+                "name": "MYTHICAL GLORY"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Q9YULYCU8",
+                "name": "MYTHICAL GLORY"
+              },
+              "destructionPercent": 57,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#Q9YULYCU8",
+                "name": "MYTHICAL GLORY"
+              },
+              "destructionPercent": 19,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000002,
@@ -4016,10 +4068,28 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11505,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q9YULYCU8",
+                "name": "MYTHICAL GLORY"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Q9YULYCU8",
+                "name": "MYTHICAL GLORY"
+              },
+              "destructionPercent": 51,
+              "stars": 2
+            }
+          ]
         },
         {
           "id": 70000007,
