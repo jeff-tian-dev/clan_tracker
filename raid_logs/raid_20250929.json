@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250926T070000.000Z",
   "endTime": "20250929T070000.000Z",
-  "capitalTotalLoot": 838054,
+  "capitalTotalLoot": 859653,
   "raidsCompleted": 11,
-  "totalAttacks": 209,
-  "enemyDistrictsDestroyed": 76,
+  "totalAttacks": 215,
+  "enemyDistrictsDestroyed": 78,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -40,6 +40,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 19259
+    },
+    {
+      "tag": "#LPY98YRRC",
+      "name": "aeng",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 21599
     },
     {
       "tag": "#GLU9LC2LG",
@@ -2846,9 +2854,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/oDXR1W8Fb92BRT9Jyvu45kANqFz6xGX-fhb_iEkh2t8.png"
         }
       },
-      "attackCount": 9,
+      "attackCount": 15,
       "districtCount": 9,
-      "districtsDestroyed": 4,
+      "districtsDestroyed": 6,
       "districts": [
         {
           "id": 70000000,
@@ -2863,10 +2871,36 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11343,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LPY98YRRC",
+                "name": "aeng"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LPY98YRRC",
+                "name": "aeng"
+              },
+              "destructionPercent": 54,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#LPY98YRRC",
+                "name": "aeng"
+              },
+              "destructionPercent": 22,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000002,
@@ -2935,10 +2969,36 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10256,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LPY98YRRC",
+                "name": "aeng"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LPY98YRRC",
+                "name": "aeng"
+              },
+              "destructionPercent": 65,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#LPY98YRRC",
+                "name": "aeng"
+              },
+              "destructionPercent": 31,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000006,
@@ -4118,9 +4178,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/vEsIhn70gXX5Z7ro2LUWi9vQ9YRfdGucDHUKaNCV-bc.png"
         }
       },
-      "attackCount": 17,
+      "attackCount": 21,
       "districtCount": 9,
-      "districtsDestroyed": 6,
+      "districtsDestroyed": 8,
       "districts": [
         {
           "id": 70000000,
@@ -4275,10 +4335,28 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11303,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#22Y28V9VG",
+                "name": "Mock_cooL_eaT"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#22Y28V9VG",
+                "name": "Mock_cooL_eaT"
+              },
+              "destructionPercent": 44,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000006,
@@ -4346,10 +4424,28 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11460,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#22Y28V9VG",
+                "name": "Mock_cooL_eaT"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#22Y28V9VG",
+                "name": "Mock_cooL_eaT"
+              },
+              "destructionPercent": 61,
+              "stars": 2
+            }
+          ]
         }
       ]
     }

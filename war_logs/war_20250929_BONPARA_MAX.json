@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Uwe8sJr6b6dIEiWFEd9k-ODCbVwotrNdkfZKeEOHr4M.png"
     },
     "clanLevel": 10,
-    "attacks": 35,
-    "stars": 78,
-    "destructionPercentage": 88.36667,
+    "attacks": 38,
+    "stars": 85,
+    "destructionPercentage": 96.833336,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -46,6 +46,24 @@
         "name": "aeng",
         "townhallLevel": 15,
         "mapPosition": 21,
+        "attacks": [
+          {
+            "attackerTag": "#LPY98YRRC",
+            "defenderTag": "#GV9UGYUPL",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 47,
+            "duration": 65
+          },
+          {
+            "attackerTag": "#LPY98YRRC",
+            "defenderTag": "#GCGJLVRPC",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 48,
+            "duration": 84
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -368,6 +386,14 @@
             "destructionPercentage": 74,
             "order": 44,
             "duration": 145
+          },
+          {
+            "attackerTag": "#YRQPYVPV8",
+            "defenderTag": "#LC2L8G2QQ",
+            "stars": 1,
+            "destructionPercentage": 54,
+            "order": 49,
+            "duration": 114
           }
         ],
         "opponentAttacks": 0
@@ -685,7 +711,15 @@
         "name": "Tiprasa Warrior",
         "townhallLevel": 15,
         "mapPosition": 15,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YRQPYVPV8",
+          "defenderTag": "#LC2L8G2QQ",
+          "stars": 1,
+          "destructionPercentage": 54,
+          "order": 49,
+          "duration": 114
+        }
       },
       {
         "tag": "#9GJ9VGRR8",
@@ -755,7 +789,15 @@
         "name": "Hridoy Raj3",
         "townhallLevel": 11,
         "mapPosition": 29,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LPY98YRRC",
+          "defenderTag": "#GCGJLVRPC",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 48,
+          "duration": 84
+        }
       },
       {
         "tag": "#GG92U9UQQ",
@@ -991,7 +1033,15 @@
         "name": "Pinik Buzz..",
         "townhallLevel": 10,
         "mapPosition": 30,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LPY98YRRC",
+          "defenderTag": "#GV9UGYUPL",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 47,
+          "duration": 65
+        }
       },
       {
         "tag": "#QJLU002RR",
