@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Uwe8sJr6b6dIEiWFEd9k-ODCbVwotrNdkfZKeEOHr4M.png"
     },
     "clanLevel": 10,
-    "attacks": 41,
-    "stars": 89,
-    "destructionPercentage": 99.666664,
+    "attacks": 43,
+    "stars": 90,
+    "destructionPercentage": 100.0,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -342,6 +342,24 @@
         "name": "gun",
         "townhallLevel": 16,
         "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#2CQLC28UP",
+            "defenderTag": "#GYCQVC08C",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 70,
+            "duration": 65
+          },
+          {
+            "attackerTag": "#2CQLC28UP",
+            "defenderTag": "#9QYQQ8PRQ",
+            "stars": 2,
+            "destructionPercentage": 70,
+            "order": 71,
+            "duration": 80
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#GCUCUJ89",
@@ -1239,14 +1257,14 @@
         "name": "bad man",
         "townhallLevel": 15,
         "mapPosition": 19,
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#G9CC9G2VQ",
+          "attackerTag": "#2CQLC28UP",
           "defenderTag": "#GYCQVC08C",
-          "stars": 2,
-          "destructionPercentage": 90,
-          "order": 35,
-          "duration": 126
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 70,
+          "duration": 65
         }
       },
       {
@@ -1430,7 +1448,7 @@
             "duration": 140
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
           "attackerTag": "#G28CVVRJL",
           "defenderTag": "#9QYQQ8PRQ",
