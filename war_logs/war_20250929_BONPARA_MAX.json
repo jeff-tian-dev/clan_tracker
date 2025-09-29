@@ -53,7 +53,15 @@
         "name": "destroyer",
         "townhallLevel": 17,
         "mapPosition": 6,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GCUCUJ89",
+          "defenderTag": "#UJP2UYRY",
+          "stars": 2,
+          "destructionPercentage": 94,
+          "order": 41,
+          "duration": 180
+        }
       },
       {
         "tag": "#GLU9LC2LG",
@@ -248,7 +256,15 @@
         "name": "gun",
         "townhallLevel": 16,
         "mapPosition": 12,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GCUCUJ89",
+          "defenderTag": "#2CQLC28UP",
+          "stars": 1,
+          "destructionPercentage": 97,
+          "order": 42,
+          "duration": 180
+        }
       },
       {
         "tag": "#80228GJGL",
@@ -280,7 +296,15 @@
             "duration": 159
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#9GCGCVVQR",
+          "defenderTag": "#YQ8L9JVJ2",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 43,
+          "duration": 165
+        }
       },
       {
         "tag": "#LYJJ9PLV9",
@@ -294,7 +318,15 @@
         "name": "You",
         "townhallLevel": 15,
         "mapPosition": 13,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PYQY2RLQC",
+          "defenderTag": "#22GQU2V2V",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 40,
+          "duration": 122
+        }
       },
       {
         "tag": "#QPPYC0V90",
@@ -584,9 +616,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/57ARHWzkvCUE38P2jBRhXOUiNb1eZtxQJpRbOg6K5TA.png"
     },
     "clanLevel": 28,
-    "attacks": 7,
-    "stars": 20,
-    "destructionPercentage": 23.2,
+    "attacks": 11,
+    "stars": 29,
+    "destructionPercentage": 36.233334,
     "members": [
       {
         "tag": "#8GUY82GU9",
@@ -722,6 +754,16 @@
         "name": "josen jr",
         "townhallLevel": 17,
         "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#9GCGCVVQR",
+            "defenderTag": "#YQ8L9JVJ2",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 43,
+            "duration": 165
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#2R2JYRRU",
@@ -811,6 +853,14 @@
             "destructionPercentage": 100,
             "order": 38,
             "duration": 119
+          },
+          {
+            "attackerTag": "#PYQY2RLQC",
+            "defenderTag": "#22GQU2V2V",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 40,
+            "duration": 122
           }
         ],
         "opponentAttacks": 1,
@@ -1015,6 +1065,24 @@
         "name": "Hridoy Raj",
         "townhallLevel": 16,
         "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#GCUCUJ89",
+            "defenderTag": "#UJP2UYRY",
+            "stars": 2,
+            "destructionPercentage": 94,
+            "order": 41,
+            "duration": 180
+          },
+          {
+            "attackerTag": "#GCUCUJ89",
+            "defenderTag": "#2CQLC28UP",
+            "stars": 1,
+            "destructionPercentage": 97,
+            "order": 42,
+            "duration": 180
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#2R2JYRRU",

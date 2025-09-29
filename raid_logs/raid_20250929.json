@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250926T070000.000Z",
   "endTime": "20250929T070000.000Z",
-  "capitalTotalLoot": 806380,
+  "capitalTotalLoot": 838054,
   "raidsCompleted": 10,
-  "totalAttacks": 203,
-  "enemyDistrictsDestroyed": 73,
+  "totalAttacks": 209,
+  "enemyDistrictsDestroyed": 76,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -108,10 +108,10 @@
     {
       "tag": "#Y99V2JYQ0",
       "name": "BELIEVER",
-      "attacks": 0,
+      "attacks": 6,
       "attackLimit": 5,
-      "bonusAttackLimit": 0,
-      "capitalResourcesLooted": 0
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 31674
     },
     {
       "tag": "#PRPULCGUR",
@@ -2846,9 +2846,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/oDXR1W8Fb92BRT9Jyvu45kANqFz6xGX-fhb_iEkh2t8.png"
         }
       },
-      "attackCount": 3,
+      "attackCount": 9,
       "districtCount": 9,
-      "districtsDestroyed": 1,
+      "districtsDestroyed": 4,
       "districts": [
         {
           "id": 70000000,
@@ -2881,19 +2881,55 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10179,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Y99V2JYQ0",
+                "name": "BELIEVER"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Y99V2JYQ0",
+                "name": "BELIEVER"
+              },
+              "destructionPercent": 58,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10522,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Y99V2JYQ0",
+                "name": "BELIEVER"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Y99V2JYQ0",
+                "name": "BELIEVER"
+              },
+              "destructionPercent": 56,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000005,
@@ -2917,10 +2953,28 @@
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10973,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Y99V2JYQ0",
+                "name": "BELIEVER"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Y99V2JYQ0",
+                "name": "BELIEVER"
+              },
+              "destructionPercent": 54,
+              "stars": 2
+            }
+          ]
         },
         {
           "id": 70000008,
@@ -3748,9 +3802,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/z3dlLqdaMLAcPTdSw-WOn1ECR49msk-fV3Kv6mly79Q.png"
         }
       },
-      "attackCount": 14,
+      "attackCount": 17,
       "districtCount": 9,
-      "districtsDestroyed": 4,
+      "districtsDestroyed": 5,
       "districts": [
         {
           "id": 70000000,
@@ -3765,10 +3819,36 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11463,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#82LQ80V9",
+                "name": "winner"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#82LQ80V9",
+                "name": "winner"
+              },
+              "destructionPercent": 54,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#82LQ80V9",
+                "name": "winner"
+              },
+              "destructionPercent": 28,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000002,
@@ -3970,9 +4050,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/vEsIhn70gXX5Z7ro2LUWi9vQ9YRfdGucDHUKaNCV-bc.png"
         }
       },
-      "attackCount": 10,
+      "attackCount": 17,
       "districtCount": 9,
-      "districtsDestroyed": 3,
+      "districtsDestroyed": 6,
       "districts": [
         {
           "id": 70000000,
@@ -4057,20 +4137,54 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11118,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#9VVLQ0GG",
+                "name": "\u2122LIAM\u2122"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#9VVLQ0GG",
+                "name": "\u2122LIAM\u2122"
+              },
+              "destructionPercent": 76,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#PPUYV0CJC",
+                "name": "A R P O N"
+              },
+              "destructionPercent": 46,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 82,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 9105,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 12068,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#9VVLQ0GG",
+                "name": "\u2122LIAM\u2122"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#2YVLURCG8",
@@ -4129,10 +4243,36 @@
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 12140,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#9VVLQ0GG",
+                "name": "\u2122LIAM\u2122"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#PPUYV0CJC",
+                "name": "A R P O N"
+              },
+              "destructionPercent": 97,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#PPUYV0CJC",
+                "name": "A R P O N"
+              },
+              "destructionPercent": 48,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000008,
