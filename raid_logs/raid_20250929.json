@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20250926T070000.000Z",
   "endTime": "20250929T070000.000Z",
-  "capitalTotalLoot": 766487,
+  "capitalTotalLoot": 784043,
   "raidsCompleted": 9,
-  "totalAttacks": 192,
-  "enemyDistrictsDestroyed": 68,
+  "totalAttacks": 197,
+  "enemyDistrictsDestroyed": 71,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -196,10 +196,10 @@
     {
       "tag": "#QRP2RLV02",
       "name": "JT",
-      "attacks": 1,
+      "attacks": 6,
       "attackLimit": 5,
-      "bonusAttackLimit": 0,
-      "capitalResourcesLooted": 4660
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 22216
     },
     {
       "tag": "#LC8G0Q8CV",
@@ -2498,28 +2498,46 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/rscSYrGGuO5gLHDnGGyrIlQxsrEDU-2wFrAwRDrNtnQ.png"
         }
       },
-      "attackCount": 19,
+      "attackCount": 24,
       "districtCount": 9,
-      "districtsDestroyed": 5,
+      "districtsDestroyed": 8,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
+          "destructionPercent": 31,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 1,
+          "totalLooted": 2770,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QRP2RLV02",
+                "name": "JT"
+              },
+              "destructionPercent": 31,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 95,
-          "stars": 2,
-          "attackCount": 3,
-          "totalLooted": 10580,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 11985,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#QRP2RLV02",
+                "name": "JT"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#RPYYL2G",
@@ -2612,11 +2630,19 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 76,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 9185,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11597,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#QRP2RLV02",
+                "name": "JT"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#RUVPQQR0",
@@ -2639,10 +2665,28 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10969,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QRP2RLV02",
+                "name": "JT"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QRP2RLV02",
+                "name": "JT"
+              },
+              "destructionPercent": 46,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000006,
