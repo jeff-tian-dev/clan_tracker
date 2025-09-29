@@ -15,7 +15,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Uwe8sJr6b6dIEiWFEd9k-ODCbVwotrNdkfZKeEOHr4M.png"
     },
     "clanLevel": 10,
-    "attacks": 43,
+    "attacks": 44,
     "stars": 90,
     "destructionPercentage": 100.0,
     "members": [
@@ -431,6 +431,14 @@
             "destructionPercentage": 100,
             "order": 45,
             "duration": 164
+          },
+          {
+            "attackerTag": "#LYJJ9PLV9",
+            "defenderTag": "#GYGCYULU",
+            "stars": 1,
+            "destructionPercentage": 48,
+            "order": 72,
+            "duration": 105
           }
         ],
         "opponentAttacks": 1,
@@ -966,7 +974,7 @@
             "duration": 168
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#QYCLC0JLL",
           "defenderTag": "#GYGCYULU",
