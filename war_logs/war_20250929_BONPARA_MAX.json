@@ -511,7 +511,15 @@
             "duration": 115
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QJLU002RR",
+          "defenderTag": "#QRP2RLV02",
+          "stars": 2,
+          "destructionPercentage": 55,
+          "order": 58,
+          "duration": 77
+        }
       },
       {
         "tag": "#G28CVVRJL",
@@ -601,14 +609,14 @@
             "duration": 117
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#GV9UGYUPL",
+          "attackerTag": "#QJLU002RR",
           "defenderTag": "#GGYGQ8098",
-          "stars": 2,
-          "destructionPercentage": 53,
-          "order": 55,
-          "duration": 133
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 57,
+          "duration": 111
         }
       },
       {
@@ -730,9 +738,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/57ARHWzkvCUE38P2jBRhXOUiNb1eZtxQJpRbOg6K5TA.png"
     },
     "clanLevel": 28,
-    "attacks": 15,
-    "stars": 39,
-    "destructionPercentage": 47.766666,
+    "attacks": 17,
+    "stars": 42,
+    "destructionPercentage": 51.166668,
     "members": [
       {
         "tag": "#8GUY82GU9",
@@ -1144,6 +1152,24 @@
         "name": "THOR",
         "townhallLevel": 12,
         "mapPosition": 27,
+        "attacks": [
+          {
+            "attackerTag": "#QJLU002RR",
+            "defenderTag": "#GGYGQ8098",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 57,
+            "duration": 111
+          },
+          {
+            "attackerTag": "#QJLU002RR",
+            "defenderTag": "#QRP2RLV02",
+            "stars": 2,
+            "destructionPercentage": 55,
+            "order": 58,
+            "duration": 77
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#GGYGQ8098",
