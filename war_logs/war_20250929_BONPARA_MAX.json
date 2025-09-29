@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Uwe8sJr6b6dIEiWFEd9k-ODCbVwotrNdkfZKeEOHr4M.png"
     },
     "clanLevel": 10,
-    "attacks": 32,
-    "stars": 72,
-    "destructionPercentage": 82.53333,
+    "attacks": 34,
+    "stars": 77,
+    "destructionPercentage": 88.333336,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -311,6 +311,16 @@
         "name": "Phantom",
         "townhallLevel": 15,
         "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#LYJJ9PLV9",
+            "defenderTag": "#PQ0JU828J",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 45,
+            "duration": 164
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -340,6 +350,16 @@
         "name": "\u26a1\u26a1Dhonichris\u26a1\u26a1",
         "townhallLevel": 15,
         "mapPosition": 24,
+        "attacks": [
+          {
+            "attackerTag": "#YRQPYVPV8",
+            "defenderTag": "#8LGP0U8LG",
+            "stars": 2,
+            "destructionPercentage": 74,
+            "order": 44,
+            "duration": 145
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -640,7 +660,15 @@
         "name": "mohammad",
         "townhallLevel": 15,
         "mapPosition": 16,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YRQPYVPV8",
+          "defenderTag": "#8LGP0U8LG",
+          "stars": 2,
+          "destructionPercentage": 74,
+          "order": 44,
+          "duration": 145
+        }
       },
       {
         "tag": "#LC2L8G2QQ",
@@ -1113,7 +1141,15 @@
         "name": "mass",
         "townhallLevel": 15,
         "mapPosition": 17,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LYJJ9PLV9",
+          "defenderTag": "#PQ0JU828J",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 45,
+          "duration": 164
+        }
       },
       {
         "tag": "#8VYYVJU0V",
