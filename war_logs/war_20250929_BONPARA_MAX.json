@@ -104,7 +104,15 @@
             "duration": 165
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#8RCCJ80YC",
+          "defenderTag": "#GLU9LC2LG",
+          "stars": 1,
+          "destructionPercentage": 54,
+          "order": 62,
+          "duration": 92
+        }
       },
       {
         "tag": "#Q9QU8L8YV",
@@ -486,7 +494,15 @@
             "duration": 131
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#9QYQQ8PRQ",
+          "defenderTag": "#QYCLC0JLL",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 61,
+          "duration": 140
+        }
       },
       {
         "tag": "#QRP2RLV02",
@@ -544,14 +560,30 @@
             "duration": 123
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#9QYQQ8PRQ",
+          "defenderTag": "#G28CVVRJL",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 60,
+          "duration": 145
+        }
       },
       {
         "tag": "#9VU0VU90G",
         "name": "Edison123",
         "townhallLevel": 15,
         "mapPosition": 18,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#8GUY82GU9",
+          "defenderTag": "#9VU0VU90G",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 59,
+          "duration": 162
+        }
       },
       {
         "tag": "#2R2JYRRU",
@@ -738,9 +770,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/57ARHWzkvCUE38P2jBRhXOUiNb1eZtxQJpRbOg6K5TA.png"
     },
     "clanLevel": 28,
-    "attacks": 17,
-    "stars": 42,
-    "destructionPercentage": 51.166668,
+    "attacks": 21,
+    "stars": 52,
+    "destructionPercentage": 62.966667,
     "members": [
       {
         "tag": "#8GUY82GU9",
@@ -755,6 +787,14 @@
             "destructionPercentage": 100,
             "order": 56,
             "duration": 167
+          },
+          {
+            "attackerTag": "#8GUY82GU9",
+            "defenderTag": "#9VU0VU90G",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 59,
+            "duration": 162
           }
         ],
         "opponentAttacks": 2,
@@ -1112,6 +1152,16 @@
         "name": "\u2122aRgos007",
         "townhallLevel": 15,
         "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#8RCCJ80YC",
+            "defenderTag": "#GLU9LC2LG",
+            "stars": 1,
+            "destructionPercentage": 54,
+            "order": 62,
+            "duration": 92
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#YQ8L9JVJ2",
@@ -1260,6 +1310,24 @@
         "name": "[ PROFESSOR ]",
         "townhallLevel": 17,
         "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#9QYQQ8PRQ",
+            "defenderTag": "#G28CVVRJL",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 60,
+            "duration": 145
+          },
+          {
+            "attackerTag": "#9QYQQ8PRQ",
+            "defenderTag": "#QYCLC0JLL",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 61,
+            "duration": 140
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#G28CVVRJL",
