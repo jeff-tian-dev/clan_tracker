@@ -1,5 +1,5 @@
 {
-  "state": "preparation",
+  "state": "inWar",
   "teamSize": 40,
   "attacksPerMember": 2,
   "battleModifier": "none",
@@ -15,16 +15,24 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Uwe8sJr6b6dIEiWFEd9k-ODCbVwotrNdkfZKeEOHr4M.png"
     },
     "clanLevel": 10,
-    "attacks": 0,
-    "stars": 0,
-    "destructionPercentage": 0.0,
+    "attacks": 1,
+    "stars": 3,
+    "destructionPercentage": 2.5,
     "members": [
       {
         "tag": "#RUVPQQR0",
         "name": "Badboy101",
         "townhallLevel": 13,
         "mapPosition": 39,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2PCJ2R8C8",
+          "defenderTag": "#RUVPQQR0",
+          "stars": 2,
+          "destructionPercentage": 94,
+          "order": 1,
+          "duration": 132
+        }
       },
       {
         "tag": "#8880L0C",
@@ -59,6 +67,16 @@
         "name": "je suis excit\u00e9",
         "townhallLevel": 17,
         "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#Q9QU8L8YV",
+            "defenderTag": "#P2UJQV2LQ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 2,
+            "duration": 153
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -148,7 +166,7 @@
       {
         "tag": "#LYJJ9PLV9",
         "name": "Phantom",
-        "townhallLevel": 15,
+        "townhallLevel": 16,
         "mapPosition": 20,
         "opponentAttacks": 0
       },
@@ -248,7 +266,15 @@
         "name": "Aurelian",
         "townhallLevel": 12,
         "mapPosition": 40,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2PCJ2R8C8",
+          "defenderTag": "#GGYGQ8098",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 3,
+          "duration": 138
+        }
       },
       {
         "tag": "#G9CC9G2VQ",
@@ -310,9 +336,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/t_qJNqlBiKOOWQfRSR230BgCXSMUeQf5wOA9ccKUcKc.png"
     },
     "clanLevel": 22,
-    "attacks": 0,
-    "stars": 0,
-    "destructionPercentage": 0.0,
+    "attacks": 2,
+    "stars": 5,
+    "destructionPercentage": 4.85,
     "members": [
       {
         "tag": "#Q8JLGR8VU",
@@ -417,7 +443,15 @@
         "name": "Foaad",
         "townhallLevel": 17,
         "mapPosition": 4,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q9QU8L8YV",
+          "defenderTag": "#P2UJQV2LQ",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 2,
+          "duration": 153
+        }
       },
       {
         "tag": "#QG8J2JGRU",
@@ -438,6 +472,24 @@
         "name": "THE KILLER",
         "townhallLevel": 14,
         "mapPosition": 37,
+        "attacks": [
+          {
+            "attackerTag": "#2PCJ2R8C8",
+            "defenderTag": "#RUVPQQR0",
+            "stars": 2,
+            "destructionPercentage": 94,
+            "order": 1,
+            "duration": 132
+          },
+          {
+            "attackerTag": "#2PCJ2R8C8",
+            "defenderTag": "#GGYGQ8098",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 3,
+            "duration": 138
+          }
+        ],
         "opponentAttacks": 0
       },
       {
