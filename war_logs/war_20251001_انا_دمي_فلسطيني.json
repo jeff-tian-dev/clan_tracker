@@ -316,7 +316,15 @@
         "name": "BELIEVER",
         "townhallLevel": 15,
         "mapPosition": 27,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q8JLGR8VU",
+          "defenderTag": "#Y99V2JYQ0",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 86,
+          "duration": 126
+        }
       },
       {
         "tag": "#2CQLC28UP",
@@ -964,15 +972,25 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/t_qJNqlBiKOOWQfRSR230BgCXSMUeQf5wOA9ccKUcKc.png"
     },
     "clanLevel": 22,
-    "attacks": 41,
-    "stars": 79,
-    "destructionPercentage": 74.075,
+    "attacks": 42,
+    "stars": 82,
+    "destructionPercentage": 76.575,
     "members": [
       {
         "tag": "#Q8JLGR8VU",
         "name": "\u0646\u0631\u062c\u0633",
         "townhallLevel": 15,
         "mapPosition": 18,
+        "attacks": [
+          {
+            "attackerTag": "#Q8JLGR8VU",
+            "defenderTag": "#Y99V2JYQ0",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 86,
+            "duration": 126
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#LYJJ9PLV9",
