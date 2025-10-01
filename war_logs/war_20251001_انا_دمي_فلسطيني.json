@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Uwe8sJr6b6dIEiWFEd9k-ODCbVwotrNdkfZKeEOHr4M.png"
     },
     "clanLevel": 10,
-    "attacks": 47,
-    "stars": 102,
-    "destructionPercentage": 88.575,
+    "attacks": 48,
+    "stars": 104,
+    "destructionPercentage": 89.875,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -1033,6 +1033,16 @@
         "name": "20MONTEREY23",
         "townhallLevel": 15,
         "mapPosition": 24,
+        "attacks": [
+          {
+            "attackerTag": "#LJQGGLQG2",
+            "defenderTag": "#QQ0V2QRGV",
+            "stars": 2,
+            "destructionPercentage": 52,
+            "order": 103,
+            "duration": 86
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#Y0CL2V9GU",
@@ -2070,7 +2080,15 @@
             "duration": 139
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LJQGGLQG2",
+          "defenderTag": "#QQ0V2QRGV",
+          "stars": 2,
+          "destructionPercentage": 52,
+          "order": 103,
+          "duration": 86
+        }
       },
       {
         "tag": "#QPCGQV8YY",
