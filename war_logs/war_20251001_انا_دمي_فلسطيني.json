@@ -79,7 +79,15 @@
         "name": "destroyer",
         "townhallLevel": 17,
         "mapPosition": 7,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#8PP88UJ0P",
+          "defenderTag": "#UJP2UYRY",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 84,
+          "duration": 88
+        }
       },
       {
         "tag": "#GLU9LC2LG",
@@ -235,7 +243,15 @@
         "name": "KING",
         "townhallLevel": 15,
         "mapPosition": 21,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#22QYQ8PJJ",
+          "defenderTag": "#L8JY2QP0L",
+          "stars": 1,
+          "destructionPercentage": 69,
+          "order": 85,
+          "duration": 132
+        }
       },
       {
         "tag": "#Q2QQL2YVV",
@@ -948,9 +964,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/t_qJNqlBiKOOWQfRSR230BgCXSMUeQf5wOA9ccKUcKc.png"
     },
     "clanLevel": 22,
-    "attacks": 39,
-    "stars": 75,
-    "destructionPercentage": 69.85,
+    "attacks": 41,
+    "stars": 79,
+    "destructionPercentage": 74.075,
     "members": [
       {
         "tag": "#Q8JLGR8VU",
@@ -1234,6 +1250,16 @@
         "name": "nader sahabi",
         "townhallLevel": 16,
         "mapPosition": 17,
+        "attacks": [
+          {
+            "attackerTag": "#22QYQ8PJJ",
+            "defenderTag": "#L8JY2QP0L",
+            "stars": 1,
+            "destructionPercentage": 69,
+            "order": 85,
+            "duration": 132
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -1355,6 +1381,16 @@
         "name": "\u0627\u0644\u0627\u0646\u064a\u0642",
         "townhallLevel": 17,
         "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#8PP88UJ0P",
+            "defenderTag": "#UJP2UYRY",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 84,
+            "duration": 88
+          }
+        ],
         "opponentAttacks": 3,
         "bestOpponentAttack": {
           "attackerTag": "#2R2JYRRU",
