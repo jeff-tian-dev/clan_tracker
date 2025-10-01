@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Uwe8sJr6b6dIEiWFEd9k-ODCbVwotrNdkfZKeEOHr4M.png"
     },
     "clanLevel": 10,
-    "attacks": 48,
-    "stars": 104,
-    "destructionPercentage": 89.875,
+    "attacks": 50,
+    "stars": 108,
+    "destructionPercentage": 92.725,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -277,14 +277,14 @@
             "duration": 146
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#22QYQ8PJJ",
+          "attackerTag": "#LUJG8VU22",
           "defenderTag": "#L8JY2QP0L",
-          "stars": 1,
-          "destructionPercentage": 69,
-          "order": 85,
-          "duration": 132
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 104,
+          "duration": 131
         }
       },
       {
@@ -343,14 +343,14 @@
             "duration": 83
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#22QYQ8PJJ",
+          "attackerTag": "#LUJG8VU22",
           "defenderTag": "#9U2YP0RY",
           "stars": 1,
-          "destructionPercentage": 75,
-          "order": 90,
-          "duration": 139
+          "destructionPercentage": 91,
+          "order": 107,
+          "duration": 133
         }
       },
       {
@@ -373,6 +373,24 @@
         "name": "gun",
         "townhallLevel": 16,
         "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#2CQLC28UP",
+            "defenderTag": "#22QYQ8PJJ",
+            "stars": 2,
+            "destructionPercentage": 92,
+            "order": 105,
+            "duration": 112
+          },
+          {
+            "attackerTag": "#2CQLC28UP",
+            "defenderTag": "#LYVUVPVPY",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 106,
+            "duration": 99
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#LYVUVPVPY",
@@ -1064,9 +1082,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/t_qJNqlBiKOOWQfRSR230BgCXSMUeQf5wOA9ccKUcKc.png"
     },
     "clanLevel": 22,
-    "attacks": 55,
-    "stars": 106,
-    "destructionPercentage": 94.325,
+    "attacks": 57,
+    "stars": 108,
+    "destructionPercentage": 95.5,
     "members": [
       {
         "tag": "#Q8JLGR8VU",
@@ -1359,14 +1377,14 @@
             "duration": 110
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#GLU9LC2LG",
+          "attackerTag": "#2CQLC28UP",
           "defenderTag": "#LYVUVPVPY",
-          "stars": 1,
-          "destructionPercentage": 78,
-          "order": 41,
-          "duration": 180
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 106,
+          "duration": 99
         }
       },
       {
@@ -1440,7 +1458,15 @@
             "duration": 139
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2CQLC28UP",
+          "defenderTag": "#22QYQ8PJJ",
+          "stars": 2,
+          "destructionPercentage": 92,
+          "order": 105,
+          "duration": 112
+        }
       },
       {
         "tag": "#P2UJQV2LQ",
@@ -1708,6 +1734,24 @@
         "name": "\u2764Dybala\u2764",
         "townhallLevel": 16,
         "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#LUJG8VU22",
+            "defenderTag": "#L8JY2QP0L",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 104,
+            "duration": 131
+          },
+          {
+            "attackerTag": "#LUJG8VU22",
+            "defenderTag": "#9U2YP0RY",
+            "stars": 1,
+            "destructionPercentage": 91,
+            "order": 107,
+            "duration": 133
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#GLU9LC2LG",
