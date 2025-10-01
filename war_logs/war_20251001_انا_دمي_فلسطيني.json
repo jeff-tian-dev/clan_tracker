@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Uwe8sJr6b6dIEiWFEd9k-ODCbVwotrNdkfZKeEOHr4M.png"
     },
     "clanLevel": 10,
-    "attacks": 45,
-    "stars": 98,
-    "destructionPercentage": 84.875,
+    "attacks": 47,
+    "stars": 102,
+    "destructionPercentage": 88.575,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -178,7 +178,15 @@
             "duration": 158
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#P2UUUL8J0",
+          "defenderTag": "#GYGC88RGG",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 102,
+          "duration": 159
+        }
       },
       {
         "tag": "#8VQYULVQQ",
@@ -236,13 +244,39 @@
             "duration": 124
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#P2UUUL8J0",
+          "defenderTag": "#PL09LLPUY",
+          "stars": 2,
+          "destructionPercentage": 94,
+          "order": 101,
+          "duration": 180
+        }
       },
       {
         "tag": "#L8JY2QP0L",
         "name": "KING",
         "townhallLevel": 15,
         "mapPosition": 21,
+        "attacks": [
+          {
+            "attackerTag": "#L8JY2QP0L",
+            "defenderTag": "#9L2V2VVYP",
+            "stars": 2,
+            "destructionPercentage": 70,
+            "order": 99,
+            "duration": 153
+          },
+          {
+            "attackerTag": "#L8JY2QP0L",
+            "defenderTag": "#9JL8JV8R2",
+            "stars": 2,
+            "destructionPercentage": 78,
+            "order": 100,
+            "duration": 146
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#22QYQ8PJJ",
@@ -1020,9 +1054,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/t_qJNqlBiKOOWQfRSR230BgCXSMUeQf5wOA9ccKUcKc.png"
     },
     "clanLevel": 22,
-    "attacks": 53,
-    "stars": 101,
-    "destructionPercentage": 89.475,
+    "attacks": 55,
+    "stars": 106,
+    "destructionPercentage": 94.325,
     "members": [
       {
         "tag": "#Q8JLGR8VU",
@@ -1345,6 +1379,24 @@
         "name": "\u0645\u062d\u0645\u062f",
         "townhallLevel": 16,
         "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#P2UUUL8J0",
+            "defenderTag": "#PL09LLPUY",
+            "stars": 2,
+            "destructionPercentage": 94,
+            "order": 101,
+            "duration": 180
+          },
+          {
+            "attackerTag": "#P2UUUL8J0",
+            "defenderTag": "#GYGC88RGG",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 102,
+            "duration": 159
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#GYGC88RGG",
@@ -1694,7 +1746,15 @@
         "name": "3\u2661stars",
         "townhallLevel": 15,
         "mapPosition": 22,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#L8JY2QP0L",
+          "defenderTag": "#9JL8JV8R2",
+          "stars": 2,
+          "destructionPercentage": 78,
+          "order": 100,
+          "duration": 146
+        }
       },
       {
         "tag": "#QLJUUR00Q",
@@ -1767,7 +1827,15 @@
         "name": "LEO \u2661MESSI",
         "townhallLevel": 15,
         "mapPosition": 21,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#L8JY2QP0L",
+          "defenderTag": "#9L2V2VVYP",
+          "stars": 2,
+          "destructionPercentage": 70,
+          "order": 99,
+          "duration": 153
+        }
       },
       {
         "tag": "#QVVG0PGRJ",
