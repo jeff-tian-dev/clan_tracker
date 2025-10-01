@@ -364,7 +364,15 @@
             "duration": 158
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q8JLGR8VU",
+          "defenderTag": "#8LG9VL928",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 87,
+          "duration": 135
+        }
       },
       {
         "tag": "#80228GJGL",
@@ -419,7 +427,15 @@
             "duration": 171
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#822UY8LY",
+          "defenderTag": "#YQ8L9JVJ2",
+          "stars": 2,
+          "destructionPercentage": 91,
+          "order": 89,
+          "duration": 138
+        }
       },
       {
         "tag": "#LYJJ9PLV9",
@@ -739,7 +755,15 @@
             "duration": 157
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#822UY8LY",
+          "defenderTag": "#2R2JYRRU",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 88,
+          "duration": 113
+        }
       },
       {
         "tag": "#GGYGQ8098",
@@ -972,9 +996,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/t_qJNqlBiKOOWQfRSR230BgCXSMUeQf5wOA9ccKUcKc.png"
     },
     "clanLevel": 22,
-    "attacks": 42,
-    "stars": 82,
-    "destructionPercentage": 76.575,
+    "attacks": 45,
+    "stars": 90,
+    "destructionPercentage": 83.85,
     "members": [
       {
         "tag": "#Q8JLGR8VU",
@@ -989,6 +1013,14 @@
             "destructionPercentage": 100,
             "order": 86,
             "duration": 126
+          },
+          {
+            "attackerTag": "#Q8JLGR8VU",
+            "defenderTag": "#8LG9VL928",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 87,
+            "duration": 135
           }
         ],
         "opponentAttacks": 2,
@@ -1817,6 +1849,24 @@
         "name": "muneer mayyas",
         "townhallLevel": 17,
         "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#822UY8LY",
+            "defenderTag": "#2R2JYRRU",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 88,
+            "duration": 113
+          },
+          {
+            "attackerTag": "#822UY8LY",
+            "defenderTag": "#YQ8L9JVJ2",
+            "stars": 2,
+            "destructionPercentage": 91,
+            "order": 89,
+            "duration": 138
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#G28CVVRJL",
