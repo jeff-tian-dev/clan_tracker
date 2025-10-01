@@ -975,11 +975,11 @@
       },
       {
         "date": "20251001",
-        "attacksUsed": 0,
-        "starsEarned": 0,
-        "destruction": 0,
-        "attacksMissed": 2,
-        "zeroParticipation": true
+        "attacksUsed": 1,
+        "starsEarned": 3,
+        "destruction": 100,
+        "attacksMissed": 1,
+        "zeroParticipation": false
       }
     ]
   },
@@ -24379,7 +24379,7 @@
       }
     ]
   },
-  "timestamp": "2025-09-30 21:00:04",
+  "timestamp": "2025-09-30 22:00:04",
   "#GPPQ0JCJR": {
     "name": "Goujii",
     "tag": "#GPPQ0JCJR",
@@ -45094,11 +45094,11 @@
       },
       {
         "date": "20251001",
-        "attacksUsed": 0,
-        "starsEarned": 0,
-        "destruction": 0,
-        "attacksMissed": 2,
-        "zeroParticipation": true
+        "attacksUsed": 1,
+        "starsEarned": 3,
+        "destruction": 100,
+        "attacksMissed": 1,
+        "zeroParticipation": false
       }
     ]
   },
@@ -52768,10 +52768,10 @@
       },
       {
         "date": "20251001",
-        "attacksUsed": 1,
-        "starsEarned": 3,
-        "destruction": 100,
-        "attacksMissed": 1,
+        "attacksUsed": 2,
+        "starsEarned": 6,
+        "destruction": 200,
+        "attacksMissed": 0,
         "zeroParticipation": false
       }
     ]
@@ -53202,11 +53202,11 @@
       },
       {
         "date": "20251001",
-        "attacksUsed": 0,
-        "starsEarned": 0,
-        "destruction": 0,
-        "attacksMissed": 2,
-        "zeroParticipation": true
+        "attacksUsed": 1,
+        "starsEarned": 3,
+        "destruction": 100,
+        "attacksMissed": 1,
+        "zeroParticipation": false
       }
     ]
   },
@@ -55121,6 +55121,20 @@
   "#YR2LPRPG9": {
     "name": "GamingBeast280",
     "tag": "#YR2LPRPG9",
+    "history": [
+      {
+        "date": "20251001",
+        "attacksUsed": "---",
+        "starsEarned": "---",
+        "destruction": "---",
+        "attacksMissed": 0,
+        "zeroParticipation": true
+      }
+    ]
+  },
+  "#Y809GJLPY": {
+    "name": "mini bearier",
+    "tag": "#Y809GJLPY",
     "history": [
       {
         "date": "20251001",

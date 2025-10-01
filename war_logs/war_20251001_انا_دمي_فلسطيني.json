@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Uwe8sJr6b6dIEiWFEd9k-ODCbVwotrNdkfZKeEOHr4M.png"
     },
     "clanLevel": 10,
-    "attacks": 29,
-    "stars": 64,
-    "destructionPercentage": 58.075,
+    "attacks": 33,
+    "stars": 72,
+    "destructionPercentage": 63.775,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -298,6 +298,16 @@
         "name": "Phantom",
         "townhallLevel": 16,
         "mapPosition": 20,
+        "attacks": [
+          {
+            "attackerTag": "#LYJJ9PLV9",
+            "defenderTag": "#Q8JLGR8VU",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 52,
+            "duration": 143
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -365,6 +375,16 @@
         "name": "Raghav",
         "townhallLevel": 15,
         "mapPosition": 33,
+        "attacks": [
+          {
+            "attackerTag": "#QPPYC0V90",
+            "defenderTag": "#P9JJ2YGV0",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 54,
+            "duration": 145
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#2R0UQL8G",
@@ -517,6 +537,14 @@
             "destructionPercentage": 100,
             "order": 48,
             "duration": 142
+          },
+          {
+            "attackerTag": "#2R2JYRRU",
+            "defenderTag": "#8PP88UJ0P",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 53,
+            "duration": 157
           }
         ],
         "opponentAttacks": 0
@@ -559,6 +587,16 @@
         "name": "Grizz",
         "townhallLevel": 14,
         "mapPosition": 36,
+        "attacks": [
+          {
+            "attackerTag": "#G9CC9G2VQ",
+            "defenderTag": "#QQUUYLVVC",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 55,
+            "duration": 109
+          }
+        ],
         "opponentAttacks": 3,
         "bestOpponentAttack": {
           "attackerTag": "#QQUUYLVVC",
@@ -719,14 +757,14 @@
         "name": "\u0646\u0631\u062c\u0633",
         "townhallLevel": 15,
         "mapPosition": 18,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#9U2YP0RY",
+          "attackerTag": "#LYJJ9PLV9",
           "defenderTag": "#Q8JLGR8VU",
-          "stars": 2,
-          "destructionPercentage": 85,
-          "order": 6,
-          "duration": 112
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 52,
+          "duration": 143
         }
       },
       {
@@ -995,14 +1033,14 @@
         "name": "\u0627\u0644\u0627\u0646\u064a\u0642",
         "townhallLevel": 17,
         "mapPosition": 8,
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#PRGGL2J2V",
+          "attackerTag": "#2R2JYRRU",
           "defenderTag": "#8PP88UJ0P",
-          "stars": 2,
-          "destructionPercentage": 87,
-          "order": 33,
-          "duration": 145
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 53,
+          "duration": 157
         }
       },
       {
@@ -1123,7 +1161,15 @@
             "duration": 101
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QPPYC0V90",
+          "defenderTag": "#P9JJ2YGV0",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 54,
+          "duration": 145
+        }
       },
       {
         "tag": "#9JL8JV8R2",
@@ -1262,7 +1308,15 @@
             "duration": 144
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#G9CC9G2VQ",
+          "defenderTag": "#QQUUYLVVC",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 55,
+          "duration": 109
+        }
       },
       {
         "tag": "#8CRL0UJ22",
