@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Uwe8sJr6b6dIEiWFEd9k-ODCbVwotrNdkfZKeEOHr4M.png"
     },
     "clanLevel": 10,
-    "attacks": 44,
-    "stars": 96,
-    "destructionPercentage": 83.45,
+    "attacks": 45,
+    "stars": 98,
+    "destructionPercentage": 84.875,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -309,7 +309,15 @@
             "duration": 83
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#22QYQ8PJJ",
+          "defenderTag": "#9U2YP0RY",
+          "stars": 1,
+          "destructionPercentage": 75,
+          "order": 90,
+          "duration": 139
+        }
       },
       {
         "tag": "#Y99V2JYQ0",
@@ -811,6 +819,14 @@
             "destructionPercentage": 100,
             "order": 55,
             "duration": 109
+          },
+          {
+            "attackerTag": "#G9CC9G2VQ",
+            "defenderTag": "#9Q9UYQ2Y0",
+            "stars": 2,
+            "destructionPercentage": 57,
+            "order": 91,
+            "duration": 102
           }
         ],
         "opponentAttacks": 3,
@@ -996,9 +1012,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/t_qJNqlBiKOOWQfRSR230BgCXSMUeQf5wOA9ccKUcKc.png"
     },
     "clanLevel": 22,
-    "attacks": 45,
-    "stars": 90,
-    "destructionPercentage": 83.85,
+    "attacks": 46,
+    "stars": 91,
+    "destructionPercentage": 85.725,
     "members": [
       {
         "tag": "#Q8JLGR8VU",
@@ -1278,7 +1294,15 @@
         "name": "\u201eROMUO\u201e",
         "townhallLevel": 15,
         "mapPosition": 24,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#G9CC9G2VQ",
+          "defenderTag": "#9Q9UYQ2Y0",
+          "stars": 2,
+          "destructionPercentage": 57,
+          "order": 91,
+          "duration": 102
+        }
       },
       {
         "tag": "#P2UUUL8J0",
@@ -1308,6 +1332,14 @@
             "destructionPercentage": 69,
             "order": 85,
             "duration": 132
+          },
+          {
+            "attackerTag": "#22QYQ8PJJ",
+            "defenderTag": "#9U2YP0RY",
+            "stars": 1,
+            "destructionPercentage": 75,
+            "order": 90,
+            "duration": 139
           }
         ],
         "opponentAttacks": 0
