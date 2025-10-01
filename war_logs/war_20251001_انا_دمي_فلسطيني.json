@@ -203,14 +203,14 @@
             "duration": 157
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#L2CV29JJ8",
+          "attackerTag": "#8PP88UJ0P",
           "defenderTag": "#8VQYULVQQ",
-          "stars": 1,
-          "destructionPercentage": 85,
-          "order": 66,
-          "duration": 163
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 98,
+          "duration": 81
         }
       },
       {
@@ -609,7 +609,15 @@
         "name": "Sir Hazelnut\u2122\ufe0f",
         "townhallLevel": 15,
         "mapPosition": 22,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#L2CVRLRUC",
+          "defenderTag": "#YJ2UV2GY",
+          "stars": 2,
+          "destructionPercentage": 64,
+          "order": 95,
+          "duration": 180
+        }
       },
       {
         "tag": "#QYCLC0JLL",
@@ -697,14 +705,14 @@
         "name": "OPTIMUS PRIME",
         "townhallLevel": 16,
         "mapPosition": 9,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#LPG8QCU0V",
+          "attackerTag": "#2JUUPUL0V",
           "defenderTag": "#PR88G9LPG",
-          "stars": 2,
-          "destructionPercentage": 99,
-          "order": 65,
-          "duration": 163
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 97,
+          "duration": 135
         }
       },
       {
@@ -730,14 +738,14 @@
             "duration": 92
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#QG8J2JGRU",
+          "attackerTag": "#L2CVRLRUC",
           "defenderTag": "#9VU0VU90G",
-          "stars": 1,
-          "destructionPercentage": 78,
-          "order": 69,
-          "duration": 134
+          "stars": 2,
+          "destructionPercentage": 65,
+          "order": 96,
+          "duration": 118
         }
       },
       {
@@ -1012,9 +1020,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/t_qJNqlBiKOOWQfRSR230BgCXSMUeQf5wOA9ccKUcKc.png"
     },
     "clanLevel": 22,
-    "attacks": 49,
-    "stars": 95,
-    "destructionPercentage": 87.8,
+    "attacks": 53,
+    "stars": 101,
+    "destructionPercentage": 89.475,
     "members": [
       {
         "tag": "#Q8JLGR8VU",
@@ -1054,6 +1062,16 @@
         "name": "\u0645\u062d\u0645\u0648\u062f",
         "townhallLevel": 17,
         "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#2JUUPUL0V",
+            "defenderTag": "#PR88G9LPG",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 97,
+            "duration": 135
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#PRGGL2J2V",
@@ -1231,6 +1249,24 @@
         "name": "\u0646\u0627\u0628\u0644\u064a\u0648\u0646 \u0628\u0648\u0646\u0627\u0628\u0631\u062a",
         "townhallLevel": 15,
         "mapPosition": 19,
+        "attacks": [
+          {
+            "attackerTag": "#L2CVRLRUC",
+            "defenderTag": "#YJ2UV2GY",
+            "stars": 2,
+            "destructionPercentage": 64,
+            "order": 95,
+            "duration": 180
+          },
+          {
+            "attackerTag": "#L2CVRLRUC",
+            "defenderTag": "#9VU0VU90G",
+            "stars": 2,
+            "destructionPercentage": 65,
+            "order": 96,
+            "duration": 118
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#LYJJ9PLV9",
@@ -1471,6 +1507,14 @@
             "destructionPercentage": 100,
             "order": 84,
             "duration": 88
+          },
+          {
+            "attackerTag": "#8PP88UJ0P",
+            "defenderTag": "#8VQYULVQQ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 98,
+            "duration": 81
           }
         ],
         "opponentAttacks": 3,
