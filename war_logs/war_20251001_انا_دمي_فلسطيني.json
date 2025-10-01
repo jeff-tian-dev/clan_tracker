@@ -1,5 +1,5 @@
 {
-  "state": "inWar",
+  "state": "warEnded",
   "teamSize": 40,
   "attacksPerMember": 2,
   "battleModifier": "none",
@@ -39,7 +39,7 @@
         "name": "Thomas Cat",
         "townhallLevel": 17,
         "mapPosition": 6,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#P2UJQV2LQ",
           "defenderTag": "#8880L0C",
@@ -262,14 +262,14 @@
             "duration": 124
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 4,
         "bestOpponentAttack": {
-          "attackerTag": "#P2UUUL8J0",
+          "attackerTag": "#QYCRJPP",
           "defenderTag": "#PL09LLPUY",
-          "stars": 2,
-          "destructionPercentage": 94,
-          "order": 101,
-          "duration": 180
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 133,
+          "duration": 64
         }
       },
       {
@@ -409,14 +409,14 @@
             "duration": 99
           }
         ],
-        "opponentAttacks": 4,
+        "opponentAttacks": 5,
         "bestOpponentAttack": {
-          "attackerTag": "#8PC9V292V",
+          "attackerTag": "#8RUCYVPP8",
           "defenderTag": "#2CQLC28UP",
-          "stars": 2,
-          "destructionPercentage": 87,
-          "order": 130,
-          "duration": 125
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 131,
+          "duration": 85
         }
       },
       {
@@ -1182,9 +1182,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/t_qJNqlBiKOOWQfRSR230BgCXSMUeQf5wOA9ccKUcKc.png"
     },
     "clanLevel": 22,
-    "attacks": 69,
-    "stars": 115,
-    "destructionPercentage": 98.0,
+    "attacks": 73,
+    "stars": 117,
+    "destructionPercentage": 98.475,
     "members": [
       {
         "tag": "#Q8JLGR8VU",
@@ -1381,6 +1381,24 @@
         "name": "\u0627\u062d\u0645\u062f",
         "townhallLevel": 17,
         "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#8RUCYVPP8",
+            "defenderTag": "#2CQLC28UP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 131,
+            "duration": 85
+          },
+          {
+            "attackerTag": "#8RUCYVPP8",
+            "defenderTag": "#PL09LLPUY",
+            "stars": 1,
+            "destructionPercentage": 55,
+            "order": 132,
+            "duration": 180
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#Y2PVPPU8C",
@@ -1657,6 +1675,24 @@
         "name": "\u0627\u0628\u0648 \u0639\u0632\u064a\u0632",
         "townhallLevel": 17,
         "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#QYCRJPP",
+            "defenderTag": "#PL09LLPUY",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 133,
+            "duration": 64
+          },
+          {
+            "attackerTag": "#QYCRJPP",
+            "defenderTag": "#8880L0C",
+            "stars": 2,
+            "destructionPercentage": 85,
+            "order": 134,
+            "duration": 120
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#QYCLC0JLL",
