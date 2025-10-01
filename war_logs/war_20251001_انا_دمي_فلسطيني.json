@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Uwe8sJr6b6dIEiWFEd9k-ODCbVwotrNdkfZKeEOHr4M.png"
     },
     "clanLevel": 10,
-    "attacks": 39,
-    "stars": 87,
-    "destructionPercentage": 76.225,
+    "attacks": 42,
+    "stars": 94,
+    "destructionPercentage": 81.525,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -152,6 +152,16 @@
         "name": "INDxSayan",
         "townhallLevel": 16,
         "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#GYGC88RGG",
+            "defenderTag": "#P2UUUL8J0",
+            "stars": 2,
+            "destructionPercentage": 90,
+            "order": 79,
+            "duration": 177
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -304,6 +314,24 @@
         "name": "Thegreatmikko",
         "townhallLevel": 15,
         "mapPosition": 28,
+        "attacks": [
+          {
+            "attackerTag": "#8LG9VL928",
+            "defenderTag": "#Q2C29P8Q2",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 77,
+            "duration": 140
+          },
+          {
+            "attackerTag": "#8LG9VL928",
+            "defenderTag": "#Y0CL2V9GU",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 78,
+            "duration": 158
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -1112,7 +1140,15 @@
         "name": "\u0627\u0628\u0648 \u0634\u0627\u0645",
         "townhallLevel": 15,
         "mapPosition": 23,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#8LG9VL928",
+          "defenderTag": "#Q2C29P8Q2",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 77,
+          "duration": 140
+        }
       },
       {
         "tag": "#LYVUVPVPY",
@@ -1159,14 +1195,14 @@
         "name": "\u0645\u062d\u0645\u062f",
         "townhallLevel": 16,
         "mapPosition": 12,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#8VQYULVQQ",
+          "attackerTag": "#GYGC88RGG",
           "defenderTag": "#P2UUUL8J0",
-          "stars": 1,
-          "destructionPercentage": 78,
-          "order": 46,
-          "duration": 135
+          "stars": 2,
+          "destructionPercentage": 90,
+          "order": 79,
+          "duration": 177
         }
       },
       {
@@ -1361,7 +1397,15 @@
             "duration": 109
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#8LG9VL928",
+          "defenderTag": "#Y0CL2V9GU",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 78,
+          "duration": 158
+        }
       },
       {
         "tag": "#P82PRGRPL",
