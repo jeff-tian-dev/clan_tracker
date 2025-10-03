@@ -1,0 +1,158 @@
+{
+  "state": "ongoing",
+  "startTime": "20251003T070000.000Z",
+  "endTime": "20251006T070000.000Z",
+  "capitalTotalLoot": 21354,
+  "raidsCompleted": 0,
+  "totalAttacks": 4,
+  "enemyDistrictsDestroyed": 2,
+  "offensiveReward": 0,
+  "defensiveReward": 0,
+  "members": [
+    {
+      "tag": "#98LULYV2G",
+      "name": "ViKiNg'S",
+      "attacks": 4,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 21354
+    }
+  ],
+  "attackLog": [
+    {
+      "defender": {
+        "tag": "#RCVLG99L",
+        "name": "BD JANAKLAYAN",
+        "level": 20,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/TwU-RjZ6jdhF5MQqVyfb8vuaiyg4dZz36MgUGUrbsL4.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/TwU-RjZ6jdhF5MQqVyfb8vuaiyg4dZz36MgUGUrbsL4.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/TwU-RjZ6jdhF5MQqVyfb8vuaiyg4dZz36MgUGUrbsL4.png"
+        }
+      },
+      "attackCount": 4,
+      "districtCount": 9,
+      "districtsDestroyed": 2,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 10,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10577,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#98LULYV2G",
+                "name": "ViKiNg'S"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#98LULYV2G",
+                "name": "ViKiNg'S"
+              },
+              "destructionPercent": 52,
+              "stars": 2
+            }
+          ]
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10777,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#98LULYV2G",
+                "name": "ViKiNg'S"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#98LULYV2G",
+                "name": "ViKiNg'S"
+              },
+              "destructionPercent": 42,
+              "stars": 0
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "defenseLog": []
+}
