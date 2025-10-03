@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251003T070000.000Z",
   "endTime": "20251006T070000.000Z",
-  "capitalTotalLoot": 226275,
+  "capitalTotalLoot": 249073,
   "raidsCompleted": 3,
-  "totalAttacks": 57,
-  "enemyDistrictsDestroyed": 20,
+  "totalAttacks": 62,
+  "enemyDistrictsDestroyed": 23,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -66,6 +66,14 @@
       "capitalResourcesLooted": 27624
     },
     {
+      "tag": "#YG8JU9QC2",
+      "name": "Umer Jawaid",
+      "attacks": 4,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 19463
+    },
+    {
       "tag": "#Q82JVQLV0",
       "name": "bubu",
       "attacks": 6,
@@ -80,6 +88,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 20070
+    },
+    {
+      "tag": "#QVJCGRC98",
+      "name": "Basil UK",
+      "attacks": 1,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 3335
     },
     {
       "tag": "#8RVCVQ9V",
@@ -750,9 +766,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/lJF3ERKUeFnFwy54N6COde1xxNAQd5eGn4GeAgokncc.png"
         }
       },
-      "attackCount": 6,
+      "attackCount": 11,
       "districtCount": 9,
-      "districtsDestroyed": 2,
+      "districtsDestroyed": 5,
       "districts": [
         {
           "id": 70000000,
@@ -785,20 +801,46 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9138,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YG8JU9QC2",
+                "name": "Umer Jawaid"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#YG8JU9QC2",
+                "name": "Umer Jawaid"
+              },
+              "destructionPercent": 48,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 75,
-          "stars": 1,
-          "attackCount": 1,
-          "totalLooted": 6965,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10300,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#QVJCGRC98",
+                "name": "Basil UK"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#GU9YPRYJ",
@@ -857,10 +899,28 @@
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10325,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YG8JU9QC2",
+                "name": "Umer Jawaid"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#YG8JU9QC2",
+                "name": "Umer Jawaid"
+              },
+              "destructionPercent": 39,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000008,
