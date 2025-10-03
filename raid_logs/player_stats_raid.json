@@ -747,10 +747,10 @@
       },
       {
         "date": "20251006",
-        "attacksUsed": 0,
-        "capitalGold": 0,
-        "avgLootPerAttack": "---",
-        "attacksMissed": 6,
+        "attacksUsed": 6,
+        "capitalGold": 29591,
+        "avgLootPerAttack": 4931.8,
+        "attacksMissed": 0,
         "missedRaid": false
       }
     ]
@@ -873,11 +873,11 @@
       },
       {
         "date": "20251006",
-        "attacksUsed": "---",
-        "capitalGold": "---",
-        "avgLootPerAttack": "---",
+        "attacksUsed": 6,
+        "capitalGold": 27624,
+        "avgLootPerAttack": 4604.0,
         "attacksMissed": 0,
-        "missedRaid": true
+        "missedRaid": false
       }
     ]
   },
@@ -10205,7 +10205,7 @@
       }
     ]
   },
-  "timestamp": "2025-10-03 04:00:04",
+  "timestamp": "2025-10-03 05:00:04",
   "#LJVP0GRUG": {
     "name": "Agi",
     "tag": "#LJVP0GRUG",
