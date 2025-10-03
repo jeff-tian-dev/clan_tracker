@@ -2,20 +2,20 @@
   "state": "ongoing",
   "startTime": "20251003T070000.000Z",
   "endTime": "20251006T070000.000Z",
-  "capitalTotalLoot": 78569,
-  "raidsCompleted": 0,
-  "totalAttacks": 16,
-  "enemyDistrictsDestroyed": 7,
+  "capitalTotalLoot": 116103,
+  "raidsCompleted": 1,
+  "totalAttacks": 29,
+  "enemyDistrictsDestroyed": 10,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
     {
       "tag": "#98LULYV2G",
       "name": "ViKiNg'S",
-      "attacks": 4,
+      "attacks": 5,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 21354
+      "capitalResourcesLooted": 25579
     },
     {
       "tag": "#UJP2UYRY",
@@ -24,6 +24,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 29591
+    },
+    {
+      "tag": "#8QGQ9L8Q9",
+      "name": "king",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 24785
     },
     {
       "tag": "#9U2YP0RY",
@@ -36,10 +44,10 @@
     {
       "tag": "#8RVCVQ9V",
       "name": "J\u00da\u00a7\u00a7Y",
-      "attacks": 0,
+      "attacks": 6,
       "attackLimit": 5,
-      "bonusAttackLimit": 0,
-      "capitalResourcesLooted": 0
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 8524
     }
   ],
   "attackLog": [
@@ -54,28 +62,94 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/TwU-RjZ6jdhF5MQqVyfb8vuaiyg4dZz36MgUGUrbsL4.png"
         }
       },
-      "attackCount": 16,
+      "attackCount": 24,
       "districtCount": 9,
-      "districtsDestroyed": 7,
+      "districtsDestroyed": 9,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 7,
+          "totalLooted": 13510,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#8QGQ9L8Q9",
+                "name": "king"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#8QGQ9L8Q9",
+                "name": "king"
+              },
+              "destructionPercent": 72,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#8RVCVQ9V",
+                "name": "J\u00da\u00a7\u00a7Y"
+              },
+              "destructionPercent": 37,
+              "stars": 0
+            },
+            {
+              "attacker": {
+                "tag": "#8RVCVQ9V",
+                "name": "J\u00da\u00a7\u00a7Y"
+              },
+              "destructionPercent": 36,
+              "stars": 0
+            },
+            {
+              "attacker": {
+                "tag": "#8RVCVQ9V",
+                "name": "J\u00da\u00a7\u00a7Y"
+              },
+              "destructionPercent": 29,
+              "stars": 0
+            },
+            {
+              "attacker": {
+                "tag": "#8RVCVQ9V",
+                "name": "J\u00da\u00a7\u00a7Y"
+              },
+              "destructionPercent": 17,
+              "stars": 0
+            },
+            {
+              "attacker": {
+                "tag": "#8RVCVQ9V",
+                "name": "J\u00da\u00a7\u00a7Y"
+              },
+              "destructionPercent": 3,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 74,
-          "stars": 1,
-          "attackCount": 2,
-          "totalLooted": 8680,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11454,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#8RVCVQ9V",
+                "name": "J\u00da\u00a7\u00a7Y"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#9U2YP0RY",
@@ -282,6 +356,148 @@
               "stars": 0
             }
           ]
+        }
+      ]
+    },
+    {
+      "defender": {
+        "tag": "#2QPY8RCY8",
+        "name": "Dragon Warriors",
+        "level": 23,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/Td1HCSQL5iCnjIitmbg3LEzt6C7ebiP3YrrilS-U400.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/Td1HCSQL5iCnjIitmbg3LEzt6C7ebiP3YrrilS-U400.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/Td1HCSQL5iCnjIitmbg3LEzt6C7ebiP3YrrilS-U400.png"
+        }
+      },
+      "attackCount": 5,
+      "districtCount": 9,
+      "districtsDestroyed": 1,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 10,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 5,
+          "destructionPercent": 89,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 9660,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#98LULYV2G",
+                "name": "ViKiNg'S"
+              },
+              "destructionPercent": 89,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#8QGQ9L8Q9",
+                "name": "king"
+              },
+              "destructionPercent": 48,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11590,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#8QGQ9L8Q9",
+                "name": "king"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#8QGQ9L8Q9",
+                "name": "king"
+              },
+              "destructionPercent": 81,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#8QGQ9L8Q9",
+                "name": "king"
+              },
+              "destructionPercent": 45,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 4,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
         }
       ]
     }
