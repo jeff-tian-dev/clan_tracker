@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251003T070000.000Z",
   "endTime": "20251006T070000.000Z",
-  "capitalTotalLoot": 157369,
-  "raidsCompleted": 1,
-  "totalAttacks": 38,
-  "enemyDistrictsDestroyed": 13,
+  "capitalTotalLoot": 184490,
+  "raidsCompleted": 2,
+  "totalAttacks": 47,
+  "enemyDistrictsDestroyed": 17,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -44,10 +44,18 @@
     {
       "tag": "#Q82JVQLV0",
       "name": "bubu",
-      "attacks": 3,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 11549
+      "capitalResourcesLooted": 18600
+    },
+    {
+      "tag": "#Q20L2G0JV",
+      "name": "REHAN ALI",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 20070
     },
     {
       "tag": "#8RVCVQ9V",
@@ -386,9 +394,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/Td1HCSQL5iCnjIitmbg3LEzt6C7ebiP3YrrilS-U400.png"
         }
       },
-      "attackCount": 14,
+      "attackCount": 23,
       "districtCount": 9,
-      "districtsDestroyed": 4,
+      "districtsDestroyed": 8,
       "districts": [
         {
           "id": 70000000,
@@ -403,20 +411,62 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 11850,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q20L2G0JV",
+                "name": "REHAN ALI"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Q20L2G0JV",
+                "name": "REHAN ALI"
+              },
+              "destructionPercent": 87,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#Q82JVQLV0",
+                "name": "bubu"
+              },
+              "destructionPercent": 59,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#Q82JVQLV0",
+                "name": "bubu"
+              },
+              "destructionPercent": 25,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 88,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 8710,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10536,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q82JVQLV0",
+                "name": "bubu"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#8RVLYPYYG",
@@ -493,11 +543,19 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 89,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 9660,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11378,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q20L2G0JV",
+                "name": "REHAN ALI"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#98LULYV2G",
@@ -590,10 +648,36 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11727,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q20L2G0JV",
+                "name": "REHAN ALI"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Q20L2G0JV",
+                "name": "REHAN ALI"
+              },
+              "destructionPercent": 73,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#Q20L2G0JV",
+                "name": "REHAN ALI"
+              },
+              "destructionPercent": 37,
+              "stars": 0
+            }
+          ]
         }
       ]
     }
@@ -610,18 +694,44 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/iX4XAE0v64qKYAgMsuq31NsgkYsDkfNHzuPL77f1ges.png"
         }
       },
-      "attackCount": 21,
+      "attackCount": 24,
       "districtCount": 9,
-      "districtsDestroyed": 8,
+      "districtsDestroyed": 9,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 13559,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#288VRG9JU",
+                "name": "\u300cA.V\u300dAlfons \u30df\u2060\u25cf"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#288VRG9JU",
+                "name": "\u300cA.V\u300dAlfons \u30df\u2060\u25cf"
+              },
+              "destructionPercent": 81,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#J80Q2PC",
+                "name": "Dasmad doang"
+              },
+              "destructionPercent": 44,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
