@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251003T070000.000Z",
   "endTime": "20251006T070000.000Z",
-  "capitalTotalLoot": 184490,
-  "raidsCompleted": 2,
-  "totalAttacks": 47,
-  "enemyDistrictsDestroyed": 17,
+  "capitalTotalLoot": 220405,
+  "raidsCompleted": 3,
+  "totalAttacks": 55,
+  "enemyDistrictsDestroyed": 19,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -16,6 +16,30 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 25579
+    },
+    {
+      "tag": "#8880L0C",
+      "name": "Thomas Cat",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 24110
+    },
+    {
+      "tag": "#GU9YPRYJ",
+      "name": "Master Baker",
+      "attacks": 1,
+      "attackLimit": 5,
+      "bonusAttackLimit": 0,
+      "capitalResourcesLooted": 6965
+    },
+    {
+      "tag": "#QYL88U9P0",
+      "name": "voldemort",
+      "attacks": 1,
+      "attackLimit": 5,
+      "bonusAttackLimit": 0,
+      "capitalResourcesLooted": 4840
     },
     {
       "tag": "#UJP2UYRY",
@@ -394,18 +418,52 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/Td1HCSQL5iCnjIitmbg3LEzt6C7ebiP3YrrilS-U400.png"
         }
       },
-      "attackCount": 23,
+      "attackCount": 27,
       "districtCount": 9,
-      "districtsDestroyed": 8,
+      "districtsDestroyed": 9,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 13808,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#8880L0C",
+                "name": "Thomas Cat"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#8880L0C",
+                "name": "Thomas Cat"
+              },
+              "destructionPercent": 84,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#8880L0C",
+                "name": "Thomas Cat"
+              },
+              "destructionPercent": 56,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#8880L0C",
+                "name": "Thomas Cat"
+              },
+              "destructionPercent": 31,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
@@ -675,6 +733,142 @@
                 "name": "REHAN ALI"
               },
               "destructionPercent": 37,
+              "stars": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "defender": {
+        "tag": "#G9P8CY0Q",
+        "name": "Yggdrasil@India",
+        "level": 18,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/lJF3ERKUeFnFwy54N6COde1xxNAQd5eGn4GeAgokncc.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/lJF3ERKUeFnFwy54N6COde1xxNAQd5eGn4GeAgokncc.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/lJF3ERKUeFnFwy54N6COde1xxNAQd5eGn4GeAgokncc.png"
+        }
+      },
+      "attackCount": 4,
+      "districtCount": 9,
+      "districtsDestroyed": 1,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 10,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 5,
+          "destructionPercent": 75,
+          "stars": 1,
+          "attackCount": 1,
+          "totalLooted": 6965,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GU9YPRYJ",
+                "name": "Master Baker"
+              },
+              "destructionPercent": 75,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 5,
+          "destructionPercent": 44,
+          "stars": 1,
+          "attackCount": 1,
+          "totalLooted": 4840,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QYL88U9P0",
+                "name": "voldemort"
+              },
+              "destructionPercent": 44,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 4,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10302,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#8880L0C",
+                "name": "Thomas Cat"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#8880L0C",
+                "name": "Thomas Cat"
+              },
+              "destructionPercent": 47,
               "stars": 0
             }
           ]
