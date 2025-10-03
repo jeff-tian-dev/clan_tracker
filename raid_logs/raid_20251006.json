@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251003T070000.000Z",
   "endTime": "20251006T070000.000Z",
-  "capitalTotalLoot": 249073,
+  "capitalTotalLoot": 274943,
   "raidsCompleted": 3,
-  "totalAttacks": 62,
-  "enemyDistrictsDestroyed": 23,
+  "totalAttacks": 68,
+  "enemyDistrictsDestroyed": 24,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -56,6 +56,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 24785
+    },
+    {
+      "tag": "#LRV2QY982",
+      "name": "prathik",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 25870
     },
     {
       "tag": "#9U2YP0RY",
@@ -766,9 +774,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/lJF3ERKUeFnFwy54N6COde1xxNAQd5eGn4GeAgokncc.png"
         }
       },
-      "attackCount": 11,
+      "attackCount": 17,
       "districtCount": 9,
-      "districtsDestroyed": 5,
+      "districtsDestroyed": 6,
       "districts": [
         {
           "id": 70000000,
@@ -783,19 +791,55 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 63,
+          "stars": 1,
+          "attackCount": 2,
+          "totalLooted": 6505,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LRV2QY982",
+                "name": "prathik"
+              },
+              "destructionPercent": 63,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#LRV2QY982",
+                "name": "prathik"
+              },
+              "destructionPercent": 35,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9495,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LRV2QY982",
+                "name": "prathik"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LRV2QY982",
+                "name": "prathik"
+              },
+              "destructionPercent": 52,
+              "stars": 2
+            }
+          ]
         },
         {
           "id": 70000003,
@@ -855,10 +899,28 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 95,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 9870,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LRV2QY982",
+                "name": "prathik"
+              },
+              "destructionPercent": 95,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#LRV2QY982",
+                "name": "prathik"
+              },
+              "destructionPercent": 40,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000006,
