@@ -2,9 +2,9 @@
   "state": "ongoing",
   "startTime": "20251003T070000.000Z",
   "endTime": "20251006T070000.000Z",
-  "capitalTotalLoot": 406398,
+  "capitalTotalLoot": 422013,
   "raidsCompleted": 5,
-  "totalAttacks": 100,
+  "totalAttacks": 105,
   "enemyDistrictsDestroyed": 37,
   "offensiveReward": 0,
   "defensiveReward": 0,
@@ -88,6 +88,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 19463
+    },
+    {
+      "tag": "#Y809GJLPY",
+      "name": "mini bearier",
+      "attacks": 5,
+      "attackLimit": 5,
+      "bonusAttackLimit": 0,
+      "capitalResourcesLooted": 15615
     },
     {
       "tag": "#Q82JVQLV0",
@@ -1422,7 +1430,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/66DaRoWGLEXYDGOIkzabnBAsaM0Hg9BqQQ8GvqF5oj8.png"
         }
       },
-      "attackCount": 2,
+      "attackCount": 7,
       "districtCount": 9,
       "districtsDestroyed": 1,
       "districts": [
@@ -1448,28 +1456,74 @@
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 73,
+          "stars": 1,
+          "attackCount": 2,
+          "totalLooted": 6745,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Y809GJLPY",
+                "name": "mini bearier"
+              },
+              "destructionPercent": 73,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#Y809GJLPY",
+                "name": "mini bearier"
+              },
+              "destructionPercent": 37,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 59,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 6640,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Y809GJLPY",
+                "name": "mini bearier"
+              },
+              "destructionPercent": 59,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#Y809GJLPY",
+                "name": "mini bearier"
+              },
+              "destructionPercent": 30,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
+          "destructionPercent": 22,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 1,
+          "totalLooted": 2230,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Y809GJLPY",
+                "name": "mini bearier"
+              },
+              "destructionPercent": 22,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000005,
@@ -1848,7 +1902,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/nsRX9AsHUana497PrRQWhab5s_OZ8hof3B-xR640SxU.png"
         }
       },
-      "attackCount": 0,
+      "attackCount": 2,
       "districtCount": 9,
       "districtsDestroyed": 0,
       "districts": [
@@ -1892,10 +1946,28 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 30,
+          "stars": 1,
+          "attackCount": 2,
+          "totalLooted": 3860,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GYPQ2LUC",
+                "name": "\u0e1a\u0e38\u0e29\u0e1a\u0e32\u0e0b\u0e32\u0e15\u0e32\u0e19"
+              },
+              "destructionPercent": 30,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#GYPQ2LUC",
+                "name": "\u0e1a\u0e38\u0e29\u0e1a\u0e32\u0e0b\u0e32\u0e15\u0e32\u0e19"
+              },
+              "destructionPercent": 23,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000005,
