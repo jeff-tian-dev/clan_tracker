@@ -2308,27 +2308,79 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/nsRX9AsHUana497PrRQWhab5s_OZ8hof3B-xR640SxU.png"
         }
       },
-      "attackCount": 26,
+      "attackCount": 32,
       "districtCount": 9,
-      "districtsDestroyed": 7,
+      "districtsDestroyed": 8,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 64,
+          "stars": 1,
+          "attackCount": 3,
+          "totalLooted": 6060,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#8UVJLYP0Q",
+                "name": "\u0e2d\u0e49\u0e19\u0e02\u0e32\u0e44\u0e01\u0e48"
+              },
+              "destructionPercent": 64,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#8UVJLYP0Q",
+                "name": "\u0e2d\u0e49\u0e19\u0e02\u0e32\u0e44\u0e01\u0e48"
+              },
+              "destructionPercent": 55,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#8UVJLYP0Q",
+                "name": "\u0e2d\u0e49\u0e19\u0e02\u0e32\u0e44\u0e01\u0e48"
+              },
+              "destructionPercent": 31,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11556,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#8UVJLYP0Q",
+                "name": "\u0e2d\u0e49\u0e19\u0e02\u0e32\u0e44\u0e01\u0e48"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#8UVJLYP0Q",
+                "name": "\u0e2d\u0e49\u0e19\u0e02\u0e32\u0e44\u0e01\u0e48"
+              },
+              "destructionPercent": 67,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#8UVJLYP0Q",
+                "name": "\u0e2d\u0e49\u0e19\u0e02\u0e32\u0e44\u0e01\u0e48"
+              },
+              "destructionPercent": 39,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000002,
