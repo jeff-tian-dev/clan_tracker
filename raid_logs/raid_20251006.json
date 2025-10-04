@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251003T070000.000Z",
   "endTime": "20251006T070000.000Z",
-  "capitalTotalLoot": 379104,
+  "capitalTotalLoot": 381753,
   "raidsCompleted": 4,
-  "totalAttacks": 93,
-  "enemyDistrictsDestroyed": 34,
+  "totalAttacks": 94,
+  "enemyDistrictsDestroyed": 35,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -108,10 +108,10 @@
     {
       "tag": "#QVJCGRC98",
       "name": "Basil UK",
-      "attacks": 1,
+      "attacks": 2,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 3335
+      "capitalResourcesLooted": 5984
     },
     {
       "tag": "#90LU2UGQG",
@@ -1114,9 +1114,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/N7lbsgy0kHJPnPI_Ggamtex17dDEe0_ml_1lDPGPl_8.png"
         }
       },
-      "attackCount": 18,
+      "attackCount": 19,
       "districtCount": 9,
-      "districtsDestroyed": 7,
+      "districtsDestroyed": 8,
       "districts": [
         {
           "id": 70000000,
@@ -1166,11 +1166,19 @@
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 81,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 7780,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10429,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#QVJCGRC98",
+                "name": "Basil UK"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#LPJ0JUYVU",
