@@ -1902,9 +1902,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/nsRX9AsHUana497PrRQWhab5s_OZ8hof3B-xR640SxU.png"
         }
       },
-      "attackCount": 2,
+      "attackCount": 12,
       "districtCount": 9,
-      "districtsDestroyed": 0,
+      "districtsDestroyed": 2,
       "districts": [
         {
           "id": 70000000,
@@ -1946,11 +1946,35 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 30,
-          "stars": 1,
-          "attackCount": 2,
-          "totalLooted": 3860,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 5,
+          "totalLooted": 12113,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#GYPQ2LUC",
+                "name": "\u0e1a\u0e38\u0e29\u0e1a\u0e32\u0e0b\u0e32\u0e15\u0e32\u0e19"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GYPQ2LUC",
+                "name": "\u0e1a\u0e38\u0e29\u0e1a\u0e32\u0e0b\u0e32\u0e15\u0e32\u0e19"
+              },
+              "destructionPercent": 86,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#GYPQ2LUC",
+                "name": "\u0e1a\u0e38\u0e29\u0e1a\u0e32\u0e0b\u0e32\u0e15\u0e32\u0e19"
+              },
+              "destructionPercent": 49,
+              "stars": 1
+            },
             {
               "attacker": {
                 "tag": "#GYPQ2LUC",
@@ -1973,10 +1997,20 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
+          "destructionPercent": 31,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 1,
+          "totalLooted": 1900,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GYPQ2LUC",
+                "name": "\u0e1a\u0e38\u0e29\u0e1a\u0e32\u0e0b\u0e32\u0e15\u0e32\u0e19"
+              },
+              "destructionPercent": 31,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000006,
@@ -1991,19 +2025,71 @@
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 66,
+          "stars": 2,
+          "attackCount": 3,
+          "totalLooted": 7620,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LLYV8J2LG",
+                "name": "55555"
+              },
+              "destructionPercent": 66,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#LLYV8J2LG",
+                "name": "55555"
+              },
+              "destructionPercent": 50,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#LLYV8J2LG",
+                "name": "55555"
+              },
+              "destructionPercent": 19,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11721,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LLYV8J2LG",
+                "name": "55555"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LLYV8J2LG",
+                "name": "55555"
+              },
+              "destructionPercent": 57,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#LLYV8J2LG",
+                "name": "55555"
+              },
+              "destructionPercent": 25,
+              "stars": 0
+            }
+          ]
         }
       ]
     }
