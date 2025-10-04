@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251003T070000.000Z",
   "endTime": "20251006T070000.000Z",
-  "capitalTotalLoot": 538801,
+  "capitalTotalLoot": 566446,
   "raidsCompleted": 6,
-  "totalAttacks": 136,
-  "enemyDistrictsDestroyed": 47,
+  "totalAttacks": 143,
+  "enemyDistrictsDestroyed": 49,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -48,6 +48,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 29591
+    },
+    {
+      "tag": "#GLU9LC2LG",
+      "name": "JLai",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 24115
     },
     {
       "tag": "#Q9QU8L8YV",
@@ -132,10 +140,10 @@
     {
       "tag": "#QVJCGRC98",
       "name": "Basil UK",
-      "attacks": 2,
+      "attacks": 3,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 5984
+      "capitalResourcesLooted": 9514
     },
     {
       "tag": "#QYCLC0JLL",
@@ -1802,9 +1810,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/6wMXFFm-hDGb3-z8tm_cDSyzCAqrBXIARgjgSHOWQ3E.png"
         }
       },
-      "attackCount": 11,
+      "attackCount": 18,
       "districtCount": 9,
-      "districtsDestroyed": 2,
+      "districtsDestroyed": 4,
       "districts": [
         {
           "id": 70000000,
@@ -1900,19 +1908,71 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 12104,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GLU9LC2LG",
+                "name": "JLai"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GLU9LC2LG",
+                "name": "JLai"
+              },
+              "destructionPercent": 69,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#GLU9LC2LG",
+                "name": "JLai"
+              },
+              "destructionPercent": 23,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 12011,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GLU9LC2LG",
+                "name": "JLai"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GLU9LC2LG",
+                "name": "JLai"
+              },
+              "destructionPercent": 82,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#GLU9LC2LG",
+                "name": "JLai"
+              },
+              "destructionPercent": 31,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000006,
@@ -1953,11 +2013,19 @@
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 48,
-          "stars": 0,
-          "attackCount": 2,
-          "totalLooted": 5695,
+          "destructionPercent": 73,
+          "stars": 2,
+          "attackCount": 3,
+          "totalLooted": 9225,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#QVJCGRC98",
+                "name": "Basil UK"
+              },
+              "destructionPercent": 73,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#G9CC9G2VQ",
