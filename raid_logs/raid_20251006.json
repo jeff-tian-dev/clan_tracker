@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251003T070000.000Z",
   "endTime": "20251006T070000.000Z",
-  "capitalTotalLoot": 494113,
+  "capitalTotalLoot": 515363,
   "raidsCompleted": 6,
-  "totalAttacks": 125,
-  "enemyDistrictsDestroyed": 45,
+  "totalAttacks": 130,
+  "enemyDistrictsDestroyed": 46,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -36,10 +36,10 @@
     {
       "tag": "#QYL88U9P0",
       "name": "voldemort",
-      "attacks": 3,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 10710
+      "capitalResourcesLooted": 21365
     },
     {
       "tag": "#UJP2UYRY",
@@ -100,10 +100,10 @@
     {
       "tag": "#YG8JU9QC2",
       "name": "Umer Jawaid",
-      "attacks": 4,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 19463
+      "capitalResourcesLooted": 30058
     },
     {
       "tag": "#Y809GJLPY",
@@ -1794,9 +1794,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/6wMXFFm-hDGb3-z8tm_cDSyzCAqrBXIARgjgSHOWQ3E.png"
         }
       },
-      "attackCount": 0,
+      "attackCount": 5,
       "districtCount": 9,
-      "districtsDestroyed": 0,
+      "districtsDestroyed": 1,
       "districts": [
         {
           "id": 70000000,
@@ -1820,10 +1820,28 @@
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10595,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YG8JU9QC2",
+                "name": "Umer Jawaid"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#YG8JU9QC2",
+                "name": "Umer Jawaid"
+              },
+              "destructionPercent": 45,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000003,
@@ -1856,10 +1874,36 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 98,
+          "stars": 2,
+          "attackCount": 3,
+          "totalLooted": 10655,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QYL88U9P0",
+                "name": "voldemort"
+              },
+              "destructionPercent": 98,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#QYL88U9P0",
+                "name": "voldemort"
+              },
+              "destructionPercent": 60,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#QYL88U9P0",
+                "name": "voldemort"
+              },
+              "destructionPercent": 27,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000007,
@@ -2202,9 +2246,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/nsRX9AsHUana497PrRQWhab5s_OZ8hof3B-xR640SxU.png"
         }
       },
-      "attackCount": 18,
+      "attackCount": 20,
       "districtCount": 9,
-      "districtsDestroyed": 4,
+      "districtsDestroyed": 5,
       "districts": [
         {
           "id": 70000000,
@@ -2237,10 +2281,20 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
+          "destructionPercent": 30,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 1,
+          "totalLooted": 3035,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#RQ8RPGGR",
+                "name": "\u0e25\u0e38\u0e07\u0e1b\u0e25\u0e27\u0e01"
+              },
+              "destructionPercent": 30,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000004,
@@ -2340,11 +2394,19 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 62,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 6990,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11751,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#RQ8RPGGR",
+                "name": "\u0e25\u0e38\u0e07\u0e1b\u0e25\u0e27\u0e01"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#QP902UPRL",
