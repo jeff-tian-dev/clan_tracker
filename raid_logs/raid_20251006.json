@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251003T070000.000Z",
   "endTime": "20251006T070000.000Z",
-  "capitalTotalLoot": 422013,
+  "capitalTotalLoot": 450388,
   "raidsCompleted": 5,
-  "totalAttacks": 105,
-  "enemyDistrictsDestroyed": 37,
+  "totalAttacks": 111,
+  "enemyDistrictsDestroyed": 40,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -48,6 +48,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 29591
+    },
+    {
+      "tag": "#GYGC88RGG",
+      "name": "INDxSayan",
+      "attacks": 4,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 17727
     },
     {
       "tag": "#8QGQ9L8Q9",
@@ -122,6 +130,14 @@
       "capitalResourcesLooted": 5984
     },
     {
+      "tag": "#QYCLC0JLL",
+      "name": "83c",
+      "attacks": 0,
+      "attackLimit": 5,
+      "bonusAttackLimit": 0,
+      "capitalResourcesLooted": 0
+    },
+    {
       "tag": "#90LU2UGQG",
       "name": "pishko",
       "attacks": 6,
@@ -168,6 +184,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 28489
+    },
+    {
+      "tag": "#P20YV8VY2",
+      "name": "THALA VERIYAN",
+      "attacks": 2,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 10648
     }
   ],
   "attackLog": [
@@ -1430,9 +1454,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/66DaRoWGLEXYDGOIkzabnBAsaM0Hg9BqQQ8GvqF5oj8.png"
         }
       },
-      "attackCount": 7,
+      "attackCount": 13,
       "districtCount": 9,
-      "districtsDestroyed": 1,
+      "districtsDestroyed": 4,
       "districts": [
         {
           "id": 70000000,
@@ -1510,11 +1534,19 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 22,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 2230,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9530,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#GYGC88RGG",
+                "name": "INDxSayan"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#Y809GJLPY",
@@ -1538,10 +1570,36 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10427,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GYGC88RGG",
+                "name": "INDxSayan"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GYGC88RGG",
+                "name": "INDxSayan"
+              },
+              "destructionPercent": 84,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#GYGC88RGG",
+                "name": "INDxSayan"
+              },
+              "destructionPercent": 54,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000007,
@@ -1574,10 +1632,28 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10648,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#P20YV8VY2",
+                "name": "THALA VERIYAN"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#P20YV8VY2",
+                "name": "THALA VERIYAN"
+              },
+              "destructionPercent": 41,
+              "stars": 0
+            }
+          ]
         }
       ]
     }

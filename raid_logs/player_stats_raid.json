@@ -10205,7 +10205,7 @@
       }
     ]
   },
-  "timestamp": "2025-10-04 02:00:04",
+  "timestamp": "2025-10-04 03:00:04",
   "#LJVP0GRUG": {
     "name": "Agi",
     "tag": "#LJVP0GRUG",
@@ -36786,8 +36786,8 @@
         "date": "20251006",
         "attacksUsed": 0,
         "capitalGold": 0,
-        "avgLootPerAttack": "---",
-        "attacksMissed": 6,
+        "avgLootPerAttack": 0,
+        "attacksMissed": 5,
         "missedRaid": false
       }
     ]
@@ -40564,10 +40564,10 @@
       },
       {
         "date": "20251006",
-        "attacksUsed": 0,
-        "capitalGold": 0,
-        "avgLootPerAttack": "---",
-        "attacksMissed": 6,
+        "attacksUsed": 4,
+        "capitalGold": 17727,
+        "avgLootPerAttack": 4431.8,
+        "attacksMissed": 2,
         "missedRaid": false
       }
     ]
@@ -48254,6 +48254,132 @@
         "capitalGold": 0,
         "avgLootPerAttack": "---",
         "attacksMissed": 6,
+        "missedRaid": false
+      }
+    ]
+  },
+  "#P20YV8VY2": {
+    "name": "THALA VERIYAN",
+    "tag": "#P20YV8VY2",
+    "history": [
+      {
+        "date": "20250630",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250707",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250714",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250721",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250728",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250804",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250811",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250818",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250825",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250901",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250908",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250915",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250922",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20250929",
+        "attacksUsed": "---",
+        "capitalGold": "---",
+        "avgLootPerAttack": "---",
+        "attacksMissed": 0,
+        "missedRaid": true
+      },
+      {
+        "date": "20251006",
+        "attacksUsed": 2,
+        "capitalGold": 10648,
+        "avgLootPerAttack": 5324.0,
+        "attacksMissed": 4,
         "missedRaid": false
       }
     ]
