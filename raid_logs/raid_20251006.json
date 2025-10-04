@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251003T070000.000Z",
   "endTime": "20251006T070000.000Z",
-  "capitalTotalLoot": 515363,
+  "capitalTotalLoot": 538801,
   "raidsCompleted": 6,
-  "totalAttacks": 130,
-  "enemyDistrictsDestroyed": 46,
+  "totalAttacks": 136,
+  "enemyDistrictsDestroyed": 47,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -176,6 +176,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 22751
+    },
+    {
+      "tag": "#G9CC9G2VQ",
+      "name": "Grizz",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 23438
     },
     {
       "tag": "#8RVLYPYYG",
@@ -1794,9 +1802,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/6wMXFFm-hDGb3-z8tm_cDSyzCAqrBXIARgjgSHOWQ3E.png"
         }
       },
-      "attackCount": 5,
+      "attackCount": 11,
       "districtCount": 9,
-      "districtsDestroyed": 1,
+      "districtsDestroyed": 2,
       "districts": [
         {
           "id": 70000000,
@@ -1811,10 +1819,36 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11598,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#G9CC9G2VQ",
+                "name": "Grizz"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#G9CC9G2VQ",
+                "name": "Grizz"
+              },
+              "destructionPercent": 74,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#G9CC9G2VQ",
+                "name": "Grizz"
+              },
+              "destructionPercent": 40,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000002,
@@ -1847,10 +1881,20 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 60,
+          "stars": 2,
+          "attackCount": 1,
+          "totalLooted": 6145,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#G9CC9G2VQ",
+                "name": "Grizz"
+              },
+              "destructionPercent": 60,
+              "stars": 2
+            }
+          ]
         },
         {
           "id": 70000004,
@@ -1909,10 +1953,28 @@
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
+          "destructionPercent": 48,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 2,
+          "totalLooted": 5695,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#G9CC9G2VQ",
+                "name": "Grizz"
+              },
+              "destructionPercent": 48,
+              "stars": 0
+            },
+            {
+              "attacker": {
+                "tag": "#G9CC9G2VQ",
+                "name": "Grizz"
+              },
+              "destructionPercent": 32,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000008,
