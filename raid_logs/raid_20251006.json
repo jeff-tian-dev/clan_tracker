@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251003T070000.000Z",
   "endTime": "20251006T070000.000Z",
-  "capitalTotalLoot": 450388,
+  "capitalTotalLoot": 476119,
   "raidsCompleted": 5,
-  "totalAttacks": 111,
-  "enemyDistrictsDestroyed": 40,
+  "totalAttacks": 119,
+  "enemyDistrictsDestroyed": 43,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -52,10 +52,10 @@
     {
       "tag": "#GYGC88RGG",
       "name": "INDxSayan",
-      "attacks": 4,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 17727
+      "capitalResourcesLooted": 23002
     },
     {
       "tag": "#8QGQ9L8Q9",
@@ -132,10 +132,10 @@
     {
       "tag": "#QYCLC0JLL",
       "name": "83c",
-      "attacks": 0,
+      "attacks": 6,
       "attackLimit": 5,
-      "bonusAttackLimit": 0,
-      "capitalResourcesLooted": 0
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 20456
     },
     {
       "tag": "#90LU2UGQG",
@@ -1454,9 +1454,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/66DaRoWGLEXYDGOIkzabnBAsaM0Hg9BqQQ8GvqF5oj8.png"
         }
       },
-      "attackCount": 13,
+      "attackCount": 21,
       "districtCount": 9,
-      "districtsDestroyed": 4,
+      "districtsDestroyed": 7,
       "districts": [
         {
           "id": 70000000,
@@ -1471,20 +1471,62 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 11784,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QYCLC0JLL",
+                "name": "83c"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QYCLC0JLL",
+                "name": "83c"
+              },
+              "destructionPercent": 93,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#GYGC88RGG",
+                "name": "INDxSayan"
+              },
+              "destructionPercent": 57,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#GYGC88RGG",
+                "name": "INDxSayan"
+              },
+              "destructionPercent": 25,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 73,
-          "stars": 1,
-          "attackCount": 2,
-          "totalLooted": 6745,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 9844,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#QYCLC0JLL",
+                "name": "83c"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#Y809GJLPY",
@@ -1561,10 +1603,36 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10848,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QYCLC0JLL",
+                "name": "83c"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QYCLC0JLL",
+                "name": "83c"
+              },
+              "destructionPercent": 84,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#QYCLC0JLL",
+                "name": "83c"
+              },
+              "destructionPercent": 34,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000006,
