@@ -2308,9 +2308,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/nsRX9AsHUana497PrRQWhab5s_OZ8hof3B-xR640SxU.png"
         }
       },
-      "attackCount": 20,
+      "attackCount": 26,
       "districtCount": 9,
-      "districtsDestroyed": 5,
+      "districtsDestroyed": 7,
       "districts": [
         {
           "id": 70000000,
@@ -2334,20 +2334,70 @@
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10235,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2829YJUU",
+                "name": "zumoeiei"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2829YJUU",
+                "name": "zumoeiei"
+              },
+              "destructionPercent": 67,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#2829YJUU",
+                "name": "zumoeiei"
+              },
+              "destructionPercent": 34,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 30,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 3035,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 11328,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#2829YJUU",
+                "name": "zumoeiei"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2829YJUU",
+                "name": "zumoeiei"
+              },
+              "destructionPercent": 76,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#2829YJUU",
+                "name": "zumoeiei"
+              },
+              "destructionPercent": 56,
+              "stars": 1
+            },
             {
               "attacker": {
                 "tag": "#RQ8RPGGR",
