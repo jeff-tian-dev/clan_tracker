@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251003T070000.000Z",
   "endTime": "20251006T070000.000Z",
-  "capitalTotalLoot": 745277,
+  "capitalTotalLoot": 754884,
   "raidsCompleted": 10,
-  "totalAttacks": 188,
-  "enemyDistrictsDestroyed": 67,
+  "totalAttacks": 190,
+  "enemyDistrictsDestroyed": 68,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -100,10 +100,10 @@
     {
       "tag": "#Q2QQL2YVV",
       "name": "cyan",
-      "attacks": 2,
+      "attacks": 4,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 10525
+      "capitalResourcesLooted": 20132
     },
     {
       "tag": "#LRV2QY982",
@@ -2506,9 +2506,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/y0Rz0ehaLQgYfTV6nKNrJnMEerH92gStRNezIVRkkYI.png"
         }
       },
-      "attackCount": 13,
+      "attackCount": 15,
       "districtCount": 9,
-      "districtsDestroyed": 4,
+      "districtsDestroyed": 5,
       "districts": [
         {
           "id": 70000000,
@@ -2541,11 +2541,27 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 12,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 940,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10547,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q2QQL2YVV",
+                "name": "cyan"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Q2QQL2YVV",
+                "name": "cyan"
+              },
+              "destructionPercent": 52,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#9JR980LUL",
