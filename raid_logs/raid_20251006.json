@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251003T070000.000Z",
   "endTime": "20251006T070000.000Z",
-  "capitalTotalLoot": 734752,
+  "capitalTotalLoot": 745277,
   "raidsCompleted": 10,
-  "totalAttacks": 186,
-  "enemyDistrictsDestroyed": 66,
+  "totalAttacks": 188,
+  "enemyDistrictsDestroyed": 67,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -96,6 +96,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 33316
+    },
+    {
+      "tag": "#Q2QQL2YVV",
+      "name": "cyan",
+      "attacks": 2,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 10525
     },
     {
       "tag": "#LRV2QY982",
@@ -2498,9 +2506,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/y0Rz0ehaLQgYfTV6nKNrJnMEerH92gStRNezIVRkkYI.png"
         }
       },
-      "attackCount": 11,
+      "attackCount": 13,
       "districtCount": 9,
-      "districtsDestroyed": 3,
+      "districtsDestroyed": 4,
       "districts": [
         {
           "id": 70000000,
@@ -2552,10 +2560,28 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10525,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q2QQL2YVV",
+                "name": "cyan"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Q2QQL2YVV",
+                "name": "cyan"
+              },
+              "destructionPercent": 38,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000005,
