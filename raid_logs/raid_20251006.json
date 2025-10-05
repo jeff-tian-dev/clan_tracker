@@ -2,9 +2,9 @@
   "state": "ongoing",
   "startTime": "20251003T070000.000Z",
   "endTime": "20251006T070000.000Z",
-  "capitalTotalLoot": 787483,
+  "capitalTotalLoot": 790203,
   "raidsCompleted": 10,
-  "totalAttacks": 198,
+  "totalAttacks": 199,
   "enemyDistrictsDestroyed": 71,
   "offensiveReward": 0,
   "defensiveReward": 0,
@@ -108,10 +108,10 @@
     {
       "tag": "#Q2QQL2YVV",
       "name": "cyan",
-      "attacks": 5,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 24732
+      "capitalResourcesLooted": 27452
     },
     {
       "tag": "#LRV2QY982",
@@ -2514,7 +2514,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/y0Rz0ehaLQgYfTV6nKNrJnMEerH92gStRNezIVRkkYI.png"
         }
       },
-      "attackCount": 23,
+      "attackCount": 24,
       "districtCount": 9,
       "districtsDestroyed": 8,
       "districts": [
@@ -2522,10 +2522,20 @@
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
+          "destructionPercent": 21,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 1,
+          "totalLooted": 2720,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q2QQL2YVV",
+                "name": "cyan"
+              },
+              "destructionPercent": 21,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
@@ -3834,9 +3844,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/UPPbYOzT5yesp1sMVB142wmhTu7ubhQb7hzdYbzqLJU.png"
         }
       },
-      "attackCount": 5,
+      "attackCount": 6,
       "districtCount": 9,
-      "districtsDestroyed": 1,
+      "districtsDestroyed": 2,
       "districts": [
         {
           "id": 70000000,
@@ -3904,11 +3914,19 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 67,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 6390,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11618,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#L9GLQCCR",
+                "name": "Judge"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#L9GLQCCR",
