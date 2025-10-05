@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251003T070000.000Z",
   "endTime": "20251006T070000.000Z",
-  "capitalTotalLoot": 674744,
+  "capitalTotalLoot": 695646,
   "raidsCompleted": 9,
-  "totalAttacks": 168,
-  "enemyDistrictsDestroyed": 61,
+  "totalAttacks": 174,
+  "enemyDistrictsDestroyed": 62,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -112,6 +112,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 27624
+    },
+    {
+      "tag": "#QVPJG8JPJ",
+      "name": "consent",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 20902
     },
     {
       "tag": "#YG8JU9QC2",
@@ -2174,27 +2182,79 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/lf1v_f818MilX-ohSvKMd289vWhG1acM_enZHmsuAJs.png"
         }
       },
-      "attackCount": 16,
+      "attackCount": 22,
       "districtCount": 9,
-      "districtsDestroyed": 7,
+      "districtsDestroyed": 8,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 73,
+          "stars": 2,
+          "attackCount": 3,
+          "totalLooted": 9705,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QVPJG8JPJ",
+                "name": "consent"
+              },
+              "destructionPercent": 73,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#QVPJG8JPJ",
+                "name": "consent"
+              },
+              "destructionPercent": 56,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#QVPJG8JPJ",
+                "name": "consent"
+              },
+              "destructionPercent": 25,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11197,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QVPJG8JPJ",
+                "name": "consent"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QVPJG8JPJ",
+                "name": "consent"
+              },
+              "destructionPercent": 78,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#QVPJG8JPJ",
+                "name": "consent"
+              },
+              "destructionPercent": 32,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000002,
