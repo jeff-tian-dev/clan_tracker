@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251003T070000.000Z",
   "endTime": "20251006T070000.000Z",
-  "capitalTotalLoot": 671729,
+  "capitalTotalLoot": 674744,
   "raidsCompleted": 9,
-  "totalAttacks": 167,
-  "enemyDistrictsDestroyed": 60,
+  "totalAttacks": 168,
+  "enemyDistrictsDestroyed": 61,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -156,10 +156,10 @@
     {
       "tag": "#QVJCGRC98",
       "name": "Basil UK",
-      "attacks": 3,
+      "attacks": 4,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 9514
+      "capitalResourcesLooted": 12529
     },
     {
       "tag": "#QYCLC0JLL",
@@ -2174,9 +2174,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/lf1v_f818MilX-ohSvKMd289vWhG1acM_enZHmsuAJs.png"
         }
       },
-      "attackCount": 15,
+      "attackCount": 16,
       "districtCount": 9,
-      "districtsDestroyed": 6,
+      "districtsDestroyed": 7,
       "districts": [
         {
           "id": 70000000,
@@ -2281,11 +2281,19 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 67,
-          "stars": 2,
-          "attackCount": 1,
-          "totalLooted": 6725,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9740,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#QVJCGRC98",
+                "name": "Basil UK"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#8VQYULVQQ",
