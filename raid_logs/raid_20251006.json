@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251003T070000.000Z",
   "endTime": "20251006T070000.000Z",
-  "capitalTotalLoot": 722167,
+  "capitalTotalLoot": 734752,
   "raidsCompleted": 10,
-  "totalAttacks": 180,
-  "enemyDistrictsDestroyed": 64,
+  "totalAttacks": 186,
+  "enemyDistrictsDestroyed": 66,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -216,6 +216,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 24645
+    },
+    {
+      "tag": "#9JR980LUL",
+      "name": "Yesrat Jahan Ni",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 12585
     },
     {
       "tag": "#GGYGQ8098",
@@ -2490,9 +2498,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/y0Rz0ehaLQgYfTV6nKNrJnMEerH92gStRNezIVRkkYI.png"
         }
       },
-      "attackCount": 5,
+      "attackCount": 11,
       "districtCount": 9,
-      "districtsDestroyed": 1,
+      "districtsDestroyed": 3,
       "districts": [
         {
           "id": 70000000,
@@ -2525,10 +2533,20 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
+          "destructionPercent": 12,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 1,
+          "totalLooted": 940,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#9JR980LUL",
+                "name": "Yesrat Jahan Ni"
+              },
+              "destructionPercent": 12,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000004,
@@ -2552,20 +2570,62 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 10720,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#9JR980LUL",
+                "name": "Yesrat Jahan Ni"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#9JR980LUL",
+                "name": "Yesrat Jahan Ni"
+              },
+              "destructionPercent": 62,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#9JR980LUL",
+                "name": "Yesrat Jahan Ni"
+              },
+              "destructionPercent": 40,
+              "stars": 0
+            },
+            {
+              "attacker": {
+                "tag": "#9JR980LUL",
+                "name": "Yesrat Jahan Ni"
+              },
+              "destructionPercent": 32,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 98,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 10915,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11840,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#9JR980LUL",
+                "name": "Yesrat Jahan Ni"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#2CQLC28UP",
