@@ -22,9 +22,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/R0YFlivs2Nd2FibYAXoHb3qBC40ASObwzZk_v5q0rsk.png"
         }
       },
-      "attackCount": 1,
+      "attackCount": 10,
       "districtCount": 9,
-      "districtsDestroyed": 0,
+      "districtsDestroyed": 5,
       "districts": [
         {
           "id": 70000000,
@@ -39,10 +39,28 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11364,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#900VR8UG0",
+                "name": "T\u2744tayan\u2744J"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#900VR8UG0",
+                "name": "T\u2744tayan\u2744J"
+              },
+              "destructionPercent": 22,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000002,
@@ -66,10 +84,28 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11615,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#900VR8UG0",
+                "name": "T\u2744tayan\u2744J"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#900VR8UG0",
+                "name": "T\u2744tayan\u2744J"
+              },
+              "destructionPercent": 46,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000005,
@@ -84,20 +120,46 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11631,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#900VR8UG0",
+                "name": "T\u2744tayan\u2744J"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#900VR8UG0",
+                "name": "T\u2744tayan\u2744J"
+              },
+              "destructionPercent": 55,
+              "stars": 2
+            }
+          ]
         },
         {
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 54,
-          "stars": 1,
-          "attackCount": 1,
-          "totalLooted": 6655,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11795,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#PP80PQU8L",
+                "name": "RAJAN"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#PP80PQU8L",
@@ -112,10 +174,28 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11538,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#PP80PQU8L",
+                "name": "RAJAN"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#PP80PQU8L",
+                "name": "RAJAN"
+              },
+              "destructionPercent": 55,
+              "stars": 2
+            }
+          ]
         }
       ]
     }
