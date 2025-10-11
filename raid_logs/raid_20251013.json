@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251010T070000.000Z",
   "endTime": "20251013T070000.000Z",
-  "capitalTotalLoot": 199977,
-  "raidsCompleted": 3,
-  "totalAttacks": 55,
-  "enemyDistrictsDestroyed": 17,
+  "capitalTotalLoot": 266780,
+  "raidsCompleted": 4,
+  "totalAttacks": 72,
+  "enemyDistrictsDestroyed": 23,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -34,6 +34,14 @@
       "capitalResourcesLooted": 14346
     },
     {
+      "tag": "#Q9QU8L8YV",
+      "name": "je suis excit\u00e9",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 23391
+    },
+    {
       "tag": "#GYGC88RGG",
       "name": "INDxSayan",
       "attacks": 2,
@@ -58,6 +66,14 @@
       "capitalResourcesLooted": 26027
     },
     {
+      "tag": "#YQ8L9JVJ2",
+      "name": "Sir Walnut\u2122\ufe0f",
+      "attacks": 5,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 13335
+    },
+    {
       "tag": "#LYJJ9PLV9",
       "name": "Phantom",
       "attacks": 5,
@@ -72,6 +88,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 26052
+    },
+    {
+      "tag": "#G28CVVRJL",
+      "name": "exofall",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 30077
     },
     {
       "tag": "#9JU9LUPCL",
@@ -466,18 +490,52 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/yOPDYGJfKVXbF0-RT5gmRY5U6gPjen5Ew6oYUjAIYkU.png"
         }
       },
-      "attackCount": 24,
+      "attackCount": 28,
       "districtCount": 9,
-      "districtsDestroyed": 8,
+      "districtsDestroyed": 9,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 13766,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q9QU8L8YV",
+                "name": "je suis excit\u00e9"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Q9QU8L8YV",
+                "name": "je suis excit\u00e9"
+              },
+              "destructionPercent": 89,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#Q9QU8L8YV",
+                "name": "je suis excit\u00e9"
+              },
+              "destructionPercent": 60,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#Q9QU8L8YV",
+                "name": "je suis excit\u00e9"
+              },
+              "destructionPercent": 41,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
@@ -756,6 +814,218 @@
               },
               "destructionPercent": 42,
               "stars": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "defender": {
+        "tag": "#G0P809PP",
+        "name": "little Elp",
+        "level": 24,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/Xep79bExYRfJxAN2tyhqyaHTovT9KHj9GPgvgCI8PTY.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/Xep79bExYRfJxAN2tyhqyaHTovT9KHj9GPgvgCI8PTY.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/Xep79bExYRfJxAN2tyhqyaHTovT9KHj9GPgvgCI8PTY.png"
+        }
+      },
+      "attackCount": 13,
+      "districtCount": 9,
+      "districtsDestroyed": 5,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 10,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10560,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YQ8L9JVJ2",
+                "name": "Sir Walnut\u2122\ufe0f"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#G28CVVRJL",
+                "name": "exofall"
+              },
+              "destructionPercent": 95,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#G28CVVRJL",
+                "name": "exofall"
+              },
+              "destructionPercent": 58,
+              "stars": 2
+            }
+          ]
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10249,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YQ8L9JVJ2",
+                "name": "Sir Walnut\u2122\ufe0f"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#YQ8L9JVJ2",
+                "name": "Sir Walnut\u2122\ufe0f"
+              },
+              "destructionPercent": 26,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10577,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YQ8L9JVJ2",
+                "name": "Sir Walnut\u2122\ufe0f"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#G28CVVRJL",
+                "name": "exofall"
+              },
+              "destructionPercent": 96,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#G28CVVRJL",
+                "name": "exofall"
+              },
+              "destructionPercent": 48,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10792,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#G28CVVRJL",
+                "name": "exofall"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#G28CVVRJL",
+                "name": "exofall"
+              },
+              "destructionPercent": 47,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10859,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YQ8L9JVJ2",
+                "name": "Sir Walnut\u2122\ufe0f"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Q9QU8L8YV",
+                "name": "je suis excit\u00e9"
+              },
+              "destructionPercent": 90,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#Q9QU8L8YV",
+                "name": "je suis excit\u00e9"
+              },
+              "destructionPercent": 50,
+              "stars": 2
             }
           ]
         }
