@@ -2,9 +2,9 @@
   "state": "ongoing",
   "startTime": "20251010T070000.000Z",
   "endTime": "20251013T070000.000Z",
-  "capitalTotalLoot": 95383,
+  "capitalTotalLoot": 105263,
   "raidsCompleted": 1,
-  "totalAttacks": 26,
+  "totalAttacks": 30,
   "enemyDistrictsDestroyed": 8,
   "offensiveReward": 0,
   "defensiveReward": 0,
@@ -44,10 +44,10 @@
     {
       "tag": "#LYJJ9PLV9",
       "name": "Phantom",
-      "attacks": 1,
+      "attacks": 5,
       "attackLimit": 5,
       "bonusAttackLimit": 0,
-      "capitalResourcesLooted": 1460
+      "capitalResourcesLooted": 11340
     },
     {
       "tag": "#9JU9LUPCL",
@@ -70,7 +70,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/c9uHJQHQ4P7-ZcVAauv6janOXV-8vhnF29GhQMN7hQ8.png"
         }
       },
-      "attackCount": 26,
+      "attackCount": 30,
       "districtCount": 9,
       "districtsDestroyed": 8,
       "districts": [
@@ -78,11 +78,43 @@
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 23,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 1460,
+          "destructionPercent": 90,
+          "stars": 2,
+          "attackCount": 5,
+          "totalLooted": 11340,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#LYJJ9PLV9",
+                "name": "Phantom"
+              },
+              "destructionPercent": 90,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#LYJJ9PLV9",
+                "name": "Phantom"
+              },
+              "destructionPercent": 75,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#LYJJ9PLV9",
+                "name": "Phantom"
+              },
+              "destructionPercent": 62,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#LYJJ9PLV9",
+                "name": "Phantom"
+              },
+              "destructionPercent": 37,
+              "stars": 0
+            },
             {
               "attacker": {
                 "tag": "#LYJJ9PLV9",
