@@ -2,13 +2,21 @@
   "state": "ongoing",
   "startTime": "20251010T070000.000Z",
   "endTime": "20251013T070000.000Z",
-  "capitalTotalLoot": 26027,
+  "capitalTotalLoot": 47480,
   "raidsCompleted": 0,
-  "totalAttacks": 6,
-  "enemyDistrictsDestroyed": 1,
+  "totalAttacks": 12,
+  "enemyDistrictsDestroyed": 4,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
+    {
+      "tag": "#PL09LLPUY",
+      "name": "Regis\u6881",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 21453
+    },
     {
       "tag": "#YG8JU9QC2",
       "name": "Umer Jawaid",
@@ -30,9 +38,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/c9uHJQHQ4P7-ZcVAauv6janOXV-8vhnF29GhQMN7hQ8.png"
         }
       },
-      "attackCount": 6,
+      "attackCount": 12,
       "districtCount": 9,
-      "districtsDestroyed": 1,
+      "districtsDestroyed": 4,
       "districts": [
         {
           "id": 70000000,
@@ -65,11 +73,27 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 44,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 4915,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11616,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#PL09LLPUY",
+                "name": "Regis\u6881"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#PL09LLPUY",
+                "name": "Regis\u6881"
+              },
+              "destructionPercent": 84,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#YG8JU9QC2",
@@ -102,10 +126,36 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 12024,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#PL09LLPUY",
+                "name": "Regis\u6881"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#PL09LLPUY",
+                "name": "Regis\u6881"
+              },
+              "destructionPercent": 86,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#PL09LLPUY",
+                "name": "Regis\u6881"
+              },
+              "destructionPercent": 40,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000007,
@@ -146,11 +196,19 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 84,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 9245,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11973,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#PL09LLPUY",
+                "name": "Regis\u6881"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#YG8JU9QC2",
