@@ -378,7 +378,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/R0YFlivs2Nd2FibYAXoHb3qBC40ASObwzZk_v5q0rsk.png"
         }
       },
-      "attackCount": 21,
+      "attackCount": 24,
       "districtCount": 9,
       "districtsDestroyed": 8,
       "districts": [
@@ -386,10 +386,36 @@
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 84,
+          "stars": 2,
+          "attackCount": 3,
+          "totalLooted": 11370,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GPYQUC9V",
+                "name": "\u2660\ufe0fDj Vampire\u2660\ufe0f"
+              },
+              "destructionPercent": 84,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#GPYQUC9V",
+                "name": "\u2660\ufe0fDj Vampire\u2660\ufe0f"
+              },
+              "destructionPercent": 74,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#GPYQUC9V",
+                "name": "\u2660\ufe0fDj Vampire\u2660\ufe0f"
+              },
+              "destructionPercent": 52,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000001,
