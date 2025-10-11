@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251010T070000.000Z",
   "endTime": "20251013T070000.000Z",
-  "capitalTotalLoot": 266780,
+  "capitalTotalLoot": 276687,
   "raidsCompleted": 4,
-  "totalAttacks": 72,
-  "enemyDistrictsDestroyed": 23,
+  "totalAttacks": 74,
+  "enemyDistrictsDestroyed": 24,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -68,10 +68,10 @@
     {
       "tag": "#YQ8L9JVJ2",
       "name": "Sir Walnut\u2122\ufe0f",
-      "attacks": 5,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 13335
+      "capitalResourcesLooted": 17450
     },
     {
       "tag": "#LYJJ9PLV9",
@@ -88,6 +88,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 26052
+    },
+    {
+      "tag": "#J88YJGY9",
+      "name": "King Killer",
+      "attacks": 1,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 5792
     },
     {
       "tag": "#G28CVVRJL",
@@ -830,9 +838,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/Xep79bExYRfJxAN2tyhqyaHTovT9KHj9GPgvgCI8PTY.png"
         }
       },
-      "attackCount": 13,
+      "attackCount": 15,
       "districtCount": 9,
-      "districtsDestroyed": 5,
+      "districtsDestroyed": 6,
       "districts": [
         {
           "id": 70000000,
@@ -927,10 +935,28 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9907,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#J88YJGY9",
+                "name": "King Killer"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#YQ8L9JVJ2",
+                "name": "Sir Walnut\u2122\ufe0f"
+              },
+              "destructionPercent": 31,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000006,
