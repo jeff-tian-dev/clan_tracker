@@ -2,20 +2,28 @@
   "state": "ongoing",
   "startTime": "20251010T070000.000Z",
   "endTime": "20251013T070000.000Z",
-  "capitalTotalLoot": 70590,
+  "capitalTotalLoot": 93923,
   "raidsCompleted": 0,
-  "totalAttacks": 19,
-  "enemyDistrictsDestroyed": 6,
+  "totalAttacks": 25,
+  "enemyDistrictsDestroyed": 8,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
     {
       "tag": "#8880L0C",
       "name": "Thomas Cat",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 19286
+    },
+    {
+      "tag": "#GYGC88RGG",
+      "name": "INDxSayan",
       "attacks": 1,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 1378
+      "capitalResourcesLooted": 5425
     },
     {
       "tag": "#PL09LLPUY",
@@ -54,9 +62,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/c9uHJQHQ4P7-ZcVAauv6janOXV-8vhnF29GhQMN7hQ8.png"
         }
       },
-      "attackCount": 19,
+      "attackCount": 25,
       "districtCount": 9,
-      "districtsDestroyed": 6,
+      "districtsDestroyed": 8,
       "districts": [
         {
           "id": 70000000,
@@ -71,10 +79,36 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11445,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GYGC88RGG",
+                "name": "INDxSayan"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#8880L0C",
+                "name": "Thomas Cat"
+              },
+              "destructionPercent": 48,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#8880L0C",
+                "name": "Thomas Cat"
+              },
+              "destructionPercent": 20,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000002,
@@ -193,10 +227,36 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11888,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#8880L0C",
+                "name": "Thomas Cat"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#8880L0C",
+                "name": "Thomas Cat"
+              },
+              "destructionPercent": 86,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#8880L0C",
+                "name": "Thomas Cat"
+              },
+              "destructionPercent": 39,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000006,
@@ -318,9 +378,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/R0YFlivs2Nd2FibYAXoHb3qBC40ASObwzZk_v5q0rsk.png"
         }
       },
-      "attackCount": 15,
+      "attackCount": 21,
       "districtCount": 9,
-      "districtsDestroyed": 6,
+      "districtsDestroyed": 8,
       "districts": [
         {
           "id": 70000000,
@@ -397,11 +457,19 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 92,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 10320,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11703,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#G0RGRGPRU",
+                "name": "Rashed islem"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#L8GQJC898",
@@ -451,10 +519,52 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 5,
+          "totalLooted": 11960,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#G0RGRGPRU",
+                "name": "Rashed islem"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#G0RGRGPRU",
+                "name": "Rashed islem"
+              },
+              "destructionPercent": 93,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#G0RGRGPRU",
+                "name": "Rashed islem"
+              },
+              "destructionPercent": 74,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#G0RGRGPRU",
+                "name": "Rashed islem"
+              },
+              "destructionPercent": 41,
+              "stars": 0
+            },
+            {
+              "attacker": {
+                "tag": "#G0RGRGPRU",
+                "name": "Rashed islem"
+              },
+              "destructionPercent": 29,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000006,
