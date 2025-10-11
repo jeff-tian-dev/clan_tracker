@@ -2,9 +2,9 @@
   "state": "ongoing",
   "startTime": "20251010T070000.000Z",
   "endTime": "20251013T070000.000Z",
-  "capitalTotalLoot": 93923,
+  "capitalTotalLoot": 95383,
   "raidsCompleted": 1,
-  "totalAttacks": 25,
+  "totalAttacks": 26,
   "enemyDistrictsDestroyed": 8,
   "offensiveReward": 0,
   "defensiveReward": 0,
@@ -42,6 +42,14 @@
       "capitalResourcesLooted": 26027
     },
     {
+      "tag": "#LYJJ9PLV9",
+      "name": "Phantom",
+      "attacks": 1,
+      "attackLimit": 5,
+      "bonusAttackLimit": 0,
+      "capitalResourcesLooted": 1460
+    },
+    {
       "tag": "#9JU9LUPCL",
       "name": "TheSaurusPG",
       "attacks": 6,
@@ -62,7 +70,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/c9uHJQHQ4P7-ZcVAauv6janOXV-8vhnF29GhQMN7hQ8.png"
         }
       },
-      "attackCount": 25,
+      "attackCount": 26,
       "districtCount": 9,
       "districtsDestroyed": 8,
       "districts": [
@@ -70,10 +78,20 @@
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
+          "destructionPercent": 23,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 1,
+          "totalLooted": 1460,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LYJJ9PLV9",
+                "name": "Phantom"
+              },
+              "destructionPercent": 23,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
