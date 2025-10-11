@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251010T070000.000Z",
   "endTime": "20251013T070000.000Z",
-  "capitalTotalLoot": 131436,
+  "capitalTotalLoot": 157488,
   "raidsCompleted": 3,
-  "totalAttacks": 36,
-  "enemyDistrictsDestroyed": 9,
+  "totalAttacks": 42,
+  "enemyDistrictsDestroyed": 10,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -16,6 +16,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 19286
+    },
+    {
+      "tag": "#QYL88U9P0",
+      "name": "voldemort",
+      "attacks": 0,
+      "attackLimit": 5,
+      "bonusAttackLimit": 0,
+      "capitalResourcesLooted": 0
     },
     {
       "tag": "#GYGC88RGG",
@@ -48,6 +56,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 0,
       "capitalResourcesLooted": 11340
+    },
+    {
+      "tag": "#G2Q8298Q2",
+      "name": "warlord",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 26052
     },
     {
       "tag": "#9JU9LUPCL",
@@ -442,9 +458,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/yOPDYGJfKVXbF0-RT5gmRY5U6gPjen5Ew6oYUjAIYkU.png"
         }
       },
-      "attackCount": 5,
+      "attackCount": 11,
       "districtCount": 9,
-      "districtsDestroyed": 0,
+      "districtsDestroyed": 1,
       "districts": [
         {
           "id": 70000000,
@@ -477,19 +493,63 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11502,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#G2Q8298Q2",
+                "name": "warlord"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#G2Q8298Q2",
+                "name": "warlord"
+              },
+              "destructionPercent": 72,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#G2Q8298Q2",
+                "name": "warlord"
+              },
+              "destructionPercent": 31,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 95,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 10545,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#G2Q8298Q2",
+                "name": "warlord"
+              },
+              "destructionPercent": 95,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#G2Q8298Q2",
+                "name": "warlord"
+              },
+              "destructionPercent": 37,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000005,
@@ -531,11 +591,19 @@
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 41,
-          "stars": 1,
-          "attackCount": 1,
-          "totalLooted": 4170,
+          "destructionPercent": 73,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 8175,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#G2Q8298Q2",
+                "name": "warlord"
+              },
+              "destructionPercent": 73,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#G9CC9G2VQ",
