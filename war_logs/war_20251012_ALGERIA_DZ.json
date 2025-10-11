@@ -1,5 +1,5 @@
 {
-  "state": "preparation",
+  "state": "inWar",
   "teamSize": 25,
   "attacksPerMember": 2,
   "battleModifier": "none",
@@ -178,7 +178,15 @@
         "name": "\u2b50\u2b505 StarFree\u2b50\u2b50\u2b50",
         "townhallLevel": 17,
         "mapPosition": 2,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PJL9R9GP0",
+          "defenderTag": "#Y2PVPPU8C",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 1,
+          "duration": 160
+        }
       },
       {
         "tag": "#G8JVJUG2U",
@@ -205,9 +213,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/oGpbBtFwN8nNqrZqASmRnPbCEXl964wor9GMZmwkXdE.png"
     },
     "clanLevel": 17,
-    "attacks": 0,
-    "stars": 0,
-    "destructionPercentage": 0.0,
+    "attacks": 1,
+    "stars": 3,
+    "destructionPercentage": 4.0,
     "members": [
       {
         "tag": "#YQJ0LPUJY",
@@ -312,6 +320,16 @@
         "name": "THE SHIELD",
         "townhallLevel": 17,
         "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#PJL9R9GP0",
+            "defenderTag": "#Y2PVPPU8C",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 1,
+            "duration": 160
+          }
+        ],
         "opponentAttacks": 0
       },
       {
