@@ -3,7 +3,7 @@
   "startTime": "20251010T070000.000Z",
   "endTime": "20251013T070000.000Z",
   "capitalTotalLoot": 93923,
-  "raidsCompleted": 0,
+  "raidsCompleted": 1,
   "totalAttacks": 25,
   "enemyDistrictsDestroyed": 8,
   "offensiveReward": 0,
@@ -378,19 +378,27 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/R0YFlivs2Nd2FibYAXoHb3qBC40ASObwzZk_v5q0rsk.png"
         }
       },
-      "attackCount": 24,
+      "attackCount": 25,
       "districtCount": 9,
-      "districtsDestroyed": 8,
+      "districtsDestroyed": 9,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 84,
-          "stars": 2,
-          "attackCount": 3,
-          "totalLooted": 11370,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 13379,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#890QQP2RL",
+                "name": "Sulav Rana"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#GPYQUC9V",
