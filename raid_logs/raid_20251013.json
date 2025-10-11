@@ -2,13 +2,21 @@
   "state": "ongoing",
   "startTime": "20251010T070000.000Z",
   "endTime": "20251013T070000.000Z",
-  "capitalTotalLoot": 167061,
+  "capitalTotalLoot": 189961,
   "raidsCompleted": 3,
-  "totalAttacks": 46,
-  "enemyDistrictsDestroyed": 14,
+  "totalAttacks": 52,
+  "enemyDistrictsDestroyed": 15,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
+    {
+      "tag": "#RUVPQQR0",
+      "name": "Badboy101",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 22900
+    },
     {
       "tag": "#8880L0C",
       "name": "Thomas Cat",
@@ -458,9 +466,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/yOPDYGJfKVXbF0-RT5gmRY5U6gPjen5Ew6oYUjAIYkU.png"
         }
       },
-      "attackCount": 15,
+      "attackCount": 21,
       "districtCount": 9,
-      "districtsDestroyed": 5,
+      "districtsDestroyed": 6,
       "districts": [
         {
           "id": 70000000,
@@ -475,19 +483,47 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 38,
+          "stars": 1,
+          "attackCount": 1,
+          "totalLooted": 3570,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#RUVPQQR0",
+                "name": "Badboy101"
+              },
+              "destructionPercent": 38,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 74,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 8120,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#RUVPQQR0",
+                "name": "Badboy101"
+              },
+              "destructionPercent": 74,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#RUVPQQR0",
+                "name": "Badboy101"
+              },
+              "destructionPercent": 32,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000003,
@@ -563,10 +599,36 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11210,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#RUVPQQR0",
+                "name": "Badboy101"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#RUVPQQR0",
+                "name": "Badboy101"
+              },
+              "destructionPercent": 58,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#RUVPQQR0",
+                "name": "Badboy101"
+              },
+              "destructionPercent": 27,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000006,
