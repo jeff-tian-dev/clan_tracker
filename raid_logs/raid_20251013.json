@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251010T070000.000Z",
   "endTime": "20251013T070000.000Z",
-  "capitalTotalLoot": 189961,
+  "capitalTotalLoot": 199977,
   "raidsCompleted": 3,
-  "totalAttacks": 52,
-  "enemyDistrictsDestroyed": 15,
+  "totalAttacks": 55,
+  "enemyDistrictsDestroyed": 17,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -28,18 +28,18 @@
     {
       "tag": "#QYL88U9P0",
       "name": "voldemort",
-      "attacks": 4,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 9573
+      "capitalResourcesLooted": 14346
     },
     {
       "tag": "#GYGC88RGG",
       "name": "INDxSayan",
-      "attacks": 1,
+      "attacks": 2,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 5425
+      "capitalResourcesLooted": 10668
     },
     {
       "tag": "#PL09LLPUY",
@@ -466,9 +466,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/yOPDYGJfKVXbF0-RT5gmRY5U6gPjen5Ew6oYUjAIYkU.png"
         }
       },
-      "attackCount": 21,
+      "attackCount": 24,
       "districtCount": 9,
-      "districtsDestroyed": 6,
+      "districtsDestroyed": 8,
       "districts": [
         {
           "id": 70000000,
@@ -483,11 +483,27 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 38,
-          "stars": 1,
-          "attackCount": 1,
-          "totalLooted": 3570,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11343,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#GYGC88RGG",
+                "name": "INDxSayan"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QYL88U9P0",
+                "name": "voldemort"
+              },
+              "destructionPercent": 64,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#RUVPQQR0",
@@ -502,11 +518,19 @@
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 74,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 8120,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10363,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#QYL88U9P0",
+                "name": "voldemort"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#RUVPQQR0",
