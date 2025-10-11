@@ -3,7 +3,7 @@
   "startTime": "20251010T070000.000Z",
   "endTime": "20251013T070000.000Z",
   "capitalTotalLoot": 105263,
-  "raidsCompleted": 1,
+  "raidsCompleted": 2,
   "totalAttacks": 30,
   "enemyDistrictsDestroyed": 8,
   "offensiveReward": 0,
@@ -727,6 +727,330 @@
                 "name": "RAJAN"
               },
               "destructionPercent": 55,
+              "stars": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "attacker": {
+        "tag": "#UYY090L8",
+        "name": "BD Royelers",
+        "level": 29,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/6wq14WbHUsAHd3xr5OiLX03djKSUeIPvAr_Ra9jryuA.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/6wq14WbHUsAHd3xr5OiLX03djKSUeIPvAr_Ra9jryuA.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/6wq14WbHUsAHd3xr5OiLX03djKSUeIPvAr_Ra9jryuA.png"
+        }
+      },
+      "attackCount": 26,
+      "districtCount": 9,
+      "districtsDestroyed": 9,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 10,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 5,
+          "totalLooted": 13733,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YGPRU9YVY",
+                "name": "Alan Cadag"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2VGU2CLGJ",
+                "name": "MaR04"
+              },
+              "destructionPercent": 84,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#2VGU2CLGJ",
+                "name": "MaR04"
+              },
+              "destructionPercent": 70,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#2VGU2CLGJ",
+                "name": "MaR04"
+              },
+              "destructionPercent": 48,
+              "stars": 0
+            },
+            {
+              "attacker": {
+                "tag": "#2VGU2CLGJ",
+                "name": "MaR04"
+              },
+              "destructionPercent": 36,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11805,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#R089YYQJ",
+                "name": "KENSHIN"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QRRU2PLJL",
+                "name": "Dec. 25, 2018"
+              },
+              "destructionPercent": 52,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#QRRU2PLJL",
+                "name": "Dec. 25, 2018"
+              },
+              "destructionPercent": 24,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10301,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#P9JCY8J28",
+                "name": "\u2665\u2665\u2665SIAM\u2665\u2665\u2665"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#29PPP82VR",
+                "name": "Prime Minister\u270c"
+              },
+              "destructionPercent": 46,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11802,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#29PPP82VR",
+                "name": "Prime Minister\u270c"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#29PPP82VR",
+                "name": "Prime Minister\u270c"
+              },
+              "destructionPercent": 83,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#29PPP82VR",
+                "name": "Prime Minister\u270c"
+              },
+              "destructionPercent": 40,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 12050,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#29PPP82VR",
+                "name": "Prime Minister\u270c"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#29PPP82VR",
+                "name": "Prime Minister\u270c"
+              },
+              "destructionPercent": 67,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#Y82URRU22",
+                "name": "Ankur:destroyer"
+              },
+              "destructionPercent": 29,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11537,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2VGU2CLGJ",
+                "name": "MaR04"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QRRU2PLJL",
+                "name": "Dec. 25, 2018"
+              },
+              "destructionPercent": 79,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#QRRU2PLJL",
+                "name": "Dec. 25, 2018"
+              },
+              "destructionPercent": 37,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11775,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#R089YYQJ",
+                "name": "KENSHIN"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Y82URRU22",
+                "name": "Ankur:destroyer"
+              },
+              "destructionPercent": 56,
+              "stars": 2
+            }
+          ]
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11990,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2VGU2CLGJ",
+                "name": "MaR04"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Y82URRU22",
+                "name": "Ankur:destroyer"
+              },
+              "destructionPercent": 87,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#Y82URRU22",
+                "name": "Ankur:destroyer"
+              },
+              "destructionPercent": 40,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11535,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Y82URRU22",
+                "name": "Ankur:destroyer"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Y82URRU22",
+                "name": "Ankur:destroyer"
+              },
+              "destructionPercent": 52,
               "stars": 2
             }
           ]
