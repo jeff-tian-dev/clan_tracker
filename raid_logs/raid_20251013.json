@@ -2,13 +2,21 @@
   "state": "ongoing",
   "startTime": "20251010T070000.000Z",
   "endTime": "20251013T070000.000Z",
-  "capitalTotalLoot": 47480,
+  "capitalTotalLoot": 70590,
   "raidsCompleted": 0,
-  "totalAttacks": 12,
-  "enemyDistrictsDestroyed": 4,
+  "totalAttacks": 19,
+  "enemyDistrictsDestroyed": 6,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
+    {
+      "tag": "#8880L0C",
+      "name": "Thomas Cat",
+      "attacks": 1,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 1378
+    },
     {
       "tag": "#PL09LLPUY",
       "name": "Regis\u6881",
@@ -24,6 +32,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 26027
+    },
+    {
+      "tag": "#9JU9LUPCL",
+      "name": "TheSaurusPG",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 21732
     }
   ],
   "attackLog": [
@@ -38,9 +54,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/c9uHJQHQ4P7-ZcVAauv6janOXV-8vhnF29GhQMN7hQ8.png"
         }
       },
-      "attackCount": 12,
+      "attackCount": 19,
       "districtCount": 9,
-      "districtsDestroyed": 4,
+      "districtsDestroyed": 6,
       "districts": [
         {
           "id": 70000000,
@@ -64,10 +80,36 @@
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10838,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#8880L0C",
+                "name": "Thomas Cat"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#9JU9LUPCL",
+                "name": "TheSaurusPG"
+              },
+              "destructionPercent": 94,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#9JU9LUPCL",
+                "name": "TheSaurusPG"
+              },
+              "destructionPercent": 38,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000003,
@@ -108,10 +150,44 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 12272,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#9JU9LUPCL",
+                "name": "TheSaurusPG"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#9JU9LUPCL",
+                "name": "TheSaurusPG"
+              },
+              "destructionPercent": 78,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#9JU9LUPCL",
+                "name": "TheSaurusPG"
+              },
+              "destructionPercent": 41,
+              "stars": 0
+            },
+            {
+              "attacker": {
+                "tag": "#9JU9LUPCL",
+                "name": "TheSaurusPG"
+              },
+              "destructionPercent": 12,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000005,
