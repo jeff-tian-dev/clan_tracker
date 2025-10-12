@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251010T070000.000Z",
   "endTime": "20251013T070000.000Z",
-  "capitalTotalLoot": 481066,
+  "capitalTotalLoot": 488062,
   "raidsCompleted": 6,
-  "totalAttacks": 127,
-  "enemyDistrictsDestroyed": 42,
+  "totalAttacks": 128,
+  "enemyDistrictsDestroyed": 43,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -84,10 +84,10 @@
     {
       "tag": "#9U2YP0RY",
       "name": "\u24c2\ufe0fBIG COCHY3\u24c2\ufe0f",
-      "attacks": 5,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 21252
+      "capitalResourcesLooted": 28248
     },
     {
       "tag": "#QVPJG8JPJ",
@@ -1550,9 +1550,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/w8L-kqQY1JBkfhVp3EmOLGh-rzIz7O1vJJm6Y1izzFo.png"
         }
       },
-      "attackCount": 18,
+      "attackCount": 19,
       "districtCount": 9,
-      "districtsDestroyed": 6,
+      "districtsDestroyed": 7,
       "districts": [
         {
           "id": 70000000,
@@ -1656,11 +1656,19 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 39,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 3405,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10401,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#9U2YP0RY",
+                "name": "\u24c2\ufe0fBIG COCHY3\u24c2\ufe0f"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#QRP2RLV02",
