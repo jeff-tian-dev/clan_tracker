@@ -387,7 +387,7 @@
             "duration": 143
           }
         ],
-        "opponentAttacks": 4,
+        "opponentAttacks": 5,
         "bestOpponentAttack": {
           "attackerTag": "#QLQL920QU",
           "defenderTag": "#G28CVVRJL",
@@ -550,7 +550,15 @@
             "duration": 112
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PQRQPJLPP",
+          "defenderTag": "#PRGGL2J2V",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 49,
+          "duration": 128
+        }
       }
     ]
   },
@@ -563,9 +571,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/oGpbBtFwN8nNqrZqASmRnPbCEXl964wor9GMZmwkXdE.png"
     },
     "clanLevel": 17,
-    "attacks": 18,
-    "stars": 35,
-    "destructionPercentage": 47.2,
+    "attacks": 20,
+    "stars": 38,
+    "destructionPercentage": 51.2,
     "members": [
       {
         "tag": "#YQJ0LPUJY",
@@ -811,6 +819,24 @@
         "name": "MAGWAIR OFF",
         "townhallLevel": 17,
         "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#PQRQPJLPP",
+            "defenderTag": "#G28CVVRJL",
+            "stars": 2,
+            "destructionPercentage": 56,
+            "order": 48,
+            "duration": 108
+          },
+          {
+            "attackerTag": "#PQRQPJLPP",
+            "defenderTag": "#PRGGL2J2V",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 49,
+            "duration": 128
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#8VQYULVQQ",
