@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Uwe8sJr6b6dIEiWFEd9k-ODCbVwotrNdkfZKeEOHr4M.png"
     },
     "clanLevel": 10,
-    "attacks": 26,
-    "stars": 55,
-    "destructionPercentage": 82.24,
+    "attacks": 29,
+    "stars": 59,
+    "destructionPercentage": 88.24,
     "members": [
       {
         "tag": "#8880L0C",
@@ -32,6 +32,14 @@
             "destructionPercentage": 76,
             "order": 40,
             "duration": 103
+          },
+          {
+            "attackerTag": "#8880L0C",
+            "defenderTag": "#8QY8PUPVQ",
+            "stars": 2,
+            "destructionPercentage": 83,
+            "order": 45,
+            "duration": 180
           }
         ],
         "opponentAttacks": 1,
@@ -411,6 +419,24 @@
         "name": "taz",
         "townhallLevel": 17,
         "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#2R2JYRRU",
+            "defenderTag": "#P82JGJC2C",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 46,
+            "duration": 113
+          },
+          {
+            "attackerTag": "#2R2JYRRU",
+            "defenderTag": "#8PU0Q0L2J",
+            "stars": 2,
+            "destructionPercentage": 91,
+            "order": 47,
+            "duration": 133
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#QLQL920QU",
@@ -770,14 +796,14 @@
             "duration": 131
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#G2Q8298Q2",
+          "attackerTag": "#2R2JYRRU",
           "defenderTag": "#8PU0Q0L2J",
           "stars": 2,
-          "destructionPercentage": 89,
-          "order": 31,
-          "duration": 147
+          "destructionPercentage": 91,
+          "order": 47,
+          "duration": 133
         }
       },
       {
@@ -833,7 +859,15 @@
             "duration": 150
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#8880L0C",
+          "defenderTag": "#8QY8PUPVQ",
+          "stars": 2,
+          "destructionPercentage": 83,
+          "order": 45,
+          "duration": 180
+        }
       },
       {
         "tag": "#PJL9R9GP0",
@@ -873,14 +907,14 @@
         "name": "FOUNDOU OFF",
         "townhallLevel": 15,
         "mapPosition": 20,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#G8JVJUG2U",
+          "attackerTag": "#2R2JYRRU",
           "defenderTag": "#P82JGJC2C",
-          "stars": 1,
-          "destructionPercentage": 35,
-          "order": 35,
-          "duration": 88
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 46,
+          "duration": 113
         }
       },
       {
