@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Uwe8sJr6b6dIEiWFEd9k-ODCbVwotrNdkfZKeEOHr4M.png"
     },
     "clanLevel": 10,
-    "attacks": 10,
-    "stars": 24,
-    "destructionPercentage": 34.76,
+    "attacks": 12,
+    "stars": 29,
+    "destructionPercentage": 41.56,
     "members": [
       {
         "tag": "#8880L0C",
@@ -302,6 +302,24 @@
         "name": "Aurelian",
         "townhallLevel": 12,
         "mapPosition": 25,
+        "attacks": [
+          {
+            "attackerTag": "#GGYGQ8098",
+            "defenderTag": "#G2QY0LR9Y",
+            "stars": 2,
+            "destructionPercentage": 70,
+            "order": 20,
+            "duration": 111
+          },
+          {
+            "attackerTag": "#GGYGQ8098",
+            "defenderTag": "#GR0YY9J80",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 21,
+            "duration": 127
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -383,7 +401,15 @@
         "name": "THE SHIELD",
         "townhallLevel": 15,
         "mapPosition": 24,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GGYGQ8098",
+          "defenderTag": "#G2QY0LR9Y",
+          "stars": 2,
+          "destructionPercentage": 70,
+          "order": 20,
+          "duration": 111
+        }
       },
       {
         "tag": "#QQ992Q9VC",
@@ -499,7 +525,15 @@
         "name": "ADMIRAL",
         "townhallLevel": 17,
         "mapPosition": 25,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GGYGQ8098",
+          "defenderTag": "#GR0YY9J80",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 21,
+          "duration": 127
+        }
       },
       {
         "tag": "#8PU0Q0L2J",
