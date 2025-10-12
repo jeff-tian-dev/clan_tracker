@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Uwe8sJr6b6dIEiWFEd9k-ODCbVwotrNdkfZKeEOHr4M.png"
     },
     "clanLevel": 10,
-    "attacks": 25,
-    "stars": 54,
-    "destructionPercentage": 83.64,
+    "attacks": 26,
+    "stars": 55,
+    "destructionPercentage": 82.24,
     "members": [
       {
         "tag": "#8880L0C",
@@ -386,6 +386,16 @@
         "name": "viper subham",
         "townhallLevel": 16,
         "mapPosition": 18,
+        "attacks": [
+          {
+            "attackerTag": "#920JCYL8Y",
+            "defenderTag": "#PCG0RCJCP",
+            "stars": 2,
+            "destructionPercentage": 55,
+            "order": 42,
+            "duration": 68
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -892,14 +902,14 @@
             "duration": 133
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#LRV2QY982",
+          "attackerTag": "#920JCYL8Y",
           "defenderTag": "#PCG0RCJCP",
-          "stars": 1,
-          "destructionPercentage": 90,
-          "order": 24,
-          "duration": 180
+          "stars": 2,
+          "destructionPercentage": 55,
+          "order": 42,
+          "duration": 68
         }
       },
       {
