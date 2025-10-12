@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Uwe8sJr6b6dIEiWFEd9k-ODCbVwotrNdkfZKeEOHr4M.png"
     },
     "clanLevel": 10,
-    "attacks": 12,
-    "stars": 29,
-    "destructionPercentage": 41.56,
+    "attacks": 14,
+    "stars": 35,
+    "destructionPercentage": 49.56,
     "members": [
       {
         "tag": "#8880L0C",
@@ -85,6 +85,24 @@
         "name": "INDxSayan",
         "townhallLevel": 16,
         "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#GYGC88RGG",
+            "defenderTag": "#PRJYP2CJC",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 22,
+            "duration": 135
+          },
+          {
+            "attackerTag": "#GYGC88RGG",
+            "defenderTag": "#99LVC8VJJ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 23,
+            "duration": 152
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -474,7 +492,15 @@
             "duration": 131
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GYGC88RGG",
+          "defenderTag": "#99LVC8VJJ",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 23,
+          "duration": 152
+        }
       },
       {
         "tag": "#PJ08GYYLU",
@@ -724,7 +750,15 @@
         "name": "pawlo",
         "townhallLevel": 16,
         "mapPosition": 14,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GYGC88RGG",
+          "defenderTag": "#PRJYP2CJC",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 22,
+          "duration": 135
+        }
       }
     ]
   }
