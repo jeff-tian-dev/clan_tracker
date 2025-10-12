@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251010T070000.000Z",
   "endTime": "20251013T070000.000Z",
-  "capitalTotalLoot": 374386,
+  "capitalTotalLoot": 390025,
   "raidsCompleted": 5,
-  "totalAttacks": 99,
-  "enemyDistrictsDestroyed": 30,
+  "totalAttacks": 105,
+  "enemyDistrictsDestroyed": 35,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -120,6 +120,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 5792
+    },
+    {
+      "tag": "#QYCLC0JLL",
+      "name": "83c",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 15639
     },
     {
       "tag": "#G28CVVRJL",
@@ -1194,9 +1202,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/otvLj5AFX0DDoTRXpTVtrkngN3y_my_V-Sx9CWm0SRM.png"
         }
       },
-      "attackCount": 15,
+      "attackCount": 21,
       "districtCount": 9,
-      "districtsDestroyed": 3,
+      "districtsDestroyed": 8,
       "districts": [
         {
           "id": 70000000,
@@ -1211,11 +1219,19 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 95,
-          "stars": 2,
-          "attackCount": 3,
-          "totalLooted": 9785,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 11294,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#QYCLC0JLL",
+                "name": "83c"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#GYGC88RGG",
@@ -1246,11 +1262,19 @@
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 4,
-          "destructionPercent": 82,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 6740,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 9050,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#QYCLC0JLL",
+                "name": "83c"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#2R2JYRRU",
@@ -1327,11 +1351,27 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 4,
-          "destructionPercent": 41,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 3550,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 8828,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#QYCLC0JLL",
+                "name": "83c"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QYCLC0JLL",
+                "name": "83c"
+              },
+              "destructionPercent": 96,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#LRV2QY982",
@@ -1346,11 +1386,19 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 4,
-          "destructionPercent": 92,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 9055,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10460,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#QYCLC0JLL",
+                "name": "83c"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#GGYGQ8098",
@@ -1400,11 +1448,19 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 59,
-          "stars": 2,
-          "attackCount": 1,
-          "totalLooted": 4625,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9762,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#QYCLC0JLL",
+                "name": "83c"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#GYGC88RGG",
