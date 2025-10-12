@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Uwe8sJr6b6dIEiWFEd9k-ODCbVwotrNdkfZKeEOHr4M.png"
     },
     "clanLevel": 10,
-    "attacks": 14,
-    "stars": 35,
-    "destructionPercentage": 49.56,
+    "attacks": 16,
+    "stars": 38,
+    "destructionPercentage": 56.12,
     "members": [
       {
         "tag": "#8880L0C",
@@ -167,6 +167,24 @@
         "name": "prathik",
         "townhallLevel": 16,
         "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#LRV2QY982",
+            "defenderTag": "#PCG0RCJCP",
+            "stars": 1,
+            "destructionPercentage": 90,
+            "order": 24,
+            "duration": 180
+          },
+          {
+            "attackerTag": "#LRV2QY982",
+            "defenderTag": "#PLCJ0CUUC",
+            "stars": 2,
+            "destructionPercentage": 74,
+            "order": 25,
+            "duration": 142
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#PCG0RCJCP",
@@ -674,7 +692,15 @@
             "duration": 133
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LRV2QY982",
+          "defenderTag": "#PCG0RCJCP",
+          "stars": 1,
+          "destructionPercentage": 90,
+          "order": 24,
+          "duration": 180
+        }
       },
       {
         "tag": "#P9LRCYJGQ",
@@ -703,7 +729,15 @@
         "name": "PHo B\u00ef\u00e1 \u00efS\u015f\u00e0\u00e7",
         "townhallLevel": 16,
         "mapPosition": 12,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LRV2QY982",
+          "defenderTag": "#PLCJ0CUUC",
+          "stars": 2,
+          "destructionPercentage": 74,
+          "order": 25,
+          "duration": 142
+        }
       },
       {
         "tag": "#2QYPQ2CGG",

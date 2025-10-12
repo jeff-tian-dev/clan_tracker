@@ -2,9 +2,9 @@
   "state": "ongoing",
   "startTime": "20251010T070000.000Z",
   "endTime": "20251013T070000.000Z",
-  "capitalTotalLoot": 370836,
+  "capitalTotalLoot": 374386,
   "raidsCompleted": 5,
-  "totalAttacks": 98,
+  "totalAttacks": 99,
   "enemyDistrictsDestroyed": 30,
   "offensiveReward": 0,
   "defensiveReward": 0,
@@ -72,6 +72,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 9861
+    },
+    {
+      "tag": "#LRV2QY982",
+      "name": "prathik",
+      "attacks": 1,
+      "attackLimit": 5,
+      "bonusAttackLimit": 0,
+      "capitalResourcesLooted": 3550
     },
     {
       "tag": "#YG8JU9QC2",
@@ -1186,7 +1194,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/otvLj5AFX0DDoTRXpTVtrkngN3y_my_V-Sx9CWm0SRM.png"
         }
       },
-      "attackCount": 14,
+      "attackCount": 15,
       "districtCount": 9,
       "districtsDestroyed": 3,
       "districts": [
@@ -1319,10 +1327,20 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
+          "destructionPercent": 41,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 1,
+          "totalLooted": 3550,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LRV2QY982",
+                "name": "prathik"
+              },
+              "destructionPercent": 41,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000006,
