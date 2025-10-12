@@ -413,14 +413,14 @@
             "duration": 143
           }
         ],
-        "opponentAttacks": 5,
+        "opponentAttacks": 7,
         "bestOpponentAttack": {
-          "attackerTag": "#QLQL920QU",
+          "attackerTag": "#G22YPJC88",
           "defenderTag": "#G28CVVRJL",
-          "stars": 2,
-          "destructionPercentage": 80,
-          "order": 16,
-          "duration": 180
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 56,
+          "duration": 158
         }
       },
       {
@@ -615,9 +615,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/oGpbBtFwN8nNqrZqASmRnPbCEXl964wor9GMZmwkXdE.png"
     },
     "clanLevel": 17,
-    "attacks": 21,
-    "stars": 39,
-    "destructionPercentage": 54.8,
+    "attacks": 23,
+    "stars": 40,
+    "destructionPercentage": 55.6,
     "members": [
       {
         "tag": "#YQJ0LPUJY",
@@ -705,6 +705,16 @@
         "name": "Larbi",
         "townhallLevel": 17,
         "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#QQQ9GULQC",
+            "defenderTag": "#G28CVVRJL",
+            "stars": 2,
+            "destructionPercentage": 95,
+            "order": 55,
+            "duration": 180
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#G28CVVRJL",
@@ -811,6 +821,16 @@
         "name": "Sultan",
         "townhallLevel": 17,
         "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#G22YPJC88",
+            "defenderTag": "#G28CVVRJL",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 56,
+            "duration": 158
+          }
+        ],
         "opponentAttacks": 0
       },
       {

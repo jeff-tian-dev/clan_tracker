@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251010T070000.000Z",
   "endTime": "20251013T070000.000Z",
-  "capitalTotalLoot": 408731,
+  "capitalTotalLoot": 435141,
   "raidsCompleted": 6,
-  "totalAttacks": 111,
-  "enemyDistrictsDestroyed": 36,
+  "totalAttacks": 116,
+  "enemyDistrictsDestroyed": 38,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -68,10 +68,10 @@
     {
       "tag": "#Q2QQL2YVV",
       "name": "cyan",
-      "attacks": 2,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 9861
+      "capitalResourcesLooted": 30835
     },
     {
       "tag": "#LRV2QY982",
@@ -160,6 +160,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 21316
+    },
+    {
+      "tag": "#GY8QV92G2",
+      "name": "marine",
+      "attacks": 1,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 5436
     },
     {
       "tag": "#9JU9LUPCL",
@@ -1526,9 +1534,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/w8L-kqQY1JBkfhVp3EmOLGh-rzIz7O1vJJm6Y1izzFo.png"
         }
       },
-      "attackCount": 2,
+      "attackCount": 7,
       "districtCount": 9,
-      "districtsDestroyed": 0,
+      "districtsDestroyed": 2,
       "districts": [
         {
           "id": 70000000,
@@ -1561,10 +1569,28 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10479,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q2QQL2YVV",
+                "name": "cyan"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Q2QQL2YVV",
+                "name": "cyan"
+              },
+              "destructionPercent": 56,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000004,
@@ -1597,20 +1623,46 @@
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 94,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 10495,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q2QQL2YVV",
+                "name": "cyan"
+              },
+              "destructionPercent": 94,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#Q2QQL2YVV",
+                "name": "cyan"
+              },
+              "destructionPercent": 41,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 47,
-          "stars": 1,
-          "attackCount": 2,
-          "totalLooted": 5815,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11251,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#GY8QV92G2",
+                "name": "marine"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#QVPJG8JPJ",
