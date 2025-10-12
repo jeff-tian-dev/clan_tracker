@@ -2284,9 +2284,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/4vy-rlrID8BD_fZxQJPPgcKlV4unpCWc1GpMj8YSXaQ.png"
         }
       },
-      "attackCount": 4,
+      "attackCount": 8,
       "districtCount": 9,
-      "districtsDestroyed": 1,
+      "districtsDestroyed": 3,
       "districts": [
         {
           "id": 70000000,
@@ -2310,10 +2310,28 @@
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10556,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2URG2V802",
+                "name": "HOANG ANH"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2URG2V802",
+                "name": "HOANG ANH"
+              },
+              "destructionPercent": 60,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000003,
@@ -2400,10 +2418,28 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11724,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2URG2V802",
+                "name": "HOANG ANH"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2URG2V802",
+                "name": "HOANG ANH"
+              },
+              "destructionPercent": 57,
+              "stars": 2
+            }
+          ]
         }
       ]
     }
