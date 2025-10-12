@@ -24,7 +24,15 @@
         "name": "Thomas Cat",
         "townhallLevel": 17,
         "mapPosition": 5,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QQ992Q9VC",
+          "defenderTag": "#8880L0C",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 15,
+          "duration": 167
+        }
       },
       {
         "tag": "#QYL88U9P0",
@@ -224,7 +232,15 @@
         "name": "Magic Mike",
         "townhallLevel": 15,
         "mapPosition": 20,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#99LVC8VJJ",
+          "defenderTag": "#G8VUJ99LJ",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 18,
+          "duration": 129
+        }
       },
       {
         "tag": "#G28CVVRJL",
@@ -249,7 +265,15 @@
             "duration": 143
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QLQL920QU",
+          "defenderTag": "#G28CVVRJL",
+          "stars": 2,
+          "destructionPercentage": 80,
+          "order": 16,
+          "duration": 180
+        }
       },
       {
         "tag": "#920JCYL8Y",
@@ -263,14 +287,14 @@
         "name": "taz",
         "townhallLevel": 17,
         "mapPosition": 4,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#QQ992Q9VC",
+          "attackerTag": "#QLQL920QU",
           "defenderTag": "#2R2JYRRU",
-          "stars": 2,
-          "destructionPercentage": 78,
-          "order": 14,
-          "duration": 161
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 17,
+          "duration": 157
         }
       },
       {
@@ -307,7 +331,15 @@
         "name": "Ko yae",
         "townhallLevel": 15,
         "mapPosition": 19,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#99LVC8VJJ",
+          "defenderTag": "#G8JVJUG2U",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 19,
+          "duration": 131
+        }
       },
       {
         "tag": "#PRGGL2J2V",
@@ -327,9 +359,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/oGpbBtFwN8nNqrZqASmRnPbCEXl964wor9GMZmwkXdE.png"
     },
     "clanLevel": 17,
-    "attacks": 4,
-    "stars": 11,
-    "destructionPercentage": 15.12,
+    "attacks": 9,
+    "stars": 23,
+    "destructionPercentage": 31.2,
     "members": [
       {
         "tag": "#YQJ0LPUJY",
@@ -366,6 +398,14 @@
             "destructionPercentage": 78,
             "order": 14,
             "duration": 161
+          },
+          {
+            "attackerTag": "#QQ992Q9VC",
+            "defenderTag": "#8880L0C",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 15,
+            "duration": 167
           }
         ],
         "opponentAttacks": 0
@@ -390,6 +430,24 @@
         "name": "RAYAN",
         "townhallLevel": 16,
         "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#99LVC8VJJ",
+            "defenderTag": "#G8VUJ99LJ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 18,
+            "duration": 129
+          },
+          {
+            "attackerTag": "#99LVC8VJJ",
+            "defenderTag": "#G8JVJUG2U",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 19,
+            "duration": 131
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -599,6 +657,24 @@
         "name": "The Rio",
         "townhallLevel": 17,
         "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#QLQL920QU",
+            "defenderTag": "#G28CVVRJL",
+            "stars": 2,
+            "destructionPercentage": 80,
+            "order": 16,
+            "duration": 180
+          },
+          {
+            "attackerTag": "#QLQL920QU",
+            "defenderTag": "#2R2JYRRU",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 17,
+            "duration": 157
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#G28CVVRJL",
