@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Uwe8sJr6b6dIEiWFEd9k-ODCbVwotrNdkfZKeEOHr4M.png"
     },
     "clanLevel": 10,
-    "attacks": 16,
-    "stars": 38,
-    "destructionPercentage": 56.12,
+    "attacks": 18,
+    "stars": 42,
+    "destructionPercentage": 63.52,
     "members": [
       {
         "tag": "#8880L0C",
@@ -39,6 +39,24 @@
         "name": "voldemort",
         "townhallLevel": 15,
         "mapPosition": 21,
+        "attacks": [
+          {
+            "attackerTag": "#QYL88U9P0",
+            "defenderTag": "#2QYPQ2CGG",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 26,
+            "duration": 151
+          },
+          {
+            "attackerTag": "#QYL88U9P0",
+            "defenderTag": "#Y2RP2CJPV",
+            "stars": 1,
+            "destructionPercentage": 85,
+            "order": 27,
+            "duration": 118
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -606,7 +624,15 @@
         "name": "\u015c\u00c3\u0139\u0124\u1ed6\u01d7\u01a4",
         "townhallLevel": 15,
         "mapPosition": 22,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QYL88U9P0",
+          "defenderTag": "#Y2RP2CJPV",
+          "stars": 1,
+          "destructionPercentage": 85,
+          "order": 27,
+          "duration": 118
+        }
       },
       {
         "tag": "#8QY8PUPVQ",
@@ -744,7 +770,15 @@
         "name": "Morad",
         "townhallLevel": 15,
         "mapPosition": 21,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QYL88U9P0",
+          "defenderTag": "#2QYPQ2CGG",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 26,
+          "duration": 151
+        }
       },
       {
         "tag": "#QLQL920QU",
