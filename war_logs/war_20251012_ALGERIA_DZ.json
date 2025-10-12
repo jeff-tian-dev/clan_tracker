@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Uwe8sJr6b6dIEiWFEd9k-ODCbVwotrNdkfZKeEOHr4M.png"
     },
     "clanLevel": 10,
-    "attacks": 34,
-    "stars": 63,
-    "destructionPercentage": 90.08,
+    "attacks": 40,
+    "stars": 68,
+    "destructionPercentage": 96.0,
     "members": [
       {
         "tag": "#8880L0C",
@@ -90,6 +90,24 @@
         "name": "destroyer",
         "townhallLevel": 17,
         "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#UJP2UYRY",
+            "defenderTag": "#G22YPJC88",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 74,
+            "duration": 169
+          },
+          {
+            "attackerTag": "#UJP2UYRY",
+            "defenderTag": "#QQ992Q9VC",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 79,
+            "duration": 178
+          }
+        ],
         "opponentAttacks": 3,
         "bestOpponentAttack": {
           "attackerTag": "#9L8UJCVJR",
@@ -138,6 +156,24 @@
         "name": "je suis excit\u00e9",
         "townhallLevel": 17,
         "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#Q9QU8L8YV",
+            "defenderTag": "#PLCJ0CUUC",
+            "stars": 2,
+            "destructionPercentage": 98,
+            "order": 77,
+            "duration": 136
+          },
+          {
+            "attackerTag": "#Q9QU8L8YV",
+            "defenderTag": "#QQ992Q9VC",
+            "stars": 1,
+            "destructionPercentage": 43,
+            "order": 78,
+            "duration": 66
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#L08CCVP2P",
@@ -626,6 +662,24 @@
         "name": "\u2b50\u2b505 StarFree\u2b50\u2b50\u2b50",
         "townhallLevel": 17,
         "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#Y2PVPPU8C",
+            "defenderTag": "#QQ992Q9VC",
+            "stars": 1,
+            "destructionPercentage": 92,
+            "order": 75,
+            "duration": 180
+          },
+          {
+            "attackerTag": "#Y2PVPPU8C",
+            "defenderTag": "#PJ08GYYLU",
+            "stars": 1,
+            "destructionPercentage": 83,
+            "order": 76,
+            "duration": 175
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#PJL9R9GP0",
@@ -806,14 +860,14 @@
             "duration": 167
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 4,
         "bestOpponentAttack": {
-          "attackerTag": "#8880L0C",
+          "attackerTag": "#UJP2UYRY",
           "defenderTag": "#QQ992Q9VC",
-          "stars": 1,
-          "destructionPercentage": 76,
-          "order": 40,
-          "duration": 103
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 79,
+          "duration": 178
         }
       },
       {
@@ -897,7 +951,7 @@
             "duration": 167
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#YQ8L9JVJ2",
           "defenderTag": "#PJ08GYYLU",
@@ -963,7 +1017,15 @@
             "duration": 152
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#UJP2UYRY",
+          "defenderTag": "#G22YPJC88",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 74,
+          "duration": 169
+        }
       },
       {
         "tag": "#YGP0URLYY",
@@ -1347,14 +1409,14 @@
             "duration": 180
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#LRV2QY982",
+          "attackerTag": "#Q9QU8L8YV",
           "defenderTag": "#PLCJ0CUUC",
           "stars": 2,
-          "destructionPercentage": 74,
-          "order": 25,
-          "duration": 142
+          "destructionPercentage": 98,
+          "order": 77,
+          "duration": 136
         }
       },
       {
