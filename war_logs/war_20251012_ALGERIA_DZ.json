@@ -15,15 +15,25 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Uwe8sJr6b6dIEiWFEd9k-ODCbVwotrNdkfZKeEOHr4M.png"
     },
     "clanLevel": 10,
-    "attacks": 24,
-    "stars": 53,
-    "destructionPercentage": 80.6,
+    "attacks": 25,
+    "stars": 54,
+    "destructionPercentage": 83.64,
     "members": [
       {
         "tag": "#8880L0C",
         "name": "Thomas Cat",
         "townhallLevel": 17,
         "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#8880L0C",
+            "defenderTag": "#QQ992Q9VC",
+            "stars": 1,
+            "destructionPercentage": 76,
+            "order": 40,
+            "duration": 103
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#QQ992Q9VC",
@@ -226,7 +236,15 @@
         "name": "gun",
         "townhallLevel": 16,
         "mapPosition": 15,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#8PU0Q0L2J",
+          "defenderTag": "#2CQLC28UP",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 41,
+          "duration": 131
+        }
       },
       {
         "tag": "#YG8JU9QC2",
@@ -501,9 +519,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/oGpbBtFwN8nNqrZqASmRnPbCEXl964wor9GMZmwkXdE.png"
     },
     "clanLevel": 17,
-    "attacks": 15,
-    "stars": 28,
-    "destructionPercentage": 38.84,
+    "attacks": 16,
+    "stars": 31,
+    "destructionPercentage": 42.84,
     "members": [
       {
         "tag": "#YQJ0LPUJY",
@@ -576,7 +594,15 @@
             "duration": 167
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#8880L0C",
+          "defenderTag": "#QQ992Q9VC",
+          "stars": 1,
+          "destructionPercentage": 76,
+          "order": 40,
+          "duration": 103
+        }
       },
       {
         "tag": "#QQQ9GULQC",
@@ -698,6 +724,16 @@
         "name": "M7D_BBA",
         "townhallLevel": 15,
         "mapPosition": 19,
+        "attacks": [
+          {
+            "attackerTag": "#8PU0Q0L2J",
+            "defenderTag": "#2CQLC28UP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 41,
+            "duration": 131
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#G2Q8298Q2",
