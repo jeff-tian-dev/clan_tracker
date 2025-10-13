@@ -3114,7 +3114,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/uVd_Jb5zdmLi_6Sgcyzzz6mQAlBXlUlDPxh51sVmSbU.png"
         }
       },
-      "attackCount": 2,
+      "attackCount": 6,
       "districtCount": 9,
       "districtsDestroyed": 1,
       "districts": [
@@ -3203,19 +3203,55 @@
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 82,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 9715,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YUQRGP8",
+                "name": "desch90"
+              },
+              "destructionPercent": 82,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#JC9GPG9G",
+                "name": "Hubi"
+              },
+              "destructionPercent": 45,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 84,
+          "stars": 1,
+          "attackCount": 2,
+          "totalLooted": 9720,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YUQRGP8",
+                "name": "desch90"
+              },
+              "destructionPercent": 84,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#YUQRGP8",
+                "name": "desch90"
+              },
+              "destructionPercent": 42,
+              "stars": 0
+            }
+          ]
         }
       ]
     }
