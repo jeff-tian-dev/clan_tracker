@@ -2,9 +2,9 @@
   "state": "ongoing",
   "startTime": "20251010T070000.000Z",
   "endTime": "20251013T070000.000Z",
-  "capitalTotalLoot": 488062,
+  "capitalTotalLoot": 488812,
   "raidsCompleted": 6,
-  "totalAttacks": 128,
+  "totalAttacks": 129,
   "enemyDistrictsDestroyed": 43,
   "offensiveReward": 0,
   "defensiveReward": 0,
@@ -200,6 +200,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 26173
+    },
+    {
+      "tag": "#LGGLYVUPP",
+      "name": "siwi2isuus2",
+      "attacks": 1,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 750
     }
   ],
   "attackLog": [
@@ -1550,7 +1558,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/w8L-kqQY1JBkfhVp3EmOLGh-rzIz7O1vJJm6Y1izzFo.png"
         }
       },
-      "attackCount": 19,
+      "attackCount": 20,
       "districtCount": 9,
       "districtsDestroyed": 7,
       "districts": [
@@ -1774,9 +1782,17 @@
           "districtHallLevel": 4,
           "destructionPercent": 100,
           "stars": 3,
-          "attackCount": 3,
-          "totalLooted": 11251,
+          "attackCount": 4,
+          "totalLooted": 12001,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#LGGLYVUPP",
+                "name": "siwi2isuus2"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#GY8QV92G2",
