@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251010T070000.000Z",
   "endTime": "20251013T070000.000Z",
-  "capitalTotalLoot": 524633,
+  "capitalTotalLoot": 586963,
   "raidsCompleted": 8,
-  "totalAttacks": 137,
-  "enemyDistrictsDestroyed": 47,
+  "totalAttacks": 152,
+  "enemyDistrictsDestroyed": 53,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -56,6 +56,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 25078
+    },
+    {
+      "tag": "#8VQYULVQQ",
+      "name": "Sir Chestnut\u2122\ufe0f",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 29232
     },
     {
       "tag": "#PL09LLPUY",
@@ -132,10 +140,10 @@
     {
       "tag": "#J88YJGY9",
       "name": "King Killer",
-      "attacks": 3,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 16362
+      "capitalResourcesLooted": 28287
     },
     {
       "tag": "#QYCLC0JLL",
@@ -144,6 +152,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 15639
+    },
+    {
+      "tag": "#2290J0JU9",
+      "name": "my name is juan",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 21173
     },
     {
       "tag": "#QRP2RLV02",
@@ -1874,9 +1890,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/YtxJbIf_15xdyARGGr19DIFcMBySLW45MdKHuPs6_5o.png"
         }
       },
-      "attackCount": 4,
+      "attackCount": 19,
       "districtCount": 9,
-      "districtsDestroyed": 2,
+      "districtsDestroyed": 8,
       "districts": [
         {
           "id": 70000000,
@@ -1891,46 +1907,152 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11323,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2290J0JU9",
+                "name": "my name is juan"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2290J0JU9",
+                "name": "my name is juan"
+              },
+              "destructionPercent": 80,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#2290J0JU9",
+                "name": "my name is juan"
+              },
+              "destructionPercent": 37,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9224,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#8VQYULVQQ",
+                "name": "Sir Chestnut\u2122\ufe0f"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#8VQYULVQQ",
+                "name": "Sir Chestnut\u2122\ufe0f"
+              },
+              "destructionPercent": 48,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10015,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#8VQYULVQQ",
+                "name": "Sir Chestnut\u2122\ufe0f"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#8VQYULVQQ",
+                "name": "Sir Chestnut\u2122\ufe0f"
+              },
+              "destructionPercent": 47,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10193,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#8VQYULVQQ",
+                "name": "Sir Chestnut\u2122\ufe0f"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#J88YJGY9",
+                "name": "King Killer"
+              },
+              "destructionPercent": 47,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 9850,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2290J0JU9",
+                "name": "my name is juan"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2290J0JU9",
+                "name": "my name is juan"
+              },
+              "destructionPercent": 77,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#2290J0JU9",
+                "name": "my name is juan"
+              },
+              "destructionPercent": 44,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000006,
@@ -1963,10 +2085,36 @@
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11725,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#8VQYULVQQ",
+                "name": "Sir Chestnut\u2122\ufe0f"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#J88YJGY9",
+                "name": "King Killer"
+              },
+              "destructionPercent": 79,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#J88YJGY9",
+                "name": "King Killer"
+              },
+              "destructionPercent": 36,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000008,
