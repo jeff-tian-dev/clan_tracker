@@ -3,7 +3,7 @@
   "startTime": "20251010T070000.000Z",
   "endTime": "20251013T070000.000Z",
   "capitalTotalLoot": 524633,
-  "raidsCompleted": 7,
+  "raidsCompleted": 8,
   "totalAttacks": 137,
   "enemyDistrictsDestroyed": 47,
   "offensiveReward": 0,
@@ -2650,18 +2650,52 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/4vy-rlrID8BD_fZxQJPPgcKlV4unpCWc1GpMj8YSXaQ.png"
         }
       },
-      "attackCount": 14,
+      "attackCount": 25,
       "districtCount": 9,
-      "districtsDestroyed": 4,
+      "districtsDestroyed": 9,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 13745,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#8UC9RUPGQ",
+                "name": "VN*LV+ \u0110\u1ee9c H\u00f9ng"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#8UC9RUPGQ",
+                "name": "VN*LV+ \u0110\u1ee9c H\u00f9ng"
+              },
+              "destructionPercent": 80,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#8UC9RUPGQ",
+                "name": "VN*LV+ \u0110\u1ee9c H\u00f9ng"
+              },
+              "destructionPercent": 63,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#8UC9RUPGQ",
+                "name": "VN*LV+ \u0110\u1ee9c H\u00f9ng"
+              },
+              "destructionPercent": 46,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
@@ -2729,20 +2763,54 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11781,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#P02Q9P9C2",
+                "name": "DarkWolf"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#P02Q9P9C2",
+                "name": "DarkWolf"
+              },
+              "destructionPercent": 83,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#P02Q9P9C2",
+                "name": "DarkWolf"
+              },
+              "destructionPercent": 34,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 98,
-          "stars": 2,
-          "attackCount": 3,
-          "totalLooted": 11305,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 12323,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#8UC9RUPGQ",
+                "name": "VN*LV+ \u0110\u1ee9c H\u00f9ng"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#29P99982C",
@@ -2773,10 +2841,28 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11303,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#P02Q9P9C2",
+                "name": "DarkWolf"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#P02Q9P9C2",
+                "name": "DarkWolf"
+              },
+              "destructionPercent": 58,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000006,
@@ -2809,11 +2895,19 @@
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 97,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 11220,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 12164,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#P02Q9P9C2",
+                "name": "DarkWolf"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#CRL9UJV9",
