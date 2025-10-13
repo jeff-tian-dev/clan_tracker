@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251010T070000.000Z",
   "endTime": "20251013T070000.000Z",
-  "capitalTotalLoot": 519368,
+  "capitalTotalLoot": 524633,
   "raidsCompleted": 7,
-  "totalAttacks": 136,
-  "enemyDistrictsDestroyed": 46,
+  "totalAttacks": 137,
+  "enemyDistrictsDestroyed": 47,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -132,10 +132,10 @@
     {
       "tag": "#J88YJGY9",
       "name": "King Killer",
-      "attacks": 2,
+      "attacks": 3,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 11097
+      "capitalResourcesLooted": 16362
     },
     {
       "tag": "#QYCLC0JLL",
@@ -1874,9 +1874,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/YtxJbIf_15xdyARGGr19DIFcMBySLW45MdKHuPs6_5o.png"
         }
       },
-      "attackCount": 3,
+      "attackCount": 4,
       "districtCount": 9,
-      "districtsDestroyed": 1,
+      "districtsDestroyed": 2,
       "districts": [
         {
           "id": 70000000,
@@ -1972,11 +1972,19 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 50,
-          "stars": 1,
-          "attackCount": 1,
-          "totalLooted": 5305,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10570,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#J88YJGY9",
+                "name": "King Killer"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#J88YJGY9",
