@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Uwe8sJr6b6dIEiWFEd9k-ODCbVwotrNdkfZKeEOHr4M.png"
     },
     "clanLevel": 10,
-    "attacks": 31,
-    "stars": 67,
-    "destructionPercentage": 93.44,
+    "attacks": 33,
+    "stars": 69,
+    "destructionPercentage": 93.88,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -335,6 +335,24 @@
         "name": "gun",
         "townhallLevel": 16,
         "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#2CQLC28UP",
+            "defenderTag": "#Y9L9PJ9UR",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 60,
+            "duration": 151
+          },
+          {
+            "attackerTag": "#2CQLC28UP",
+            "defenderTag": "#LJ90CVGLV",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 61,
+            "duration": 129
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#PLU0QU0C",
@@ -602,14 +620,14 @@
         "name": "siwi2isuus2",
         "townhallLevel": 15,
         "mapPosition": 18,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#LL8JJCP9L",
+          "attackerTag": "#QL0080JU",
           "defenderTag": "#LGGLYVUPP",
-          "stars": 1,
-          "destructionPercentage": 55,
-          "order": 55,
-          "duration": 91
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 59,
+          "duration": 125
         }
       },
       {
@@ -671,9 +689,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/SNTrPSGXxu4r-3qqoVOrzjCrsA82-Kj1TobY1BYXLZ8.png"
     },
     "clanLevel": 22,
-    "attacks": 27,
-    "stars": 53,
-    "destructionPercentage": 75.0,
+    "attacks": 28,
+    "stars": 55,
+    "destructionPercentage": 76.8,
     "members": [
       {
         "tag": "#LRJ08VC8",
@@ -728,6 +746,16 @@
         "name": "cody",
         "townhallLevel": 16,
         "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#QL0080JU",
+            "defenderTag": "#LGGLYVUPP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 59,
+            "duration": 125
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#GLU9LC2LG",
@@ -809,14 +837,14 @@
         "name": "LeJon",
         "townhallLevel": 16,
         "mapPosition": 10,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#GYGC88RGG",
+          "attackerTag": "#2CQLC28UP",
           "defenderTag": "#Y9L9PJ9UR",
-          "stars": 2,
-          "destructionPercentage": 93,
-          "order": 39,
-          "duration": 180
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 60,
+          "duration": 151
         }
       },
       {
@@ -1195,14 +1223,14 @@
         "name": "Shadowknight69",
         "townhallLevel": 15,
         "mapPosition": 14,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#PRGGL2J2V",
+          "attackerTag": "#2CQLC28UP",
           "defenderTag": "#LJ90CVGLV",
-          "stars": 2,
-          "destructionPercentage": 96,
-          "order": 14,
-          "duration": 156
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 61,
+          "duration": 129
         }
       },
       {
