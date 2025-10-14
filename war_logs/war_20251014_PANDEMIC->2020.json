@@ -15,7 +15,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Uwe8sJr6b6dIEiWFEd9k-ODCbVwotrNdkfZKeEOHr4M.png"
     },
     "clanLevel": 10,
-    "attacks": 40,
+    "attacks": 41,
     "stars": 75,
     "destructionPercentage": 100.0,
     "members": [
@@ -680,6 +680,14 @@
             "destructionPercentage": 100,
             "order": 72,
             "duration": 140
+          },
+          {
+            "attackerTag": "#LGGLYVUPP",
+            "defenderTag": "#GPGLVYRU2",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 73,
+            "duration": 155
           }
         ],
         "opponentAttacks": 2,
@@ -1056,7 +1064,7 @@
         "name": "Aldi",
         "townhallLevel": 11,
         "mapPosition": 24,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#GGYGQ8098",
           "defenderTag": "#GPGLVYRU2",
