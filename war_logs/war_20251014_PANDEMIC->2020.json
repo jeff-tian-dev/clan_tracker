@@ -15,7 +15,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Uwe8sJr6b6dIEiWFEd9k-ODCbVwotrNdkfZKeEOHr4M.png"
     },
     "clanLevel": 10,
-    "attacks": 21,
+    "attacks": 22,
     "stars": 49,
     "destructionPercentage": 70.6,
     "members": [
@@ -39,6 +39,14 @@
             "destructionPercentage": 100,
             "order": 16,
             "duration": 126
+          },
+          {
+            "attackerTag": "#8880L0C",
+            "defenderTag": "#PLU0QU0C",
+            "stars": 2,
+            "destructionPercentage": 92,
+            "order": 29,
+            "duration": 177
           }
         ],
         "opponentAttacks": 0
@@ -112,7 +120,15 @@
             "duration": 152
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LRJ08VC8",
+          "defenderTag": "#8VQYULVQQ",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 26,
+          "duration": 115
+        }
       },
       {
         "tag": "#PL09LLPUY",
@@ -137,7 +153,15 @@
             "duration": 161
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LCJLRPGP8",
+          "defenderTag": "#PL09LLPUY",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 27,
+          "duration": 139
+        }
       },
       {
         "tag": "#Q2QQL2YVV",
@@ -193,7 +217,15 @@
         "name": "gun",
         "townhallLevel": 16,
         "mapPosition": 10,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PLU0QU0C",
+          "defenderTag": "#2CQLC28UP",
+          "stars": 2,
+          "destructionPercentage": 60,
+          "order": 30,
+          "duration": 124
+        }
       },
       {
         "tag": "#YQ8L9JVJ2",
@@ -235,7 +267,15 @@
             "duration": 156
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PLU0QU0C",
+          "defenderTag": "#LYJJ9PLV9",
+          "stars": 2,
+          "destructionPercentage": 60,
+          "order": 28,
+          "duration": 101
+        }
       },
       {
         "tag": "#J88YJGY9",
@@ -400,14 +440,14 @@
             "duration": 156
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#LRJ08VC8",
+          "attackerTag": "#LCJLRPGP8",
           "defenderTag": "#PRGGL2J2V",
-          "stars": 1,
-          "destructionPercentage": 76,
-          "order": 24,
-          "duration": 74
+          "stars": 2,
+          "destructionPercentage": 77,
+          "order": 25,
+          "duration": 105
         }
       }
     ]
@@ -421,9 +461,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/SNTrPSGXxu4r-3qqoVOrzjCrsA82-Kj1TobY1BYXLZ8.png"
     },
     "clanLevel": 22,
-    "attacks": 3,
-    "stars": 5,
-    "destructionPercentage": 8.96,
+    "attacks": 8,
+    "stars": 16,
+    "destructionPercentage": 21.8,
     "members": [
       {
         "tag": "#LRJ08VC8",
@@ -438,6 +478,14 @@
             "destructionPercentage": 76,
             "order": 24,
             "duration": 74
+          },
+          {
+            "attackerTag": "#LRJ08VC8",
+            "defenderTag": "#8VQYULVQQ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 26,
+            "duration": 115
           }
         ],
         "opponentAttacks": 1,
@@ -500,6 +548,24 @@
         "name": "808kidoszharie",
         "townhallLevel": 17,
         "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#LCJLRPGP8",
+            "defenderTag": "#PRGGL2J2V",
+            "stars": 2,
+            "destructionPercentage": 77,
+            "order": 25,
+            "duration": 105
+          },
+          {
+            "attackerTag": "#LCJLRPGP8",
+            "defenderTag": "#PL09LLPUY",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 27,
+            "duration": 139
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#8VQYULVQQ",
@@ -656,7 +722,25 @@
         "name": "E.L.I",
         "townhallLevel": 16,
         "mapPosition": 7,
-        "opponentAttacks": 1,
+        "attacks": [
+          {
+            "attackerTag": "#PLU0QU0C",
+            "defenderTag": "#LYJJ9PLV9",
+            "stars": 2,
+            "destructionPercentage": 60,
+            "order": 28,
+            "duration": 101
+          },
+          {
+            "attackerTag": "#PLU0QU0C",
+            "defenderTag": "#2CQLC28UP",
+            "stars": 2,
+            "destructionPercentage": 60,
+            "order": 30,
+            "duration": 124
+          }
+        ],
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#PL09LLPUY",
           "defenderTag": "#PLU0QU0C",
