@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Uwe8sJr6b6dIEiWFEd9k-ODCbVwotrNdkfZKeEOHr4M.png"
     },
     "clanLevel": 10,
-    "attacks": 29,
-    "stars": 63,
-    "destructionPercentage": 86.88,
+    "attacks": 31,
+    "stars": 67,
+    "destructionPercentage": 93.44,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -480,6 +480,24 @@
         "name": "taz",
         "townhallLevel": 17,
         "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#2R2JYRRU",
+            "defenderTag": "#LYCJQYLC0",
+            "stars": 2,
+            "destructionPercentage": 68,
+            "order": 52,
+            "duration": 85
+          },
+          {
+            "attackerTag": "#2R2JYRRU",
+            "defenderTag": "#LUV8CVYG0",
+            "stars": 2,
+            "destructionPercentage": 96,
+            "order": 53,
+            "duration": 134
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -505,14 +523,14 @@
             "duration": 89
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#G20G9RLRR",
+          "attackerTag": "#LYCJQYLC0",
           "defenderTag": "#GGYGQ8098",
-          "stars": 1,
-          "destructionPercentage": 37,
-          "order": 32,
-          "duration": 59
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 54,
+          "duration": 87
         }
       },
       {
@@ -629,9 +647,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/SNTrPSGXxu4r-3qqoVOrzjCrsA82-Kj1TobY1BYXLZ8.png"
     },
     "clanLevel": 22,
-    "attacks": 22,
-    "stars": 46,
-    "destructionPercentage": 65.2,
+    "attacks": 23,
+    "stars": 48,
+    "destructionPercentage": 67.72,
     "members": [
       {
         "tag": "#LRJ08VC8",
@@ -910,7 +928,25 @@
         "name": "TheGoodestBoi32",
         "townhallLevel": 15,
         "mapPosition": 15,
-        "opponentAttacks": 0
+        "attacks": [
+          {
+            "attackerTag": "#LYCJQYLC0",
+            "defenderTag": "#GGYGQ8098",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 54,
+            "duration": 87
+          }
+        ],
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2R2JYRRU",
+          "defenderTag": "#LYCJQYLC0",
+          "stars": 2,
+          "destructionPercentage": 68,
+          "order": 52,
+          "duration": 85
+        }
       },
       {
         "tag": "#28LCQVYR",
@@ -1134,7 +1170,15 @@
         "name": "Ka\u00ec",
         "townhallLevel": 16,
         "mapPosition": 16,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2R2JYRRU",
+          "defenderTag": "#LUV8CVYG0",
+          "stars": 2,
+          "destructionPercentage": 96,
+          "order": 53,
+          "duration": 134
+        }
       },
       {
         "tag": "#828VQYQJJ",
