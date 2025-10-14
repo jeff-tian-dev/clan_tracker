@@ -389,7 +389,15 @@
         "name": "Sir Hazelnut\u2122\ufe0f",
         "townhallLevel": 15,
         "mapPosition": 14,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2V80982Y",
+          "defenderTag": "#YJ2UV2GY",
+          "stars": 2,
+          "destructionPercentage": 69,
+          "order": 47,
+          "duration": 170
+        }
       },
       {
         "tag": "#QRP2RLV02",
@@ -517,14 +525,14 @@
             "duration": 107
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#2V80QQCLQ",
+          "attackerTag": "#2V80982Y",
           "defenderTag": "#G9CC9G2VQ",
-          "stars": 1,
-          "destructionPercentage": 92,
-          "order": 43,
-          "duration": 111
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 48,
+          "duration": 141
         }
       },
       {
@@ -593,9 +601,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/SNTrPSGXxu4r-3qqoVOrzjCrsA82-Kj1TobY1BYXLZ8.png"
     },
     "clanLevel": 22,
-    "attacks": 20,
-    "stars": 42,
-    "destructionPercentage": 62.12,
+    "attacks": 22,
+    "stars": 46,
+    "destructionPercentage": 65.2,
     "members": [
       {
         "tag": "#LRJ08VC8",
@@ -921,6 +929,24 @@
         "name": "dharkdrex22",
         "townhallLevel": 16,
         "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#2V80982Y",
+            "defenderTag": "#YJ2UV2GY",
+            "stars": 2,
+            "destructionPercentage": 69,
+            "order": 47,
+            "duration": 170
+          },
+          {
+            "attackerTag": "#2V80982Y",
+            "defenderTag": "#G9CC9G2VQ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 48,
+            "duration": 141
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#GLU9LC2LG",
