@@ -57,7 +57,15 @@
             "duration": 177
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LGJ8RGVRY",
+          "defenderTag": "#8880L0C",
+          "stars": 2,
+          "destructionPercentage": 73,
+          "order": 64,
+          "duration": 81
+        }
       },
       {
         "tag": "#QYL88U9P0",
@@ -148,7 +156,7 @@
             "duration": 151
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#LUV8CVYG0",
           "defenderTag": "#GLU9LC2LG",
@@ -436,14 +444,14 @@
             "duration": 168
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#LUV8CVYG0",
+          "attackerTag": "#8P9CU28UJ",
           "defenderTag": "#J88YJGY9",
           "stars": 2,
-          "destructionPercentage": 66,
-          "order": 58,
-          "duration": 94
+          "destructionPercentage": 71,
+          "order": 66,
+          "duration": 180
         }
       },
       {
@@ -542,7 +550,15 @@
             "duration": 134
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LGJ8RGVRY",
+          "defenderTag": "#2R2JYRRU",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 63,
+          "duration": 148
+        }
       },
       {
         "tag": "#GGYGQ8098",
@@ -699,9 +715,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/SNTrPSGXxu4r-3qqoVOrzjCrsA82-Kj1TobY1BYXLZ8.png"
     },
     "clanLevel": 22,
-    "attacks": 28,
-    "stars": 55,
-    "destructionPercentage": 76.8,
+    "attacks": 32,
+    "stars": 60,
+    "destructionPercentage": 83.92,
     "members": [
       {
         "tag": "#LRJ08VC8",
@@ -741,6 +757,24 @@
         "name": "Naya",
         "townhallLevel": 17,
         "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#LGJ8RGVRY",
+            "defenderTag": "#2R2JYRRU",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 63,
+            "duration": 148
+          },
+          {
+            "attackerTag": "#LGJ8RGVRY",
+            "defenderTag": "#8880L0C",
+            "stars": 2,
+            "destructionPercentage": 73,
+            "order": 64,
+            "duration": 81
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#G28CVVRJL",
@@ -895,6 +929,24 @@
         "name": "Leading Dynasty",
         "townhallLevel": 15,
         "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#8P9CU28UJ",
+            "defenderTag": "#GLU9LC2LG",
+            "stars": 1,
+            "destructionPercentage": 35,
+            "order": 65,
+            "duration": 145
+          },
+          {
+            "attackerTag": "#8P9CU28UJ",
+            "defenderTag": "#J88YJGY9",
+            "stars": 2,
+            "destructionPercentage": 71,
+            "order": 66,
+            "duration": 180
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#LYJJ9PLV9",
