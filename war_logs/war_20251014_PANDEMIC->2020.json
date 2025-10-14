@@ -148,7 +148,15 @@
             "duration": 151
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LUV8CVYG0",
+          "defenderTag": "#GLU9LC2LG",
+          "stars": 2,
+          "destructionPercentage": 61,
+          "order": 56,
+          "duration": 81
+        }
       },
       {
         "tag": "#GYGC88RGG",
@@ -400,7 +408,15 @@
         "name": "King Killer",
         "townhallLevel": 15,
         "mapPosition": 15,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LUV8CVYG0",
+          "defenderTag": "#J88YJGY9",
+          "stars": 2,
+          "destructionPercentage": 66,
+          "order": 58,
+          "duration": 94
+        }
       },
       {
         "tag": "#YJ2UV2GY",
@@ -432,7 +448,7 @@
             "duration": 133
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#LGULRJG2C",
           "defenderTag": "#QRP2RLV02",
@@ -586,7 +602,15 @@
         "name": "siwi2isuus2",
         "townhallLevel": 15,
         "mapPosition": 18,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LL8JJCP9L",
+          "defenderTag": "#LGGLYVUPP",
+          "stars": 1,
+          "destructionPercentage": 55,
+          "order": 55,
+          "duration": 91
+        }
       },
       {
         "tag": "#Y2PVPPU8C",
@@ -647,9 +671,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/SNTrPSGXxu4r-3qqoVOrzjCrsA82-Kj1TobY1BYXLZ8.png"
     },
     "clanLevel": 22,
-    "attacks": 23,
-    "stars": 48,
-    "destructionPercentage": 67.72,
+    "attacks": 27,
+    "stars": 53,
+    "destructionPercentage": 75.0,
     "members": [
       {
         "tag": "#LRJ08VC8",
@@ -727,6 +751,14 @@
             "destructionPercentage": 100,
             "order": 44,
             "duration": 105
+          },
+          {
+            "attackerTag": "#LL8JJCP9L",
+            "defenderTag": "#LGGLYVUPP",
+            "stars": 1,
+            "destructionPercentage": 55,
+            "order": 55,
+            "duration": 91
           }
         ],
         "opponentAttacks": 1,
@@ -936,6 +968,14 @@
             "destructionPercentage": 100,
             "order": 54,
             "duration": 87
+          },
+          {
+            "attackerTag": "#LYCJQYLC0",
+            "defenderTag": "#QRP2RLV02",
+            "stars": 2,
+            "destructionPercentage": 71,
+            "order": 57,
+            "duration": 94
           }
         ],
         "opponentAttacks": 1,
@@ -1170,6 +1210,24 @@
         "name": "Ka\u00ec",
         "townhallLevel": 16,
         "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#LUV8CVYG0",
+            "defenderTag": "#GLU9LC2LG",
+            "stars": 2,
+            "destructionPercentage": 61,
+            "order": 56,
+            "duration": 81
+          },
+          {
+            "attackerTag": "#LUV8CVYG0",
+            "defenderTag": "#J88YJGY9",
+            "stars": 2,
+            "destructionPercentage": 66,
+            "order": 58,
+            "duration": 94
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#2R2JYRRU",
