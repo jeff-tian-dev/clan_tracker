@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Uwe8sJr6b6dIEiWFEd9k-ODCbVwotrNdkfZKeEOHr4M.png"
     },
     "clanLevel": 10,
-    "attacks": 33,
-    "stars": 69,
-    "destructionPercentage": 93.88,
+    "attacks": 34,
+    "stars": 70,
+    "destructionPercentage": 94.04,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -426,6 +426,16 @@
         "name": "King Killer",
         "townhallLevel": 15,
         "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#J88YJGY9",
+            "defenderTag": "#LUV8CVYG0",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 62,
+            "duration": 168
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#LUV8CVYG0",
@@ -1256,14 +1266,14 @@
             "duration": 94
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#2R2JYRRU",
+          "attackerTag": "#J88YJGY9",
           "defenderTag": "#LUV8CVYG0",
-          "stars": 2,
-          "destructionPercentage": 96,
-          "order": 53,
-          "duration": 134
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 62,
+          "duration": 168
         }
       },
       {
