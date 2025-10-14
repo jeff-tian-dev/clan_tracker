@@ -24,7 +24,15 @@
         "name": "Badboy101",
         "townhallLevel": 13,
         "mapPosition": 22,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LGULRJG2C",
+          "defenderTag": "#RUVPQQR0",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 46,
+          "duration": 151
+        }
       },
       {
         "tag": "#8880L0C",
@@ -585,9 +593,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/SNTrPSGXxu4r-3qqoVOrzjCrsA82-Kj1TobY1BYXLZ8.png"
     },
     "clanLevel": 22,
-    "attacks": 19,
-    "stars": 39,
-    "destructionPercentage": 58.12,
+    "attacks": 20,
+    "stars": 42,
+    "destructionPercentage": 62.12,
     "members": [
       {
         "tag": "#LRJ08VC8",
@@ -841,6 +849,14 @@
             "destructionPercentage": 75,
             "order": 45,
             "duration": 177
+          },
+          {
+            "attackerTag": "#LGULRJG2C",
+            "defenderTag": "#RUVPQQR0",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 46,
+            "duration": 151
           }
         ],
         "opponentAttacks": 1,
