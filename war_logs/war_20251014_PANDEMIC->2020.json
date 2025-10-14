@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Uwe8sJr6b6dIEiWFEd9k-ODCbVwotrNdkfZKeEOHr4M.png"
     },
     "clanLevel": 10,
-    "attacks": 13,
-    "stars": 32,
-    "destructionPercentage": 48.72,
+    "attacks": 18,
+    "stars": 43,
+    "destructionPercentage": 61.96,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -31,6 +31,16 @@
         "name": "Thomas Cat",
         "townhallLevel": 17,
         "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#8880L0C",
+            "defenderTag": "#Q2P8YGPUQ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 16,
+            "duration": 126
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -141,6 +151,16 @@
         "name": "\u24c2\ufe0fBIG COCHY3\u24c2\ufe0f",
         "townhallLevel": 15,
         "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#9U2YP0RY",
+            "defenderTag": "#GP0YG0YGR",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 17,
+            "duration": 80
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -187,6 +207,16 @@
         "name": "Phantom",
         "townhallLevel": 16,
         "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#LYJJ9PLV9",
+            "defenderTag": "#8P9CU28UJ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 15,
+            "duration": 156
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -279,6 +309,16 @@
         "name": "Grizz",
         "townhallLevel": 14,
         "mapPosition": 20,
+        "attacks": [
+          {
+            "attackerTag": "#G9CC9G2VQ",
+            "defenderTag": "#P92CCCV9C",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 18,
+            "duration": 120
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -308,6 +348,14 @@
             "destructionPercentage": 78,
             "order": 13,
             "duration": 96
+          },
+          {
+            "attackerTag": "#PRGGL2J2V",
+            "defenderTag": "#LJ90CVGLV",
+            "stars": 2,
+            "destructionPercentage": 96,
+            "order": 14,
+            "duration": 156
           }
         ],
         "opponentAttacks": 0
@@ -414,14 +462,14 @@
         "name": "liana",
         "townhallLevel": 17,
         "mapPosition": 6,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#8VQYULVQQ",
+          "attackerTag": "#8880L0C",
           "defenderTag": "#Q2P8YGPUQ",
-          "stars": 1,
-          "destructionPercentage": 87,
-          "order": 6,
-          "duration": 152
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 16,
+          "duration": 126
         }
       },
       {
@@ -429,28 +477,44 @@
         "name": "Leading Dynasty",
         "townhallLevel": 15,
         "mapPosition": 12,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LYJJ9PLV9",
+          "defenderTag": "#8P9CU28UJ",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 15,
+          "duration": 156
+        }
       },
       {
         "tag": "#P92CCCV9C",
         "name": "PREDATOR",
         "townhallLevel": 14,
         "mapPosition": 21,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#G9CC9G2VQ",
+          "defenderTag": "#P92CCCV9C",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 18,
+          "duration": 120
+        }
       },
       {
         "tag": "#GP0YG0YGR",
         "name": "indianachaser",
         "townhallLevel": 15,
         "mapPosition": 13,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#PRGGL2J2V",
+          "attackerTag": "#9U2YP0RY",
           "defenderTag": "#GP0YG0YGR",
-          "stars": 2,
-          "destructionPercentage": 78,
-          "order": 13,
-          "duration": 96
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 17,
+          "duration": 80
         }
       },
       {
@@ -567,7 +631,15 @@
         "name": "Shadowknight69",
         "townhallLevel": 15,
         "mapPosition": 14,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PRGGL2J2V",
+          "defenderTag": "#LJ90CVGLV",
+          "stars": 2,
+          "destructionPercentage": 96,
+          "order": 14,
+          "duration": 156
+        }
       },
       {
         "tag": "#LUV8CVYG0",
