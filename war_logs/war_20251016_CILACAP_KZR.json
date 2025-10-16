@@ -15,7 +15,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/MemvfcNsCKAIJd01S-vNV8_nVwYBGkQOTRp3HgJs0QU.png"
     },
     "clanLevel": 11,
-    "attacks": 45,
+    "attacks": 46,
     "stars": 75,
     "destructionPercentage": 100.0,
     "members": [
@@ -394,6 +394,16 @@
         "name": "Umer Jawaid",
         "townhallLevel": 15,
         "mapPosition": 21,
+        "attacks": [
+          {
+            "attackerTag": "#YG8JU9QC2",
+            "defenderTag": "#2YQ289UG",
+            "stars": 1,
+            "destructionPercentage": 26,
+            "order": 80,
+            "duration": 54
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -617,7 +627,7 @@
             "duration": 164
           }
         ],
-        "opponentAttacks": 6,
+        "opponentAttacks": 7,
         "bestOpponentAttack": {
           "attackerTag": "#9VQJQPQCJ",
           "defenderTag": "#G28CVVRJL",
@@ -716,7 +726,7 @@
             "duration": 121
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#GJ0Y0LVG2",
           "defenderTag": "#G9CC9G2VQ",
@@ -803,7 +813,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/O6Ej5w739RGuO1jk7NgPvHD95dJqAscJOm-kbVo3FaU.png"
     },
     "clanLevel": 19,
-    "attacks": 33,
+    "attacks": 35,
     "stars": 69,
     "destructionPercentage": 93.0,
     "members": [
@@ -845,6 +855,16 @@
         "name": "Tabibito",
         "townhallLevel": 14,
         "mapPosition": 23,
+        "attacks": [
+          {
+            "attackerTag": "#Q2GP8QUU2",
+            "defenderTag": "#G9CC9G2VQ",
+            "stars": 0,
+            "destructionPercentage": 0,
+            "order": 81,
+            "duration": 180
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#Q2QQL2YVV",
@@ -1184,6 +1204,14 @@
             "destructionPercentage": 100,
             "order": 23,
             "duration": 162
+          },
+          {
+            "attackerTag": "#GG90PVL9U",
+            "defenderTag": "#G28CVVRJL",
+            "stars": 2,
+            "destructionPercentage": 74,
+            "order": 79,
+            "duration": 130
           }
         ],
         "opponentAttacks": 1,
@@ -1474,7 +1502,7 @@
             "duration": 158
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#YQ8L9JVJ2",
           "defenderTag": "#2YQ289UG",
