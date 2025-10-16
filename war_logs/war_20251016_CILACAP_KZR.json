@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/MemvfcNsCKAIJd01S-vNV8_nVwYBGkQOTRp3HgJs0QU.png"
     },
     "clanLevel": 11,
-    "attacks": 33,
-    "stars": 72,
-    "destructionPercentage": 98.52,
+    "attacks": 34,
+    "stars": 73,
+    "destructionPercentage": 99.28,
     "members": [
       {
         "tag": "#8880L0C",
@@ -337,6 +337,14 @@
             "destructionPercentage": 100,
             "order": 28,
             "duration": 150
+          },
+          {
+            "attackerTag": "#2CQLC28UP",
+            "defenderTag": "#LRP0GYV2",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 61,
+            "duration": 136
           }
         ],
         "opponentAttacks": 1,
@@ -777,14 +785,14 @@
         "name": "Frontline",
         "townhallLevel": 15,
         "mapPosition": 17,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#GLU9LC2LG",
+          "attackerTag": "#2CQLC28UP",
           "defenderTag": "#LRP0GYV2",
-          "stars": 2,
-          "destructionPercentage": 81,
-          "order": 24,
-          "duration": 179
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 61,
+          "duration": 136
         }
       },
       {
