@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/MemvfcNsCKAIJd01S-vNV8_nVwYBGkQOTRp3HgJs0QU.png"
     },
     "clanLevel": 11,
-    "attacks": 37,
-    "stars": 74,
-    "destructionPercentage": 99.44,
+    "attacks": 39,
+    "stars": 75,
+    "destructionPercentage": 100.0,
     "members": [
       {
         "tag": "#8880L0C",
@@ -34,14 +34,14 @@
             "duration": 114
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#2YQ289UG",
+          "attackerTag": "#8LL2YLV2V",
           "defenderTag": "#8880L0C",
-          "stars": 2,
-          "destructionPercentage": 93,
-          "order": 66,
-          "duration": 158
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 70,
+          "duration": 153
         }
       },
       {
@@ -328,6 +328,14 @@
             "destructionPercentage": 100,
             "order": 5,
             "duration": 81
+          },
+          {
+            "attackerTag": "#9U2YP0RY",
+            "defenderTag": "#QRLUU2YQQ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 71,
+            "duration": 87
           }
         ],
         "opponentAttacks": 1,
@@ -451,7 +459,15 @@
         "name": "King Killer",
         "townhallLevel": 15,
         "mapPosition": 17,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#29UUU90QR",
+          "defenderTag": "#J88YJGY9",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 69,
+          "duration": 129
+        }
       },
       {
         "tag": "#YJ2UV2GY",
@@ -671,6 +687,14 @@
             "destructionPercentage": 100,
             "order": 67,
             "duration": 146
+          },
+          {
+            "attackerTag": "#LGGLYVUPP",
+            "defenderTag": "#QRLUU2YQQ",
+            "stars": 2,
+            "destructionPercentage": 98,
+            "order": 68,
+            "duration": 180
           }
         ],
         "opponentAttacks": 1,
@@ -727,9 +751,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/O6Ej5w739RGuO1jk7NgPvHD95dJqAscJOm-kbVo3FaU.png"
     },
     "clanLevel": 19,
-    "attacks": 30,
-    "stars": 65,
-    "destructionPercentage": 88.72,
+    "attacks": 32,
+    "stars": 69,
+    "destructionPercentage": 93.0,
     "members": [
       {
         "tag": "#28JURVCUP",
@@ -918,6 +942,14 @@
             "destructionPercentage": 100,
             "order": 27,
             "duration": 131
+          },
+          {
+            "attackerTag": "#8LL2YLV2V",
+            "defenderTag": "#8880L0C",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 70,
+            "duration": 153
           }
         ],
         "opponentAttacks": 1,
@@ -1202,14 +1234,14 @@
             "duration": 131
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#GLU9LC2LG",
+          "attackerTag": "#9U2YP0RY",
           "defenderTag": "#QRLUU2YQQ",
-          "stars": 2,
-          "destructionPercentage": 86,
-          "order": 22,
-          "duration": 165
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 71,
+          "duration": 87
         }
       },
       {
@@ -1324,6 +1356,14 @@
             "destructionPercentage": 100,
             "order": 29,
             "duration": 139
+          },
+          {
+            "attackerTag": "#29UUU90QR",
+            "defenderTag": "#J88YJGY9",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 69,
+            "duration": 129
           }
         ],
         "opponentAttacks": 2,
