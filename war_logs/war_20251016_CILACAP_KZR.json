@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/MemvfcNsCKAIJd01S-vNV8_nVwYBGkQOTRp3HgJs0QU.png"
     },
     "clanLevel": 11,
-    "attacks": 29,
-    "stars": 64,
-    "destructionPercentage": 89.24,
+    "attacks": 31,
+    "stars": 66,
+    "destructionPercentage": 90.52,
     "members": [
       {
         "tag": "#8880L0C",
@@ -263,6 +263,24 @@
         "name": "jerwenzke1",
         "townhallLevel": 17,
         "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#Y80PLCRQ9",
+            "defenderTag": "#29UUU90QR",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 45,
+            "duration": 83
+          },
+          {
+            "attackerTag": "#Y80PLCRQ9",
+            "defenderTag": "#Y29YLLUJ2",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 46,
+            "duration": 100
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -457,14 +475,14 @@
             "duration": 164
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#PGJ28U2PC",
+          "attackerTag": "#28JURVCUP",
           "defenderTag": "#G28CVVRJL",
           "stars": 2,
-          "destructionPercentage": 75,
-          "order": 12,
-          "duration": 180
+          "destructionPercentage": 77,
+          "order": 47,
+          "duration": 162
         }
       },
       {
@@ -583,9 +601,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/O6Ej5w739RGuO1jk7NgPvHD95dJqAscJOm-kbVo3FaU.png"
     },
     "clanLevel": 19,
-    "attacks": 15,
+    "attacks": 16,
     "stars": 40,
-    "destructionPercentage": 54.72,
+    "destructionPercentage": 54.8,
     "members": [
       {
         "tag": "#28JURVCUP",
@@ -600,6 +618,14 @@
             "destructionPercentage": 93,
             "order": 35,
             "duration": 180
+          },
+          {
+            "attackerTag": "#28JURVCUP",
+            "defenderTag": "#G28CVVRJL",
+            "stars": 2,
+            "destructionPercentage": 77,
+            "order": 47,
+            "duration": 162
           }
         ],
         "opponentAttacks": 3,
@@ -719,14 +745,14 @@
             "duration": 138
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#PL09LLPUY",
+          "attackerTag": "#Y80PLCRQ9",
           "defenderTag": "#Y29YLLUJ2",
-          "stars": 2,
-          "destructionPercentage": 83,
-          "order": 4,
-          "duration": 180
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 46,
+          "duration": 100
         }
       },
       {
@@ -1044,14 +1070,14 @@
             "duration": 139
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#G2Q8298Q2",
+          "attackerTag": "#Y80PLCRQ9",
           "defenderTag": "#29UUU90QR",
-          "stars": 2,
-          "destructionPercentage": 85,
-          "order": 16,
-          "duration": 120
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 45,
+          "duration": 83
         }
       },
       {
