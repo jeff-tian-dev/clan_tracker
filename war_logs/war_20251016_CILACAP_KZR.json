@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/MemvfcNsCKAIJd01S-vNV8_nVwYBGkQOTRp3HgJs0QU.png"
     },
     "clanLevel": 11,
-    "attacks": 31,
-    "stars": 66,
-    "destructionPercentage": 90.52,
+    "attacks": 33,
+    "stars": 72,
+    "destructionPercentage": 98.52,
     "members": [
       {
         "tag": "#8880L0C",
@@ -314,7 +314,15 @@
             "duration": 81
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#G0YVUQGJJ",
+          "defenderTag": "#9U2YP0RY",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 55,
+          "duration": 179
+        }
       },
       {
         "tag": "#2CQLC28UP",
@@ -331,7 +339,15 @@
             "duration": 150
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PQGVGL82P",
+          "defenderTag": "#2CQLC28UP",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 57,
+          "duration": 148
+        }
       },
       {
         "tag": "#YG8JU9QC2",
@@ -433,6 +449,24 @@
         "name": "83c",
         "townhallLevel": 17,
         "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#QYCLC0JLL",
+            "defenderTag": "#G80LP2JJ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 59,
+            "duration": 71
+          },
+          {
+            "attackerTag": "#QYCLC0JLL",
+            "defenderTag": "#Q280JUL99",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 60,
+            "duration": 71
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#2YQ289UG",
@@ -491,7 +525,7 @@
             "duration": 164
           }
         ],
-        "opponentAttacks": 3,
+        "opponentAttacks": 4,
         "bestOpponentAttack": {
           "attackerTag": "#8PGCRVVCC",
           "defenderTag": "#G28CVVRJL",
@@ -572,7 +606,15 @@
             "duration": 121
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GJ0Y0LVG2",
+          "defenderTag": "#G9CC9G2VQ",
+          "stars": 1,
+          "destructionPercentage": 26,
+          "order": 56,
+          "duration": 62
+        }
       },
       {
         "tag": "#LGGLYVUPP",
@@ -633,9 +675,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/O6Ej5w739RGuO1jk7NgPvHD95dJqAscJOm-kbVo3FaU.png"
     },
     "clanLevel": 19,
-    "attacks": 23,
-    "stars": 53,
-    "destructionPercentage": 71.4,
+    "attacks": 27,
+    "stars": 60,
+    "destructionPercentage": 80.44,
     "members": [
       {
         "tag": "#28JURVCUP",
@@ -705,7 +747,15 @@
         "name": "Arthur",
         "townhallLevel": 17,
         "mapPosition": 21,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QYCLC0JLL",
+          "defenderTag": "#Q280JUL99",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 60,
+          "duration": 71
+        }
       },
       {
         "tag": "#Q289VRLRR",
@@ -833,6 +883,14 @@
             "destructionPercentage": 97,
             "order": 21,
             "duration": 161
+          },
+          {
+            "attackerTag": "#GJ0Y0LVG2",
+            "defenderTag": "#G9CC9G2VQ",
+            "stars": 1,
+            "destructionPercentage": 26,
+            "order": 56,
+            "duration": 62
           }
         ],
         "opponentAttacks": 1,
@@ -860,13 +918,31 @@
             "duration": 141
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QYCLC0JLL",
+          "defenderTag": "#G80LP2JJ",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 59,
+          "duration": 71
+        }
       },
       {
         "tag": "#G0YVUQGJJ",
         "name": "\u2022NIKANDER\u2022",
         "townhallLevel": 15,
         "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#G0YVUQGJJ",
+            "defenderTag": "#9U2YP0RY",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 55,
+            "duration": 179
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#9U2YP0RY",
@@ -1114,6 +1190,24 @@
         "name": "Demonic_Lord",
         "townhallLevel": 16,
         "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#PQGVGL82P",
+            "defenderTag": "#2CQLC28UP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 57,
+            "duration": 148
+          },
+          {
+            "attackerTag": "#PQGVGL82P",
+            "defenderTag": "#G28CVVRJL",
+            "stars": 2,
+            "destructionPercentage": 82,
+            "order": 58,
+            "duration": 144
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#2CQLC28UP",
