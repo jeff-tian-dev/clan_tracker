@@ -15,7 +15,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/MemvfcNsCKAIJd01S-vNV8_nVwYBGkQOTRp3HgJs0QU.png"
     },
     "clanLevel": 11,
-    "attacks": 47,
+    "attacks": 48,
     "stars": 75,
     "destructionPercentage": 100.0,
     "members": [
@@ -32,6 +32,14 @@
             "destructionPercentage": 100,
             "order": 38,
             "duration": 114
+          },
+          {
+            "attackerTag": "#8880L0C",
+            "defenderTag": "#PGJ28U2PC",
+            "stars": 2,
+            "destructionPercentage": 71,
+            "order": 86,
+            "duration": 90
           }
         ],
         "opponentAttacks": 2,
@@ -412,14 +420,14 @@
             "duration": 67
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#QRLUU2YQQ",
+          "attackerTag": "#PGJ28U2PC",
           "defenderTag": "#YG8JU9QC2",
-          "stars": 2,
-          "destructionPercentage": 84,
-          "order": 83,
-          "duration": 149
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 88,
+          "duration": 128
         }
       },
       {
@@ -643,7 +651,7 @@
             "duration": 164
           }
         ],
-        "opponentAttacks": 7,
+        "opponentAttacks": 8,
         "bestOpponentAttack": {
           "attackerTag": "#9VQJQPQCJ",
           "defenderTag": "#G28CVVRJL",
@@ -742,14 +750,14 @@
             "duration": 121
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 4,
         "bestOpponentAttack": {
-          "attackerTag": "#GJ0Y0LVG2",
+          "attackerTag": "#PPUC80JQ",
           "defenderTag": "#G9CC9G2VQ",
-          "stars": 1,
-          "destructionPercentage": 26,
-          "order": 56,
-          "duration": 62
+          "stars": 2,
+          "destructionPercentage": 62,
+          "order": 87,
+          "duration": 131
         }
       },
       {
@@ -829,9 +837,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/O6Ej5w739RGuO1jk7NgPvHD95dJqAscJOm-kbVo3FaU.png"
     },
     "clanLevel": 19,
-    "attacks": 36,
-    "stars": 71,
-    "destructionPercentage": 96.36,
+    "attacks": 40,
+    "stars": 73,
+    "destructionPercentage": 98.44,
     "members": [
       {
         "tag": "#28JURVCUP",
@@ -926,6 +934,24 @@
         "name": "Oke Syiip Syiip",
         "townhallLevel": 17,
         "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#Q289VRLRR",
+            "defenderTag": "#G28CVVRJL",
+            "stars": 1,
+            "destructionPercentage": 58,
+            "order": 84,
+            "duration": 84
+          },
+          {
+            "attackerTag": "#Q289VRLRR",
+            "defenderTag": "#G9CC9G2VQ",
+            "stars": 1,
+            "destructionPercentage": 87,
+            "order": 85,
+            "duration": 90
+          }
+        ],
         "opponentAttacks": 3,
         "bestOpponentAttack": {
           "attackerTag": "#G28CVVRJL",
@@ -1253,9 +1279,17 @@
             "destructionPercentage": 75,
             "order": 12,
             "duration": 180
+          },
+          {
+            "attackerTag": "#PGJ28U2PC",
+            "defenderTag": "#YG8JU9QC2",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 88,
+            "duration": 128
           }
         ],
-        "opponentAttacks": 6,
+        "opponentAttacks": 7,
         "bestOpponentAttack": {
           "attackerTag": "#G28CVVRJL",
           "defenderTag": "#PGJ28U2PC",
@@ -1311,6 +1345,14 @@
             "destructionPercentage": 53,
             "order": 48,
             "duration": 100
+          },
+          {
+            "attackerTag": "#PPUC80JQ",
+            "defenderTag": "#G9CC9G2VQ",
+            "stars": 2,
+            "destructionPercentage": 62,
+            "order": 87,
+            "duration": 131
           }
         ],
         "opponentAttacks": 3,
