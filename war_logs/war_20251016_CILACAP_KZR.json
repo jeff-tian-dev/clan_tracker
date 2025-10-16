@@ -15,7 +15,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/MemvfcNsCKAIJd01S-vNV8_nVwYBGkQOTRp3HgJs0QU.png"
     },
     "clanLevel": 11,
-    "attacks": 42,
+    "attacks": 45,
     "stars": 75,
     "destructionPercentage": 100.0,
     "members": [
@@ -500,6 +500,24 @@
         "name": "Sir Hazelnut\u2122\ufe0f",
         "townhallLevel": 15,
         "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#YJ2UV2GY",
+            "defenderTag": "#PGJ28U2PC",
+            "stars": 0,
+            "destructionPercentage": 46,
+            "order": 76,
+            "duration": 76
+          },
+          {
+            "attackerTag": "#YJ2UV2GY",
+            "defenderTag": "#Q289VRLRR",
+            "stars": 1,
+            "destructionPercentage": 4,
+            "order": 77,
+            "duration": 19
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#YVPQCYYGP",
@@ -556,6 +574,14 @@
             "destructionPercentage": 96,
             "order": 36,
             "duration": 112
+          },
+          {
+            "attackerTag": "#QRP2RLV02",
+            "defenderTag": "#PGJ28U2PC",
+            "stars": 1,
+            "destructionPercentage": 22,
+            "order": 75,
+            "duration": 26
           }
         ],
         "opponentAttacks": 1,
@@ -591,7 +617,7 @@
             "duration": 164
           }
         ],
-        "opponentAttacks": 5,
+        "opponentAttacks": 6,
         "bestOpponentAttack": {
           "attackerTag": "#9VQJQPQCJ",
           "defenderTag": "#G28CVVRJL",
@@ -777,7 +803,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/O6Ej5w739RGuO1jk7NgPvHD95dJqAscJOm-kbVo3FaU.png"
     },
     "clanLevel": 19,
-    "attacks": 32,
+    "attacks": 33,
     "stars": 69,
     "destructionPercentage": 93.0,
     "members": [
@@ -864,7 +890,7 @@
         "name": "Oke Syiip Syiip",
         "townhallLevel": 17,
         "mapPosition": 2,
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
           "attackerTag": "#G28CVVRJL",
           "defenderTag": "#Q289VRLRR",
@@ -1034,6 +1060,14 @@
             "destructionPercentage": 100,
             "order": 40,
             "duration": 141
+          },
+          {
+            "attackerTag": "#G80LP2JJ",
+            "defenderTag": "#G28CVVRJL",
+            "stars": 2,
+            "destructionPercentage": 82,
+            "order": 78,
+            "duration": 129
           }
         ],
         "opponentAttacks": 1,
@@ -1177,7 +1211,7 @@
             "duration": 180
           }
         ],
-        "opponentAttacks": 4,
+        "opponentAttacks": 6,
         "bestOpponentAttack": {
           "attackerTag": "#G28CVVRJL",
           "defenderTag": "#PGJ28U2PC",

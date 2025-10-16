@@ -6201,11 +6201,11 @@
       },
       {
         "date": "20251016",
-        "attacksUsed": 0,
-        "starsEarned": 0,
-        "destruction": 0,
-        "attacksMissed": 2,
-        "zeroParticipation": true
+        "attacksUsed": 2,
+        "starsEarned": 1,
+        "destruction": 50,
+        "attacksMissed": 0,
+        "zeroParticipation": false
       }
     ]
   },
@@ -7551,10 +7551,10 @@
       },
       {
         "date": "20251016",
-        "attacksUsed": 1,
-        "starsEarned": 2,
-        "destruction": 96,
-        "attacksMissed": 1,
+        "attacksUsed": 2,
+        "starsEarned": 3,
+        "destruction": 118,
+        "attacksMissed": 0,
         "zeroParticipation": false
       }
     ]
@@ -26827,7 +26827,7 @@
       }
     ]
   },
-  "timestamp": "2025-10-16 12:00:03",
+  "timestamp": "2025-10-16 13:00:04",
   "#GPPQ0JCJR": {
     "name": "Goujii",
     "tag": "#GPPQ0JCJR",
