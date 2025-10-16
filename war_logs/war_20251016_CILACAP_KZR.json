@@ -264,14 +264,14 @@
             "duration": 139
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#PPUC80JQ",
+          "attackerTag": "#2909PPJ8Q",
           "defenderTag": "#Q2QQL2YVV",
-          "stars": 1,
-          "destructionPercentage": 53,
-          "order": 48,
-          "duration": 100
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 54,
+          "duration": 89
         }
       },
       {
@@ -491,14 +491,14 @@
             "duration": 164
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#28JURVCUP",
+          "attackerTag": "#8PGCRVVCC",
           "defenderTag": "#G28CVVRJL",
           "stars": 2,
-          "destructionPercentage": 77,
-          "order": 47,
-          "duration": 162
+          "destructionPercentage": 85,
+          "order": 53,
+          "duration": 145
         }
       },
       {
@@ -506,7 +506,15 @@
         "name": "taz",
         "townhallLevel": 17,
         "mapPosition": 3,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#8PGCRVVCC",
+          "defenderTag": "#2R2JYRRU",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 52,
+          "duration": 143
+        }
       },
       {
         "tag": "#GGYGQ8098",
@@ -625,9 +633,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/O6Ej5w739RGuO1jk7NgPvHD95dJqAscJOm-kbVo3FaU.png"
     },
     "clanLevel": 19,
-    "attacks": 20,
-    "stars": 48,
-    "destructionPercentage": 65.2,
+    "attacks": 23,
+    "stars": 53,
+    "destructionPercentage": 71.4,
     "members": [
       {
         "tag": "#28JURVCUP",
@@ -742,6 +750,14 @@
             "destructionPercentage": 100,
             "order": 2,
             "duration": 112
+          },
+          {
+            "attackerTag": "#2909PPJ8Q",
+            "defenderTag": "#Q2QQL2YVV",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 54,
+            "duration": 89
           }
         ],
         "opponentAttacks": 1,
@@ -899,6 +915,24 @@
         "name": "peye'x",
         "townhallLevel": 17,
         "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#8PGCRVVCC",
+            "defenderTag": "#2R2JYRRU",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 52,
+            "duration": 143
+          },
+          {
+            "attackerTag": "#8PGCRVVCC",
+            "defenderTag": "#G28CVVRJL",
+            "stars": 2,
+            "destructionPercentage": 85,
+            "order": 53,
+            "duration": 145
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#Q9QU8L8YV",
