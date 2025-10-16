@@ -15,7 +15,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/MemvfcNsCKAIJd01S-vNV8_nVwYBGkQOTRp3HgJs0QU.png"
     },
     "clanLevel": 11,
-    "attacks": 39,
+    "attacks": 42,
     "stars": 75,
     "destructionPercentage": 100.0,
     "members": [
@@ -72,6 +72,14 @@
             "destructionPercentage": 92,
             "order": 37,
             "duration": 161
+          },
+          {
+            "attackerTag": "#UJP2UYRY",
+            "defenderTag": "#PGJ28U2PC",
+            "stars": 1,
+            "destructionPercentage": 52,
+            "order": 74,
+            "duration": 78
           }
         ],
         "opponentAttacks": 1,
@@ -459,6 +467,24 @@
         "name": "King Killer",
         "townhallLevel": 15,
         "mapPosition": 17,
+        "attacks": [
+          {
+            "attackerTag": "#J88YJGY9",
+            "defenderTag": "#29UUU90QR",
+            "stars": 1,
+            "destructionPercentage": 57,
+            "order": 72,
+            "duration": 97
+          },
+          {
+            "attackerTag": "#J88YJGY9",
+            "defenderTag": "#LRP0GYV2",
+            "stars": 2,
+            "destructionPercentage": 55,
+            "order": 73,
+            "duration": 112
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#29UUU90QR",
@@ -853,7 +879,7 @@
         "name": "Frontline",
         "townhallLevel": 15,
         "mapPosition": 17,
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
           "attackerTag": "#2CQLC28UP",
           "defenderTag": "#LRP0GYV2",
@@ -1151,7 +1177,7 @@
             "duration": 180
           }
         ],
-        "opponentAttacks": 3,
+        "opponentAttacks": 4,
         "bestOpponentAttack": {
           "attackerTag": "#G28CVVRJL",
           "defenderTag": "#PGJ28U2PC",
@@ -1366,7 +1392,7 @@
             "duration": 129
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
           "attackerTag": "#Y80PLCRQ9",
           "defenderTag": "#29UUU90QR",
