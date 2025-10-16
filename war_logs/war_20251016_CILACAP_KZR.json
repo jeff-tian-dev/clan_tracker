@@ -15,15 +15,25 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/MemvfcNsCKAIJd01S-vNV8_nVwYBGkQOTRp3HgJs0QU.png"
     },
     "clanLevel": 11,
-    "attacks": 24,
-    "stars": 52,
-    "destructionPercentage": 75.92,
+    "attacks": 25,
+    "stars": 55,
+    "destructionPercentage": 79.92,
     "members": [
       {
         "tag": "#8880L0C",
         "name": "Thomas Cat",
         "townhallLevel": 17,
         "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#8880L0C",
+            "defenderTag": "#8LL2YLV2V",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 38,
+            "duration": 114
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -170,7 +180,15 @@
             "duration": 152
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#9VQJQPQCJ",
+          "defenderTag": "#8VQYULVQQ",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 39,
+          "duration": 141
+        }
       },
       {
         "tag": "#PL09LLPUY",
@@ -293,7 +311,15 @@
             "duration": 164
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#G80LP2JJ",
+          "defenderTag": "#YQ8L9JVJ2",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 40,
+          "duration": 141
+        }
       },
       {
         "tag": "#G2Q8298Q2",
@@ -521,9 +547,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/O6Ej5w739RGuO1jk7NgPvHD95dJqAscJOm-kbVo3FaU.png"
     },
     "clanLevel": 19,
-    "attacks": 13,
-    "stars": 34,
-    "destructionPercentage": 46.72,
+    "attacks": 15,
+    "stars": 40,
+    "destructionPercentage": 54.72,
     "members": [
       {
         "tag": "#28JURVCUP",
@@ -682,7 +708,15 @@
             "duration": 131
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#8880L0C",
+          "defenderTag": "#8LL2YLV2V",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 38,
+          "duration": 114
+        }
       },
       {
         "tag": "#GJ0Y0LVG2",
@@ -714,6 +748,16 @@
         "name": "syafii maulana",
         "townhallLevel": 17,
         "mapPosition": 20,
+        "attacks": [
+          {
+            "attackerTag": "#G80LP2JJ",
+            "defenderTag": "#YQ8L9JVJ2",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 40,
+            "duration": 141
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -913,6 +957,16 @@
         "name": "JustZ",
         "townhallLevel": 16,
         "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#9VQJQPQCJ",
+            "defenderTag": "#8VQYULVQQ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 39,
+            "duration": 141
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#PL09LLPUY",
