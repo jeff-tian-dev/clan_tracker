@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/MemvfcNsCKAIJd01S-vNV8_nVwYBGkQOTRp3HgJs0QU.png"
     },
     "clanLevel": 11,
-    "attacks": 22,
-    "stars": 51,
-    "destructionPercentage": 74.64,
+    "attacks": 24,
+    "stars": 52,
+    "destructionPercentage": 75.92,
     "members": [
       {
         "tag": "#8880L0C",
@@ -46,6 +46,16 @@
         "name": "destroyer",
         "townhallLevel": 17,
         "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#UJP2UYRY",
+            "defenderTag": "#28JURVCUP",
+            "stars": 2,
+            "destructionPercentage": 92,
+            "order": 37,
+            "duration": 161
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#8LL2YLV2V",
@@ -360,6 +370,16 @@
         "name": "JT",
         "townhallLevel": 14,
         "mapPosition": 24,
+        "attacks": [
+          {
+            "attackerTag": "#QRP2RLV02",
+            "defenderTag": "#PPUC80JQ",
+            "stars": 2,
+            "destructionPercentage": 96,
+            "order": 36,
+            "duration": 112
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#Q2CQC9Y99",
@@ -480,7 +500,15 @@
         "name": "\u2b50\u2b505 StarFree\u2b50\u2b50\u2b50",
         "townhallLevel": 17,
         "mapPosition": 2,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#28JURVCUP",
+          "defenderTag": "#Y2PVPPU8C",
+          "stars": 2,
+          "destructionPercentage": 93,
+          "order": 35,
+          "duration": 180
+        }
       }
     ]
   },
@@ -493,23 +521,33 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/O6Ej5w739RGuO1jk7NgPvHD95dJqAscJOm-kbVo3FaU.png"
     },
     "clanLevel": 19,
-    "attacks": 12,
-    "stars": 32,
-    "destructionPercentage": 43.0,
+    "attacks": 13,
+    "stars": 34,
+    "destructionPercentage": 46.72,
     "members": [
       {
         "tag": "#28JURVCUP",
         "name": "Dafuq",
         "townhallLevel": 17,
         "mapPosition": 3,
-        "opponentAttacks": 1,
+        "attacks": [
+          {
+            "attackerTag": "#28JURVCUP",
+            "defenderTag": "#Y2PVPPU8C",
+            "stars": 2,
+            "destructionPercentage": 93,
+            "order": 35,
+            "duration": 180
+          }
+        ],
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#YQ8L9JVJ2",
+          "attackerTag": "#UJP2UYRY",
           "defenderTag": "#28JURVCUP",
-          "stars": 1,
-          "destructionPercentage": 76,
-          "order": 8,
-          "duration": 146
+          "stars": 2,
+          "destructionPercentage": 92,
+          "order": 37,
+          "duration": 161
         }
       },
       {
@@ -795,14 +833,14 @@
         "name": "ghost_inc",
         "townhallLevel": 14,
         "mapPosition": 22,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#G9CC9G2VQ",
+          "attackerTag": "#QRP2RLV02",
           "defenderTag": "#PPUC80JQ",
           "stars": 2,
-          "destructionPercentage": 80,
-          "order": 9,
-          "duration": 141
+          "destructionPercentage": 96,
+          "order": 36,
+          "duration": 112
         }
       },
       {
