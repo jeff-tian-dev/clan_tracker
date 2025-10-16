@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/MemvfcNsCKAIJd01S-vNV8_nVwYBGkQOTRp3HgJs0QU.png"
     },
     "clanLevel": 11,
-    "attacks": 25,
-    "stars": 55,
-    "destructionPercentage": 79.92,
+    "attacks": 29,
+    "stars": 64,
+    "destructionPercentage": 89.24,
     "members": [
       {
         "tag": "#8880L0C",
@@ -114,6 +114,24 @@
         "name": "je suis excit\u00e9",
         "townhallLevel": 17,
         "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#Q9QU8L8YV",
+            "defenderTag": "#8PGCRVVCC",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 43,
+            "duration": 150
+          },
+          {
+            "attackerTag": "#Q9QU8L8YV",
+            "defenderTag": "#GP82CG2J0",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 44,
+            "duration": 171
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#29UUU90QR",
@@ -526,6 +544,24 @@
         "name": "\u2b50\u2b505 StarFree\u2b50\u2b50\u2b50",
         "townhallLevel": 17,
         "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#Y2PVPPU8C",
+            "defenderTag": "#28JURVCUP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 41,
+            "duration": 157
+          },
+          {
+            "attackerTag": "#Y2PVPPU8C",
+            "defenderTag": "#LGVUL2PQR",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 42,
+            "duration": 180
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#28JURVCUP",
@@ -566,14 +602,14 @@
             "duration": 180
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#UJP2UYRY",
+          "attackerTag": "#Y2PVPPU8C",
           "defenderTag": "#28JURVCUP",
-          "stars": 2,
-          "destructionPercentage": 92,
-          "order": 37,
-          "duration": 161
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 41,
+          "duration": 157
         }
       },
       {
@@ -780,14 +816,30 @@
         "name": "WASAKA",
         "townhallLevel": 16,
         "mapPosition": 11,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q9QU8L8YV",
+          "defenderTag": "#GP82CG2J0",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 44,
+          "duration": 171
+        }
       },
       {
         "tag": "#8PGCRVVCC",
         "name": "peye'x",
         "townhallLevel": 17,
         "mapPosition": 6,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q9QU8L8YV",
+          "defenderTag": "#8PGCRVVCC",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 43,
+          "duration": 150
+        }
       },
       {
         "tag": "#GG90PVL9U",
@@ -1007,14 +1059,14 @@
         "name": "\ud30c\uad34\uc758 \uc2e0",
         "townhallLevel": 17,
         "mapPosition": 5,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#8VQYULVQQ",
+          "attackerTag": "#Y2PVPPU8C",
           "defenderTag": "#LGVUL2PQR",
-          "stars": 1,
-          "destructionPercentage": 75,
-          "order": 18,
-          "duration": 155
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 42,
+          "duration": 180
         }
       },
       {
