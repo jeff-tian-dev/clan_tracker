@@ -2,13 +2,30 @@
   "state": "ongoing",
   "startTime": "20251017T070000.000Z",
   "endTime": "20251020T070000.000Z",
-  "capitalTotalLoot": 0,
+  "capitalTotalLoot": 35521,
   "raidsCompleted": 0,
-  "totalAttacks": 0,
-  "enemyDistrictsDestroyed": 0,
+  "totalAttacks": 8,
+  "enemyDistrictsDestroyed": 3,
   "offensiveReward": 0,
   "defensiveReward": 0,
-  "members": [],
+  "members": [
+    {
+      "tag": "#Q9QU8L8YV",
+      "name": "je suis excit\u00e9",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 23933
+    },
+    {
+      "tag": "#9JU9LUPCL",
+      "name": "TheSaurusPG",
+      "attacks": 2,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 11588
+    }
+  ],
   "attackLog": [
     {
       "defender": {
@@ -21,9 +38,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/L8z1FJgWOx7HKgz4IQLIdV9oIon1gsIbZiwR59wUZP8.png"
         }
       },
-      "attackCount": 0,
+      "attackCount": 8,
       "districtCount": 9,
-      "districtsDestroyed": 0,
+      "districtsDestroyed": 3,
       "districts": [
         {
           "id": 70000000,
@@ -83,28 +100,98 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11588,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#9JU9LUPCL",
+                "name": "TheSaurusPG"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#9JU9LUPCL",
+                "name": "TheSaurusPG"
+              },
+              "destructionPercent": 46,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11882,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q9QU8L8YV",
+                "name": "je suis excit\u00e9"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Q9QU8L8YV",
+                "name": "je suis excit\u00e9"
+              },
+              "destructionPercent": 85,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#Q9QU8L8YV",
+                "name": "je suis excit\u00e9"
+              },
+              "destructionPercent": 48,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 12051,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q9QU8L8YV",
+                "name": "je suis excit\u00e9"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Q9QU8L8YV",
+                "name": "je suis excit\u00e9"
+              },
+              "destructionPercent": 93,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#Q9QU8L8YV",
+                "name": "je suis excit\u00e9"
+              },
+              "destructionPercent": 59,
+              "stars": 2
+            }
+          ]
         }
       ]
     }
