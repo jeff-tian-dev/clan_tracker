@@ -2,13 +2,21 @@
   "state": "ongoing",
   "startTime": "20251017T070000.000Z",
   "endTime": "20251020T070000.000Z",
-  "capitalTotalLoot": 35521,
-  "raidsCompleted": 0,
-  "totalAttacks": 8,
-  "enemyDistrictsDestroyed": 3,
+  "capitalTotalLoot": 108484,
+  "raidsCompleted": 1,
+  "totalAttacks": 24,
+  "enemyDistrictsDestroyed": 9,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
+    {
+      "tag": "#92V882CPG",
+      "name": "ichigo kurusaki",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 25775
+    },
     {
       "tag": "#Q9QU8L8YV",
       "name": "je suis excit\u00e9",
@@ -18,12 +26,20 @@
       "capitalResourcesLooted": 23933
     },
     {
-      "tag": "#9JU9LUPCL",
-      "name": "TheSaurusPG",
-      "attacks": 2,
+      "tag": "#9RGPCRQCQ",
+      "name": "im jhomar",
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 11588
+      "capitalResourcesLooted": 25485
+    },
+    {
+      "tag": "#9JU9LUPCL",
+      "name": "TheSaurusPG",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 33291
     }
   ],
   "attackLog": [
@@ -38,63 +54,195 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/L8z1FJgWOx7HKgz4IQLIdV9oIon1gsIbZiwR59wUZP8.png"
         }
       },
-      "attackCount": 8,
+      "attackCount": 23,
       "districtCount": 9,
-      "districtsDestroyed": 3,
+      "districtsDestroyed": 9,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 13481,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#9RGPCRQCQ",
+                "name": "im jhomar"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#9RGPCRQCQ",
+                "name": "im jhomar"
+              },
+              "destructionPercent": 57,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#9RGPCRQCQ",
+                "name": "im jhomar"
+              },
+              "destructionPercent": 28,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 12024,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#9RGPCRQCQ",
+                "name": "im jhomar"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#9RGPCRQCQ",
+                "name": "im jhomar"
+              },
+              "destructionPercent": 95,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#92V882CPG",
+                "name": "ichigo kurusaki"
+              },
+              "destructionPercent": 50,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10124,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#92V882CPG",
+                "name": "ichigo kurusaki"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#92V882CPG",
+                "name": "ichigo kurusaki"
+              },
+              "destructionPercent": 39,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10619,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#9JU9LUPCL",
+                "name": "TheSaurusPG"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#9JU9LUPCL",
+                "name": "TheSaurusPG"
+              },
+              "destructionPercent": 62,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11084,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#9JU9LUPCL",
+                "name": "TheSaurusPG"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#9JU9LUPCL",
+                "name": "TheSaurusPG"
+              },
+              "destructionPercent": 59,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11251,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#92V882CPG",
+                "name": "ichigo kurusaki"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#92V882CPG",
+                "name": "ichigo kurusaki"
+              },
+              "destructionPercent": 78,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#92V882CPG",
+                "name": "ichigo kurusaki"
+              },
+              "destructionPercent": 34,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000006,
@@ -192,6 +340,114 @@
               "stars": 2
             }
           ]
+        }
+      ]
+    },
+    {
+      "defender": {
+        "tag": "#80C89P8L",
+        "name": "Vecchi Leoni",
+        "level": 37,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/JFREWSBWJ3iEBXBaSywL4juKZoSjccyrz4kWTbWnav0.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/JFREWSBWJ3iEBXBaSywL4juKZoSjccyrz4kWTbWnav0.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/JFREWSBWJ3iEBXBaSywL4juKZoSjccyrz4kWTbWnav0.png"
+        }
+      },
+      "attackCount": 1,
+      "districtCount": 9,
+      "districtsDestroyed": 0,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 10,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 4,
+          "destructionPercent": 37,
+          "stars": 0,
+          "attackCount": 1,
+          "totalLooted": 4380,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#9RGPCRQCQ",
+                "name": "im jhomar"
+              },
+              "destructionPercent": 37,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 4,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
         }
       ]
     }
