@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251017T070000.000Z",
   "endTime": "20251020T070000.000Z",
-  "capitalTotalLoot": 163001,
+  "capitalTotalLoot": 173776,
   "raidsCompleted": 1,
-  "totalAttacks": 39,
-  "enemyDistrictsDestroyed": 13,
+  "totalAttacks": 43,
+  "enemyDistrictsDestroyed": 14,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -60,10 +60,10 @@
     {
       "tag": "#PP9JJJ8P",
       "name": "King Kishor",
-      "attacks": 1,
+      "attacks": 5,
       "attackLimit": 5,
-      "bonusAttackLimit": 0,
-      "capitalResourcesLooted": 4650
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 15425
     },
     {
       "tag": "#9JU9LUPCL",
@@ -386,9 +386,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/JFREWSBWJ3iEBXBaSywL4juKZoSjccyrz4kWTbWnav0.png"
         }
       },
-      "attackCount": 16,
+      "attackCount": 20,
       "districtCount": 9,
-      "districtsDestroyed": 4,
+      "districtsDestroyed": 5,
       "districts": [
         {
           "id": 70000000,
@@ -412,10 +412,44 @@
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 10775,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#PP9JJJ8P",
+                "name": "King Kishor"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#PP9JJJ8P",
+                "name": "King Kishor"
+              },
+              "destructionPercent": 92,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#PP9JJJ8P",
+                "name": "King Kishor"
+              },
+              "destructionPercent": 55,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#PP9JJJ8P",
+                "name": "King Kishor"
+              },
+              "destructionPercent": 31,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000003,
