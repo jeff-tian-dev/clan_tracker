@@ -2,9 +2,9 @@
   "state": "ongoing",
   "startTime": "20251017T070000.000Z",
   "endTime": "20251020T070000.000Z",
-  "capitalTotalLoot": 158351,
+  "capitalTotalLoot": 163001,
   "raidsCompleted": 1,
-  "totalAttacks": 38,
+  "totalAttacks": 39,
   "enemyDistrictsDestroyed": 13,
   "offensiveReward": 0,
   "defensiveReward": 0,
@@ -56,6 +56,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 25485
+    },
+    {
+      "tag": "#PP9JJJ8P",
+      "name": "King Kishor",
+      "attacks": 1,
+      "attackLimit": 5,
+      "bonusAttackLimit": 0,
+      "capitalResourcesLooted": 4650
     },
     {
       "tag": "#9JU9LUPCL",
@@ -378,7 +386,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/JFREWSBWJ3iEBXBaSywL4juKZoSjccyrz4kWTbWnav0.png"
         }
       },
-      "attackCount": 15,
+      "attackCount": 16,
       "districtCount": 9,
       "districtsDestroyed": 4,
       "districts": [
@@ -448,11 +456,19 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 69,
-          "stars": 1,
-          "attackCount": 3,
-          "totalLooted": 6950,
+          "destructionPercent": 99,
+          "stars": 2,
+          "attackCount": 4,
+          "totalLooted": 11600,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#PP9JJJ8P",
+                "name": "King Kishor"
+              },
+              "destructionPercent": 99,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#Y80PLCRQ9",
