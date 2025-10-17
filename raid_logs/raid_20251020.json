@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251017T070000.000Z",
   "endTime": "20251020T070000.000Z",
-  "capitalTotalLoot": 118924,
+  "capitalTotalLoot": 143725,
   "raidsCompleted": 1,
-  "totalAttacks": 26,
-  "enemyDistrictsDestroyed": 9,
+  "totalAttacks": 32,
+  "enemyDistrictsDestroyed": 10,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -16,6 +16,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 25775
+    },
+    {
+      "tag": "#Q80GLV90Y",
+      "name": "rehan",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 24801
     },
     {
       "tag": "#Q9QU8L8YV",
@@ -362,9 +370,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/JFREWSBWJ3iEBXBaSywL4juKZoSjccyrz4kWTbWnav0.png"
         }
       },
-      "attackCount": 3,
+      "attackCount": 9,
       "districtCount": 9,
-      "districtsDestroyed": 0,
+      "districtsDestroyed": 1,
       "districts": [
         {
           "id": 70000000,
@@ -397,10 +405,36 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11526,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q80GLV90Y",
+                "name": "rehan"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Q80GLV90Y",
+                "name": "rehan"
+              },
+              "destructionPercent": 76,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#Q80GLV90Y",
+                "name": "rehan"
+              },
+              "destructionPercent": 40,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000004,
@@ -424,20 +458,46 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 76,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 7535,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q80GLV90Y",
+                "name": "rehan"
+              },
+              "destructionPercent": 76,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#Q80GLV90Y",
+                "name": "rehan"
+              },
+              "destructionPercent": 38,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 37,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 4380,
+          "destructionPercent": 90,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 10120,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q80GLV90Y",
+                "name": "rehan"
+              },
+              "destructionPercent": 90,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#9RGPCRQCQ",
