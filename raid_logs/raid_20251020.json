@@ -2,9 +2,9 @@
   "state": "ongoing",
   "startTime": "20251017T070000.000Z",
   "endTime": "20251020T070000.000Z",
-  "capitalTotalLoot": 151401,
+  "capitalTotalLoot": 158351,
   "raidsCompleted": 1,
-  "totalAttacks": 35,
+  "totalAttacks": 38,
   "enemyDistrictsDestroyed": 13,
   "offensiveReward": 0,
   "defensiveReward": 0,
@@ -44,10 +44,10 @@
     {
       "tag": "#Y80PLCRQ9",
       "name": "jerwenzke1",
-      "attacks": 3,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 12210
+      "capitalResourcesLooted": 19160
     },
     {
       "tag": "#9RGPCRQCQ",
@@ -378,7 +378,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/JFREWSBWJ3iEBXBaSywL4juKZoSjccyrz4kWTbWnav0.png"
         }
       },
-      "attackCount": 12,
+      "attackCount": 15,
       "districtCount": 9,
       "districtsDestroyed": 4,
       "districts": [
@@ -448,10 +448,36 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 69,
+          "stars": 1,
+          "attackCount": 3,
+          "totalLooted": 6950,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Y80PLCRQ9",
+                "name": "jerwenzke1"
+              },
+              "destructionPercent": 69,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#Y80PLCRQ9",
+                "name": "jerwenzke1"
+              },
+              "destructionPercent": 45,
+              "stars": 0
+            },
+            {
+              "attacker": {
+                "tag": "#Y80PLCRQ9",
+                "name": "jerwenzke1"
+              },
+              "destructionPercent": 19,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000005,
