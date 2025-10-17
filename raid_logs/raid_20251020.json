@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251017T070000.000Z",
   "endTime": "20251020T070000.000Z",
-  "capitalTotalLoot": 143725,
+  "capitalTotalLoot": 151401,
   "raidsCompleted": 1,
-  "totalAttacks": 32,
-  "enemyDistrictsDestroyed": 10,
+  "totalAttacks": 35,
+  "enemyDistrictsDestroyed": 13,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -16,6 +16,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 25775
+    },
+    {
+      "tag": "#QYL88U9P0",
+      "name": "voldemort",
+      "attacks": 2,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 5906
     },
     {
       "tag": "#Q80GLV90Y",
@@ -36,10 +44,10 @@
     {
       "tag": "#Y80PLCRQ9",
       "name": "jerwenzke1",
-      "attacks": 2,
+      "attacks": 3,
       "attackLimit": 5,
-      "bonusAttackLimit": 0,
-      "capitalResourcesLooted": 10440
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 12210
     },
     {
       "tag": "#9RGPCRQCQ",
@@ -370,9 +378,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/JFREWSBWJ3iEBXBaSywL4juKZoSjccyrz4kWTbWnav0.png"
         }
       },
-      "attackCount": 9,
+      "attackCount": 12,
       "districtCount": 9,
-      "districtsDestroyed": 1,
+      "districtsDestroyed": 4,
       "districts": [
         {
           "id": 70000000,
@@ -458,11 +466,19 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 76,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 7535,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11559,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#QYL88U9P0",
+                "name": "voldemort"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#Q80GLV90Y",
@@ -485,11 +501,19 @@
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 90,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 10120,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 12002,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#QYL88U9P0",
+                "name": "voldemort"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#Q80GLV90Y",
@@ -512,11 +536,19 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 94,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 10440,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 12210,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#Y80PLCRQ9",
+                "name": "jerwenzke1"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#Y80PLCRQ9",
