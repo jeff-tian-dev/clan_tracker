@@ -15,7 +15,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/MemvfcNsCKAIJd01S-vNV8_nVwYBGkQOTRp3HgJs0QU.png"
     },
     "clanLevel": 11,
-    "attacks": 43,
+    "attacks": 47,
     "stars": 75,
     "destructionPercentage": 100.0,
     "members": [
@@ -495,6 +495,24 @@
         "name": "King Killer",
         "townhallLevel": 15,
         "mapPosition": 17,
+        "attacks": [
+          {
+            "attackerTag": "#J88YJGY9",
+            "defenderTag": "#Y2LRU0Q0R",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 87,
+            "duration": 170
+          },
+          {
+            "attackerTag": "#J88YJGY9",
+            "defenderTag": "#R0YLRVUCQ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 88,
+            "duration": 80
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#LCCLVR2V",
@@ -510,6 +528,24 @@
         "name": "Sir Hazelnut\u2122\ufe0f",
         "townhallLevel": 15,
         "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#YJ2UV2GY",
+            "defenderTag": "#8YPUURR8G",
+            "stars": 1,
+            "destructionPercentage": 11,
+            "order": 85,
+            "duration": 50
+          },
+          {
+            "attackerTag": "#YJ2UV2GY",
+            "defenderTag": "#202YL8202",
+            "stars": 1,
+            "destructionPercentage": 19,
+            "order": 86,
+            "duration": 24
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#U9Q8RCY",
@@ -847,7 +883,7 @@
             "duration": 145
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#G2Q8298Q2",
           "defenderTag": "#Y2LRU0Q0R",
@@ -1331,7 +1367,7 @@
             "duration": 145
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
           "attackerTag": "#G28CVVRJL",
           "defenderTag": "#202YL8202",
@@ -1397,7 +1433,7 @@
             "duration": 68
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#GGYGQ8098",
           "defenderTag": "#R0YLRVUCQ",
@@ -1455,7 +1491,7 @@
             "duration": 133
           }
         ],
-        "opponentAttacks": 6,
+        "opponentAttacks": 7,
         "bestOpponentAttack": {
           "attackerTag": "#2R2JYRRU",
           "defenderTag": "#8YPUURR8G",
