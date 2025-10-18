@@ -2,9 +2,9 @@
   "state": "ongoing",
   "startTime": "20251017T070000.000Z",
   "endTime": "20251020T070000.000Z",
-  "capitalTotalLoot": 552876,
+  "capitalTotalLoot": 556081,
   "raidsCompleted": 5,
-  "totalAttacks": 134,
+  "totalAttacks": 135,
   "enemyDistrictsDestroyed": 48,
   "offensiveReward": 0,
   "defensiveReward": 0,
@@ -96,6 +96,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 29119
+    },
+    {
+      "tag": "#L0UJQ0Y89",
+      "name": "doruk",
+      "attacks": 1,
+      "attackLimit": 5,
+      "bonusAttackLimit": 0,
+      "capitalResourcesLooted": 3205
     },
     {
       "tag": "#G2Q8298Q2",
@@ -1794,7 +1802,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/yi5oqULLD0kujmpZCWlvIidY9zBqIGdIiYJlI-xFbP0.png"
         }
       },
-      "attackCount": 10,
+      "attackCount": 11,
       "districtCount": 9,
       "districtsDestroyed": 3,
       "districts": [
@@ -1820,10 +1828,20 @@
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
+          "destructionPercent": 35,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 1,
+          "totalLooted": 3205,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#L0UJQ0Y89",
+                "name": "doruk"
+              },
+              "destructionPercent": 35,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000003,
@@ -1984,9 +2002,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/ghFj-4tOB1q31boMMXLou5RXD8zuRg04e7FjEViJPh8.png"
         }
       },
-      "attackCount": 14,
+      "attackCount": 15,
       "districtCount": 9,
-      "districtsDestroyed": 4,
+      "districtsDestroyed": 5,
       "districts": [
         {
           "id": 70000000,
@@ -2054,11 +2072,19 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 65,
-          "stars": 1,
-          "attackCount": 2,
-          "totalLooted": 7145,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11915,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#8U9UYQPLY",
+                "name": "Dudu Santos"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#QPL88UV0V",
