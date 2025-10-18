@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251017T070000.000Z",
   "endTime": "20251020T070000.000Z",
-  "capitalTotalLoot": 606334,
+  "capitalTotalLoot": 676252,
   "raidsCompleted": 6,
-  "totalAttacks": 147,
-  "enemyDistrictsDestroyed": 54,
+  "totalAttacks": 162,
+  "enemyDistrictsDestroyed": 60,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -90,6 +90,14 @@
       "capitalResourcesLooted": 19160
     },
     {
+      "tag": "#QYVU28GPP",
+      "name": "Ghostlead",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 23295
+    },
+    {
       "tag": "#YG8JU9QC2",
       "name": "Umer Jawaid",
       "attacks": 6,
@@ -164,10 +172,10 @@
     {
       "tag": "#QRP2RLV02",
       "name": "JT",
-      "attacks": 2,
+      "attacks": 6,
       "attackLimit": 5,
-      "bonusAttackLimit": 0,
-      "capitalResourcesLooted": 10530
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 29688
     },
     {
       "tag": "#PP9JJJ8P",
@@ -180,10 +188,10 @@
     {
       "tag": "#GV9UCV2UL",
       "name": "JAYTEE",
-      "attacks": 1,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 2596
+      "capitalResourcesLooted": 30061
     },
     {
       "tag": "#G28CVVRJL",
@@ -2118,9 +2126,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/SAatsjYpgAxUFQ-J7CS2rS8_GNY42089hjRhqUFcE8U.png"
         }
       },
-      "attackCount": 0,
+      "attackCount": 15,
       "districtCount": 9,
-      "districtsDestroyed": 0,
+      "districtsDestroyed": 6,
       "districts": [
         {
           "id": 70000000,
@@ -2153,55 +2161,187 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11307,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QYVU28GPP",
+                "name": "Ghostlead"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QYVU28GPP",
+                "name": "Ghostlead"
+              },
+              "destructionPercent": 80,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#QYVU28GPP",
+                "name": "Ghostlead"
+              },
+              "destructionPercent": 32,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 12308,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QRP2RLV02",
+                "name": "JT"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QRP2RLV02",
+                "name": "JT"
+              },
+              "destructionPercent": 89,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#GV9UCV2UL",
+                "name": "JAYTEE"
+              },
+              "destructionPercent": 33,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11300,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QRP2RLV02",
+                "name": "JT"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QRP2RLV02",
+                "name": "JT"
+              },
+              "destructionPercent": 39,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11364,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GV9UCV2UL",
+                "name": "JAYTEE"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GV9UCV2UL",
+                "name": "JAYTEE"
+              },
+              "destructionPercent": 48,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11651,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GV9UCV2UL",
+                "name": "JAYTEE"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GV9UCV2UL",
+                "name": "JAYTEE"
+              },
+              "destructionPercent": 58,
+              "stars": 2
+            }
+          ]
         },
         {
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11988,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QYVU28GPP",
+                "name": "Ghostlead"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QYVU28GPP",
+                "name": "Ghostlead"
+              },
+              "destructionPercent": 83,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#QYVU28GPP",
+                "name": "Ghostlead"
+              },
+              "destructionPercent": 28,
+              "stars": 0
+            }
+          ]
         }
       ]
     }
