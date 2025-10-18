@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251017T070000.000Z",
   "endTime": "20251020T070000.000Z",
-  "capitalTotalLoot": 406992,
-  "raidsCompleted": 3,
-  "totalAttacks": 99,
-  "enemyDistrictsDestroyed": 35,
+  "capitalTotalLoot": 443628,
+  "raidsCompleted": 4,
+  "totalAttacks": 108,
+  "enemyDistrictsDestroyed": 39,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -16,6 +16,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 25387
+    },
+    {
+      "tag": "#8880L0C",
+      "name": "Thomas Cat",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 24623
     },
     {
       "tag": "#92V882CPG",
@@ -124,10 +132,10 @@
     {
       "tag": "#PP9JJJ8P",
       "name": "King Kishor",
-      "attacks": 5,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 15425
+      "capitalResourcesLooted": 18915
     },
     {
       "tag": "#G28CVVRJL",
@@ -144,6 +152,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 29741
+    },
+    {
+      "tag": "#2R2JYRRU",
+      "name": "taz",
+      "attacks": 2,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 8523
     },
     {
       "tag": "#9JU9LUPCL",
@@ -1114,19 +1130,43 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/0UKK34n_TSniW5rfxougngRyEAblyIVMEJVznIWlel0.png"
         }
       },
-      "attackCount": 25,
+      "attackCount": 28,
       "districtCount": 9,
-      "districtsDestroyed": 8,
+      "districtsDestroyed": 9,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 30,
-          "stars": 0,
-          "attackCount": 2,
-          "totalLooted": 4760,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 5,
+          "totalLooted": 13997,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#8880L0C",
+                "name": "Thomas Cat"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#8880L0C",
+                "name": "Thomas Cat"
+              },
+              "destructionPercent": 91,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#PP9JJJ8P",
+                "name": "King Kishor"
+              },
+              "destructionPercent": 49,
+              "stars": 1
+            },
             {
               "attacker": {
                 "tag": "#QLYLJV8LR",
@@ -1414,6 +1454,160 @@
               },
               "destructionPercent": 54,
               "stars": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "defender": {
+        "tag": "#J80YJQ00",
+        "name": "The Watchmen",
+        "level": 21,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/T4EsQszKbRT0J4VWP43fFBlIbJ46jyOHqsZf1Rj5Vgc.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/T4EsQszKbRT0J4VWP43fFBlIbJ46jyOHqsZf1Rj5Vgc.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/T4EsQszKbRT0J4VWP43fFBlIbJ46jyOHqsZf1Rj5Vgc.png"
+        }
+      },
+      "attackCount": 6,
+      "districtCount": 9,
+      "districtsDestroyed": 3,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 9,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 8523,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2R2JYRRU",
+                "name": "taz"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2R2JYRRU",
+                "name": "taz"
+              },
+              "destructionPercent": 44,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 4,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 4,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 4,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 4,
+          "destructionPercent": 43,
+          "stars": 1,
+          "attackCount": 1,
+          "totalLooted": 3995,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#8880L0C",
+                "name": "Thomas Cat"
+              },
+              "destructionPercent": 43,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 3,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9283,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#8880L0C",
+                "name": "Thomas Cat"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#8880L0C",
+                "name": "Thomas Cat"
+              },
+              "destructionPercent": 48,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 2,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 1,
+          "totalLooted": 5598,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#8880L0C",
+                "name": "Thomas Cat"
+              },
+              "destructionPercent": 100,
+              "stars": 3
             }
           ]
         }

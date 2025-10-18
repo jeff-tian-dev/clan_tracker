@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/MemvfcNsCKAIJd01S-vNV8_nVwYBGkQOTRp3HgJs0QU.png"
     },
     "clanLevel": 11,
-    "attacks": 35,
-    "stars": 68,
-    "destructionPercentage": 91.76,
+    "attacks": 37,
+    "stars": 72,
+    "destructionPercentage": 96.0,
     "members": [
       {
         "tag": "#8880L0C",
@@ -41,7 +41,15 @@
             "duration": 93
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#9JGCQ89PC",
+          "defenderTag": "#QYL88U9P0",
+          "stars": 1,
+          "destructionPercentage": 71,
+          "order": 59,
+          "duration": 138
+        }
       },
       {
         "tag": "#UJP2UYRY",
@@ -289,6 +297,24 @@
         "name": "gun",
         "townhallLevel": 16,
         "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#2CQLC28UP",
+            "defenderTag": "#GPGU022YJ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 60,
+            "duration": 97
+          },
+          {
+            "attackerTag": "#2CQLC28UP",
+            "defenderTag": "#L99CV8CC0",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 61,
+            "duration": 115
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#2YUGJQP",
@@ -432,14 +458,14 @@
             "duration": 125
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#R0YLRVUCQ",
+          "attackerTag": "#89P2C8PJY",
           "defenderTag": "#QRP2RLV02",
-          "stars": 0,
-          "destructionPercentage": 48,
-          "order": 30,
-          "duration": 68
+          "stars": 2,
+          "destructionPercentage": 76,
+          "order": 55,
+          "duration": 98
         }
       },
       {
@@ -531,14 +557,14 @@
             "duration": 23
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#R0YLRVUCQ",
+          "attackerTag": "#89P2C8PJY",
           "defenderTag": "#GGYGQ8098",
-          "stars": 2,
-          "destructionPercentage": 91,
-          "order": 28,
-          "duration": 118
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 56,
+          "duration": 100
         }
       },
       {
@@ -564,14 +590,14 @@
             "duration": 134
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#Q2Y8UYRQC",
+          "attackerTag": "#LQ0202G0Q",
           "defenderTag": "#G9CC9G2VQ",
-          "stars": 2,
-          "destructionPercentage": 94,
-          "order": 40,
-          "duration": 180
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 57,
+          "duration": 126
         }
       },
       {
@@ -651,9 +677,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/1dzoleLEeKhbXflE85LUwFmUQ70rsPFSqS2LxbSEs8o.png"
     },
     "clanLevel": 23,
-    "attacks": 19,
-    "stars": 35,
-    "destructionPercentage": 55.08,
+    "attacks": 24,
+    "stars": 40,
+    "destructionPercentage": 59.64,
     "members": [
       {
         "tag": "#U9Q8RCY",
@@ -763,6 +789,24 @@
         "name": "momochi",
         "townhallLevel": 13,
         "mapPosition": 23,
+        "attacks": [
+          {
+            "attackerTag": "#9JGCQ89PC",
+            "defenderTag": "#QRP2RLV02",
+            "stars": 2,
+            "destructionPercentage": 70,
+            "order": 58,
+            "duration": 140
+          },
+          {
+            "attackerTag": "#9JGCQ89PC",
+            "defenderTag": "#QYL88U9P0",
+            "stars": 1,
+            "destructionPercentage": 71,
+            "order": 59,
+            "duration": 138
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#G9CC9G2VQ",
@@ -874,6 +918,24 @@
         "name": "Unsung Hero",
         "townhallLevel": 14,
         "mapPosition": 21,
+        "attacks": [
+          {
+            "attackerTag": "#89P2C8PJY",
+            "defenderTag": "#QRP2RLV02",
+            "stars": 2,
+            "destructionPercentage": 76,
+            "order": 55,
+            "duration": 98
+          },
+          {
+            "attackerTag": "#89P2C8PJY",
+            "defenderTag": "#GGYGQ8098",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 56,
+            "duration": 100
+          }
+        ],
         "opponentAttacks": 3,
         "bestOpponentAttack": {
           "attackerTag": "#QRP2RLV02",
@@ -907,7 +969,15 @@
             "duration": 153
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2CQLC28UP",
+          "defenderTag": "#L99CV8CC0",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 61,
+          "duration": 115
+        }
       },
       {
         "tag": "#G9LU2L2J",
@@ -1080,6 +1150,16 @@
         "name": "Lia Maisara",
         "townhallLevel": 15,
         "mapPosition": 17,
+        "attacks": [
+          {
+            "attackerTag": "#LQ0202G0Q",
+            "defenderTag": "#G9CC9G2VQ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 57,
+            "duration": 126
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#Y2PVPPU8C",
@@ -1176,14 +1256,14 @@
             "duration": 131
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#Q2QQL2YVV",
+          "attackerTag": "#2CQLC28UP",
           "defenderTag": "#GPGU022YJ",
-          "stars": 2,
-          "destructionPercentage": 94,
-          "order": 14,
-          "duration": 180
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 60,
+          "duration": 97
         }
       }
     ]
