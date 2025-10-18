@@ -15,7 +15,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/MemvfcNsCKAIJd01S-vNV8_nVwYBGkQOTRp3HgJs0QU.png"
     },
     "clanLevel": 11,
-    "attacks": 40,
+    "attacks": 41,
     "stars": 75,
     "destructionPercentage": 100.0,
     "members": [
@@ -396,6 +396,16 @@
         "name": "Umer Jawaid",
         "townhallLevel": 15,
         "mapPosition": 21,
+        "attacks": [
+          {
+            "attackerTag": "#YG8JU9QC2",
+            "defenderTag": "#VLU88LQU",
+            "stars": 2,
+            "destructionPercentage": 57,
+            "order": 80,
+            "duration": 91
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#GPGU022YJ",
@@ -950,7 +960,7 @@
             "duration": 180
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#YQ8L9JVJ2",
           "defenderTag": "#VLU88LQU",
