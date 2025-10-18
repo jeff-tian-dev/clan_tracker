@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251017T070000.000Z",
   "endTime": "20251020T070000.000Z",
-  "capitalTotalLoot": 468698,
+  "capitalTotalLoot": 485963,
   "raidsCompleted": 4,
-  "totalAttacks": 114,
-  "enemyDistrictsDestroyed": 41,
+  "totalAttacks": 118,
+  "enemyDistrictsDestroyed": 43,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -58,6 +58,14 @@
       "capitalResourcesLooted": 23933
     },
     {
+      "tag": "#GYGC88RGG",
+      "name": "INDxSayan",
+      "attacks": 2,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 8375
+    },
+    {
       "tag": "#PL09LLPUY",
       "name": "Regis\u6881",
       "attacks": 6,
@@ -108,10 +116,10 @@
     {
       "tag": "#QYCLC0JLL",
       "name": "83c",
-      "attacks": 4,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 13311
+      "capitalResourcesLooted": 22201
     },
     {
       "tag": "#9CC0JJCV9",
@@ -1478,9 +1486,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/T4EsQszKbRT0J4VWP43fFBlIbJ46jyOHqsZf1Rj5Vgc.png"
         }
       },
-      "attackCount": 12,
+      "attackCount": 16,
       "districtCount": 9,
-      "districtsDestroyed": 5,
+      "districtsDestroyed": 7,
       "districts": [
         {
           "id": 70000000,
@@ -1557,11 +1565,19 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 4,
-          "destructionPercent": 50,
-          "stars": 1,
-          "attackCount": 1,
-          "totalLooted": 4150,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9135,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#GYGC88RGG",
+                "name": "INDxSayan"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#G9CC9G2VQ",
@@ -1576,11 +1592,19 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 4,
-          "destructionPercent": 50,
+          "destructionPercent": 83,
           "stars": 1,
-          "attackCount": 1,
-          "totalLooted": 3650,
+          "attackCount": 2,
+          "totalLooted": 7040,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#GYGC88RGG",
+                "name": "INDxSayan"
+              },
+              "destructionPercent": 83,
+              "stars": 1
+            },
             {
               "attacker": {
                 "tag": "#G9CC9G2VQ",
@@ -1595,10 +1619,28 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 8890,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QYCLC0JLL",
+                "name": "83c"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QYCLC0JLL",
+                "name": "83c"
+              },
+              "destructionPercent": 51,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000006,
@@ -1688,9 +1730,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/ghFj-4tOB1q31boMMXLou5RXD8zuRg04e7FjEViJPh8.png"
         }
       },
-      "attackCount": 8,
+      "attackCount": 14,
       "districtCount": 9,
-      "districtsDestroyed": 3,
+      "districtsDestroyed": 4,
       "districts": [
         {
           "id": 70000000,
@@ -1723,28 +1765,82 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11091,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QPL88UV0V",
+                "name": "KAUAZIN15"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QPL88UV0V",
+                "name": "KAUAZIN15"
+              },
+              "destructionPercent": 52,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#QPL88UV0V",
+                "name": "KAUAZIN15"
+              },
+              "destructionPercent": 28,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 65,
+          "stars": 1,
+          "attackCount": 2,
+          "totalLooted": 7145,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QPL88UV0V",
+                "name": "KAUAZIN15"
+              },
+              "destructionPercent": 65,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#QPL88UV0V",
+                "name": "KAUAZIN15"
+              },
+              "destructionPercent": 15,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
+          "destructionPercent": 36,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 1,
+          "totalLooted": 2325,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QPL88UV0V",
+                "name": "KAUAZIN15"
+              },
+              "destructionPercent": 36,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000006,

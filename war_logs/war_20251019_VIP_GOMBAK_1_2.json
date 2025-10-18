@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/MemvfcNsCKAIJd01S-vNV8_nVwYBGkQOTRp3HgJs0QU.png"
     },
     "clanLevel": 11,
-    "attacks": 37,
-    "stars": 72,
-    "destructionPercentage": 96.0,
+    "attacks": 38,
+    "stars": 75,
+    "destructionPercentage": 100.0,
     "members": [
       {
         "tag": "#8880L0C",
@@ -386,6 +386,16 @@
         "name": "warlord",
         "townhallLevel": 17,
         "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#G2Q8298Q2",
+            "defenderTag": "#Y2LRU0Q0R",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 64,
+            "duration": 88
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -735,7 +745,15 @@
         "name": "king",
         "townhallLevel": 13,
         "mapPosition": 24,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#G2Q8298Q2",
+          "defenderTag": "#Y2LRU0Q0R",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 64,
+          "duration": 88
+        }
       },
       {
         "tag": "#LRJ20PYG2",

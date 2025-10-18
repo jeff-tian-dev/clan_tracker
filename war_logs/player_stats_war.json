@@ -28459,7 +28459,7 @@
       }
     ]
   },
-  "timestamp": "2025-10-18 09:00:03",
+  "timestamp": "2025-10-18 10:00:03",
   "#GPPQ0JCJR": {
     "name": "Goujii",
     "tag": "#GPPQ0JCJR",
@@ -70636,11 +70636,11 @@
       },
       {
         "date": "20251019",
-        "attacksUsed": 0,
-        "starsEarned": 0,
-        "destruction": 0,
-        "attacksMissed": 2,
-        "zeroParticipation": true
+        "attacksUsed": 1,
+        "starsEarned": 3,
+        "destruction": 100,
+        "attacksMissed": 1,
+        "zeroParticipation": false
       }
     ]
   },
