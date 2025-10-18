@@ -215,7 +215,15 @@
             "duration": 172
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#29L8J29V9",
+          "defenderTag": "#PL09LLPUY",
+          "stars": 2,
+          "destructionPercentage": 60,
+          "order": 62,
+          "duration": 74
+        }
       },
       {
         "tag": "#Q2QQL2YVV",
@@ -290,7 +298,15 @@
             "duration": 89
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#29L8J29V9",
+          "defenderTag": "#9U2YP0RY",
+          "stars": 2,
+          "destructionPercentage": 68,
+          "order": 63,
+          "duration": 92
+        }
       },
       {
         "tag": "#2CQLC28UP",
@@ -677,9 +693,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/1dzoleLEeKhbXflE85LUwFmUQ70rsPFSqS2LxbSEs8o.png"
     },
     "clanLevel": 23,
-    "attacks": 24,
-    "stars": 40,
-    "destructionPercentage": 59.64,
+    "attacks": 26,
+    "stars": 44,
+    "destructionPercentage": 64.76,
     "members": [
       {
         "tag": "#U9Q8RCY",
@@ -903,6 +919,24 @@
         "name": "unknown",
         "townhallLevel": 17,
         "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#29L8J29V9",
+            "defenderTag": "#PL09LLPUY",
+            "stars": 2,
+            "destructionPercentage": 60,
+            "order": 62,
+            "duration": 74
+          },
+          {
+            "attackerTag": "#29L8J29V9",
+            "defenderTag": "#9U2YP0RY",
+            "stars": 2,
+            "destructionPercentage": 68,
+            "order": 63,
+            "duration": 92
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#GYGC88RGG",

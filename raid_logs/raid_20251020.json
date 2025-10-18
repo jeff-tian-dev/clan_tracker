@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251017T070000.000Z",
   "endTime": "20251020T070000.000Z",
-  "capitalTotalLoot": 443628,
+  "capitalTotalLoot": 468698,
   "raidsCompleted": 4,
-  "totalAttacks": 108,
-  "enemyDistrictsDestroyed": 39,
+  "totalAttacks": 114,
+  "enemyDistrictsDestroyed": 41,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -168,6 +168,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 33291
+    },
+    {
+      "tag": "#G9CC9G2VQ",
+      "name": "Grizz",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 25070
     },
     {
       "tag": "#QLYLJV8LR",
@@ -1470,9 +1478,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/T4EsQszKbRT0J4VWP43fFBlIbJ46jyOHqsZf1Rj5Vgc.png"
         }
       },
-      "attackCount": 6,
+      "attackCount": 12,
       "districtCount": 9,
-      "districtsDestroyed": 3,
+      "districtsDestroyed": 5,
       "districts": [
         {
           "id": 70000000,
@@ -1487,10 +1495,36 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11874,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#G9CC9G2VQ",
+                "name": "Grizz"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#G9CC9G2VQ",
+                "name": "Grizz"
+              },
+              "destructionPercent": 72,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#G9CC9G2VQ",
+                "name": "Grizz"
+              },
+              "destructionPercent": 37,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000002,
@@ -1523,19 +1557,39 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 50,
+          "stars": 1,
+          "attackCount": 1,
+          "totalLooted": 4150,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#G9CC9G2VQ",
+                "name": "Grizz"
+              },
+              "destructionPercent": 50,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 50,
+          "stars": 1,
+          "attackCount": 1,
+          "totalLooted": 3650,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#G9CC9G2VQ",
+                "name": "Grizz"
+              },
+              "destructionPercent": 50,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000005,
@@ -1550,11 +1604,19 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 4,
-          "destructionPercent": 43,
-          "stars": 1,
-          "attackCount": 1,
-          "totalLooted": 3995,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9391,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#G9CC9G2VQ",
+                "name": "Grizz"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#8880L0C",
@@ -1626,9 +1688,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/ghFj-4tOB1q31boMMXLou5RXD8zuRg04e7FjEViJPh8.png"
         }
       },
-      "attackCount": 2,
+      "attackCount": 8,
       "districtCount": 9,
-      "districtsDestroyed": 1,
+      "districtsDestroyed": 3,
       "districts": [
         {
           "id": 70000000,
@@ -1715,19 +1777,71 @@
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11843,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#JY8R0809",
+                "name": "Principe beto"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#JY8R0809",
+                "name": "Principe beto"
+              },
+              "destructionPercent": 78,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#JY8R0809",
+                "name": "Principe beto"
+              },
+              "destructionPercent": 32,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11592,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#JY8R0809",
+                "name": "Principe beto"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#JY8R0809",
+                "name": "Principe beto"
+              },
+              "destructionPercent": 71,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#JY8R0809",
+                "name": "Principe beto"
+              },
+              "destructionPercent": 42,
+              "stars": 1
+            }
+          ]
         }
       ]
     }
