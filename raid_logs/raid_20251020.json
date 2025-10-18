@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251017T070000.000Z",
   "endTime": "20251020T070000.000Z",
-  "capitalTotalLoot": 501059,
+  "capitalTotalLoot": 552876,
   "raidsCompleted": 5,
-  "totalAttacks": 124,
-  "enemyDistrictsDestroyed": 45,
+  "totalAttacks": 134,
+  "enemyDistrictsDestroyed": 48,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -76,10 +76,10 @@
     {
       "tag": "#Q2QQL2YVV",
       "name": "cyan",
-      "attacks": 1,
+      "attacks": 5,
       "attackLimit": 5,
-      "bonusAttackLimit": 0,
-      "capitalResourcesLooted": 6170
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 28868
     },
     {
       "tag": "#Y80PLCRQ9",
@@ -88,6 +88,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 19160
+    },
+    {
+      "tag": "#YG8JU9QC2",
+      "name": "Umer Jawaid",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 29119
     },
     {
       "tag": "#G2Q8298Q2",
@@ -1786,9 +1794,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/yi5oqULLD0kujmpZCWlvIidY9zBqIGdIiYJlI-xFbP0.png"
         }
       },
-      "attackCount": 0,
+      "attackCount": 10,
       "districtCount": 9,
-      "districtsDestroyed": 0,
+      "districtsDestroyed": 3,
       "districts": [
         {
           "id": 70000000,
@@ -1821,19 +1829,55 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11292,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q2QQL2YVV",
+                "name": "cyan"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Q2QQL2YVV",
+                "name": "cyan"
+              },
+              "destructionPercent": 40,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 64,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 6670,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YG8JU9QC2",
+                "name": "Umer Jawaid"
+              },
+              "destructionPercent": 64,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#YG8JU9QC2",
+                "name": "Umer Jawaid"
+              },
+              "destructionPercent": 28,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000005,
@@ -1848,28 +1892,82 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11406,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q2QQL2YVV",
+                "name": "cyan"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Q2QQL2YVV",
+                "name": "cyan"
+              },
+              "destructionPercent": 35,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 93,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 10485,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YG8JU9QC2",
+                "name": "Umer Jawaid"
+              },
+              "destructionPercent": 93,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#YG8JU9QC2",
+                "name": "Umer Jawaid"
+              },
+              "destructionPercent": 50,
+              "stars": 2
+            }
+          ]
         },
         {
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11964,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YG8JU9QC2",
+                "name": "Umer Jawaid"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#YG8JU9QC2",
+                "name": "Umer Jawaid"
+              },
+              "destructionPercent": 64,
+              "stars": 2
+            }
+          ]
         }
       ]
     }
