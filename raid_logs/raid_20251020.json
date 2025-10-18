@@ -2,13 +2,21 @@
   "state": "ongoing",
   "startTime": "20251017T070000.000Z",
   "endTime": "20251020T070000.000Z",
-  "capitalTotalLoot": 217796,
+  "capitalTotalLoot": 249353,
   "raidsCompleted": 2,
-  "totalAttacks": 55,
-  "enemyDistrictsDestroyed": 18,
+  "totalAttacks": 61,
+  "enemyDistrictsDestroyed": 21,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
+    {
+      "tag": "#2L9JVC8PR",
+      "name": "Queen Taylor",
+      "attacks": 5,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 25387
+    },
     {
       "tag": "#92V882CPG",
       "name": "ichigo kurusaki",
@@ -48,6 +56,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 21003
+    },
+    {
+      "tag": "#Q2QQL2YVV",
+      "name": "cyan",
+      "attacks": 1,
+      "attackLimit": 5,
+      "bonusAttackLimit": 0,
+      "capitalResourcesLooted": 6170
     },
     {
       "tag": "#Y80PLCRQ9",
@@ -766,9 +782,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/5xZ2OxgkSY26Hz0Dgsy0yJtc1qsw8LTp6tswXGFOiT8.png"
         }
       },
-      "attackCount": 1,
+      "attackCount": 7,
       "districtCount": 9,
-      "districtsDestroyed": 0,
+      "districtsDestroyed": 3,
       "districts": [
         {
           "id": 70000000,
@@ -801,19 +817,47 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 63,
+          "stars": 2,
+          "attackCount": 1,
+          "totalLooted": 6170,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q2QQL2YVV",
+                "name": "cyan"
+              },
+              "destructionPercent": 63,
+              "stars": 2
+            }
+          ]
         },
         {
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10395,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2L9JVC8PR",
+                "name": "Queen Taylor"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2L9JVC8PR",
+                "name": "Queen Taylor"
+              },
+              "destructionPercent": 71,
+              "stars": 2
+            }
+          ]
         },
         {
           "id": 70000005,
@@ -828,11 +872,19 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 59,
-          "stars": 2,
-          "attackCount": 1,
-          "totalLooted": 6015,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10218,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#2L9JVC8PR",
+                "name": "Queen Taylor"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#PL09LLPUY",
@@ -847,10 +899,28 @@
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10789,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2L9JVC8PR",
+                "name": "Queen Taylor"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2L9JVC8PR",
+                "name": "Queen Taylor"
+              },
+              "destructionPercent": 52,
+              "stars": 2
+            }
+          ]
         },
         {
           "id": 70000008,
