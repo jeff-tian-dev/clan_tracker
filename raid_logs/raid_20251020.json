@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251017T070000.000Z",
   "endTime": "20251020T070000.000Z",
-  "capitalTotalLoot": 249353,
+  "capitalTotalLoot": 279094,
   "raidsCompleted": 2,
-  "totalAttacks": 61,
-  "enemyDistrictsDestroyed": 21,
+  "totalAttacks": 67,
+  "enemyDistrictsDestroyed": 23,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -96,6 +96,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 15425
+    },
+    {
+      "tag": "#GQUV8C0LP",
+      "name": "braum",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 29741
     },
     {
       "tag": "#9JU9LUPCL",
@@ -782,9 +790,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/5xZ2OxgkSY26Hz0Dgsy0yJtc1qsw8LTp6tswXGFOiT8.png"
         }
       },
-      "attackCount": 7,
+      "attackCount": 13,
       "districtCount": 9,
-      "districtsDestroyed": 3,
+      "districtsDestroyed": 5,
       "districts": [
         {
           "id": 70000000,
@@ -799,19 +807,39 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 44,
+          "stars": 1,
+          "attackCount": 1,
+          "totalLooted": 4565,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GQUV8C0LP",
+                "name": "braum"
+              },
+              "destructionPercent": 44,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
+          "destructionPercent": 45,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 1,
+          "totalLooted": 4705,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GQUV8C0LP",
+                "name": "braum"
+              },
+              "destructionPercent": 45,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000003,
@@ -863,10 +891,28 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10478,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GQUV8C0LP",
+                "name": "braum"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GQUV8C0LP",
+                "name": "braum"
+              },
+              "destructionPercent": 41,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000006,
@@ -926,10 +972,28 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9993,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GQUV8C0LP",
+                "name": "braum"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GQUV8C0LP",
+                "name": "braum"
+              },
+              "destructionPercent": 54,
+              "stars": 1
+            }
+          ]
         }
       ]
     }

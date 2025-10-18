@@ -28459,7 +28459,7 @@
       }
     ]
   },
-  "timestamp": "2025-10-18 00:00:04",
+  "timestamp": "2025-10-18 01:00:04",
   "#GPPQ0JCJR": {
     "name": "Goujii",
     "tag": "#GPPQ0JCJR",
@@ -60566,11 +60566,11 @@
       },
       {
         "date": "20251019",
-        "attacksUsed": 0,
-        "starsEarned": 0,
-        "destruction": 0,
-        "attacksMissed": 2,
-        "zeroParticipation": true
+        "attacksUsed": 1,
+        "starsEarned": 3,
+        "destruction": 100,
+        "attacksMissed": 1,
+        "zeroParticipation": false
       }
     ]
   },
@@ -67174,11 +67174,11 @@
       },
       {
         "date": "20251019",
-        "attacksUsed": 0,
-        "starsEarned": 0,
-        "destruction": 0,
-        "attacksMissed": 2,
-        "zeroParticipation": true
+        "attacksUsed": 2,
+        "starsEarned": 3,
+        "destruction": 106,
+        "attacksMissed": 0,
+        "zeroParticipation": false
       }
     ]
   },
@@ -71419,6 +71419,48 @@
   "#8QCYLPGYY": {
     "name": "hridoy",
     "tag": "#8QCYLPGYY",
+    "history": [
+      {
+        "date": "20251019",
+        "attacksUsed": "---",
+        "starsEarned": "---",
+        "destruction": "---",
+        "attacksMissed": 0,
+        "zeroParticipation": true
+      }
+    ]
+  },
+  "#G08GRJQRL": {
+    "name": "itz_lucifer",
+    "tag": "#G08GRJQRL",
+    "history": [
+      {
+        "date": "20251019",
+        "attacksUsed": "---",
+        "starsEarned": "---",
+        "destruction": "---",
+        "attacksMissed": 0,
+        "zeroParticipation": true
+      }
+    ]
+  },
+  "#QJ2G2C8L2": {
+    "name": "Ayush",
+    "tag": "#QJ2G2C8L2",
+    "history": [
+      {
+        "date": "20251019",
+        "attacksUsed": "---",
+        "starsEarned": "---",
+        "destruction": "---",
+        "attacksMissed": 0,
+        "zeroParticipation": true
+      }
+    ]
+  },
+  "#GQUV8C0LP": {
+    "name": "braum",
+    "tag": "#GQUV8C0LP",
     "history": [
       {
         "date": "20251019",

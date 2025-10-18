@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/MemvfcNsCKAIJd01S-vNV8_nVwYBGkQOTRp3HgJs0QU.png"
     },
     "clanLevel": 11,
-    "attacks": 15,
-    "stars": 29,
-    "destructionPercentage": 46.44,
+    "attacks": 18,
+    "stars": 35,
+    "destructionPercentage": 54.68,
     "members": [
       {
         "tag": "#8880L0C",
@@ -31,6 +31,16 @@
         "name": "voldemort",
         "townhallLevel": 15,
         "mapPosition": 19,
+        "attacks": [
+          {
+            "attackerTag": "#QYL88U9P0",
+            "defenderTag": "#Q2Y8UYRQC",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 19,
+            "duration": 93
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -59,6 +69,24 @@
         "name": "INDxSayan",
         "townhallLevel": 16,
         "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#GYGC88RGG",
+            "defenderTag": "#90CCJ9VC",
+            "stars": 0,
+            "destructionPercentage": 6,
+            "order": 20,
+            "duration": 21
+          },
+          {
+            "attackerTag": "#GYGC88RGG",
+            "defenderTag": "#29L8J29V9",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 21,
+            "duration": 118
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#LRJ20PYG2",
@@ -412,7 +440,15 @@
         "name": "Devisor",
         "townhallLevel": 16,
         "mapPosition": 9,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GYGC88RGG",
+          "defenderTag": "#90CCJ9VC",
+          "stars": 0,
+          "destructionPercentage": 6,
+          "order": 20,
+          "duration": 21
+        }
       },
       {
         "tag": "#9JGCQ89PC",
@@ -471,7 +507,15 @@
         "name": "unknown",
         "townhallLevel": 17,
         "mapPosition": 11,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GYGC88RGG",
+          "defenderTag": "#29L8J29V9",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 21,
+          "duration": 118
+        }
       },
       {
         "tag": "#89P2C8PJY",
@@ -507,7 +551,15 @@
         "name": "Red Bobby.ts",
         "townhallLevel": 15,
         "mapPosition": 22,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QYL88U9P0",
+          "defenderTag": "#Q2Y8UYRQC",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 19,
+          "duration": 93
+        }
       },
       {
         "tag": "#G0JC0VPCR",
