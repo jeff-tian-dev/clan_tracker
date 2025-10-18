@@ -24,7 +24,15 @@
         "name": "Thomas Cat",
         "townhallLevel": 17,
         "mapPosition": 5,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#202YL8202",
+          "defenderTag": "#8880L0C",
+          "stars": 2,
+          "destructionPercentage": 76,
+          "order": 66,
+          "duration": 145
+        }
       },
       {
         "tag": "#QYL88U9P0",
@@ -66,7 +74,15 @@
             "duration": 159
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#202YL8202",
+          "defenderTag": "#UJP2UYRY",
+          "stars": 2,
+          "destructionPercentage": 85,
+          "order": 65,
+          "duration": 143
+        }
       },
       {
         "tag": "#GLU9LC2LG",
@@ -703,9 +719,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/1dzoleLEeKhbXflE85LUwFmUQ70rsPFSqS2LxbSEs8o.png"
     },
     "clanLevel": 23,
-    "attacks": 26,
-    "stars": 44,
-    "destructionPercentage": 64.76,
+    "attacks": 28,
+    "stars": 48,
+    "destructionPercentage": 71.2,
     "members": [
       {
         "tag": "#U9Q8RCY",
@@ -1139,6 +1155,24 @@
         "name": "roy",
         "townhallLevel": 17,
         "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#202YL8202",
+            "defenderTag": "#UJP2UYRY",
+            "stars": 2,
+            "destructionPercentage": 85,
+            "order": 65,
+            "duration": 143
+          },
+          {
+            "attackerTag": "#202YL8202",
+            "defenderTag": "#8880L0C",
+            "stars": 2,
+            "destructionPercentage": 76,
+            "order": 66,
+            "duration": 145
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#G28CVVRJL",

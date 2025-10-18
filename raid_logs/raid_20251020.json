@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251017T070000.000Z",
   "endTime": "20251020T070000.000Z",
-  "capitalTotalLoot": 485963,
-  "raidsCompleted": 4,
-  "totalAttacks": 118,
-  "enemyDistrictsDestroyed": 43,
+  "capitalTotalLoot": 501059,
+  "raidsCompleted": 5,
+  "totalAttacks": 124,
+  "enemyDistrictsDestroyed": 45,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -88,6 +88,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 19160
+    },
+    {
+      "tag": "#G2Q8298Q2",
+      "name": "warlord",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 15096
     },
     {
       "tag": "#9RGPCRQCQ",
@@ -1486,18 +1494,60 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/T4EsQszKbRT0J4VWP43fFBlIbJ46jyOHqsZf1Rj5Vgc.png"
         }
       },
-      "attackCount": 16,
+      "attackCount": 22,
       "districtCount": 9,
-      "districtsDestroyed": 7,
+      "districtsDestroyed": 9,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 9,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 5,
+          "totalLooted": 12280,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#G2Q8298Q2",
+                "name": "warlord"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#G2Q8298Q2",
+                "name": "warlord"
+              },
+              "destructionPercent": 80,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#G2Q8298Q2",
+                "name": "warlord"
+              },
+              "destructionPercent": 52,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#G2Q8298Q2",
+                "name": "warlord"
+              },
+              "destructionPercent": 43,
+              "stars": 0
+            },
+            {
+              "attacker": {
+                "tag": "#G2Q8298Q2",
+                "name": "warlord"
+              },
+              "destructionPercent": 29,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
@@ -1592,11 +1642,19 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 4,
-          "destructionPercent": 83,
-          "stars": 1,
-          "attackCount": 2,
-          "totalLooted": 7040,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 9856,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#G2Q8298Q2",
+                "name": "warlord"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#GYGC88RGG",
@@ -1714,6 +1772,104 @@
               "stars": 3
             }
           ]
+        }
+      ]
+    },
+    {
+      "defender": {
+        "tag": "#29YPCRVVL",
+        "name": "Girls Only",
+        "level": 24,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/yi5oqULLD0kujmpZCWlvIidY9zBqIGdIiYJlI-xFbP0.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/yi5oqULLD0kujmpZCWlvIidY9zBqIGdIiYJlI-xFbP0.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/yi5oqULLD0kujmpZCWlvIidY9zBqIGdIiYJlI-xFbP0.png"
+        }
+      },
+      "attackCount": 0,
+      "districtCount": 9,
+      "districtsDestroyed": 0,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 10,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 4,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 4,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
         }
       ]
     }
