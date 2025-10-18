@@ -15,7 +15,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/MemvfcNsCKAIJd01S-vNV8_nVwYBGkQOTRp3HgJs0QU.png"
     },
     "clanLevel": 11,
-    "attacks": 24,
+    "attacks": 25,
     "stars": 47,
     "destructionPercentage": 67.12,
     "members": [
@@ -209,7 +209,15 @@
         "name": "gun",
         "townhallLevel": 16,
         "mapPosition": 13,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2YUGJQP",
+          "defenderTag": "#2CQLC28UP",
+          "stars": 1,
+          "destructionPercentage": 29,
+          "order": 29,
+          "duration": 51
+        }
       },
       {
         "tag": "#YG8JU9QC2",
@@ -310,7 +318,15 @@
         "name": "JT",
         "townhallLevel": 14,
         "mapPosition": 24,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#R0YLRVUCQ",
+          "defenderTag": "#QRP2RLV02",
+          "stars": 0,
+          "destructionPercentage": 48,
+          "order": 30,
+          "duration": 68
+        }
       },
       {
         "tag": "#G28CVVRJL",
@@ -375,9 +391,25 @@
             "destructionPercentage": 100,
             "order": 11,
             "duration": 139
+          },
+          {
+            "attackerTag": "#GGYGQ8098",
+            "defenderTag": "#8YPUURR8G",
+            "stars": 1,
+            "destructionPercentage": 8,
+            "order": 31,
+            "duration": 23
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#R0YLRVUCQ",
+          "defenderTag": "#GGYGQ8098",
+          "stars": 2,
+          "destructionPercentage": 91,
+          "order": 28,
+          "duration": 118
+        }
       },
       {
         "tag": "#G9CC9G2VQ",
@@ -447,9 +479,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/1dzoleLEeKhbXflE85LUwFmUQ70rsPFSqS2LxbSEs8o.png"
     },
     "clanLevel": 23,
-    "attacks": 3,
-    "stars": 7,
-    "destructionPercentage": 10.96,
+    "attacks": 6,
+    "stars": 10,
+    "destructionPercentage": 17.68,
     "members": [
       {
         "tag": "#U9Q8RCY",
@@ -658,6 +690,16 @@
         "name": "bro mi",
         "townhallLevel": 17,
         "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#2YUGJQP",
+            "defenderTag": "#2CQLC28UP",
+            "stars": 1,
+            "destructionPercentage": 29,
+            "order": 29,
+            "duration": 51
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#GLU9LC2LG",
@@ -703,6 +745,24 @@
         "name": "Mr September \u2764\ufe0f",
         "townhallLevel": 12,
         "mapPosition": 25,
+        "attacks": [
+          {
+            "attackerTag": "#R0YLRVUCQ",
+            "defenderTag": "#GGYGQ8098",
+            "stars": 2,
+            "destructionPercentage": 91,
+            "order": 28,
+            "duration": 118
+          },
+          {
+            "attackerTag": "#R0YLRVUCQ",
+            "defenderTag": "#QRP2RLV02",
+            "stars": 0,
+            "destructionPercentage": 48,
+            "order": 30,
+            "duration": 68
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#GGYGQ8098",
@@ -725,7 +785,7 @@
         "name": "johnny",
         "townhallLevel": 17,
         "mapPosition": 1,
-        "opponentAttacks": 3,
+        "opponentAttacks": 4,
         "bestOpponentAttack": {
           "attackerTag": "#2R2JYRRU",
           "defenderTag": "#8YPUURR8G",

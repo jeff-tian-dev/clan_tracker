@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251017T070000.000Z",
   "endTime": "20251020T070000.000Z",
-  "capitalTotalLoot": 290371,
-  "raidsCompleted": 2,
-  "totalAttacks": 70,
-  "enemyDistrictsDestroyed": 25,
+  "capitalTotalLoot": 317880,
+  "raidsCompleted": 3,
+  "totalAttacks": 76,
+  "enemyDistrictsDestroyed": 27,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -96,6 +96,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 15425
+    },
+    {
+      "tag": "#G28CVVRJL",
+      "name": "exofall",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 27509
     },
     {
       "tag": "#GQUV8C0LP",
@@ -798,18 +806,44 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/5xZ2OxgkSY26Hz0Dgsy0yJtc1qsw8LTp6tswXGFOiT8.png"
         }
       },
-      "attackCount": 16,
+      "attackCount": 20,
       "districtCount": 9,
-      "districtsDestroyed": 7,
+      "districtsDestroyed": 9,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 13850,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#G28CVVRJL",
+                "name": "exofall"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#G28CVVRJL",
+                "name": "exofall"
+              },
+              "destructionPercent": 81,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#G28CVVRJL",
+                "name": "exofall"
+              },
+              "destructionPercent": 32,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
@@ -850,11 +884,19 @@
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 45,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 4705,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9759,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#G28CVVRJL",
+                "name": "exofall"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#GQUV8C0LP",
@@ -1026,6 +1068,122 @@
               "stars": 1
             }
           ]
+        }
+      ]
+    },
+    {
+      "defender": {
+        "tag": "#9R2Y99UV",
+        "name": "\u062d\u062f\u0627\u064a\u0642 \u0648\u0646\u0639\u062c\u0628",
+        "level": 22,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/0UKK34n_TSniW5rfxougngRyEAblyIVMEJVznIWlel0.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/0UKK34n_TSniW5rfxougngRyEAblyIVMEJVznIWlel0.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/0UKK34n_TSniW5rfxougngRyEAblyIVMEJVznIWlel0.png"
+        }
+      },
+      "attackCount": 2,
+      "districtCount": 9,
+      "districtsDestroyed": 0,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 10,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 5,
+          "destructionPercent": 76,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 8605,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#G28CVVRJL",
+                "name": "exofall"
+              },
+              "destructionPercent": 76,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#G28CVVRJL",
+                "name": "exofall"
+              },
+              "destructionPercent": 43,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 4,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 4,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
         }
       ]
     }
