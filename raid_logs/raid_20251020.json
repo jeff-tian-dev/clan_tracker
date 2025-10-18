@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251017T070000.000Z",
   "endTime": "20251020T070000.000Z",
-  "capitalTotalLoot": 376336,
+  "capitalTotalLoot": 406992,
   "raidsCompleted": 3,
-  "totalAttacks": 89,
-  "enemyDistrictsDestroyed": 31,
+  "totalAttacks": 99,
+  "enemyDistrictsDestroyed": 35,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -100,10 +100,18 @@
     {
       "tag": "#QYCLC0JLL",
       "name": "83c",
-      "attacks": 3,
+      "attacks": 4,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 12026
+      "capitalResourcesLooted": 13311
+    },
+    {
+      "tag": "#9CC0JJCV9",
+      "name": "Champ adi",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 22830
     },
     {
       "tag": "#QRP2RLV02",
@@ -148,10 +156,10 @@
     {
       "tag": "#QLYLJV8LR",
       "name": "Sivam",
-      "attacks": 3,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 11277
+      "capitalResourcesLooted": 17818
     }
   ],
   "attackLog": [
@@ -1106,27 +1114,71 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/0UKK34n_TSniW5rfxougngRyEAblyIVMEJVznIWlel0.png"
         }
       },
-      "attackCount": 15,
+      "attackCount": 25,
       "districtCount": 9,
-      "districtsDestroyed": 4,
+      "districtsDestroyed": 8,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
+          "destructionPercent": 30,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 2,
+          "totalLooted": 4760,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QLYLJV8LR",
+                "name": "Sivam"
+              },
+              "destructionPercent": 30,
+              "stars": 0
+            },
+            {
+              "attacker": {
+                "tag": "#QLYLJV8LR",
+                "name": "Sivam"
+              },
+              "destructionPercent": 26,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11463,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#9CC0JJCV9",
+                "name": "Champ adi"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#9CC0JJCV9",
+                "name": "Champ adi"
+              },
+              "destructionPercent": 69,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#9CC0JJCV9",
+                "name": "Champ adi"
+              },
+              "destructionPercent": 38,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000002,
@@ -1159,20 +1211,54 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11367,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#9CC0JJCV9",
+                "name": "Champ adi"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#9CC0JJCV9",
+                "name": "Champ adi"
+              },
+              "destructionPercent": 74,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#9CC0JJCV9",
+                "name": "Champ adi"
+              },
+              "destructionPercent": 35,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 90,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 10530,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 12311,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#QLYLJV8LR",
+                "name": "Sivam"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#QRP2RLV02",
@@ -1300,11 +1386,19 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 93,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 10910,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 12195,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#QYCLC0JLL",
+                "name": "83c"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#GYL9UYRYU",
