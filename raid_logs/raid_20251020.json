@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251017T070000.000Z",
   "endTime": "20251020T070000.000Z",
-  "capitalTotalLoot": 355149,
+  "capitalTotalLoot": 376336,
   "raidsCompleted": 3,
-  "totalAttacks": 85,
-  "enemyDistrictsDestroyed": 30,
+  "totalAttacks": 89,
+  "enemyDistrictsDestroyed": 31,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -88,6 +88,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 23017
+    },
+    {
+      "tag": "#GYL9UYRYU",
+      "name": "Niloy",
+      "attacks": 4,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 21187
     },
     {
       "tag": "#QYCLC0JLL",
@@ -1098,9 +1106,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/0UKK34n_TSniW5rfxougngRyEAblyIVMEJVznIWlel0.png"
         }
       },
-      "attackCount": 11,
+      "attackCount": 15,
       "districtCount": 9,
-      "districtsDestroyed": 3,
+      "districtsDestroyed": 4,
       "districts": [
         {
           "id": 70000000,
@@ -1124,10 +1132,28 @@
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10277,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GYL9UYRYU",
+                "name": "Niloy"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GYL9UYRYU",
+                "name": "Niloy"
+              },
+              "destructionPercent": 44,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000003,
@@ -1274,10 +1300,28 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 93,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 10910,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GYL9UYRYU",
+                "name": "Niloy"
+              },
+              "destructionPercent": 93,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#GYL9UYRYU",
+                "name": "Niloy"
+              },
+              "destructionPercent": 54,
+              "stars": 2
+            }
+          ]
         }
       ]
     }

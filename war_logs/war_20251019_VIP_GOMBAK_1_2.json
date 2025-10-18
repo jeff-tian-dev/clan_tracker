@@ -83,7 +83,15 @@
             "duration": 146
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 2,
+        "bestOpponentAttack": {
+          "attackerTag": "#U9Q8RCY",
+          "defenderTag": "#GLU9LC2LG",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 53,
+          "duration": 138
+        }
       },
       {
         "tag": "#Q9QU8L8YV",
@@ -108,7 +116,15 @@
             "duration": 160
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LCCLVR2V",
+          "defenderTag": "#Q9QU8L8YV",
+          "stars": 2,
+          "destructionPercentage": 93,
+          "order": 52,
+          "duration": 175
+        }
       },
       {
         "tag": "#GYGC88RGG",
@@ -335,21 +351,29 @@
         "name": "King Killer",
         "townhallLevel": 15,
         "mapPosition": 17,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LCCLVR2V",
+          "defenderTag": "#J88YJGY9",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 51,
+          "duration": 143
+        }
       },
       {
         "tag": "#YJ2UV2GY",
         "name": "Sir Hazelnut\u2122\ufe0f",
         "townhallLevel": 15,
         "mapPosition": 16,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#GPGU022YJ",
+          "attackerTag": "#U9Q8RCY",
           "defenderTag": "#YJ2UV2GY",
-          "stars": 2,
-          "destructionPercentage": 91,
-          "order": 18,
-          "duration": 131
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 54,
+          "duration": 137
         }
       },
       {
@@ -573,7 +597,15 @@
             "duration": 156
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#L99CV8CC0",
+          "defenderTag": "#LGGLYVUPP",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 49,
+          "duration": 136
+        }
       },
       {
         "tag": "#Y2PVPPU8C",
@@ -619,15 +651,33 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/1dzoleLEeKhbXflE85LUwFmUQ70rsPFSqS2LxbSEs8o.png"
     },
     "clanLevel": 23,
-    "attacks": 13,
-    "stars": 23,
-    "destructionPercentage": 39.0,
+    "attacks": 19,
+    "stars": 35,
+    "destructionPercentage": 55.08,
     "members": [
       {
         "tag": "#U9Q8RCY",
         "name": "Sufian Ni Boss",
         "townhallLevel": 15,
         "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#U9Q8RCY",
+            "defenderTag": "#GLU9LC2LG",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 53,
+            "duration": 138
+          },
+          {
+            "attackerTag": "#U9Q8RCY",
+            "defenderTag": "#YJ2UV2GY",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 54,
+            "duration": 137
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#Y80PLCRQ9",
@@ -761,6 +811,24 @@
         "name": "Leftenan Jin",
         "townhallLevel": 15,
         "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#LCCLVR2V",
+            "defenderTag": "#J88YJGY9",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 51,
+            "duration": 143
+          },
+          {
+            "attackerTag": "#LCCLVR2V",
+            "defenderTag": "#Q9QU8L8YV",
+            "stars": 2,
+            "destructionPercentage": 93,
+            "order": 52,
+            "duration": 175
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#UJP2UYRY",
@@ -821,6 +889,24 @@
         "name": "RED CINTAMELODY",
         "townhallLevel": 15,
         "mapPosition": 20,
+        "attacks": [
+          {
+            "attackerTag": "#L99CV8CC0",
+            "defenderTag": "#LGGLYVUPP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 49,
+            "duration": 136
+          },
+          {
+            "attackerTag": "#L99CV8CC0",
+            "defenderTag": "#GLU9LC2LG",
+            "stars": 2,
+            "destructionPercentage": 76,
+            "order": 50,
+            "duration": 153
+          }
+        ],
         "opponentAttacks": 0
       },
       {
