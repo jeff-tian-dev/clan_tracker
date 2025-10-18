@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251017T070000.000Z",
   "endTime": "20251020T070000.000Z",
-  "capitalTotalLoot": 556081,
+  "capitalTotalLoot": 579606,
   "raidsCompleted": 5,
-  "totalAttacks": 135,
-  "enemyDistrictsDestroyed": 48,
+  "totalAttacks": 140,
+  "enemyDistrictsDestroyed": 51,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -100,10 +100,10 @@
     {
       "tag": "#L0UJQ0Y89",
       "name": "doruk",
-      "attacks": 1,
+      "attacks": 6,
       "attackLimit": 5,
-      "bonusAttackLimit": 0,
-      "capitalResourcesLooted": 3205
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 26730
     },
     {
       "tag": "#G2Q8298Q2",
@@ -1802,9 +1802,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/yi5oqULLD0kujmpZCWlvIidY9zBqIGdIiYJlI-xFbP0.png"
         }
       },
-      "attackCount": 11,
+      "attackCount": 16,
       "districtCount": 9,
-      "districtsDestroyed": 3,
+      "districtsDestroyed": 6,
       "districts": [
         {
           "id": 70000000,
@@ -1828,11 +1828,27 @@
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 35,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 3205,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10679,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#L0UJQ0Y89",
+                "name": "doruk"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#L0UJQ0Y89",
+                "name": "doruk"
+              },
+              "destructionPercent": 70,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#L0UJQ0Y89",
@@ -1874,11 +1890,19 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 64,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 6670,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11079,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#L0UJQ0Y89",
+                "name": "doruk"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#YG8JU9QC2",
@@ -1901,10 +1925,28 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11642,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#L0UJQ0Y89",
+                "name": "doruk"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#L0UJQ0Y89",
+                "name": "doruk"
+              },
+              "destructionPercent": 64,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000006,
@@ -2002,9 +2044,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/ghFj-4tOB1q31boMMXLou5RXD8zuRg04e7FjEViJPh8.png"
         }
       },
-      "attackCount": 15,
+      "attackCount": 21,
       "districtCount": 9,
-      "districtsDestroyed": 5,
+      "districtsDestroyed": 7,
       "districts": [
         {
           "id": 70000000,
@@ -2028,10 +2070,36 @@
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10697,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2QPRYVPL",
+                "name": "Vini Bazilio"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2QPRYVPL",
+                "name": "Vini Bazilio"
+              },
+              "destructionPercent": 80,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#2QPRYVPL",
+                "name": "Vini Bazilio"
+              },
+              "destructionPercent": 46,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000003,
@@ -2107,11 +2175,35 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 36,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 2325,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 12020,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#2QPRYVPL",
+                "name": "Vini Bazilio"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2QPRYVPL",
+                "name": "Vini Bazilio"
+              },
+              "destructionPercent": 95,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#2QPRYVPL",
+                "name": "Vini Bazilio"
+              },
+              "destructionPercent": 54,
+              "stars": 1
+            },
             {
               "attacker": {
                 "tag": "#QPL88UV0V",

@@ -158,14 +158,14 @@
             "duration": 160
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#LCCLVR2V",
+          "attackerTag": "#G0JC0VPCR",
           "defenderTag": "#Q9QU8L8YV",
-          "stars": 2,
-          "destructionPercentage": 93,
-          "order": 52,
-          "duration": 175
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 77,
+          "duration": 172
         }
       },
       {
@@ -323,7 +323,15 @@
             "duration": 72
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#220UPLGRC",
+          "defenderTag": "#Y80PLCRQ9",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 78,
+          "duration": 123
+        }
       },
       {
         "tag": "#9U2YP0RY",
@@ -446,14 +454,14 @@
             "duration": 88
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#G092QC8C8",
+          "attackerTag": "#220UPLGRC",
           "defenderTag": "#G2Q8298Q2",
-          "stars": 1,
-          "destructionPercentage": 72,
-          "order": 75,
-          "duration": 111
+          "stars": 2,
+          "destructionPercentage": 73,
+          "order": 79,
+          "duration": 119
         }
       },
       {
@@ -761,9 +769,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/1dzoleLEeKhbXflE85LUwFmUQ70rsPFSqS2LxbSEs8o.png"
     },
     "clanLevel": 23,
-    "attacks": 36,
-    "stars": 59,
-    "destructionPercentage": 85.2,
+    "attacks": 39,
+    "stars": 64,
+    "destructionPercentage": 89.52,
     "members": [
       {
         "tag": "#U9Q8RCY",
@@ -1196,6 +1204,14 @@
             "destructionPercentage": 100,
             "order": 70,
             "duration": 160
+          },
+          {
+            "attackerTag": "#G0JC0VPCR",
+            "defenderTag": "#Q9QU8L8YV",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 77,
+            "duration": 172
           }
         ],
         "opponentAttacks": 3,
@@ -1304,6 +1320,24 @@
         "name": "kzone",
         "townhallLevel": 17,
         "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#220UPLGRC",
+            "defenderTag": "#Y80PLCRQ9",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 78,
+            "duration": 123
+          },
+          {
+            "attackerTag": "#220UPLGRC",
+            "defenderTag": "#G2Q8298Q2",
+            "stars": 2,
+            "destructionPercentage": 73,
+            "order": 79,
+            "duration": 119
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#2R2JYRRU",
