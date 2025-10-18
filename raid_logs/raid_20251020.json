@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251017T070000.000Z",
   "endTime": "20251020T070000.000Z",
-  "capitalTotalLoot": 317880,
+  "capitalTotalLoot": 355149,
   "raidsCompleted": 3,
-  "totalAttacks": 76,
-  "enemyDistrictsDestroyed": 27,
+  "totalAttacks": 85,
+  "enemyDistrictsDestroyed": 30,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -28,10 +28,10 @@
     {
       "tag": "#QYL88U9P0",
       "name": "voldemort",
-      "attacks": 2,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 5906
+      "capitalResourcesLooted": 20619
     },
     {
       "tag": "#Q80GLV90Y",
@@ -88,6 +88,22 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 23017
+    },
+    {
+      "tag": "#QYCLC0JLL",
+      "name": "83c",
+      "attacks": 3,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 12026
+    },
+    {
+      "tag": "#QRP2RLV02",
+      "name": "JT",
+      "attacks": 2,
+      "attackLimit": 5,
+      "bonusAttackLimit": 0,
+      "capitalResourcesLooted": 10530
     },
     {
       "tag": "#PP9JJJ8P",
@@ -1082,9 +1098,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/0UKK34n_TSniW5rfxougngRyEAblyIVMEJVznIWlel0.png"
         }
       },
-      "attackCount": 2,
+      "attackCount": 11,
       "districtCount": 9,
-      "districtsDestroyed": 0,
+      "districtsDestroyed": 3,
       "districts": [
         {
           "id": 70000000,
@@ -1126,29 +1142,81 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 90,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 10530,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QRP2RLV02",
+                "name": "JT"
+              },
+              "destructionPercent": 90,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#QRP2RLV02",
+                "name": "JT"
+              },
+              "destructionPercent": 33,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 12026,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QYCLC0JLL",
+                "name": "83c"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QYCLC0JLL",
+                "name": "83c"
+              },
+              "destructionPercent": 89,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#QYCLC0JLL",
+                "name": "83c"
+              },
+              "destructionPercent": 31,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 76,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 8605,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11718,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#QYL88U9P0",
+                "name": "voldemort"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#G28CVVRJL",
@@ -1171,10 +1239,36 @@
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11600,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QYL88U9P0",
+                "name": "voldemort"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QYL88U9P0",
+                "name": "voldemort"
+              },
+              "destructionPercent": 54,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#QYL88U9P0",
+                "name": "voldemort"
+              },
+              "destructionPercent": 25,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000008,
