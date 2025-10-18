@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/MemvfcNsCKAIJd01S-vNV8_nVwYBGkQOTRp3HgJs0QU.png"
     },
     "clanLevel": 11,
-    "attacks": 25,
-    "stars": 47,
-    "destructionPercentage": 67.12,
+    "attacks": 26,
+    "stars": 50,
+    "destructionPercentage": 71.12,
     "members": [
       {
         "tag": "#8880L0C",
@@ -80,6 +80,16 @@
         "name": "je suis excit\u00e9",
         "townhallLevel": 17,
         "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#Q9QU8L8YV",
+            "defenderTag": "#G0U0C92QU",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 34,
+            "duration": 148
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -311,7 +321,15 @@
             "duration": 82
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GP0VVVURV",
+          "defenderTag": "#QYCLC0JLL",
+          "stars": 1,
+          "destructionPercentage": 78,
+          "order": 32,
+          "duration": 127
+        }
       },
       {
         "tag": "#QRP2RLV02",
@@ -466,7 +484,15 @@
         "name": "\u2b50\u2b505 StarFree\u2b50\u2b50\u2b50",
         "townhallLevel": 17,
         "mapPosition": 2,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GP0VVVURV",
+          "defenderTag": "#Y2PVPPU8C",
+          "stars": 2,
+          "destructionPercentage": 64,
+          "order": 33,
+          "duration": 146
+        }
       }
     ]
   },
@@ -479,9 +505,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/1dzoleLEeKhbXflE85LUwFmUQ70rsPFSqS2LxbSEs8o.png"
     },
     "clanLevel": 23,
-    "attacks": 6,
-    "stars": 10,
-    "destructionPercentage": 17.68,
+    "attacks": 8,
+    "stars": 13,
+    "destructionPercentage": 23.36,
     "members": [
       {
         "tag": "#U9Q8RCY",
@@ -519,7 +545,15 @@
         "name": "wanzai",
         "townhallLevel": 17,
         "mapPosition": 8,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q9QU8L8YV",
+          "defenderTag": "#G0U0C92QU",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 34,
+          "duration": 148
+        }
       },
       {
         "tag": "#90CCJ9VC",
@@ -815,6 +849,24 @@
         "name": "Haafizrxz",
         "townhallLevel": 17,
         "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#GP0VVVURV",
+            "defenderTag": "#QYCLC0JLL",
+            "stars": 1,
+            "destructionPercentage": 78,
+            "order": 32,
+            "duration": 127
+          },
+          {
+            "attackerTag": "#GP0VVVURV",
+            "defenderTag": "#Y2PVPPU8C",
+            "stars": 2,
+            "destructionPercentage": 64,
+            "order": 33,
+            "duration": 146
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#QYCLC0JLL",
