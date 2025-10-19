@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251017T070000.000Z",
   "endTime": "20251020T070000.000Z",
-  "capitalTotalLoot": 890000,
+  "capitalTotalLoot": 906361,
   "raidsCompleted": 10,
-  "totalAttacks": 216,
-  "enemyDistrictsDestroyed": 77,
+  "totalAttacks": 222,
+  "enemyDistrictsDestroyed": 80,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -64,6 +64,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 23612
+    },
+    {
+      "tag": "#80JV2PUR",
+      "name": "$GingerKing$",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 16361
     },
     {
       "tag": "#Q80GLV90Y",
@@ -2822,28 +2830,46 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/uii1RseZornRJdyhUfetAAargh1dCKy97Je775BUE-U.png"
         }
       },
-      "attackCount": 20,
+      "attackCount": 26,
       "districtCount": 9,
-      "districtsDestroyed": 5,
+      "districtsDestroyed": 8,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
+          "destructionPercent": 28,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 1,
+          "totalLooted": 1790,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#80JV2PUR",
+                "name": "$GingerKing$"
+              },
+              "destructionPercent": 28,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 83,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 8870,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11766,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#80JV2PUR",
+                "name": "$GingerKing$"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#Y8R9P0UUG",
@@ -2866,10 +2892,36 @@
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10391,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#80JV2PUR",
+                "name": "$GingerKing$"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#80JV2PUR",
+                "name": "$GingerKing$"
+              },
+              "destructionPercent": 73,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#80JV2PUR",
+                "name": "$GingerKing$"
+              },
+              "destructionPercent": 28,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000003,
@@ -3058,11 +3110,19 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 89,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 10800,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 12084,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#80JV2PUR",
+                "name": "$GingerKing$"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#GGC0JJVVQ",
