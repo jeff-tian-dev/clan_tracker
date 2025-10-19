@@ -2,20 +2,20 @@
   "state": "ongoing",
   "startTime": "20251017T070000.000Z",
   "endTime": "20251020T070000.000Z",
-  "capitalTotalLoot": 817644,
+  "capitalTotalLoot": 844420,
   "raidsCompleted": 10,
-  "totalAttacks": 198,
-  "enemyDistrictsDestroyed": 72,
+  "totalAttacks": 204,
+  "enemyDistrictsDestroyed": 74,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
     {
       "tag": "#Y8R9P0UUG",
       "name": "MD.OLE OLA",
-      "attacks": 0,
+      "attacks": 6,
       "attackLimit": 5,
-      "bonusAttackLimit": 0,
-      "capitalResourcesLooted": 0
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 26776
     },
     {
       "tag": "#2L9JVC8PR",
@@ -2806,9 +2806,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/uii1RseZornRJdyhUfetAAargh1dCKy97Je775BUE-U.png"
         }
       },
-      "attackCount": 2,
+      "attackCount": 8,
       "districtCount": 9,
-      "districtsDestroyed": 0,
+      "districtsDestroyed": 2,
       "districts": [
         {
           "id": 70000000,
@@ -2823,10 +2823,28 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 83,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 8870,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Y8R9P0UUG",
+                "name": "MD.OLE OLA"
+              },
+              "destructionPercent": 83,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#Y8R9P0UUG",
+                "name": "MD.OLE OLA"
+              },
+              "destructionPercent": 44,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000002,
@@ -2850,11 +2868,27 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 23,
-          "stars": 1,
-          "attackCount": 1,
-          "totalLooted": 2470,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11870,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#Y8R9P0UUG",
+                "name": "MD.OLE OLA"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Y8R9P0UUG",
+                "name": "MD.OLE OLA"
+              },
+              "destructionPercent": 69,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#LUV8JJ2VJ",
@@ -2878,11 +2912,27 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 35,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 3275,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11781,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#Y8R9P0UUG",
+                "name": "MD.OLE OLA"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Y8R9P0UUG",
+                "name": "MD.OLE OLA"
+              },
+              "destructionPercent": 79,
+              "stars": 1
+            },
             {
               "attacker": {
                 "tag": "#Q2QQL2YVV",
