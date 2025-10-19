@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251017T070000.000Z",
   "endTime": "20251020T070000.000Z",
-  "capitalTotalLoot": 725409,
+  "capitalTotalLoot": 732414,
   "raidsCompleted": 7,
-  "totalAttacks": 172,
-  "enemyDistrictsDestroyed": 64,
+  "totalAttacks": 173,
+  "enemyDistrictsDestroyed": 65,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -228,10 +228,10 @@
     {
       "tag": "#2R2JYRRU",
       "name": "taz",
-      "attacks": 5,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 21997
+      "capitalResourcesLooted": 29002
     },
     {
       "tag": "#9JU9LUPCL",
@@ -2434,9 +2434,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/pO5TQBRlXCw63FWOGbBbvCHjH89Tnh_E-pkzzALQHjQ.png"
         }
       },
-      "attackCount": 3,
+      "attackCount": 4,
       "districtCount": 9,
-      "districtsDestroyed": 1,
+      "districtsDestroyed": 2,
       "districts": [
         {
           "id": 70000000,
@@ -2514,11 +2514,19 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 44,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 3290,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10295,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#2R2JYRRU",
+                "name": "taz"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#2R2JYRRU",
@@ -2562,7 +2570,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/ghFj-4tOB1q31boMMXLou5RXD8zuRg04e7FjEViJPh8.png"
         }
       },
-      "attackCount": 28,
+      "attackCount": 29,
       "districtCount": 9,
       "districtsDestroyed": 8,
       "districts": [
@@ -2570,11 +2578,19 @@
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 78,
+          "destructionPercent": 86,
           "stars": 1,
-          "attackCount": 3,
-          "totalLooted": 7850,
+          "attackCount": 4,
+          "totalLooted": 10180,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#CPP2UJUC",
+                "name": "Zulugudando"
+              },
+              "destructionPercent": 86,
+              "stars": 1
+            },
             {
               "attacker": {
                 "tag": "#9LRYUG8R",
