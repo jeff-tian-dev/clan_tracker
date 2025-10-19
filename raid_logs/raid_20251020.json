@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251017T070000.000Z",
   "endTime": "20251020T070000.000Z",
-  "capitalTotalLoot": 844420,
+  "capitalTotalLoot": 890000,
   "raidsCompleted": 10,
-  "totalAttacks": 204,
-  "enemyDistrictsDestroyed": 74,
+  "totalAttacks": 216,
+  "enemyDistrictsDestroyed": 77,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -250,6 +250,14 @@
       "capitalResourcesLooted": 29741
     },
     {
+      "tag": "#GGC0JJVVQ",
+      "name": "SS003",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 31292
+    },
+    {
       "tag": "#2R2JYRRU",
       "name": "taz",
       "attacks": 6,
@@ -272,6 +280,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 33291
+    },
+    {
+      "tag": "#2GRRUL2LR",
+      "name": "LOLAIRER",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 14288
     },
     {
       "tag": "#G9CC9G2VQ",
@@ -2806,9 +2822,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/uii1RseZornRJdyhUfetAAargh1dCKy97Je775BUE-U.png"
         }
       },
-      "attackCount": 8,
+      "attackCount": 20,
       "districtCount": 9,
-      "districtsDestroyed": 2,
+      "districtsDestroyed": 5,
       "districts": [
         {
           "id": 70000000,
@@ -2859,10 +2875,36 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11280,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2GRRUL2LR",
+                "name": "LOLAIRER"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GGC0JJVVQ",
+                "name": "SS003"
+              },
+              "destructionPercent": 76,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#GGC0JJVVQ",
+                "name": "SS003"
+              },
+              "destructionPercent": 38,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000004,
@@ -2903,10 +2945,52 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 5,
+          "totalLooted": 11783,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2GRRUL2LR",
+                "name": "LOLAIRER"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2GRRUL2LR",
+                "name": "LOLAIRER"
+              },
+              "destructionPercent": 81,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#2GRRUL2LR",
+                "name": "LOLAIRER"
+              },
+              "destructionPercent": 71,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#2GRRUL2LR",
+                "name": "LOLAIRER"
+              },
+              "destructionPercent": 53,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#2GRRUL2LR",
+                "name": "LOLAIRER"
+              },
+              "destructionPercent": 24,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000006,
@@ -2947,19 +3031,55 @@
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11717,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GGC0JJVVQ",
+                "name": "SS003"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GGC0JJVVQ",
+                "name": "SS003"
+              },
+              "destructionPercent": 47,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 89,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 10800,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GGC0JJVVQ",
+                "name": "SS003"
+              },
+              "destructionPercent": 89,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#GGC0JJVVQ",
+                "name": "SS003"
+              },
+              "destructionPercent": 31,
+              "stars": 0
+            }
+          ]
         }
       ]
     }
