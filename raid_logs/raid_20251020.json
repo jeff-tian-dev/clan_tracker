@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251017T070000.000Z",
   "endTime": "20251020T070000.000Z",
-  "capitalTotalLoot": 798100,
-  "raidsCompleted": 8,
-  "totalAttacks": 191,
-  "enemyDistrictsDestroyed": 71,
+  "capitalTotalLoot": 814369,
+  "raidsCompleted": 9,
+  "totalAttacks": 197,
+  "enemyDistrictsDestroyed": 72,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -272,6 +272,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 25070
+    },
+    {
+      "tag": "#LUV8JJ2VJ",
+      "name": "CAPTAIN India",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 16269
     },
     {
       "tag": "#QLYLJV8LR",
@@ -2458,18 +2466,60 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/pO5TQBRlXCw63FWOGbBbvCHjH89Tnh_E-pkzzALQHjQ.png"
         }
       },
-      "attackCount": 22,
+      "attackCount": 27,
       "districtCount": 9,
-      "districtsDestroyed": 8,
+      "districtsDestroyed": 9,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 5,
+          "totalLooted": 13799,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LUV8JJ2VJ",
+                "name": "CAPTAIN India"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LUV8JJ2VJ",
+                "name": "CAPTAIN India"
+              },
+              "destructionPercent": 53,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#LUV8JJ2VJ",
+                "name": "CAPTAIN India"
+              },
+              "destructionPercent": 34,
+              "stars": 0
+            },
+            {
+              "attacker": {
+                "tag": "#LUV8JJ2VJ",
+                "name": "CAPTAIN India"
+              },
+              "destructionPercent": 24,
+              "stars": 0
+            },
+            {
+              "attacker": {
+                "tag": "#LUV8JJ2VJ",
+                "name": "CAPTAIN India"
+              },
+              "destructionPercent": 10,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
@@ -2734,6 +2784,114 @@
               "stars": 0
             }
           ]
+        }
+      ]
+    },
+    {
+      "defender": {
+        "tag": "#992PPYP9",
+        "name": "TIGERS OF WAR 2",
+        "level": 34,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/uii1RseZornRJdyhUfetAAargh1dCKy97Je775BUE-U.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/uii1RseZornRJdyhUfetAAargh1dCKy97Je775BUE-U.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/uii1RseZornRJdyhUfetAAargh1dCKy97Je775BUE-U.png"
+        }
+      },
+      "attackCount": 1,
+      "districtCount": 9,
+      "districtsDestroyed": 0,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 10,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 5,
+          "destructionPercent": 23,
+          "stars": 1,
+          "attackCount": 1,
+          "totalLooted": 2470,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LUV8JJ2VJ",
+                "name": "CAPTAIN India"
+              },
+              "destructionPercent": 23,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 4,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 4,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
         }
       ]
     }
@@ -3106,9 +3264,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/hTwvIZ-M7_9BSb08mXGzBgzDwFrqy-_ZjsRNhX-x41Q.png"
         }
       },
-      "attackCount": 5,
+      "attackCount": 17,
       "districtCount": 9,
-      "districtsDestroyed": 0,
+      "districtsDestroyed": 6,
       "districts": [
         {
           "id": 70000000,
@@ -3123,19 +3281,63 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11784,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#9GYCG8LUJ",
+                "name": "Saif"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#9GYCG8LUJ",
+                "name": "Saif"
+              },
+              "destructionPercent": 54,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#9GYCG8LUJ",
+                "name": "Saif"
+              },
+              "destructionPercent": 14,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10124,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GL8YUCVRJ",
+                "name": "T U T U asd"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GL8YUCVRJ",
+                "name": "T U T U asd"
+              },
+              "destructionPercent": 34,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000003,
@@ -3168,10 +3370,36 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 12215,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#9GYCG8LUJ",
+                "name": "Saif"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GL8YUCVRJ",
+                "name": "T U T U asd"
+              },
+              "destructionPercent": 84,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#GL8YUCVRJ",
+                "name": "T U T U asd"
+              },
+              "destructionPercent": 28,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000005,
@@ -3186,11 +3414,19 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 54,
-          "stars": 2,
-          "attackCount": 1,
-          "totalLooted": 6565,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11580,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#9GYCG8LUJ",
+                "name": "Saif"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#GU0YQJYPY",
@@ -3205,11 +3441,19 @@
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 78,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 9455,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 12005,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#9GYCG8LUJ",
+                "name": "Saif"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#GU0YQJYPY",
@@ -3232,10 +3476,28 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11553,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GL8YUCVRJ",
+                "name": "T U T U asd"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GL8YUCVRJ",
+                "name": "T U T U asd"
+              },
+              "destructionPercent": 60,
+              "stars": 2
+            }
+          ]
         }
       ]
     }
