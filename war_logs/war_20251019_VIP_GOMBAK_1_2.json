@@ -199,7 +199,7 @@
             "duration": 118
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#LRJ20PYG2",
           "defenderTag": "#GYGC88RGG",
@@ -265,14 +265,14 @@
             "duration": 172
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#29L8J29V9",
+          "attackerTag": "#90CCJ9VC",
           "defenderTag": "#PL09LLPUY",
           "stars": 2,
-          "destructionPercentage": 60,
-          "order": 62,
-          "duration": 74
+          "destructionPercentage": 70,
+          "order": 89,
+          "duration": 104
         }
       },
       {
@@ -831,9 +831,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/1dzoleLEeKhbXflE85LUwFmUQ70rsPFSqS2LxbSEs8o.png"
     },
     "clanLevel": 23,
-    "attacks": 41,
+    "attacks": 43,
     "stars": 66,
-    "destructionPercentage": 90.44,
+    "destructionPercentage": 90.84,
     "members": [
       {
         "tag": "#U9Q8RCY",
@@ -946,6 +946,24 @@
         "name": "Devisor",
         "townhallLevel": 16,
         "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#90CCJ9VC",
+            "defenderTag": "#PL09LLPUY",
+            "stars": 2,
+            "destructionPercentage": 70,
+            "order": 89,
+            "duration": 104
+          },
+          {
+            "attackerTag": "#90CCJ9VC",
+            "defenderTag": "#GYGC88RGG",
+            "stars": 2,
+            "destructionPercentage": 57,
+            "order": 90,
+            "duration": 79
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#Q9QU8L8YV",
