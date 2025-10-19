@@ -2,13 +2,21 @@
   "state": "ongoing",
   "startTime": "20251017T070000.000Z",
   "endTime": "20251020T070000.000Z",
-  "capitalTotalLoot": 814369,
+  "capitalTotalLoot": 817644,
   "raidsCompleted": 10,
-  "totalAttacks": 197,
+  "totalAttacks": 198,
   "enemyDistrictsDestroyed": 72,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
+    {
+      "tag": "#Y8R9P0UUG",
+      "name": "MD.OLE OLA",
+      "attacks": 0,
+      "attackLimit": 5,
+      "bonusAttackLimit": 0,
+      "capitalResourcesLooted": 0
+    },
     {
       "tag": "#2L9JVC8PR",
       "name": "Queen Taylor",
@@ -92,10 +100,10 @@
     {
       "tag": "#Q2QQL2YVV",
       "name": "cyan",
-      "attacks": 5,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 28868
+      "capitalResourcesLooted": 32143
     },
     {
       "tag": "#Y80PLCRQ9",
@@ -2798,7 +2806,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/uii1RseZornRJdyhUfetAAargh1dCKy97Je775BUE-U.png"
         }
       },
-      "attackCount": 1,
+      "attackCount": 2,
       "districtCount": 9,
       "districtsDestroyed": 0,
       "districts": [
@@ -2870,10 +2878,20 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
+          "destructionPercent": 35,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 1,
+          "totalLooted": 3275,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q2QQL2YVV",
+                "name": "cyan"
+              },
+              "destructionPercent": 35,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000007,
