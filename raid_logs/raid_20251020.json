@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251017T070000.000Z",
   "endTime": "20251020T070000.000Z",
-  "capitalTotalLoot": 732414,
-  "raidsCompleted": 7,
-  "totalAttacks": 173,
-  "enemyDistrictsDestroyed": 65,
+  "capitalTotalLoot": 765639,
+  "raidsCompleted": 8,
+  "totalAttacks": 182,
+  "enemyDistrictsDestroyed": 68,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -106,6 +106,14 @@
       "capitalResourcesLooted": 19160
     },
     {
+      "tag": "#9U2YP0RY",
+      "name": "\u24c2\ufe0fBIG COCHY3\u24c2\ufe0f",
+      "attacks": 3,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 10781
+    },
+    {
       "tag": "#QYVU28GPP",
       "name": "Ghostlead",
       "attacks": 6,
@@ -144,6 +152,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 25485
+    },
+    {
+      "tag": "#80UC2G0V0",
+      "name": "nomamx",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 22444
     },
     {
       "tag": "#J88YJGY9",
@@ -2434,9 +2450,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/pO5TQBRlXCw63FWOGbBbvCHjH89Tnh_E-pkzzALQHjQ.png"
         }
       },
-      "attackCount": 4,
+      "attackCount": 13,
       "districtCount": 9,
-      "districtsDestroyed": 2,
+      "districtsDestroyed": 5,
       "districts": [
         {
           "id": 70000000,
@@ -2460,10 +2476,36 @@
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10781,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#9U2YP0RY",
+                "name": "\u24c2\ufe0fBIG COCHY3\u24c2\ufe0f"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#9U2YP0RY",
+                "name": "\u24c2\ufe0fBIG COCHY3\u24c2\ufe0f"
+              },
+              "destructionPercent": 81,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#9U2YP0RY",
+                "name": "\u24c2\ufe0fBIG COCHY3\u24c2\ufe0f"
+              },
+              "destructionPercent": 34,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000003,
@@ -2541,19 +2583,71 @@
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11525,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#80UC2G0V0",
+                "name": "nomamx"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#80UC2G0V0",
+                "name": "nomamx"
+              },
+              "destructionPercent": 95,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#80UC2G0V0",
+                "name": "nomamx"
+              },
+              "destructionPercent": 32,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10919,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#80UC2G0V0",
+                "name": "nomamx"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#80UC2G0V0",
+                "name": "nomamx"
+              },
+              "destructionPercent": 44,
+              "stars": 0
+            },
+            {
+              "attacker": {
+                "tag": "#80UC2G0V0",
+                "name": "nomamx"
+              },
+              "destructionPercent": 26,
+              "stars": 0
+            }
+          ]
         }
       ]
     }
@@ -2570,19 +2664,27 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/ghFj-4tOB1q31boMMXLou5RXD8zuRg04e7FjEViJPh8.png"
         }
       },
-      "attackCount": 29,
+      "attackCount": 30,
       "districtCount": 9,
-      "districtsDestroyed": 8,
+      "districtsDestroyed": 9,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 86,
-          "stars": 1,
-          "attackCount": 4,
-          "totalLooted": 10180,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 5,
+          "totalLooted": 13808,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#8U9UYQPLY",
+                "name": "Dudu Santos"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#CPP2UJUC",
