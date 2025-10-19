@@ -3264,18 +3264,36 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/hTwvIZ-M7_9BSb08mXGzBgzDwFrqy-_ZjsRNhX-x41Q.png"
         }
       },
-      "attackCount": 20,
+      "attackCount": 23,
       "districtCount": 9,
-      "districtsDestroyed": 7,
+      "districtsDestroyed": 8,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 69,
+          "stars": 1,
+          "attackCount": 2,
+          "totalLooted": 6470,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Y9YPC0CVY",
+                "name": "\u0f3a\u0f04\u1da6\u1db0\u1d48\u1b44\u273fG\u1d00\u1d0d\u1d07\u0280"
+              },
+              "destructionPercent": 69,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#Y9YPC0CVY",
+                "name": "\u0f3a\u0f04\u1da6\u1db0\u1d48\u1b44\u273fG\u1d00\u1d0d\u1d07\u0280"
+              },
+              "destructionPercent": 43,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
@@ -3343,11 +3361,19 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 95,
-          "stars": 1,
-          "attackCount": 2,
-          "totalLooted": 9990,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11775,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#Y9YPC0CVY",
+                "name": "\u0f3a\u0f04\u1da6\u1db0\u1d48\u1b44\u273fG\u1d00\u1d0d\u1d07\u0280"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#GU0YQJYPY",
