@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/MemvfcNsCKAIJd01S-vNV8_nVwYBGkQOTRp3HgJs0QU.png"
     },
     "clanLevel": 11,
-    "attacks": 25,
-    "stars": 53,
-    "destructionPercentage": 73.8,
+    "attacks": 27,
+    "stars": 59,
+    "destructionPercentage": 81.8,
     "members": [
       {
         "tag": "#8880L0C",
@@ -31,7 +31,15 @@
         "name": "voldemort",
         "townhallLevel": 15,
         "mapPosition": 20,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QG0GL08YU",
+          "defenderTag": "#QYL88U9P0",
+          "stars": 2,
+          "destructionPercentage": 62,
+          "order": 41,
+          "duration": 77
+        }
       },
       {
         "tag": "#UJP2UYRY",
@@ -81,7 +89,15 @@
             "duration": 132
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QG0GL08YU",
+          "defenderTag": "#GLU9LC2LG",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 44,
+          "duration": 118
+        }
       },
       {
         "tag": "#Q9QU8L8YV",
@@ -146,7 +162,15 @@
             "duration": 163
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PJUVG82P0",
+          "defenderTag": "#8VQYULVQQ",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 37,
+          "duration": 146
+        }
       },
       {
         "tag": "#PL09LLPUY",
@@ -233,6 +257,24 @@
         "name": "gun",
         "townhallLevel": 16,
         "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#2CQLC28UP",
+            "defenderTag": "#QQ8PRPRP2",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 38,
+            "duration": 87
+          },
+          {
+            "attackerTag": "#2CQLC28UP",
+            "defenderTag": "#Q9GQYVV29",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 39,
+            "duration": 80
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -258,7 +300,15 @@
             "duration": 180
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#9LUL8G0P8",
+          "defenderTag": "#YQ8L9JVJ2",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 43,
+          "duration": 139
+        }
       },
       {
         "tag": "#LYJJ9PLV9",
@@ -338,21 +388,29 @@
             "duration": 95
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#9LUL8G0P8",
+          "defenderTag": "#QYCLC0JLL",
+          "stars": 2,
+          "destructionPercentage": 88,
+          "order": 40,
+          "duration": 167
+        }
       },
       {
         "tag": "#QRP2RLV02",
         "name": "JT",
         "townhallLevel": 14,
         "mapPosition": 24,
-        "opponentAttacks": 1,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#LVYURQ2CU",
+          "attackerTag": "#QYLGG90J2",
           "defenderTag": "#QRP2RLV02",
-          "stars": 1,
-          "destructionPercentage": 86,
-          "order": 32,
-          "duration": 116
+          "stars": 2,
+          "destructionPercentage": 97,
+          "order": 36,
+          "duration": 180
         }
       },
       {
@@ -498,7 +556,15 @@
         "name": "Swift",
         "townhallLevel": 16,
         "mapPosition": 9,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PJUVG82P0",
+          "defenderTag": "#PRGGL2J2V",
+          "stars": 2,
+          "destructionPercentage": 87,
+          "order": 42,
+          "duration": 122
+        }
       }
     ]
   },
@@ -511,9 +577,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/N_CQVBcLxigUz0RoxnepWKSFBZOV6VLP9uKd-8H6I6A.png"
     },
     "clanLevel": 13,
-    "attacks": 10,
-    "stars": 23,
-    "destructionPercentage": 37.12,
+    "attacks": 18,
+    "stars": 39,
+    "destructionPercentage": 59.04,
     "members": [
       {
         "tag": "#QQ8PRPRP2",
@@ -538,7 +604,15 @@
             "duration": 91
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2CQLC28UP",
+          "defenderTag": "#QQ8PRPRP2",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 38,
+          "duration": 87
+        }
       },
       {
         "tag": "#YCP0VLPLC",
@@ -715,6 +789,16 @@
         "name": "\u0631\u064a\u0627\u0636ctx",
         "townhallLevel": 16,
         "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#QYLGG90J2",
+            "defenderTag": "#QRP2RLV02",
+            "stars": 2,
+            "destructionPercentage": 97,
+            "order": 36,
+            "duration": 180
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#Q9QU8L8YV",
@@ -737,6 +821,24 @@
         "name": "\u0639\u0628\u062f \u0627\u0644\u0631\u062d\u0645\u0646",
         "townhallLevel": 17,
         "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#QG0GL08YU",
+            "defenderTag": "#QYL88U9P0",
+            "stars": 2,
+            "destructionPercentage": 62,
+            "order": 41,
+            "duration": 77
+          },
+          {
+            "attackerTag": "#QG0GL08YU",
+            "defenderTag": "#GLU9LC2LG",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 44,
+            "duration": 118
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#YQ8L9JVJ2",
@@ -863,6 +965,24 @@
         "name": "\u0641\u0627\u0631\u0633",
         "townhallLevel": 16,
         "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#PJUVG82P0",
+            "defenderTag": "#8VQYULVQQ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 37,
+            "duration": 146
+          },
+          {
+            "attackerTag": "#PJUVG82P0",
+            "defenderTag": "#PRGGL2J2V",
+            "stars": 2,
+            "destructionPercentage": 87,
+            "order": 42,
+            "duration": 122
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#8VQYULVQQ",
@@ -878,7 +998,15 @@
         "name": "\u2020\u06ff\u0627\u064a\u0644\u0627\u064a\u0641\u2020",
         "townhallLevel": 15,
         "mapPosition": 16,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2CQLC28UP",
+          "defenderTag": "#Q9GQYVV29",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 39,
+          "duration": 80
+        }
       },
       {
         "tag": "#YRJPJQ08U",
@@ -915,6 +1043,16 @@
         "name": "\u0644\u0624\u0627\u0621",
         "townhallLevel": 13,
         "mapPosition": 25,
+        "attacks": [
+          {
+            "attackerTag": "#QLYLJ0LC0",
+            "defenderTag": "#QRP2RLV02",
+            "stars": 2,
+            "destructionPercentage": 70,
+            "order": 45,
+            "duration": 112
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -922,6 +1060,24 @@
         "name": "\u0622\u0644\u0635\u0640\u064a\u0622\u062f",
         "townhallLevel": 17,
         "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#9LUL8G0P8",
+            "defenderTag": "#QYCLC0JLL",
+            "stars": 2,
+            "destructionPercentage": 88,
+            "order": 40,
+            "duration": 167
+          },
+          {
+            "attackerTag": "#9LUL8G0P8",
+            "defenderTag": "#YQ8L9JVJ2",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 43,
+            "duration": 139
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#G28CVVRJL",
