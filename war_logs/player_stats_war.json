@@ -29275,7 +29275,7 @@
       }
     ]
   },
-  "timestamp": "2025-10-19 19:00:03",
+  "timestamp": "2025-10-19 20:00:03",
   "#GPPQ0JCJR": {
     "name": "Goujii",
     "tag": "#GPPQ0JCJR",
@@ -44786,11 +44786,11 @@
       },
       {
         "date": "20251020",
-        "attacksUsed": 0,
-        "starsEarned": 0,
-        "destruction": 0,
-        "attacksMissed": 2,
-        "zeroParticipation": true
+        "attacksUsed": 1,
+        "starsEarned": 1,
+        "destruction": 71,
+        "attacksMissed": 1,
+        "zeroParticipation": false
       }
     ]
   },
@@ -75093,6 +75093,20 @@
   "#9Q9RQGUUY": {
     "name": "sora",
     "tag": "#9Q9RQGUUY",
+    "history": [
+      {
+        "date": "20251020",
+        "attacksUsed": "---",
+        "starsEarned": "---",
+        "destruction": "---",
+        "attacksMissed": 0,
+        "zeroParticipation": true
+      }
+    ]
+  },
+  "#LGPRCG9GR": {
+    "name": "ianjay",
+    "tag": "#LGPRCG9GR",
     "history": [
       {
         "date": "20251020",

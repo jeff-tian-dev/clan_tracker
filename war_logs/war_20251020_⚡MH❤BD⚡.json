@@ -1,5 +1,5 @@
 {
-  "state": "preparation",
+  "state": "inWar",
   "teamSize": 25,
   "attacksPerMember": 2,
   "battleModifier": "none",
@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/MemvfcNsCKAIJd01S-vNV8_nVwYBGkQOTRp3HgJs0QU.png"
     },
     "clanLevel": 11,
-    "attacks": 0,
-    "stars": 0,
-    "destructionPercentage": 0.0,
+    "attacks": 1,
+    "stars": 1,
+    "destructionPercentage": 2.84,
     "members": [
       {
         "tag": "#8880L0C",
@@ -80,6 +80,16 @@
         "name": "cyan",
         "townhallLevel": 14,
         "mapPosition": 22,
+        "attacks": [
+          {
+            "attackerTag": "#Q2QQL2YVV",
+            "defenderTag": "#P99U29080",
+            "stars": 1,
+            "destructionPercentage": 71,
+            "order": 1,
+            "duration": 125
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -249,7 +259,15 @@
         "name": "\u26a0\u0645\u062d\u062a\u0631\u0641 \u0643\u0644\u0627\u0634\u26a0",
         "townhallLevel": 14,
         "mapPosition": 22,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q2QQL2YVV",
+          "defenderTag": "#P99U29080",
+          "stars": 1,
+          "destructionPercentage": 71,
+          "order": 1,
+          "duration": 125
+        }
       },
       {
         "tag": "#YG0GVJLR9",
