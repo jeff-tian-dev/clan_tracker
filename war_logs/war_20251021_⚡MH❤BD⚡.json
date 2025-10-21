@@ -15,7 +15,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/MemvfcNsCKAIJd01S-vNV8_nVwYBGkQOTRp3HgJs0QU.png"
     },
     "clanLevel": 11,
-    "attacks": 40,
+    "attacks": 42,
     "stars": 75,
     "destructionPercentage": 100.0,
     "members": [
@@ -24,7 +24,33 @@
         "name": "Thomas Cat",
         "townhallLevel": 17,
         "mapPosition": 5,
-        "opponentAttacks": 0
+        "attacks": [
+          {
+            "attackerTag": "#8880L0C",
+            "defenderTag": "#9CLUJ2GPV",
+            "stars": 1,
+            "destructionPercentage": 61,
+            "order": 75,
+            "duration": 69
+          },
+          {
+            "attackerTag": "#8880L0C",
+            "defenderTag": "#CQYL0VR",
+            "stars": 1,
+            "destructionPercentage": 53,
+            "order": 77,
+            "duration": 50
+          }
+        ],
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#9VRJRVVUV",
+          "defenderTag": "#8880L0C",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 78,
+          "duration": 125
+        }
       },
       {
         "tag": "#QYL88U9P0",
@@ -64,7 +90,15 @@
             "duration": 141
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#9VRJRVVUV",
+          "defenderTag": "#UJP2UYRY",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 74,
+          "duration": 133
+        }
       },
       {
         "tag": "#GLU9LC2LG",
@@ -728,14 +762,14 @@
             "duration": 129
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#PJUVG82P0",
+          "attackerTag": "#9CLUJ2GPV",
           "defenderTag": "#PRGGL2J2V",
           "stars": 2,
-          "destructionPercentage": 87,
-          "order": 42,
-          "duration": 122
+          "destructionPercentage": 98,
+          "order": 76,
+          "duration": 180
         }
       }
     ]
@@ -749,9 +783,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/N_CQVBcLxigUz0RoxnepWKSFBZOV6VLP9uKd-8H6I6A.png"
     },
     "clanLevel": 13,
-    "attacks": 33,
-    "stars": 58,
-    "destructionPercentage": 85.68,
+    "attacks": 36,
+    "stars": 64,
+    "destructionPercentage": 94.12,
     "members": [
       {
         "tag": "#QQ8PRPRP2",
@@ -857,6 +891,24 @@
         "name": "*\u2730\u2620\u1d39\u1d2c\u1d34\u1d39\u1d3c\u1d41\u1d30 \u2620\u2730*",
         "townhallLevel": 17,
         "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#9VRJRVVUV",
+            "defenderTag": "#UJP2UYRY",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 74,
+            "duration": 133
+          },
+          {
+            "attackerTag": "#9VRJRVVUV",
+            "defenderTag": "#8880L0C",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 78,
+            "duration": 125
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#2R2JYRRU",
@@ -1148,7 +1200,17 @@
         "name": "\u063a\u0631\u064e\u0648\u0628 \u0627\u0644\u0645\u0622\u0636\u0640\u064a\u0654",
         "townhallLevel": 17,
         "mapPosition": 1,
-        "opponentAttacks": 4,
+        "attacks": [
+          {
+            "attackerTag": "#9CLUJ2GPV",
+            "defenderTag": "#PRGGL2J2V",
+            "stars": 2,
+            "destructionPercentage": 98,
+            "order": 76,
+            "duration": 180
+          }
+        ],
+        "opponentAttacks": 5,
         "bestOpponentAttack": {
           "attackerTag": "#G28CVVRJL",
           "defenderTag": "#9CLUJ2GPV",
@@ -1181,7 +1243,7 @@
             "duration": 180
           }
         ],
-        "opponentAttacks": 3,
+        "opponentAttacks": 4,
         "bestOpponentAttack": {
           "attackerTag": "#QYCLC0JLL",
           "defenderTag": "#CQYL0VR",
