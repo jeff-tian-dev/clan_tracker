@@ -15,23 +15,39 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/MemvfcNsCKAIJd01S-vNV8_nVwYBGkQOTRp3HgJs0QU.png"
     },
     "clanLevel": 11,
-    "attacks": 32,
-    "stars": 63,
-    "destructionPercentage": 77.13333,
+    "attacks": 33,
+    "stars": 66,
+    "destructionPercentage": 80.46667,
     "members": [
       {
         "tag": "#8880L0C",
         "name": "Thomas Cat",
         "townhallLevel": 17,
         "mapPosition": 5,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GP8UYQGJQ",
+          "defenderTag": "#8880L0C",
+          "stars": 2,
+          "destructionPercentage": 83,
+          "order": 68,
+          "duration": 143
+        }
       },
       {
         "tag": "#QYL88U9P0",
         "name": "voldemort",
         "townhallLevel": 15,
         "mapPosition": 24,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YJPJ00VJP",
+          "defenderTag": "#QYL88U9P0",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 69,
+          "duration": 151
+        }
       },
       {
         "tag": "#UJP2UYRY",
@@ -71,7 +87,15 @@
             "duration": 180
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#8RYGRJUGG",
+          "defenderTag": "#GLU9LC2LG",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 66,
+          "duration": 150
+        }
       },
       {
         "tag": "#Q9QU8L8YV",
@@ -481,7 +505,7 @@
             "duration": 179
           }
         ],
-        "opponentAttacks": 3,
+        "opponentAttacks": 4,
         "bestOpponentAttack": {
           "attackerTag": "#2URQR29PC",
           "defenderTag": "#G28CVVRJL",
@@ -504,6 +528,14 @@
             "destructionPercentage": 100,
             "order": 63,
             "duration": 84
+          },
+          {
+            "attackerTag": "#GQUV8C0LP",
+            "defenderTag": "#GY9JV99P",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 65,
+            "duration": 73
           }
         ],
         "opponentAttacks": 1,
@@ -714,9 +746,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/XRuDhQVspsE5YyimGEDh5D-pkcg8hLt0AYP3Ut3etMw.png"
     },
     "clanLevel": 15,
-    "attacks": 32,
-    "stars": 63,
-    "destructionPercentage": 74.666664,
+    "attacks": 36,
+    "stars": 71,
+    "destructionPercentage": 84.1,
     "members": [
       {
         "tag": "#R2VJ2YVR",
@@ -738,6 +770,24 @@
         "name": "DEV_T\u00c0I",
         "townhallLevel": 17,
         "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#GP8UYQGJQ",
+            "defenderTag": "#G28CVVRJL",
+            "stars": 2,
+            "destructionPercentage": 95,
+            "order": 67,
+            "duration": 180
+          },
+          {
+            "attackerTag": "#GP8UYQGJQ",
+            "defenderTag": "#8880L0C",
+            "stars": 2,
+            "destructionPercentage": 83,
+            "order": 68,
+            "duration": 143
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#PL09LLPUY",
@@ -927,6 +977,14 @@
             "destructionPercentage": 91,
             "order": 48,
             "duration": 142
+          },
+          {
+            "attackerTag": "#8RYGRJUGG",
+            "defenderTag": "#GLU9LC2LG",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 66,
+            "duration": 150
           }
         ],
         "opponentAttacks": 0
@@ -1132,6 +1190,16 @@
         "name": "\u03c1\u050b\u03c3\u04bd\u0273\u03b9x\u2661",
         "townhallLevel": 16,
         "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#YJPJ00VJP",
+            "defenderTag": "#QYL88U9P0",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 69,
+            "duration": 151
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#GYGC88RGG",
@@ -1187,7 +1255,15 @@
         "name": "prince",
         "townhallLevel": 10,
         "mapPosition": 30,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GQUV8C0LP",
+          "defenderTag": "#GY9JV99P",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 65,
+          "duration": 73
+        }
       },
       {
         "tag": "#8JQUUU890",
