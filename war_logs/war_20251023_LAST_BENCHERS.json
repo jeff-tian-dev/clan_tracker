@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/MemvfcNsCKAIJd01S-vNV8_nVwYBGkQOTRp3HgJs0QU.png"
     },
     "clanLevel": 11,
-    "attacks": 19,
-    "stars": 38,
-    "destructionPercentage": 47.7,
+    "attacks": 20,
+    "stars": 40,
+    "destructionPercentage": 50.8,
     "members": [
       {
         "tag": "#8880L0C",
@@ -519,6 +519,16 @@
         "name": "Swift",
         "townhallLevel": 16,
         "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#PRGGL2J2V",
+            "defenderTag": "#YPPLU8Y0V",
+            "stars": 2,
+            "destructionPercentage": 93,
+            "order": 39,
+            "duration": 180
+          }
+        ],
         "opponentAttacks": 0
       }
     ]
@@ -896,7 +906,15 @@
         "name": "lost hunter",
         "townhallLevel": 17,
         "mapPosition": 10,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PRGGL2J2V",
+          "defenderTag": "#YPPLU8Y0V",
+          "stars": 2,
+          "destructionPercentage": 93,
+          "order": 39,
+          "duration": 180
+        }
       },
       {
         "tag": "#GY9JV99P",
