@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/MemvfcNsCKAIJd01S-vNV8_nVwYBGkQOTRp3HgJs0QU.png"
     },
     "clanLevel": 11,
-    "attacks": 13,
-    "stars": 28,
-    "destructionPercentage": 35.2,
+    "attacks": 15,
+    "stars": 31,
+    "destructionPercentage": 38.0,
     "members": [
       {
         "tag": "#8880L0C",
@@ -53,6 +53,16 @@
         "name": "JLai",
         "townhallLevel": 15,
         "mapPosition": 23,
+        "attacks": [
+          {
+            "attackerTag": "#GLU9LC2LG",
+            "defenderTag": "#9UGQ2QJGL",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 32,
+            "duration": 176
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -75,6 +85,14 @@
             "destructionPercentage": 100,
             "order": 28,
             "duration": 155
+          },
+          {
+            "attackerTag": "#GYGC88RGG",
+            "defenderTag": "#YJPJ00VJP",
+            "stars": 2,
+            "destructionPercentage": 71,
+            "order": 30,
+            "duration": 110
           }
         ],
         "opponentAttacks": 0
@@ -193,14 +211,14 @@
         "name": "Phantom",
         "townhallLevel": 16,
         "mapPosition": 20,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#9VJ0L8Q8U",
+          "attackerTag": "#YLU0JR2LJ",
           "defenderTag": "#LYJJ9PLV9",
-          "stars": 2,
-          "destructionPercentage": 95,
-          "order": 23,
-          "duration": 180
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 29,
+          "duration": 142
         }
       },
       {
@@ -403,14 +421,14 @@
         "name": "Grizz",
         "townhallLevel": 14,
         "mapPosition": 27,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#9L0LCCP9U",
+          "attackerTag": "#G82YPVU8",
           "defenderTag": "#G9CC9G2VQ",
-          "stars": 0,
-          "destructionPercentage": 4,
-          "order": 9,
-          "duration": 19
+          "stars": 2,
+          "destructionPercentage": 75,
+          "order": 31,
+          "duration": 126
         }
       },
       {
@@ -470,9 +488,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/XRuDhQVspsE5YyimGEDh5D-pkcg8hLt0AYP3Ut3etMw.png"
     },
     "clanLevel": 15,
-    "attacks": 15,
-    "stars": 33,
-    "destructionPercentage": 41.233334,
+    "attacks": 17,
+    "stars": 36,
+    "destructionPercentage": 43.766666,
     "members": [
       {
         "tag": "#R2VJ2YVR",
@@ -663,6 +681,16 @@
         "name": "Ajay S Malige",
         "townhallLevel": 12,
         "mapPosition": 27,
+        "attacks": [
+          {
+            "attackerTag": "#G82YPVU8",
+            "defenderTag": "#G9CC9G2VQ",
+            "stars": 2,
+            "destructionPercentage": 75,
+            "order": 31,
+            "duration": 126
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#GGYGQ8098",
@@ -743,6 +771,14 @@
             "destructionPercentage": 93,
             "order": 3,
             "duration": 164
+          },
+          {
+            "attackerTag": "#YLU0JR2LJ",
+            "defenderTag": "#LYJJ9PLV9",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 29,
+            "duration": 142
           }
         ],
         "opponentAttacks": 2,
@@ -760,7 +796,15 @@
         "name": "\u03c1\u050b\u03c3\u04bd\u0273\u03b9x\u2661",
         "townhallLevel": 16,
         "mapPosition": 14,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GYGC88RGG",
+          "defenderTag": "#YJPJ00VJP",
+          "stars": 2,
+          "destructionPercentage": 71,
+          "order": 30,
+          "duration": 110
+        }
       },
       {
         "tag": "#99GR2CR28",
@@ -881,14 +925,14 @@
             "duration": 143
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#2R2JYRRU",
+          "attackerTag": "#GLU9LC2LG",
           "defenderTag": "#9UGQ2QJGL",
-          "stars": 2,
-          "destructionPercentage": 87,
-          "order": 20,
-          "duration": 137
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 32,
+          "duration": 176
         }
       },
       {
