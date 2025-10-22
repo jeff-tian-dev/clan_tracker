@@ -659,14 +659,14 @@
         "name": "siwi2isuus2",
         "townhallLevel": 15,
         "mapPosition": 25,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#G00J9YQPC",
+          "attackerTag": "#YJPJ00VJP",
           "defenderTag": "#LGGLYVUPP",
-          "stars": 2,
-          "destructionPercentage": 99,
-          "order": 42,
-          "duration": 126
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 70,
+          "duration": 129
         }
       },
       {
@@ -746,9 +746,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/XRuDhQVspsE5YyimGEDh5D-pkcg8hLt0AYP3Ut3etMw.png"
     },
     "clanLevel": 15,
-    "attacks": 36,
-    "stars": 71,
-    "destructionPercentage": 84.1,
+    "attacks": 37,
+    "stars": 72,
+    "destructionPercentage": 84.13333,
     "members": [
       {
         "tag": "#R2VJ2YVR",
@@ -1198,6 +1198,14 @@
             "destructionPercentage": 100,
             "order": 69,
             "duration": 151
+          },
+          {
+            "attackerTag": "#YJPJ00VJP",
+            "defenderTag": "#LGGLYVUPP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 70,
+            "duration": 129
           }
         ],
         "opponentAttacks": 1,
