@@ -15,23 +15,23 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/MemvfcNsCKAIJd01S-vNV8_nVwYBGkQOTRp3HgJs0QU.png"
     },
     "clanLevel": 11,
-    "attacks": 33,
-    "stars": 66,
-    "destructionPercentage": 80.46667,
+    "attacks": 35,
+    "stars": 70,
+    "destructionPercentage": 85.73333,
     "members": [
       {
         "tag": "#8880L0C",
         "name": "Thomas Cat",
         "townhallLevel": 17,
         "mapPosition": 5,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#GP8UYQGJQ",
+          "attackerTag": "#YPPLU8Y0V",
           "defenderTag": "#8880L0C",
-          "stars": 2,
-          "destructionPercentage": 83,
-          "order": 68,
-          "duration": 143
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 72,
+          "duration": 159
         }
       },
       {
@@ -203,7 +203,15 @@
             "duration": 180
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2JLC9GYYJ",
+          "defenderTag": "#PL09LLPUY",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 75,
+          "duration": 114
+        }
       },
       {
         "tag": "#Q2QQL2YVV",
@@ -412,6 +420,16 @@
         "name": "King Killer",
         "townhallLevel": 15,
         "mapPosition": 22,
+        "attacks": [
+          {
+            "attackerTag": "#J88YJGY9",
+            "defenderTag": "#8GVJL8C2U",
+            "stars": 2,
+            "destructionPercentage": 71,
+            "order": 77,
+            "duration": 165
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#8GVJL8C2U",
@@ -505,7 +523,7 @@
             "duration": 179
           }
         ],
-        "opponentAttacks": 4,
+        "opponentAttacks": 5,
         "bestOpponentAttack": {
           "attackerTag": "#2URQR29PC",
           "defenderTag": "#G28CVVRJL",
@@ -652,13 +670,31 @@
             "duration": 180
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2JLC9GYYJ",
+          "defenderTag": "#P08PU09Y2",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 74,
+          "duration": 127
+        }
       },
       {
         "tag": "#LGGLYVUPP",
         "name": "siwi2isuus2",
         "townhallLevel": 15,
         "mapPosition": 25,
+        "attacks": [
+          {
+            "attackerTag": "#LGGLYVUPP",
+            "defenderTag": "#GRGGG9V2G",
+            "stars": 2,
+            "destructionPercentage": 87,
+            "order": 76,
+            "duration": 103
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#YJPJ00VJP",
@@ -746,9 +782,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/XRuDhQVspsE5YyimGEDh5D-pkcg8hLt0AYP3Ut3etMw.png"
     },
     "clanLevel": 15,
-    "attacks": 38,
-    "stars": 72,
-    "destructionPercentage": 84.13333,
+    "attacks": 42,
+    "stars": 79,
+    "destructionPercentage": 91.36667,
     "members": [
       {
         "tag": "#R2VJ2YVR",
@@ -1110,13 +1146,39 @@
             "duration": 125
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LGGLYVUPP",
+          "defenderTag": "#GRGGG9V2G",
+          "stars": 2,
+          "destructionPercentage": 87,
+          "order": 76,
+          "duration": 103
+        }
       },
       {
         "tag": "#2JLC9GYYJ",
         "name": "Pr@jw@l",
         "townhallLevel": 17,
         "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#2JLC9GYYJ",
+            "defenderTag": "#P08PU09Y2",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 74,
+            "duration": 127
+          },
+          {
+            "attackerTag": "#2JLC9GYYJ",
+            "defenderTag": "#PL09LLPUY",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 75,
+            "duration": 114
+          }
+        ],
         "opponentAttacks": 3,
         "bestOpponentAttack": {
           "attackerTag": "#GLU9LC2LG",
@@ -1256,6 +1318,24 @@
         "name": "lost hunter",
         "townhallLevel": 17,
         "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#YPPLU8Y0V",
+            "defenderTag": "#8880L0C",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 72,
+            "duration": 159
+          },
+          {
+            "attackerTag": "#YPPLU8Y0V",
+            "defenderTag": "#G28CVVRJL",
+            "stars": 2,
+            "destructionPercentage": 83,
+            "order": 73,
+            "duration": 164
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#Y80PLCRQ9",
@@ -1370,7 +1450,15 @@
             "duration": 157
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#J88YJGY9",
+          "defenderTag": "#8GVJL8C2U",
+          "stars": 2,
+          "destructionPercentage": 71,
+          "order": 77,
+          "duration": 165
+        }
       },
       {
         "tag": "#9UGQ2QJGL",
