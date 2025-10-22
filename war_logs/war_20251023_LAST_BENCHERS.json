@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/MemvfcNsCKAIJd01S-vNV8_nVwYBGkQOTRp3HgJs0QU.png"
     },
     "clanLevel": 11,
-    "attacks": 23,
-    "stars": 47,
-    "destructionPercentage": 60.666668,
+    "attacks": 24,
+    "stars": 50,
+    "destructionPercentage": 64.0,
     "members": [
       {
         "tag": "#8880L0C",
@@ -168,6 +168,16 @@
         "name": "cyan",
         "townhallLevel": 14,
         "mapPosition": 26,
+        "attacks": [
+          {
+            "attackerTag": "#Q2QQL2YVV",
+            "defenderTag": "#9L0LCCP9U",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 49,
+            "duration": 156
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#G00J9YQPC",
@@ -356,7 +366,15 @@
         "name": "Sir Hazelnut\u2122\ufe0f",
         "townhallLevel": 16,
         "mapPosition": 21,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#8GVJL8C2U",
+          "defenderTag": "#YJ2UV2GY",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 50,
+          "duration": 157
+        }
       },
       {
         "tag": "#QYCLC0JLL",
@@ -608,9 +626,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/XRuDhQVspsE5YyimGEDh5D-pkcg8hLt0AYP3Ut3etMw.png"
     },
     "clanLevel": 15,
-    "attacks": 25,
-    "stars": 50,
-    "destructionPercentage": 63.066666,
+    "attacks": 26,
+    "stars": 53,
+    "destructionPercentage": 66.4,
     "members": [
       {
         "tag": "#R2VJ2YVR",
@@ -719,7 +737,15 @@
             "duration": 19
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q2QQL2YVV",
+          "defenderTag": "#9L0LCCP9U",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 49,
+          "duration": 156
+        }
       },
       {
         "tag": "#P02PUG9JG",
@@ -1112,6 +1138,14 @@
             "destructionPercentage": 100,
             "order": 19,
             "duration": 155
+          },
+          {
+            "attackerTag": "#8GVJL8C2U",
+            "defenderTag": "#YJ2UV2GY",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 50,
+            "duration": 157
           }
         ],
         "opponentAttacks": 0
