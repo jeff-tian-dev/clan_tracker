@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/MemvfcNsCKAIJd01S-vNV8_nVwYBGkQOTRp3HgJs0QU.png"
     },
     "clanLevel": 11,
-    "attacks": 15,
-    "stars": 31,
-    "destructionPercentage": 38.0,
+    "attacks": 19,
+    "stars": 38,
+    "destructionPercentage": 47.7,
     "members": [
       {
         "tag": "#8880L0C",
@@ -61,6 +61,14 @@
             "destructionPercentage": 100,
             "order": 32,
             "duration": 176
+          },
+          {
+            "attackerTag": "#GLU9LC2LG",
+            "defenderTag": "#2JLC9GYYJ",
+            "stars": 2,
+            "destructionPercentage": 97,
+            "order": 33,
+            "duration": 180
           }
         ],
         "opponentAttacks": 0
@@ -135,6 +143,24 @@
         "name": "Regis\u6881",
         "townhallLevel": 16,
         "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#PL09LLPUY",
+            "defenderTag": "#GP8UYQGJQ",
+            "stars": 2,
+            "destructionPercentage": 92,
+            "order": 34,
+            "duration": 165
+          },
+          {
+            "attackerTag": "#PL09LLPUY",
+            "defenderTag": "#PGYJ2JUCR",
+            "stars": 2,
+            "destructionPercentage": 96,
+            "order": 35,
+            "duration": 180
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -196,7 +222,7 @@
             "duration": 172
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#9P900R9J8",
           "defenderTag": "#YQ8L9JVJ2",
@@ -226,6 +252,16 @@
         "name": "doruk",
         "townhallLevel": 16,
         "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#L0UJQ0Y89",
+            "defenderTag": "#LPYLVJJ9Y",
+            "stars": 2,
+            "destructionPercentage": 87,
+            "order": 37,
+            "duration": 180
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#9VG99L809",
@@ -271,7 +307,15 @@
         "name": "maxsleone",
         "townhallLevel": 17,
         "mapPosition": 8,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#G0PQL2LY",
+          "defenderTag": "#LLRCY0JYC",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 38,
+          "duration": 126
+        }
       },
       {
         "tag": "#YJ2UV2GY",
@@ -488,9 +532,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/XRuDhQVspsE5YyimGEDh5D-pkcg8hLt0AYP3Ut3etMw.png"
     },
     "clanLevel": 15,
-    "attacks": 17,
-    "stars": 36,
-    "destructionPercentage": 43.766666,
+    "attacks": 19,
+    "stars": 39,
+    "destructionPercentage": 47.1,
     "members": [
       {
         "tag": "#R2VJ2YVR",
@@ -504,7 +548,15 @@
         "name": "DEV_T\u00c0I",
         "townhallLevel": 17,
         "mapPosition": 12,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PL09LLPUY",
+          "defenderTag": "#GP8UYQGJQ",
+          "stars": 2,
+          "destructionPercentage": 92,
+          "order": 34,
+          "duration": 165
+        }
       },
       {
         "tag": "#9P900R9J8",
@@ -544,7 +596,15 @@
         "name": "Unknown Amigo",
         "townhallLevel": 16,
         "mapPosition": 16,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PL09LLPUY",
+          "defenderTag": "#PGYJ2JUCR",
+          "stars": 2,
+          "destructionPercentage": 96,
+          "order": 35,
+          "duration": 180
+        }
       },
       {
         "tag": "#GRYR0YLY2",
@@ -723,14 +783,14 @@
         "name": "Pr@jw@l",
         "townhallLevel": 17,
         "mapPosition": 3,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#2R2JYRRU",
+          "attackerTag": "#GLU9LC2LG",
           "defenderTag": "#2JLC9GYYJ",
-          "stars": 1,
-          "destructionPercentage": 81,
-          "order": 21,
-          "duration": 150
+          "stars": 2,
+          "destructionPercentage": 97,
+          "order": 33,
+          "duration": 180
         }
       },
       {
@@ -940,7 +1000,15 @@
         "name": "RCB forever...!",
         "townhallLevel": 17,
         "mapPosition": 11,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#L0UJQ0Y89",
+          "defenderTag": "#LPYLVJJ9Y",
+          "stars": 2,
+          "destructionPercentage": 87,
+          "order": 37,
+          "duration": 180
+        }
       },
       {
         "tag": "#QGJ22RQU",
@@ -954,6 +1022,24 @@
         "name": "Mr.Dunia",
         "townhallLevel": 17,
         "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#G0PQL2LY",
+            "defenderTag": "#YQ8L9JVJ2",
+            "stars": 2,
+            "destructionPercentage": 92,
+            "order": 36,
+            "duration": 131
+          },
+          {
+            "attackerTag": "#G0PQL2LY",
+            "defenderTag": "#LLRCY0JYC",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 38,
+            "duration": 126
+          }
+        ],
         "opponentAttacks": 0
       }
     ]
