@@ -148,7 +148,15 @@
             "duration": 180
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#P02PUG9JG",
+          "defenderTag": "#Q9QU8L8YV",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 94,
+          "duration": 120
+        }
       },
       {
         "tag": "#GYGC88RGG",
@@ -633,7 +641,7 @@
             "duration": 179
           }
         ],
-        "opponentAttacks": 5,
+        "opponentAttacks": 6,
         "bestOpponentAttack": {
           "attackerTag": "#2URQR29PC",
           "defenderTag": "#G28CVVRJL",
@@ -918,9 +926,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/XRuDhQVspsE5YyimGEDh5D-pkcg8hLt0AYP3Ut3etMw.png"
     },
     "clanLevel": 15,
-    "attacks": 42,
-    "stars": 79,
-    "destructionPercentage": 91.36667,
+    "attacks": 44,
+    "stars": 82,
+    "destructionPercentage": 94.7,
     "members": [
       {
         "tag": "#R2VJ2YVR",
@@ -1086,6 +1094,24 @@
         "name": "PRAJWAL",
         "townhallLevel": 17,
         "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#P02PUG9JG",
+            "defenderTag": "#G28CVVRJL",
+            "stars": 2,
+            "destructionPercentage": 86,
+            "order": 93,
+            "duration": 124
+          },
+          {
+            "attackerTag": "#P02PUG9JG",
+            "defenderTag": "#Q9QU8L8YV",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 94,
+            "duration": 120
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#G28CVVRJL",
