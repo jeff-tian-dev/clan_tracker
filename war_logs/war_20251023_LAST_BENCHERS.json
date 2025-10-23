@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/MemvfcNsCKAIJd01S-vNV8_nVwYBGkQOTRp3HgJs0QU.png"
     },
     "clanLevel": 11,
-    "attacks": 39,
-    "stars": 75,
-    "destructionPercentage": 89.63333,
+    "attacks": 44,
+    "stars": 83,
+    "destructionPercentage": 97.4,
     "members": [
       {
         "tag": "#8880L0C",
@@ -294,6 +294,24 @@
         "name": "\u24c2\ufe0fBIG COCHY3\u24c2\ufe0f",
         "townhallLevel": 16,
         "mapPosition": 17,
+        "attacks": [
+          {
+            "attackerTag": "#9U2YP0RY",
+            "defenderTag": "#PGYJ2JUCR",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 84,
+            "duration": 116
+          },
+          {
+            "attackerTag": "#9U2YP0RY",
+            "defenderTag": "#YJPJ00VJP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 85,
+            "duration": 127
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#8RYGRJUGG",
@@ -677,6 +695,24 @@
         "name": "Grizz",
         "townhallLevel": 14,
         "mapPosition": 27,
+        "attacks": [
+          {
+            "attackerTag": "#G9CC9G2VQ",
+            "defenderTag": "#99GR2CR28",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 82,
+            "duration": 102
+          },
+          {
+            "attackerTag": "#G9CC9G2VQ",
+            "defenderTag": "#GRY2C99QY",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 83,
+            "duration": 91
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#G82YPVU8",
@@ -733,6 +769,14 @@
             "destructionPercentage": 87,
             "order": 76,
             "duration": 103
+          },
+          {
+            "attackerTag": "#LGGLYVUPP",
+            "defenderTag": "#8GVJL8C2U",
+            "stars": 2,
+            "destructionPercentage": 65,
+            "order": 86,
+            "duration": 102
           }
         ],
         "opponentAttacks": 2,
@@ -912,14 +956,14 @@
         "name": "Unknown Amigo",
         "townhallLevel": 16,
         "mapPosition": 16,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#PL09LLPUY",
+          "attackerTag": "#9U2YP0RY",
           "defenderTag": "#PGYJ2JUCR",
-          "stars": 2,
-          "destructionPercentage": 96,
-          "order": 35,
-          "duration": 180
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 84,
+          "duration": 116
         }
       },
       {
@@ -1152,7 +1196,15 @@
         "name": "wildsabertooth",
         "townhallLevel": 11,
         "mapPosition": 28,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#G9CC9G2VQ",
+          "defenderTag": "#GRY2C99QY",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 83,
+          "duration": 91
+        }
       },
       {
         "tag": "#G82YPVU8",
@@ -1326,14 +1378,14 @@
             "duration": 129
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#GYGC88RGG",
+          "attackerTag": "#9U2YP0RY",
           "defenderTag": "#YJPJ00VJP",
-          "stars": 2,
-          "destructionPercentage": 71,
-          "order": 30,
-          "duration": 110
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 85,
+          "duration": 127
         }
       },
       {
@@ -1359,7 +1411,15 @@
             "duration": 180
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#G9CC9G2VQ",
+          "defenderTag": "#99GR2CR28",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 82,
+          "duration": 102
+        }
       },
       {
         "tag": "#YPPLU8Y0V",
@@ -1498,7 +1558,7 @@
             "duration": 157
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#J88YJGY9",
           "defenderTag": "#8GVJL8C2U",

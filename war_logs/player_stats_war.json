@@ -2471,11 +2471,11 @@
       },
       {
         "date": "20251023",
-        "attacksUsed": 0,
-        "starsEarned": 0,
-        "destruction": 0,
-        "attacksMissed": 2,
-        "zeroParticipation": true
+        "attacksUsed": 2,
+        "starsEarned": 6,
+        "destruction": 200,
+        "attacksMissed": 0,
+        "zeroParticipation": false
       }
     ]
   },
@@ -19719,10 +19719,10 @@
       },
       {
         "date": "20251023",
-        "attacksUsed": 1,
-        "starsEarned": 2,
-        "destruction": 87,
-        "attacksMissed": 1,
+        "attacksUsed": 2,
+        "starsEarned": 4,
+        "destruction": 152,
+        "attacksMissed": 0,
         "zeroParticipation": false
       }
     ]
@@ -30907,7 +30907,7 @@
       }
     ]
   },
-  "timestamp": "2025-10-22 19:00:03",
+  "timestamp": "2025-10-22 20:00:03",
   "#GPPQ0JCJR": {
     "name": "Goujii",
     "tag": "#GPPQ0JCJR",
@@ -58982,11 +58982,11 @@
       },
       {
         "date": "20251023",
-        "attacksUsed": 0,
-        "starsEarned": 0,
-        "destruction": 0,
-        "attacksMissed": 2,
-        "zeroParticipation": true
+        "attacksUsed": 2,
+        "starsEarned": 6,
+        "destruction": 200,
+        "attacksMissed": 0,
+        "zeroParticipation": false
       }
     ]
   },
@@ -82086,6 +82086,20 @@
         "attacksMissed": 0,
         "zeroParticipation": true
       },
+      {
+        "date": "20251023",
+        "attacksUsed": "---",
+        "starsEarned": "---",
+        "destruction": "---",
+        "attacksMissed": 0,
+        "zeroParticipation": true
+      }
+    ]
+  },
+  "#YRVUR2CLV": {
+    "name": "MASTER",
+    "tag": "#YRVUR2CLV",
+    "history": [
       {
         "date": "20251023",
         "attacksUsed": "---",
