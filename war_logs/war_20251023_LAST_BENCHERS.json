@@ -15,15 +15,25 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/MemvfcNsCKAIJd01S-vNV8_nVwYBGkQOTRp3HgJs0QU.png"
     },
     "clanLevel": 11,
-    "attacks": 46,
-    "stars": 85,
-    "destructionPercentage": 98.8,
+    "attacks": 50,
+    "stars": 88,
+    "destructionPercentage": 99.5,
     "members": [
       {
         "tag": "#8880L0C",
         "name": "Thomas Cat",
         "townhallLevel": 17,
         "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#8880L0C",
+            "defenderTag": "#9VG99L809",
+            "stars": 1,
+            "destructionPercentage": 55,
+            "order": 92,
+            "duration": 76
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#YPPLU8Y0V",
@@ -62,6 +72,14 @@
             "destructionPercentage": 100,
             "order": 78,
             "duration": 173
+          },
+          {
+            "attackerTag": "#UJP2UYRY",
+            "defenderTag": "#GP8UYQGJQ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 91,
+            "duration": 154
           }
         ],
         "opponentAttacks": 1,
@@ -506,6 +524,14 @@
             "destructionPercentage": 92,
             "order": 79,
             "duration": 144
+          },
+          {
+            "attackerTag": "#YJ2UV2GY",
+            "defenderTag": "#R2VJ2YVR",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 89,
+            "duration": 170
           }
         ],
         "opponentAttacks": 1,
@@ -531,6 +557,14 @@
             "destructionPercentage": 100,
             "order": 81,
             "duration": 103
+          },
+          {
+            "attackerTag": "#QYCLC0JLL",
+            "defenderTag": "#Q98CRP8JY",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 90,
+            "duration": 99
           }
         ],
         "opponentAttacks": 2,
@@ -893,14 +927,14 @@
         "name": "juanse",
         "townhallLevel": 16,
         "mapPosition": 17,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#Q9QU8L8YV",
+          "attackerTag": "#YJ2UV2GY",
           "defenderTag": "#R2VJ2YVR",
-          "stars": 2,
-          "destructionPercentage": 90,
-          "order": 55,
-          "duration": 180
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 89,
+          "duration": 170
         }
       },
       {
@@ -926,14 +960,14 @@
             "duration": 143
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#PL09LLPUY",
+          "attackerTag": "#UJP2UYRY",
           "defenderTag": "#GP8UYQGJQ",
-          "stars": 2,
-          "destructionPercentage": 92,
-          "order": 34,
-          "duration": 165
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 91,
+          "duration": 154
         }
       },
       {
@@ -1166,14 +1200,14 @@
             "duration": 135
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#YQ8L9JVJ2",
+          "attackerTag": "#QYCLC0JLL",
           "defenderTag": "#Q98CRP8JY",
-          "stars": 2,
-          "destructionPercentage": 97,
-          "order": 17,
-          "duration": 180
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 90,
+          "duration": 99
         }
       },
       {
@@ -1199,7 +1233,7 @@
             "duration": 180
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
           "attackerTag": "#YJ2UV2GY",
           "defenderTag": "#9VG99L809",
