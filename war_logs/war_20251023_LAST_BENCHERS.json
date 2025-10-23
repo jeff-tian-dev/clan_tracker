@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/MemvfcNsCKAIJd01S-vNV8_nVwYBGkQOTRp3HgJs0QU.png"
     },
     "clanLevel": 11,
-    "attacks": 44,
-    "stars": 83,
-    "destructionPercentage": 97.4,
+    "attacks": 46,
+    "stars": 85,
+    "destructionPercentage": 98.8,
     "members": [
       {
         "tag": "#8880L0C",
@@ -393,6 +393,16 @@
         "name": "Phantom",
         "townhallLevel": 16,
         "mapPosition": 20,
+        "attacks": [
+          {
+            "attackerTag": "#LYJJ9PLV9",
+            "defenderTag": "#GRGGG9V2G",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 87,
+            "duration": 116
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#YLU0JR2LJ",
@@ -546,6 +556,14 @@
             "destructionPercentage": 100,
             "order": 80,
             "duration": 107
+          },
+          {
+            "attackerTag": "#QRP2RLV02",
+            "defenderTag": "#8GVJL8C2U",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 88,
+            "duration": 123
           }
         ],
         "opponentAttacks": 1,
@@ -1246,14 +1264,14 @@
             "duration": 125
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#LGGLYVUPP",
+          "attackerTag": "#LYJJ9PLV9",
           "defenderTag": "#GRGGG9V2G",
-          "stars": 2,
-          "destructionPercentage": 87,
-          "order": 76,
-          "duration": 103
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 87,
+          "duration": 116
         }
       },
       {
@@ -1558,14 +1576,14 @@
             "duration": 157
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#J88YJGY9",
+          "attackerTag": "#QRP2RLV02",
           "defenderTag": "#8GVJL8C2U",
-          "stars": 2,
-          "destructionPercentage": 71,
-          "order": 77,
-          "duration": 165
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 88,
+          "duration": 123
         }
       },
       {
