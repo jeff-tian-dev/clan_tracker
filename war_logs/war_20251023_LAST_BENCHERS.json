@@ -181,7 +181,15 @@
             "duration": 110
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#R2VJ2YVR",
+          "defenderTag": "#GYGC88RGG",
+          "stars": 1,
+          "destructionPercentage": 49,
+          "order": 95,
+          "duration": 152
+        }
       },
       {
         "tag": "#8VQYULVQQ",
@@ -338,14 +346,14 @@
             "duration": 127
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#8RYGRJUGG",
+          "attackerTag": "#R2VJ2YVR",
           "defenderTag": "#9U2YP0RY",
-          "stars": 1,
-          "destructionPercentage": 91,
-          "order": 48,
-          "duration": 142
+          "stars": 2,
+          "destructionPercentage": 70,
+          "order": 96,
+          "duration": 115
         }
       },
       {
@@ -926,15 +934,33 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/XRuDhQVspsE5YyimGEDh5D-pkcg8hLt0AYP3Ut3etMw.png"
     },
     "clanLevel": 15,
-    "attacks": 44,
-    "stars": 82,
-    "destructionPercentage": 94.7,
+    "attacks": 46,
+    "stars": 84,
+    "destructionPercentage": 95.63333,
     "members": [
       {
         "tag": "#R2VJ2YVR",
         "name": "juanse",
         "townhallLevel": 16,
         "mapPosition": 17,
+        "attacks": [
+          {
+            "attackerTag": "#R2VJ2YVR",
+            "defenderTag": "#GYGC88RGG",
+            "stars": 1,
+            "destructionPercentage": 49,
+            "order": 95,
+            "duration": 152
+          },
+          {
+            "attackerTag": "#R2VJ2YVR",
+            "defenderTag": "#9U2YP0RY",
+            "stars": 2,
+            "destructionPercentage": 70,
+            "order": 96,
+            "duration": 115
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#YJ2UV2GY",
