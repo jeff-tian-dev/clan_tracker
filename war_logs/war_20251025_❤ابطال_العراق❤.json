@@ -5,7 +5,7 @@
   "battleModifier": "none",
   "preparationStartTime": "20251023T050055.000Z",
   "startTime": "20251024T040055.000Z",
-  "endTime": "20251025T040055.000Z",
+  "endTime": "20251025T044428.000Z",
   "clan": {
     "tag": "#2GRPGV0VL",
     "name": "July",
@@ -155,14 +155,14 @@
             "duration": 179
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#8VVUL0RGV",
+          "attackerTag": "#P0VGJVGUP",
           "defenderTag": "#Q9QU8L8YV",
-          "stars": 2,
-          "destructionPercentage": 96,
-          "order": 40,
-          "duration": 114
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 61,
+          "duration": 132
         }
       },
       {
@@ -746,9 +746,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/jfT7tfXSo_qiVrjtR1v7R_-tKmoHXjTGdypnpp1rVCU.png"
     },
     "clanLevel": 18,
-    "attacks": 22,
-    "stars": 53,
-    "destructionPercentage": 63.466667,
+    "attacks": 23,
+    "stars": 54,
+    "destructionPercentage": 63.6,
     "members": [
       {
         "tag": "#90RVLUGPG",
@@ -803,6 +803,16 @@
         "name": "KING OF ROCK",
         "townhallLevel": 16,
         "mapPosition": 18,
+        "attacks": [
+          {
+            "attackerTag": "#P0VGJVGUP",
+            "defenderTag": "#Q9QU8L8YV",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 61,
+            "duration": 132
+          }
+        ],
         "opponentAttacks": 0
       },
       {
