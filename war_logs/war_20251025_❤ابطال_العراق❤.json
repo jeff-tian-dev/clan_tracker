@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/MemvfcNsCKAIJd01S-vNV8_nVwYBGkQOTRp3HgJs0QU.png"
     },
     "clanLevel": 11,
-    "attacks": 11,
-    "stars": 22,
-    "destructionPercentage": 27.433332,
+    "attacks": 17,
+    "stars": 38,
+    "destructionPercentage": 44.733334,
     "members": [
       {
         "tag": "#8RJ28GQ2",
@@ -74,6 +74,14 @@
             "destructionPercentage": 90,
             "order": 11,
             "duration": 180
+          },
+          {
+            "attackerTag": "#GYGC88RGG",
+            "defenderTag": "#9GP9PGVJJ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 12,
+            "duration": 177
           }
         ],
         "opponentAttacks": 0
@@ -178,6 +186,16 @@
         "name": "Phantom",
         "townhallLevel": 16,
         "mapPosition": 18,
+        "attacks": [
+          {
+            "attackerTag": "#LYJJ9PLV9",
+            "defenderTag": "#89RC9RG0U",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 17,
+            "duration": 147
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -224,7 +242,15 @@
         "name": "83c",
         "townhallLevel": 17,
         "mapPosition": 4,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QCQJCPJ2J",
+          "defenderTag": "#QYCLC0JLL",
+          "stars": 2,
+          "destructionPercentage": 62,
+          "order": 16,
+          "duration": 140
+        }
       },
       {
         "tag": "#QRP2RLV02",
@@ -280,7 +306,15 @@
             "duration": 146
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QCQJCPJ2J",
+          "defenderTag": "#2R2JYRRU",
+          "stars": 2,
+          "destructionPercentage": 99,
+          "order": 15,
+          "duration": 180
+        }
       },
       {
         "tag": "#RGGG9P29",
@@ -308,6 +342,24 @@
         "name": "LEGEND BHUPESH",
         "townhallLevel": 16,
         "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#P08PU09Y2",
+            "defenderTag": "#8VVUL0RGV",
+            "stars": 2,
+            "destructionPercentage": 69,
+            "order": 18,
+            "duration": 97
+          },
+          {
+            "attackerTag": "#P08PU09Y2",
+            "defenderTag": "#8RJ9Y9CJG",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 19,
+            "duration": 107
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -315,6 +367,24 @@
         "name": "siwi2isuus2",
         "townhallLevel": 15,
         "mapPosition": 24,
+        "attacks": [
+          {
+            "attackerTag": "#LGGLYVUPP",
+            "defenderTag": "#QU0LQ2QJ0",
+            "stars": 2,
+            "destructionPercentage": 50,
+            "order": 13,
+            "duration": 136
+          },
+          {
+            "attackerTag": "#LGGLYVUPP",
+            "defenderTag": "#QJ0PRQ020",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 14,
+            "duration": 108
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -342,9 +412,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/jfT7tfXSo_qiVrjtR1v7R_-tKmoHXjTGdypnpp1rVCU.png"
     },
     "clanLevel": 18,
-    "attacks": 0,
-    "stars": 0,
-    "destructionPercentage": 0.0,
+    "attacks": 2,
+    "stars": 4,
+    "destructionPercentage": 5.366667,
     "members": [
       {
         "tag": "#90RVLUGPG",
@@ -366,7 +436,15 @@
         "name": "\u062d\u0633\u064a\u0646 \u0639\u0631\u0627\u0642\u064a",
         "townhallLevel": 16,
         "mapPosition": 13,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#P08PU09Y2",
+          "defenderTag": "#8VVUL0RGV",
+          "stars": 2,
+          "destructionPercentage": 69,
+          "order": 18,
+          "duration": 97
+        }
       },
       {
         "tag": "#P0VGJVGUP",
@@ -417,7 +495,15 @@
         "name": "\u0627\u0644\u0625\u0645\u0628\u0631\u0627\u0637\u0648\u0631",
         "townhallLevel": 16,
         "mapPosition": 16,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#P08PU09Y2",
+          "defenderTag": "#8RJ9Y9CJG",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 19,
+          "duration": 107
+        }
       },
       {
         "tag": "#8QVQYL0CG",
@@ -439,14 +525,30 @@
         "name": "\u0623\u0651\u062d\u064c\u0628\u0650\u06ab a",
         "townhallLevel": 13,
         "mapPosition": 28,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LGGLYVUPP",
+          "defenderTag": "#QJ0PRQ020",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 14,
+          "duration": 108
+        }
       },
       {
         "tag": "#9GP9PGVJJ",
         "name": "abou ghaly",
         "townhallLevel": 16,
         "mapPosition": 11,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GYGC88RGG",
+          "defenderTag": "#9GP9PGVJJ",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 12,
+          "duration": 177
+        }
       },
       {
         "tag": "#8CPPP2YQP",
@@ -475,7 +577,15 @@
         "name": "Ameer alshami",
         "townhallLevel": 16,
         "mapPosition": 19,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LYJJ9PLV9",
+          "defenderTag": "#89RC9RG0U",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 17,
+          "duration": 147
+        }
       },
       {
         "tag": "#P09PUVGVQ",
@@ -591,6 +701,24 @@
         "name": "omar",
         "townhallLevel": 16,
         "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#QCQJCPJ2J",
+            "defenderTag": "#2R2JYRRU",
+            "stars": 2,
+            "destructionPercentage": 99,
+            "order": 15,
+            "duration": 180
+          },
+          {
+            "attackerTag": "#QCQJCPJ2J",
+            "defenderTag": "#QYCLC0JLL",
+            "stars": 2,
+            "destructionPercentage": 62,
+            "order": 16,
+            "duration": 140
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -598,7 +726,15 @@
         "name": "SHS 2000",
         "townhallLevel": 14,
         "mapPosition": 27,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LGGLYVUPP",
+          "defenderTag": "#QU0LQ2QJ0",
+          "stars": 2,
+          "destructionPercentage": 50,
+          "order": 13,
+          "duration": 136
+        }
       },
       {
         "tag": "#LUV2QQURC",
