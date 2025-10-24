@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/MemvfcNsCKAIJd01S-vNV8_nVwYBGkQOTRp3HgJs0QU.png"
     },
     "clanLevel": 11,
-    "attacks": 17,
-    "stars": 38,
-    "destructionPercentage": 44.733334,
+    "attacks": 21,
+    "stars": 44,
+    "destructionPercentage": 53.433334,
     "members": [
       {
         "tag": "#8RJ28GQ2",
@@ -45,6 +45,16 @@
         "name": "destroyer",
         "townhallLevel": 17,
         "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#UJP2UYRY",
+            "defenderTag": "#YGCV2UGL0",
+            "stars": 1,
+            "destructionPercentage": 65,
+            "order": 23,
+            "duration": 129
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -235,6 +245,24 @@
         "name": "Sir Hazelnut\u2122\ufe0f",
         "townhallLevel": 16,
         "mapPosition": 20,
+        "attacks": [
+          {
+            "attackerTag": "#YJ2UV2GY",
+            "defenderTag": "#GPP2J0QGY",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 21,
+            "duration": 111
+          },
+          {
+            "attackerTag": "#YJ2UV2GY",
+            "defenderTag": "#9J0YU0LCL",
+            "stars": 2,
+            "destructionPercentage": 96,
+            "order": 22,
+            "duration": 120
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -328,6 +356,16 @@
         "name": "Aurelian",
         "townhallLevel": 12,
         "mapPosition": 29,
+        "attacks": [
+          {
+            "attackerTag": "#GGYGQ8098",
+            "defenderTag": "#8YQJL9L92",
+            "stars": 1,
+            "destructionPercentage": 6,
+            "order": 20,
+            "duration": 16
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -628,7 +666,15 @@
         "name": "\u0648\u062d\u064a\u062f \u0627\u0644\u0627\u0633\u0637\u0648\u0631\u0629",
         "townhallLevel": 17,
         "mapPosition": 6,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#UJP2UYRY",
+          "defenderTag": "#YGCV2UGL0",
+          "stars": 1,
+          "destructionPercentage": 65,
+          "order": 23,
+          "duration": 129
+        }
       },
       {
         "tag": "#8C2CCGUY0",
@@ -657,7 +703,7 @@
         "name": "The Eagle",
         "townhallLevel": 17,
         "mapPosition": 3,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#YQ8L9JVJ2",
           "defenderTag": "#8YQJL9L92",
@@ -748,14 +794,30 @@
         "name": "Mollina",
         "townhallLevel": 15,
         "mapPosition": 24,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YJ2UV2GY",
+          "defenderTag": "#GPP2J0QGY",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 21,
+          "duration": 111
+        }
       },
       {
         "tag": "#9J0YU0LCL",
         "name": "\u0633\u064a\u0641\u0643 \u064a\u0628\u0648\u064a",
         "townhallLevel": 15,
         "mapPosition": 22,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YJ2UV2GY",
+          "defenderTag": "#9J0YU0LCL",
+          "stars": 2,
+          "destructionPercentage": 96,
+          "order": 22,
+          "duration": 120
+        }
       },
       {
         "tag": "#PL22822CL",
