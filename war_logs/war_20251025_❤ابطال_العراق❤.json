@@ -72,13 +72,13 @@
         "name": "BTM/\\SoLjaR",
         "townhallLevel": 16,
         "mapPosition": 13,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#8VVUL0RGV",
+          "attackerTag": "#9PR8YJ9GC",
           "defenderTag": "#LJYGRJLQU",
-          "stars": 2,
-          "destructionPercentage": 93,
-          "order": 39,
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 85,
           "duration": 140
         }
       },
@@ -262,7 +262,15 @@
             "duration": 180
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QRLRC82PU",
+          "defenderTag": "#PL09LLPUY",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 80,
+          "duration": 100
+        }
       },
       {
         "tag": "#Q2QQL2YVV",
@@ -335,14 +343,14 @@
             "duration": 113
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#P09PUVGVQ",
+          "attackerTag": "#QRLRC82PU",
           "defenderTag": "#9U2YP0RY",
-          "stars": 2,
-          "destructionPercentage": 96,
-          "order": 75,
-          "duration": 173
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 81,
+          "duration": 82
         }
       },
       {
@@ -548,14 +556,14 @@
             "duration": 140
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#YGCV2UGL0",
+          "attackerTag": "#8YQJL9L92",
           "defenderTag": "#QYCLC0JLL",
-          "stars": 2,
-          "destructionPercentage": 78,
-          "order": 71,
-          "duration": 156
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 82,
+          "duration": 137
         }
       },
       {
@@ -596,7 +604,7 @@
             "duration": 174
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
           "attackerTag": "#8C892VG0C",
           "defenderTag": "#G28CVVRJL",
@@ -854,9 +862,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/jfT7tfXSo_qiVrjtR1v7R_-tKmoHXjTGdypnpp1rVCU.png"
     },
     "clanLevel": 18,
-    "attacks": 36,
-    "stars": 78,
-    "destructionPercentage": 91.5,
+    "attacks": 42,
+    "stars": 84,
+    "destructionPercentage": 95.933334,
     "members": [
       {
         "tag": "#90RVLUGPG",
@@ -944,6 +952,24 @@
         "name": "Hussein",
         "townhallLevel": 16,
         "mapPosition": 23,
+        "attacks": [
+          {
+            "attackerTag": "#QRLRC82PU",
+            "defenderTag": "#PL09LLPUY",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 80,
+            "duration": 100
+          },
+          {
+            "attackerTag": "#QRLRC82PU",
+            "defenderTag": "#9U2YP0RY",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 81,
+            "duration": 82
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#GLU9LC2LG",
@@ -1382,6 +1408,24 @@
         "name": "\ufec3\u06e6\u06e6\u06ec\u06ec\u06e6\ufba9\u06e6\u06e6\u06ec\u06ec\u06e6\ufe82\ufbe1\ufef1",
         "townhallLevel": 17,
         "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#9PR8YJ9GC",
+            "defenderTag": "#G28CVVRJL",
+            "stars": 2,
+            "destructionPercentage": 74,
+            "order": 84,
+            "duration": 170
+          },
+          {
+            "attackerTag": "#9PR8YJ9GC",
+            "defenderTag": "#LJYGRJLQU",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 85,
+            "duration": 140
+          }
+        ],
         "opponentAttacks": 3,
         "bestOpponentAttack": {
           "attackerTag": "#QYCLC0JLL",
@@ -1397,6 +1441,24 @@
         "name": "The Eagle",
         "townhallLevel": 17,
         "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#8YQJL9L92",
+            "defenderTag": "#QYCLC0JLL",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 82,
+            "duration": 137
+          },
+          {
+            "attackerTag": "#8YQJL9L92",
+            "defenderTag": "#G28CVVRJL",
+            "stars": 2,
+            "destructionPercentage": 85,
+            "order": 83,
+            "duration": 156
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#YQ8L9JVJ2",
