@@ -31,7 +31,15 @@
         "name": "voldemort",
         "townhallLevel": 15,
         "mapPosition": 23,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GPP2J0QGY",
+          "defenderTag": "#QYL88U9P0",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 32,
+          "duration": 117
+        }
       },
       {
         "tag": "#LJYGRJLQU",
@@ -298,7 +306,15 @@
             "duration": 180
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GPP2J0QGY",
+          "defenderTag": "#J88YJGY9",
+          "stars": 2,
+          "destructionPercentage": 91,
+          "order": 31,
+          "duration": 117
+        }
       },
       {
         "tag": "#YJ2UV2GY",
@@ -510,9 +526,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/jfT7tfXSo_qiVrjtR1v7R_-tKmoHXjTGdypnpp1rVCU.png"
     },
     "clanLevel": 18,
-    "attacks": 4,
-    "stars": 10,
-    "destructionPercentage": 12.033334,
+    "attacks": 6,
+    "stars": 15,
+    "destructionPercentage": 18.4,
     "members": [
       {
         "tag": "#90RVLUGPG",
@@ -888,6 +904,24 @@
         "name": "Mollina",
         "townhallLevel": 15,
         "mapPosition": 24,
+        "attacks": [
+          {
+            "attackerTag": "#GPP2J0QGY",
+            "defenderTag": "#J88YJGY9",
+            "stars": 2,
+            "destructionPercentage": 91,
+            "order": 31,
+            "duration": 117
+          },
+          {
+            "attackerTag": "#GPP2J0QGY",
+            "defenderTag": "#QYL88U9P0",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 32,
+            "duration": 117
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#YJ2UV2GY",
