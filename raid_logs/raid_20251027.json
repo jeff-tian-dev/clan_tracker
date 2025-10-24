@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251024T070000.000Z",
   "endTime": "20251027T070000.000Z",
-  "capitalTotalLoot": 166606,
+  "capitalTotalLoot": 175022,
   "raidsCompleted": 1,
-  "totalAttacks": 39,
-  "enemyDistrictsDestroyed": 13,
+  "totalAttacks": 41,
+  "enemyDistrictsDestroyed": 15,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -44,10 +44,10 @@
     {
       "tag": "#2CQLC28UP",
       "name": "gun",
-      "attacks": 4,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 12428
+      "capitalResourcesLooted": 20844
     },
     {
       "tag": "#YG8JU9QC2",
@@ -434,9 +434,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/9-tE99KMs9Js_u3hyGN55RsFUE0-zP8hAsUY9DekKLY.png"
         }
       },
-      "attackCount": 11,
+      "attackCount": 13,
       "districtCount": 9,
-      "districtsDestroyed": 4,
+      "districtsDestroyed": 6,
       "districts": [
         {
           "id": 70000000,
@@ -516,11 +516,19 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 4,
-          "destructionPercent": 61,
-          "stars": 2,
-          "attackCount": 1,
-          "totalLooted": 5260,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9642,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#2CQLC28UP",
+                "name": "gun"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#8RVLYPYYG",
@@ -589,11 +597,19 @@
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 3,
-          "destructionPercent": 67,
-          "stars": 2,
-          "attackCount": 1,
-          "totalLooted": 6020,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10054,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#2CQLC28UP",
+                "name": "gun"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#92V882CPG",
