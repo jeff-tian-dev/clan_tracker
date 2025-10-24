@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251024T070000.000Z",
   "endTime": "20251027T070000.000Z",
-  "capitalTotalLoot": 271344,
+  "capitalTotalLoot": 274447,
   "raidsCompleted": 2,
-  "totalAttacks": 63,
-  "enemyDistrictsDestroyed": 24,
+  "totalAttacks": 64,
+  "enemyDistrictsDestroyed": 25,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -80,6 +80,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 21373
+    },
+    {
+      "tag": "#GQUV8C0LP",
+      "name": "braum",
+      "attacks": 1,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 3103
     },
     {
       "tag": "#RGGG9P29",
@@ -734,9 +742,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/ZVYtSZf89TZmStH42XhUxhaMNbnBlxRKKH0ZT0cD1sg.png"
         }
       },
-      "attackCount": 16,
+      "attackCount": 17,
       "districtCount": 9,
-      "districtsDestroyed": 6,
+      "districtsDestroyed": 7,
       "districts": [
         {
           "id": 70000000,
@@ -751,11 +759,19 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 83,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 8605,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11708,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#GQUV8C0LP",
+                "name": "braum"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#PRGGL2J2V",

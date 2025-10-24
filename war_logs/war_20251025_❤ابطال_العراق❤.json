@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/MemvfcNsCKAIJd01S-vNV8_nVwYBGkQOTRp3HgJs0QU.png"
     },
     "clanLevel": 11,
-    "attacks": 40,
-    "stars": 76,
-    "destructionPercentage": 88.433334,
+    "attacks": 41,
+    "stars": 77,
+    "destructionPercentage": 88.76667,
     "members": [
       {
         "tag": "#8RJ28GQ2",
@@ -317,6 +317,14 @@
             "destructionPercentage": 100,
             "order": 7,
             "duration": 150
+          },
+          {
+            "attackerTag": "#9U2YP0RY",
+            "defenderTag": "#90RVLUGPG",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 70,
+            "duration": 113
           }
         ],
         "opponentAttacks": 0
@@ -805,14 +813,14 @@
         "name": "Panda",
         "townhallLevel": 16,
         "mapPosition": 9,
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#GYGC88RGG",
+          "attackerTag": "#9U2YP0RY",
           "defenderTag": "#90RVLUGPG",
-          "stars": 2,
-          "destructionPercentage": 90,
-          "order": 11,
-          "duration": 180
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 70,
+          "duration": 113
         }
       },
       {
