@@ -2,9 +2,9 @@
   "state": "ongoing",
   "startTime": "20251024T070000.000Z",
   "endTime": "20251027T070000.000Z",
-  "capitalTotalLoot": 252238,
+  "capitalTotalLoot": 257203,
   "raidsCompleted": 2,
-  "totalAttacks": 59,
+  "totalAttacks": 60,
   "enemyDistrictsDestroyed": 22,
   "offensiveReward": 0,
   "defensiveReward": 0,
@@ -60,10 +60,10 @@
     {
       "tag": "#YG8JU9QC2",
       "name": "Umer Jawaid",
-      "attacks": 2,
+      "attacks": 3,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 11519
+      "capitalResourcesLooted": 16484
     },
     {
       "tag": "#QYCLC0JLL",
@@ -726,7 +726,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/ZVYtSZf89TZmStH42XhUxhaMNbnBlxRKKH0ZT0cD1sg.png"
         }
       },
-      "attackCount": 12,
+      "attackCount": 13,
       "districtCount": 9,
       "districtsDestroyed": 4,
       "districts": [
@@ -779,10 +779,20 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 63,
+          "stars": 1,
+          "attackCount": 1,
+          "totalLooted": 4965,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YG8JU9QC2",
+                "name": "Umer Jawaid"
+              },
+              "destructionPercent": 63,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000004,
