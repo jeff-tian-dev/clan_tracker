@@ -2,13 +2,21 @@
   "state": "ongoing",
   "startTime": "20251024T070000.000Z",
   "endTime": "20251027T070000.000Z",
-  "capitalTotalLoot": 67619,
-  "raidsCompleted": 0,
-  "totalAttacks": 16,
-  "enemyDistrictsDestroyed": 4,
+  "capitalTotalLoot": 130613,
+  "raidsCompleted": 1,
+  "totalAttacks": 32,
+  "enemyDistrictsDestroyed": 10,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
+    {
+      "tag": "#92V882CPG",
+      "name": "ichigo kurusaki",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 21591
+    },
     {
       "tag": "#GYGC88RGG",
       "name": "INDxSayan",
@@ -26,12 +34,36 @@
       "capitalResourcesLooted": 23598
     },
     {
+      "tag": "#2CQLC28UP",
+      "name": "gun",
+      "attacks": 4,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 12428
+    },
+    {
       "tag": "#YG8JU9QC2",
       "name": "Umer Jawaid",
       "attacks": 2,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 11519
+    },
+    {
+      "tag": "#QYCLC0JLL",
+      "name": "83c",
+      "attacks": 3,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 11690
+    },
+    {
+      "tag": "#8RVLYPYYG",
+      "name": "Daddy\u2b50(Pitaji)",
+      "attacks": 3,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 17285
     },
     {
       "tag": "#P08PU09Y2",
@@ -54,28 +86,86 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/gjZFmXcD9c3tviDTNmkqtPbSH3tW_iQk3g7xudG6Ovc.png"
         }
       },
-      "attackCount": 16,
+      "attackCount": 28,
       "districtCount": 9,
-      "districtsDestroyed": 4,
+      "districtsDestroyed": 9,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 5,
+          "totalLooted": 13754,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#92V882CPG",
+                "name": "ichigo kurusaki"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#92V882CPG",
+                "name": "ichigo kurusaki"
+              },
+              "destructionPercent": 88,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#92V882CPG",
+                "name": "ichigo kurusaki"
+              },
+              "destructionPercent": 44,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#92V882CPG",
+                "name": "ichigo kurusaki"
+              },
+              "destructionPercent": 11,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#2CQLC28UP",
+                "name": "gun"
+              },
+              "destructionPercent": 3,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 29,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 2900,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11604,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#2CQLC28UP",
+                "name": "gun"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2CQLC28UP",
+                "name": "gun"
+              },
+              "destructionPercent": 68,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#P08PU09Y2",
@@ -160,11 +250,19 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 88,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 9735,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 12332,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#92V882CPG",
+                "name": "ichigo kurusaki"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#P08PU09Y2",
@@ -187,10 +285,36 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11690,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QYCLC0JLL",
+                "name": "83c"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QYCLC0JLL",
+                "name": "83c"
+              },
+              "destructionPercent": 82,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#QYCLC0JLL",
+                "name": "83c"
+              },
+              "destructionPercent": 20,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000006,
@@ -258,11 +382,19 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 85,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 9035,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11979,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#2CQLC28UP",
+                "name": "gun"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#GYGC88RGG",
@@ -278,6 +410,144 @@
               },
               "destructionPercent": 55,
               "stars": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "defender": {
+        "tag": "#QJCYJCRU",
+        "name": "\u2665GAME OVER\u2665\u261c",
+        "level": 19,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/9-tE99KMs9Js_u3hyGN55RsFUE0-zP8hAsUY9DekKLY.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/9-tE99KMs9Js_u3hyGN55RsFUE0-zP8hAsUY9DekKLY.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/9-tE99KMs9Js_u3hyGN55RsFUE0-zP8hAsUY9DekKLY.png"
+        }
+      },
+      "attackCount": 4,
+      "districtCount": 9,
+      "districtsDestroyed": 1,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 10,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 4,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 4,
+          "destructionPercent": 73,
+          "stars": 2,
+          "attackCount": 1,
+          "totalLooted": 6285,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#8RVLYPYYG",
+                "name": "Daddy\u2b50(Pitaji)"
+              },
+              "destructionPercent": 73,
+              "stars": 2
+            }
+          ]
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 4,
+          "destructionPercent": 61,
+          "stars": 2,
+          "attackCount": 1,
+          "totalLooted": 5260,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#8RVLYPYYG",
+                "name": "Daddy\u2b50(Pitaji)"
+              },
+              "destructionPercent": 61,
+              "stars": 2
+            }
+          ]
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 4,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 4,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 3,
+          "destructionPercent": 67,
+          "stars": 2,
+          "attackCount": 1,
+          "totalLooted": 6020,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#92V882CPG",
+                "name": "ichigo kurusaki"
+              },
+              "destructionPercent": 67,
+              "stars": 2
+            }
+          ]
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 3,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 1,
+          "totalLooted": 5740,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#8RVLYPYYG",
+                "name": "Daddy\u2b50(Pitaji)"
+              },
+              "destructionPercent": 100,
+              "stars": 3
             }
           ]
         }
