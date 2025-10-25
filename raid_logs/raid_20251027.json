@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251024T070000.000Z",
   "endTime": "20251027T070000.000Z",
-  "capitalTotalLoot": 529760,
+  "capitalTotalLoot": 546642,
   "raidsCompleted": 5,
-  "totalAttacks": 129,
-  "enemyDistrictsDestroyed": 46,
+  "totalAttacks": 132,
+  "enemyDistrictsDestroyed": 47,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -100,10 +100,10 @@
     {
       "tag": "#YG8JU9QC2",
       "name": "Umer Jawaid",
-      "attacks": 3,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 16484
+      "capitalResourcesLooted": 33366
     },
     {
       "tag": "#Q20L2G0JV",
@@ -1778,9 +1778,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/HOnCl1ZFh7KOW3-sisuKYt5Ufa7OCg8EZVZEtfQLmjQ.png"
         }
       },
-      "attackCount": 6,
+      "attackCount": 9,
       "districtCount": 9,
-      "districtsDestroyed": 1,
+      "districtsDestroyed": 2,
       "districts": [
         {
           "id": 70000000,
@@ -1841,10 +1841,28 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10777,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YG8JU9QC2",
+                "name": "Umer Jawaid"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#YG8JU9QC2",
+                "name": "Umer Jawaid"
+              },
+              "destructionPercent": 44,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000004,
@@ -1886,10 +1904,20 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 62,
+          "stars": 2,
+          "attackCount": 1,
+          "totalLooted": 6105,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YG8JU9QC2",
+                "name": "Umer Jawaid"
+              },
+              "destructionPercent": 62,
+              "stars": 2
+            }
+          ]
         },
         {
           "id": 70000007,
@@ -1934,9 +1962,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/RUJkQ0iUaP8KMH4w2lGPvDUUILX-S46Bn0WZ1jhnhfk.png"
         }
       },
-      "attackCount": 0,
+      "attackCount": 3,
       "districtCount": 9,
-      "districtsDestroyed": 0,
+      "districtsDestroyed": 1,
       "districts": [
         {
           "id": 70000000,
@@ -2014,10 +2042,36 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11493,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q2RUY2PVQ",
+                "name": "\uff24\uff39\uff2e\uff21\uff2d\uff2f"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Q2RUY2PVQ",
+                "name": "\uff24\uff39\uff2e\uff21\uff2d\uff2f"
+              },
+              "destructionPercent": 54,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#Q2RUY2PVQ",
+                "name": "\uff24\uff39\uff2e\uff21\uff2d\uff2f"
+              },
+              "destructionPercent": 19,
+              "stars": 0
+            }
+          ]
         }
       ]
     }
