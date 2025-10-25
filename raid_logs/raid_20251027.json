@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251024T070000.000Z",
   "endTime": "20251027T070000.000Z",
-  "capitalTotalLoot": 339166,
+  "capitalTotalLoot": 349148,
   "raidsCompleted": 3,
-  "totalAttacks": 83,
-  "enemyDistrictsDestroyed": 31,
+  "totalAttacks": 86,
+  "enemyDistrictsDestroyed": 32,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -44,10 +44,10 @@
     {
       "tag": "#Q9QU8L8YV",
       "name": "je suis excit\u00e9",
-      "attacks": 1,
+      "attacks": 3,
       "attackLimit": 5,
-      "bonusAttackLimit": 0,
-      "capitalResourcesLooted": 4060
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 11762
     },
     {
       "tag": "#GYGC88RGG",
@@ -100,10 +100,10 @@
     {
       "tag": "#QYCLC0JLL",
       "name": "83c",
-      "attacks": 5,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 21373
+      "capitalResourcesLooted": 23653
     },
     {
       "tag": "#GQUV8C0LP",
@@ -1058,9 +1058,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/a_AMlHKrUkzNGRhZPtdhstKW3sfO0KqzaVRQ_iZDKSk.png"
         }
       },
-      "attackCount": 14,
+      "attackCount": 17,
       "districtCount": 9,
-      "districtsDestroyed": 4,
+      "districtsDestroyed": 5,
       "districts": [
         {
           "id": 70000000,
@@ -1136,11 +1136,27 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 30,
-          "stars": 1,
-          "attackCount": 1,
-          "totalLooted": 4060,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11762,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q9QU8L8YV",
+                "name": "je suis excit\u00e9"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Q9QU8L8YV",
+                "name": "je suis excit\u00e9"
+              },
+              "destructionPercent": 55,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#Q9QU8L8YV",
@@ -1155,10 +1171,20 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
+          "destructionPercent": 37,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 1,
+          "totalLooted": 2280,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QYCLC0JLL",
+                "name": "83c"
+              },
+              "destructionPercent": 37,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000006,
