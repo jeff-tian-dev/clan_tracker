@@ -15,7 +15,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/MemvfcNsCKAIJd01S-vNV8_nVwYBGkQOTRp3HgJs0QU.png"
     },
     "clanLevel": 11,
-    "attacks": 43,
+    "attacks": 45,
     "stars": 80,
     "destructionPercentage": 93.4,
     "members": [
@@ -72,6 +72,24 @@
         "name": "BTM/\\SoLjaR",
         "townhallLevel": 16,
         "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#LJYGRJLQU",
+            "defenderTag": "#LPGJJC9U2",
+            "stars": 1,
+            "destructionPercentage": 78,
+            "order": 96,
+            "duration": 114
+          },
+          {
+            "attackerTag": "#LJYGRJLQU",
+            "defenderTag": "#QCQJCPJ2J",
+            "stars": 2,
+            "destructionPercentage": 70,
+            "order": 97,
+            "duration": 107
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#9PR8YJ9GC",
@@ -1341,7 +1359,7 @@
             "duration": 178
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#2CQLC28UP",
           "defenderTag": "#LPGJJC9U2",
@@ -1627,7 +1645,7 @@
             "duration": 140
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#PL09LLPUY",
           "defenderTag": "#QCQJCPJ2J",
