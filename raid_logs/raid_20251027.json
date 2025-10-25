@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251024T070000.000Z",
   "endTime": "20251027T070000.000Z",
-  "capitalTotalLoot": 323691,
+  "capitalTotalLoot": 339166,
   "raidsCompleted": 3,
-  "totalAttacks": 78,
-  "enemyDistrictsDestroyed": 30,
+  "totalAttacks": 83,
+  "enemyDistrictsDestroyed": 31,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -36,10 +36,18 @@
     {
       "tag": "#QYL88U9P0",
       "name": "voldemort",
-      "attacks": 2,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 6085
+      "capitalResourcesLooted": 17500
+    },
+    {
+      "tag": "#Q9QU8L8YV",
+      "name": "je suis excit\u00e9",
+      "attacks": 1,
+      "attackLimit": 5,
+      "bonusAttackLimit": 0,
+      "capitalResourcesLooted": 4060
     },
     {
       "tag": "#GYGC88RGG",
@@ -1050,9 +1058,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/a_AMlHKrUkzNGRhZPtdhstKW3sfO0KqzaVRQ_iZDKSk.png"
         }
       },
-      "attackCount": 9,
+      "attackCount": 14,
       "districtCount": 9,
-      "districtsDestroyed": 3,
+      "districtsDestroyed": 4,
       "districts": [
         {
           "id": 70000000,
@@ -1085,19 +1093,63 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 11415,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QYL88U9P0",
+                "name": "voldemort"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QYL88U9P0",
+                "name": "voldemort"
+              },
+              "destructionPercent": 72,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#QYL88U9P0",
+                "name": "voldemort"
+              },
+              "destructionPercent": 46,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#QYL88U9P0",
+                "name": "voldemort"
+              },
+              "destructionPercent": 30,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 30,
+          "stars": 1,
+          "attackCount": 1,
+          "totalLooted": 4060,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q9QU8L8YV",
+                "name": "je suis excit\u00e9"
+              },
+              "destructionPercent": 30,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000005,
