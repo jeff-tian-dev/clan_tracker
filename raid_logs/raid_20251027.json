@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251024T070000.000Z",
   "endTime": "20251027T070000.000Z",
-  "capitalTotalLoot": 573919,
+  "capitalTotalLoot": 583365,
   "raidsCompleted": 5,
-  "totalAttacks": 138,
-  "enemyDistrictsDestroyed": 52,
+  "totalAttacks": 143,
+  "enemyDistrictsDestroyed": 53,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -24,6 +24,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 22898
+    },
+    {
+      "tag": "#8RJ28GQ2",
+      "name": "peter qiu rocks",
+      "attacks": 5,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 9446
     },
     {
       "tag": "#92V882CPG",
@@ -1786,9 +1794,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/HOnCl1ZFh7KOW3-sisuKYt5Ufa7OCg8EZVZEtfQLmjQ.png"
         }
       },
-      "attackCount": 15,
+      "attackCount": 20,
       "districtCount": 9,
-      "districtsDestroyed": 7,
+      "districtsDestroyed": 8,
       "districts": [
         {
           "id": 70000000,
@@ -1919,10 +1927,52 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 5,
+          "totalLooted": 9446,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#8RJ28GQ2",
+                "name": "peter qiu rocks"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#8RJ28GQ2",
+                "name": "peter qiu rocks"
+              },
+              "destructionPercent": 93,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#8RJ28GQ2",
+                "name": "peter qiu rocks"
+              },
+              "destructionPercent": 74,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#8RJ28GQ2",
+                "name": "peter qiu rocks"
+              },
+              "destructionPercent": 45,
+              "stars": 0
+            },
+            {
+              "attacker": {
+                "tag": "#8RJ28GQ2",
+                "name": "peter qiu rocks"
+              },
+              "destructionPercent": 17,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000006,
