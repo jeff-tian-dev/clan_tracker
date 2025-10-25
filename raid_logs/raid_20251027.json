@@ -2210,9 +2210,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/RUJkQ0iUaP8KMH4w2lGPvDUUILX-S46Bn0WZ1jhnhfk.png"
         }
       },
-      "attackCount": 7,
+      "attackCount": 17,
       "districtCount": 9,
-      "districtsDestroyed": 1,
+      "districtsDestroyed": 4,
       "districts": [
         {
           "id": 70000000,
@@ -2245,19 +2245,87 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 11418,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QVC829Y8Y",
+                "name": "ADMIRAL"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#8JR9PVQ9R",
+                "name": "Dragma"
+              },
+              "destructionPercent": 84,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#8JR9PVQ9R",
+                "name": "Dragma"
+              },
+              "destructionPercent": 54,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#8JR9PVQ9R",
+                "name": "Dragma"
+              },
+              "destructionPercent": 38,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 76,
+          "stars": 2,
+          "attackCount": 4,
+          "totalLooted": 7745,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QVC829Y8Y",
+                "name": "ADMIRAL"
+              },
+              "destructionPercent": 76,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#QVC829Y8Y",
+                "name": "ADMIRAL"
+              },
+              "destructionPercent": 42,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#QVC829Y8Y",
+                "name": "ADMIRAL"
+              },
+              "destructionPercent": 28,
+              "stars": 0
+            },
+            {
+              "attacker": {
+                "tag": "#8JR9PVQ9R",
+                "name": "Dragma"
+              },
+              "destructionPercent": 16,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000005,
@@ -2272,11 +2340,19 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 31,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 4320,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11385,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#8JR9PVQ9R",
+                "name": "Dragma"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#8JR9PVQ9R",
@@ -2291,11 +2367,19 @@
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 81,
-          "stars": 1,
-          "attackCount": 3,
-          "totalLooted": 9250,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 11855,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#QVC829Y8Y",
+                "name": "ADMIRAL"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#Q2RUY2PVQ",
