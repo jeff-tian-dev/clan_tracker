@@ -2,9 +2,9 @@
   "state": "ongoing",
   "startTime": "20251024T070000.000Z",
   "endTime": "20251027T070000.000Z",
-  "capitalTotalLoot": 583365,
+  "capitalTotalLoot": 590585,
   "raidsCompleted": 5,
-  "totalAttacks": 143,
+  "totalAttacks": 145,
   "enemyDistrictsDestroyed": 53,
   "offensiveReward": 0,
   "defensiveReward": 0,
@@ -120,6 +120,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 33366
+    },
+    {
+      "tag": "#J88YJGY9",
+      "name": "King Killer",
+      "attacks": 2,
+      "attackLimit": 5,
+      "bonusAttackLimit": 0,
+      "capitalResourcesLooted": 7220
     },
     {
       "tag": "#Q20L2G0JV",
@@ -1794,7 +1802,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/HOnCl1ZFh7KOW3-sisuKYt5Ufa7OCg8EZVZEtfQLmjQ.png"
         }
       },
-      "attackCount": 20,
+      "attackCount": 22,
       "districtCount": 9,
       "districtsDestroyed": 8,
       "districts": [
@@ -1802,10 +1810,28 @@
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 58,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 7220,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#J88YJGY9",
+                "name": "King Killer"
+              },
+              "destructionPercent": 58,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#J88YJGY9",
+                "name": "King Killer"
+              },
+              "destructionPercent": 40,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
