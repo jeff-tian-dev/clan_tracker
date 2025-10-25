@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251024T070000.000Z",
   "endTime": "20251027T070000.000Z",
-  "capitalTotalLoot": 563495,
+  "capitalTotalLoot": 573919,
   "raidsCompleted": 5,
-  "totalAttacks": 136,
-  "enemyDistrictsDestroyed": 51,
+  "totalAttacks": 138,
+  "enemyDistrictsDestroyed": 52,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -80,6 +80,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 23598
+    },
+    {
+      "tag": "#Y80PLCRQ9",
+      "name": "jerwenzke1",
+      "attacks": 2,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 10424
     },
     {
       "tag": "#Y8GQ89UGJ",
@@ -1778,9 +1786,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/HOnCl1ZFh7KOW3-sisuKYt5Ufa7OCg8EZVZEtfQLmjQ.png"
         }
       },
-      "attackCount": 13,
+      "attackCount": 15,
       "districtCount": 9,
-      "districtsDestroyed": 6,
+      "districtsDestroyed": 7,
       "districts": [
         {
           "id": 70000000,
@@ -1974,10 +1982,28 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10424,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Y80PLCRQ9",
+                "name": "jerwenzke1"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Y80PLCRQ9",
+                "name": "jerwenzke1"
+              },
+              "destructionPercent": 61,
+              "stars": 2
+            }
+          ]
         }
       ]
     }
