@@ -15,7 +15,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/MemvfcNsCKAIJd01S-vNV8_nVwYBGkQOTRp3HgJs0QU.png"
     },
     "clanLevel": 11,
-    "attacks": 51,
+    "attacks": 52,
     "stars": 84,
     "destructionPercentage": 97.36667,
     "members": [
@@ -24,6 +24,16 @@
         "name": "peter qiu rocks",
         "townhallLevel": 13,
         "mapPosition": 28,
+        "attacks": [
+          {
+            "attackerTag": "#8RJ28GQ2",
+            "defenderTag": "#9PQYPC9GJ",
+            "stars": 2,
+            "destructionPercentage": 66,
+            "order": 108,
+            "duration": 112
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#QJ0PRQ020",
@@ -658,7 +668,7 @@
             "duration": 174
           }
         ],
-        "opponentAttacks": 7,
+        "opponentAttacks": 9,
         "bestOpponentAttack": {
           "attackerTag": "#PL22822CL",
           "defenderTag": "#G28CVVRJL",
@@ -886,7 +896,7 @@
             "duration": 163
           }
         ],
-        "opponentAttacks": 3,
+        "opponentAttacks": 5,
         "bestOpponentAttack": {
           "attackerTag": "#8CPPP2YQP",
           "defenderTag": "#Y2PVPPU8C",
@@ -940,7 +950,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/jfT7tfXSo_qiVrjtR1v7R_-tKmoHXjTGdypnpp1rVCU.png"
     },
     "clanLevel": 18,
-    "attacks": 52,
+    "attacks": 56,
     "stars": 90,
     "destructionPercentage": 100.0,
     "members": [
@@ -1099,7 +1109,7 @@
             "duration": 155
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
           "attackerTag": "#G9CC9G2VQ",
           "defenderTag": "#9PQYPC9GJ",
@@ -1246,6 +1256,24 @@
         "name": "abou ghaly",
         "townhallLevel": 16,
         "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#9GP9PGVJJ",
+            "defenderTag": "#G28CVVRJL",
+            "stars": 1,
+            "destructionPercentage": 28,
+            "order": 106,
+            "duration": 71
+          },
+          {
+            "attackerTag": "#9GP9PGVJJ",
+            "defenderTag": "#Y2PVPPU8C",
+            "stars": 1,
+            "destructionPercentage": 21,
+            "order": 107,
+            "duration": 88
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#GYGC88RGG",
@@ -1624,6 +1652,24 @@
         "name": "\u0627\u0628\u0648 \u0645\u0635\u0637\u0641\u0649",
         "townhallLevel": 17,
         "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#8CLJV8902",
+            "defenderTag": "#Y2PVPPU8C",
+            "stars": 2,
+            "destructionPercentage": 74,
+            "order": 104,
+            "duration": 68
+          },
+          {
+            "attackerTag": "#8CLJV8902",
+            "defenderTag": "#G28CVVRJL",
+            "stars": 2,
+            "destructionPercentage": 89,
+            "order": 105,
+            "duration": 119
+          }
+        ],
         "opponentAttacks": 3,
         "bestOpponentAttack": {
           "attackerTag": "#2R2JYRRU",

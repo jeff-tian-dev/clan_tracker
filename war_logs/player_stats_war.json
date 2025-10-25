@@ -6987,11 +6987,11 @@
       },
       {
         "date": "20251025",
-        "attacksUsed": 0,
-        "starsEarned": 0,
-        "destruction": 0,
-        "attacksMissed": 2,
-        "zeroParticipation": true
+        "attacksUsed": 1,
+        "starsEarned": 2,
+        "destruction": 66,
+        "attacksMissed": 1,
+        "zeroParticipation": false
       }
     ]
   },
@@ -31723,7 +31723,7 @@
       }
     ]
   },
-  "timestamp": "2025-10-24 23:00:03",
+  "timestamp": "2025-10-25 00:00:04",
   "#GPPQ0JCJR": {
     "name": "Goujii",
     "tag": "#GPPQ0JCJR",
@@ -85669,6 +85669,20 @@
   "#2RQQPRLGV": {
     "name": "YHOR",
     "tag": "#2RQQPRLGV",
+    "history": [
+      {
+        "date": "20251025",
+        "attacksUsed": "---",
+        "starsEarned": "---",
+        "destruction": "---",
+        "attacksMissed": 0,
+        "zeroParticipation": true
+      }
+    ]
+  },
+  "#L20CLJRGU": {
+    "name": "Nick",
+    "tag": "#L20CLJRGU",
     "history": [
       {
         "date": "20251025",
