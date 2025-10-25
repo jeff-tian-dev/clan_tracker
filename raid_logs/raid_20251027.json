@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251024T070000.000Z",
   "endTime": "20251027T070000.000Z",
-  "capitalTotalLoot": 485101,
-  "raidsCompleted": 4,
-  "totalAttacks": 119,
-  "enemyDistrictsDestroyed": 44,
+  "capitalTotalLoot": 529760,
+  "raidsCompleted": 5,
+  "totalAttacks": 129,
+  "enemyDistrictsDestroyed": 46,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -42,6 +42,14 @@
       "capitalResourcesLooted": 17500
     },
     {
+      "tag": "#LJYGRJLQU",
+      "name": "BTM/\\SoLjaR",
+      "attacks": 1,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 3303
+    },
+    {
       "tag": "#GLU9LC2LG",
       "name": "JLai",
       "attacks": 6,
@@ -76,10 +84,10 @@
     {
       "tag": "#Y8GQ89UGJ",
       "name": "SILENT KILLER S",
-      "attacks": 3,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 14141
+      "capitalResourcesLooted": 24751
     },
     {
       "tag": "#2CQLC28UP",
@@ -160,6 +168,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 29166
+    },
+    {
+      "tag": "#G9CC9G2VQ",
+      "name": "Grizz",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 30746
     },
     {
       "tag": "#8RVLYPYYG",
@@ -1446,18 +1462,52 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/wXZBrHDE5Lr6U-TEEQoMa-XE6fZ3ymHFBkystpux3cU.png"
         }
       },
-      "attackCount": 21,
+      "attackCount": 25,
       "districtCount": 9,
-      "districtsDestroyed": 8,
+      "districtsDestroyed": 9,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 13913,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LJYGRJLQU",
+                "name": "BTM/\\SoLjaR"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Y8GQ89UGJ",
+                "name": "SILENT KILLER S"
+              },
+              "destructionPercent": 74,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#Y8GQ89UGJ",
+                "name": "SILENT KILLER S"
+              },
+              "destructionPercent": 53,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#Y8GQ89UGJ",
+                "name": "SILENT KILLER S"
+              },
+              "destructionPercent": 28,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
@@ -1714,6 +1764,160 @@
               "stars": 2
             }
           ]
+        }
+      ]
+    },
+    {
+      "defender": {
+        "tag": "#88CQ0J0Q",
+        "name": "Saudi Arabia",
+        "level": 19,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/HOnCl1ZFh7KOW3-sisuKYt5Ufa7OCg8EZVZEtfQLmjQ.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/HOnCl1ZFh7KOW3-sisuKYt5Ufa7OCg8EZVZEtfQLmjQ.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/HOnCl1ZFh7KOW3-sisuKYt5Ufa7OCg8EZVZEtfQLmjQ.png"
+        }
+      },
+      "attackCount": 6,
+      "districtCount": 9,
+      "districtsDestroyed": 1,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 10,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 83,
+          "stars": 1,
+          "attackCount": 2,
+          "totalLooted": 9085,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#G9CC9G2VQ",
+                "name": "Grizz"
+              },
+              "destructionPercent": 83,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#G9CC9G2VQ",
+                "name": "Grizz"
+              },
+              "destructionPercent": 43,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 5,
+          "destructionPercent": 56,
+          "stars": 1,
+          "attackCount": 1,
+          "totalLooted": 5315,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#G9CC9G2VQ",
+                "name": "Grizz"
+              },
+              "destructionPercent": 56,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10221,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#G9CC9G2VQ",
+                "name": "Grizz"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#G9CC9G2VQ",
+                "name": "Grizz"
+              },
+              "destructionPercent": 43,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 4,
+          "destructionPercent": 56,
+          "stars": 2,
+          "attackCount": 1,
+          "totalLooted": 6125,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#G9CC9G2VQ",
+                "name": "Grizz"
+              },
+              "destructionPercent": 56,
+              "stars": 2
+            }
+          ]
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 4,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
         }
       ]
     }
