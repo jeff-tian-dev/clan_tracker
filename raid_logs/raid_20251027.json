@@ -2,9 +2,9 @@
   "state": "ongoing",
   "startTime": "20251024T070000.000Z",
   "endTime": "20251027T070000.000Z",
-  "capitalTotalLoot": 693019,
+  "capitalTotalLoot": 701754,
   "raidsCompleted": 7,
-  "totalAttacks": 167,
+  "totalAttacks": 169,
   "enemyDistrictsDestroyed": 64,
   "offensiveReward": 0,
   "defensiveReward": 0,
@@ -108,10 +108,10 @@
     {
       "tag": "#Q2QQL2YVV",
       "name": "cyan",
-      "attacks": 4,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 20748
+      "capitalResourcesLooted": 29483
     },
     {
       "tag": "#Y80PLCRQ9",
@@ -2410,7 +2410,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/Si54izsut9_JhuL9UPeru-8mwxZvosFRr0aFu9nwCFw.png"
         }
       },
-      "attackCount": 2,
+      "attackCount": 4,
       "districtCount": 9,
       "districtsDestroyed": 1,
       "districts": [
@@ -2445,10 +2445,20 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 66,
+          "stars": 1,
+          "attackCount": 1,
+          "totalLooted": 5025,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q2QQL2YVV",
+                "name": "cyan"
+              },
+              "destructionPercent": 66,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000004,
@@ -2499,10 +2509,20 @@
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
+          "destructionPercent": 41,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 1,
+          "totalLooted": 3710,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q2QQL2YVV",
+                "name": "cyan"
+              },
+              "destructionPercent": 41,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000008,
