@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251024T070000.000Z",
   "endTime": "20251027T070000.000Z",
-  "capitalTotalLoot": 626461,
+  "capitalTotalLoot": 662156,
   "raidsCompleted": 6,
-  "totalAttacks": 152,
-  "enemyDistrictsDestroyed": 57,
+  "totalAttacks": 160,
+  "enemyDistrictsDestroyed": 61,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -106,6 +106,14 @@
       "capitalResourcesLooted": 23598
     },
     {
+      "tag": "#Q2QQL2YVV",
+      "name": "cyan",
+      "attacks": 2,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 11088
+    },
+    {
       "tag": "#Y80PLCRQ9",
       "name": "jerwenzke1",
       "attacks": 2,
@@ -136,6 +144,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 33366
+    },
+    {
+      "tag": "#YQ8L9JVJ2",
+      "name": "Sir Walnut\u2122\ufe0f",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 24607
     },
     {
       "tag": "#J88YJGY9",
@@ -2118,9 +2134,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/f9oMGMLQNN27TS8fOm4pk4ZZmhtNUyGq5KJCUnqcCvA.png"
         }
       },
-      "attackCount": 6,
+      "attackCount": 14,
       "districtCount": 9,
-      "districtsDestroyed": 3,
+      "districtsDestroyed": 7,
       "districts": [
         {
           "id": 70000000,
@@ -2135,10 +2151,28 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11088,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q2QQL2YVV",
+                "name": "cyan"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Q2QQL2YVV",
+                "name": "cyan"
+              },
+              "destructionPercent": 40,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000002,
@@ -2153,11 +2187,19 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 4,
-          "destructionPercent": 59,
-          "stars": 2,
-          "attackCount": 1,
-          "totalLooted": 4935,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9507,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#YQ8L9JVJ2",
+                "name": "Sir Walnut\u2122\ufe0f"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#8VQYULVQQ",
@@ -2172,19 +2214,63 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9982,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YQ8L9JVJ2",
+                "name": "Sir Walnut\u2122\ufe0f"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#YQ8L9JVJ2",
+                "name": "Sir Walnut\u2122\ufe0f"
+              },
+              "destructionPercent": 64,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10053,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YQ8L9JVJ2",
+                "name": "Sir Walnut\u2122\ufe0f"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#YQ8L9JVJ2",
+                "name": "Sir Walnut\u2122\ufe0f"
+              },
+              "destructionPercent": 90,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#YQ8L9JVJ2",
+                "name": "Sir Walnut\u2122\ufe0f"
+              },
+              "destructionPercent": 30,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000006,
