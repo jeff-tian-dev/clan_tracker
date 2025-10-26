@@ -2,9 +2,9 @@
   "state": "ongoing",
   "startTime": "20251024T070000.000Z",
   "endTime": "20251027T070000.000Z",
-  "capitalTotalLoot": 701754,
+  "capitalTotalLoot": 710014,
   "raidsCompleted": 8,
-  "totalAttacks": 169,
+  "totalAttacks": 171,
   "enemyDistrictsDestroyed": 64,
   "offensiveReward": 0,
   "defensiveReward": 0,
@@ -208,6 +208,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 23916
+    },
+    {
+      "tag": "#9JU2U9Q2V",
+      "name": "ryan alakesh",
+      "attacks": 2,
+      "attackLimit": 5,
+      "bonusAttackLimit": 0,
+      "capitalResourcesLooted": 8260
     },
     {
       "tag": "#GQUV8C0LP",
@@ -2410,7 +2418,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/Si54izsut9_JhuL9UPeru-8mwxZvosFRr0aFu9nwCFw.png"
         }
       },
-      "attackCount": 4,
+      "attackCount": 6,
       "districtCount": 9,
       "districtsDestroyed": 1,
       "districts": [
@@ -2464,10 +2472,28 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 89,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 8260,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#9JU2U9Q2V",
+                "name": "ryan alakesh"
+              },
+              "destructionPercent": 89,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#9JU2U9Q2V",
+                "name": "ryan alakesh"
+              },
+              "destructionPercent": 26,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000005,
@@ -2912,9 +2938,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/xXro3-How4UeBogChbE8uiFRM8iCM1jAQEKbGKKGhmU.png"
         }
       },
-      "attackCount": 0,
+      "attackCount": 16,
       "districtCount": 9,
-      "districtsDestroyed": 0,
+      "districtsDestroyed": 4,
       "districts": [
         {
           "id": 70000000,
@@ -2938,28 +2964,98 @@
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10562,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LUQ0YVGGR",
+                "name": "M85"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#P9PJQPL28",
+                "name": "king"
+              },
+              "destructionPercent": 81,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#P9PJQPL28",
+                "name": "king"
+              },
+              "destructionPercent": 45,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11136,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LUQ0YVGGR",
+                "name": "M85"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LUQ0YVGGR",
+                "name": "M85"
+              },
+              "destructionPercent": 56,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#LUQ0YVGGR",
+                "name": "M85"
+              },
+              "destructionPercent": 31,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 43,
+          "stars": 1,
+          "attackCount": 2,
+          "totalLooted": 5595,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#8CYLRV2JG",
+                "name": "you"
+              },
+              "destructionPercent": 43,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#8CYLRV2JG",
+                "name": "you"
+              },
+              "destructionPercent": 17,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000005,
@@ -2974,28 +3070,98 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 78,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 8195,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#P9PJQPL28",
+                "name": "king"
+              },
+              "destructionPercent": 78,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#CRU82LRG",
+                "name": "MarkyMark"
+              },
+              "destructionPercent": 34,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11825,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LUQ0YVGGR",
+                "name": "M85"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LUQ0YVGGR",
+                "name": "M85"
+              },
+              "destructionPercent": 77,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#CRU82LRG",
+                "name": "MarkyMark"
+              },
+              "destructionPercent": 35,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 12093,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#CRU82LRG",
+                "name": "MarkyMark"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#CRU82LRG",
+                "name": "MarkyMark"
+              },
+              "destructionPercent": 80,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#CRU82LRG",
+                "name": "MarkyMark"
+              },
+              "destructionPercent": 45,
+              "stars": 0
+            }
+          ]
         }
       ]
     }

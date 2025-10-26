@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/MemvfcNsCKAIJd01S-vNV8_nVwYBGkQOTRp3HgJs0QU.png"
     },
     "clanLevel": 11,
-    "attacks": 23,
-    "stars": 46,
-    "destructionPercentage": 62.56,
+    "attacks": 24,
+    "stars": 49,
+    "destructionPercentage": 66.56,
     "members": [
       {
         "tag": "#QYL88U9P0",
@@ -94,6 +94,16 @@
         "name": "je suis excit\u00e9",
         "townhallLevel": 17,
         "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#Q9QU8L8YV",
+            "defenderTag": "#LYVVLGCLJ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 43,
+            "duration": 166
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -302,7 +312,15 @@
         "name": "Sir Hazelnut\u2122\ufe0f",
         "townhallLevel": 16,
         "mapPosition": 18,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YLLY8L2Y9",
+          "defenderTag": "#YJ2UV2GY",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 40,
+          "duration": 129
+        }
       },
       {
         "tag": "#QYCLC0JLL",
@@ -375,7 +393,15 @@
             "duration": 144
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#P8VV9VY8U",
+          "defenderTag": "#G28CVVRJL",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 41,
+          "duration": 161
+        }
       },
       {
         "tag": "#2R2JYRRU",
@@ -432,7 +458,15 @@
         "name": "Grizz",
         "townhallLevel": 14,
         "mapPosition": 23,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YLLY8L2Y9",
+          "defenderTag": "#G9CC9G2VQ",
+          "stars": 2,
+          "destructionPercentage": 86,
+          "order": 39,
+          "duration": 177
+        }
       },
       {
         "tag": "#P08PU09Y2",
@@ -479,7 +513,15 @@
         "name": "\u2b50\u2b505 StarFree\u2b50\u2b50\u2b50",
         "townhallLevel": 17,
         "mapPosition": 2,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#P8VV9VY8U",
+          "defenderTag": "#Y2PVPPU8C",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 42,
+          "duration": 157
+        }
       },
       {
         "tag": "#PRGGL2J2V",
@@ -525,16 +567,24 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/5TzKtdpHVe496umZ-rSjADAH9z8dkQUvGsmAMPlo2iQ.png"
     },
     "clanLevel": 18,
-    "attacks": 15,
-    "stars": 38,
-    "destructionPercentage": 54.44,
+    "attacks": 19,
+    "stars": 49,
+    "destructionPercentage": 69.88,
     "members": [
       {
         "tag": "#LYVVLGCLJ",
         "name": "Lowcornet",
         "townhallLevel": 16,
         "mapPosition": 10,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q9QU8L8YV",
+          "defenderTag": "#LYVVLGCLJ",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 43,
+          "duration": 166
+        }
       },
       {
         "tag": "#G8P8CY8GC",
@@ -659,6 +709,24 @@
         "name": "BadBug",
         "townhallLevel": 17,
         "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#P8VV9VY8U",
+            "defenderTag": "#G28CVVRJL",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 41,
+            "duration": 161
+          },
+          {
+            "attackerTag": "#P8VV9VY8U",
+            "defenderTag": "#Y2PVPPU8C",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 42,
+            "duration": 157
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#G28CVVRJL",
@@ -976,6 +1044,24 @@
         "name": "MR RAKIB",
         "townhallLevel": 15,
         "mapPosition": 20,
+        "attacks": [
+          {
+            "attackerTag": "#YLLY8L2Y9",
+            "defenderTag": "#G9CC9G2VQ",
+            "stars": 2,
+            "destructionPercentage": 86,
+            "order": 39,
+            "duration": 177
+          },
+          {
+            "attackerTag": "#YLLY8L2Y9",
+            "defenderTag": "#YJ2UV2GY",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 40,
+            "duration": 129
+          }
+        ],
         "opponentAttacks": 0
       }
     ]
