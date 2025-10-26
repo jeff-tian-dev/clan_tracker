@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251024T070000.000Z",
   "endTime": "20251027T070000.000Z",
-  "capitalTotalLoot": 722120,
+  "capitalTotalLoot": 744551,
   "raidsCompleted": 9,
-  "totalAttacks": 173,
-  "enemyDistrictsDestroyed": 65,
+  "totalAttacks": 180,
+  "enemyDistrictsDestroyed": 67,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -28,10 +28,18 @@
     {
       "tag": "#8RJ28GQ2",
       "name": "peter qiu rocks",
-      "attacks": 5,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 9446
+      "capitalResourcesLooted": 11606
+    },
+    {
+      "tag": "#GU9YPRYJ",
+      "name": "Master Baker",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 20271
     },
     {
       "tag": "#92V882CPG",
@@ -2426,9 +2434,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/Si54izsut9_JhuL9UPeru-8mwxZvosFRr0aFu9nwCFw.png"
         }
       },
-      "attackCount": 8,
+      "attackCount": 15,
       "districtCount": 9,
-      "districtsDestroyed": 2,
+      "districtsDestroyed": 4,
       "districts": [
         {
           "id": 70000000,
@@ -2443,19 +2451,47 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
+          "destructionPercent": 32,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 1,
+          "totalLooted": 2160,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#8RJ28GQ2",
+                "name": "peter qiu rocks"
+              },
+              "destructionPercent": 32,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9358,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GU9YPRYJ",
+                "name": "Master Baker"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GU9YPRYJ",
+                "name": "Master Baker"
+              },
+              "destructionPercent": 56,
+              "stars": 2
+            }
+          ]
         },
         {
           "id": 70000003,
@@ -2515,10 +2551,44 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 10913,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GU9YPRYJ",
+                "name": "Master Baker"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GU9YPRYJ",
+                "name": "Master Baker"
+              },
+              "destructionPercent": 93,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#GU9YPRYJ",
+                "name": "Master Baker"
+              },
+              "destructionPercent": 81,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#GU9YPRYJ",
+                "name": "Master Baker"
+              },
+              "destructionPercent": 37,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000006,
