@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251024T070000.000Z",
   "endTime": "20251027T070000.000Z",
-  "capitalTotalLoot": 800191,
+  "capitalTotalLoot": 823089,
   "raidsCompleted": 10,
-  "totalAttacks": 195,
-  "enemyDistrictsDestroyed": 74,
+  "totalAttacks": 200,
+  "enemyDistrictsDestroyed": 76,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -204,10 +204,10 @@
     {
       "tag": "#QRP2RLV02",
       "name": "JT",
-      "attacks": 1,
+      "attacks": 6,
       "attackLimit": 5,
-      "bonusAttackLimit": 0,
-      "capitalResourcesLooted": 7325
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 30223
     },
     {
       "tag": "#9J0GCPVUJ",
@@ -2766,9 +2766,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/k6Izqg14X5bdrU9VKg1QrlJbkZpeluxkyqIliJjz4OI.png"
         }
       },
-      "attackCount": 4,
+      "attackCount": 9,
       "districtCount": 9,
-      "districtsDestroyed": 2,
+      "districtsDestroyed": 4,
       "districts": [
         {
           "id": 70000000,
@@ -2801,10 +2801,20 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 68,
+          "stars": 2,
+          "attackCount": 1,
+          "totalLooted": 4795,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QRP2RLV02",
+                "name": "JT"
+              },
+              "destructionPercent": 68,
+              "stars": 2
+            }
+          ]
         },
         {
           "id": 70000004,
@@ -2837,19 +2847,55 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9293,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QRP2RLV02",
+                "name": "JT"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QRP2RLV02",
+                "name": "JT"
+              },
+              "destructionPercent": 61,
+              "stars": 2
+            }
+          ]
         },
         {
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 8810,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QRP2RLV02",
+                "name": "JT"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QRP2RLV02",
+                "name": "JT"
+              },
+              "destructionPercent": 70,
+              "stars": 2
+            }
+          ]
         },
         {
           "id": 70000007,
