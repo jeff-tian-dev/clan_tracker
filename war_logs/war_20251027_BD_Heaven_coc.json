@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/MemvfcNsCKAIJd01S-vNV8_nVwYBGkQOTRp3HgJs0QU.png"
     },
     "clanLevel": 11,
-    "attacks": 34,
-    "stars": 65,
-    "destructionPercentage": 89.0,
+    "attacks": 36,
+    "stars": 69,
+    "destructionPercentage": 94.8,
     "members": [
       {
         "tag": "#QYL88U9P0",
@@ -128,9 +128,25 @@
             "destructionPercentage": 100,
             "order": 43,
             "duration": 166
+          },
+          {
+            "attackerTag": "#Q9QU8L8YV",
+            "defenderTag": "#YPG9YJ09J",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 60,
+            "duration": 176
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#8R02Y8V9G",
+          "defenderTag": "#Q9QU8L8YV",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 62,
+          "duration": 147
+        }
       },
       {
         "tag": "#GYGC88RGG",
@@ -155,14 +171,14 @@
             "duration": 180
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#YL9YY82UL",
+          "attackerTag": "#8R02Y8V9G",
           "defenderTag": "#GYGC88RGG",
-          "stars": 2,
-          "destructionPercentage": 94,
-          "order": 21,
-          "duration": 171
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 61,
+          "duration": 148
         }
       },
       {
@@ -236,6 +252,16 @@
         "name": "cyan",
         "townhallLevel": 15,
         "mapPosition": 22,
+        "attacks": [
+          {
+            "attackerTag": "#Q2QQL2YVV",
+            "defenderTag": "#GRJGGGLQJ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 64,
+            "duration": 163
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#P92G8PRJR",
@@ -580,14 +606,14 @@
             "duration": 129
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#YLLY8L2Y9",
+          "attackerTag": "#G2JRVPVJG",
           "defenderTag": "#G9CC9G2VQ",
           "stars": 2,
-          "destructionPercentage": 86,
-          "order": 39,
-          "duration": 177
+          "destructionPercentage": 98,
+          "order": 63,
+          "duration": 180
         }
       },
       {
@@ -697,9 +723,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/5TzKtdpHVe496umZ-rSjADAH9z8dkQUvGsmAMPlo2iQ.png"
     },
     "clanLevel": 18,
-    "attacks": 25,
-    "stars": 65,
-    "destructionPercentage": 90.6,
+    "attacks": 28,
+    "stars": 69,
+    "destructionPercentage": 95.32,
     "members": [
       {
         "tag": "#LYVVLGCLJ",
@@ -802,6 +828,16 @@
         "name": "cia_joy",
         "townhallLevel": 16,
         "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#G2JRVPVJG",
+            "defenderTag": "#G9CC9G2VQ",
+            "stars": 2,
+            "destructionPercentage": 98,
+            "order": 63,
+            "duration": 180
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#P08PU09Y2",
@@ -1024,14 +1060,14 @@
         "name": "TOKEYO MANJI",
         "townhallLevel": 15,
         "mapPosition": 23,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#G9CC9G2VQ",
+          "attackerTag": "#Q2QQL2YVV",
           "defenderTag": "#GRJGGGLQJ",
-          "stars": 2,
-          "destructionPercentage": 55,
-          "order": 58,
-          "duration": 122
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 64,
+          "duration": 163
         }
       },
       {
@@ -1046,6 +1082,24 @@
         "name": "Alve",
         "townhallLevel": 16,
         "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#8R02Y8V9G",
+            "defenderTag": "#GYGC88RGG",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 61,
+            "duration": 148
+          },
+          {
+            "attackerTag": "#8R02Y8V9G",
+            "defenderTag": "#Q9QU8L8YV",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 62,
+            "duration": 147
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#8VQYULVQQ",
@@ -1170,7 +1224,15 @@
             "duration": 143
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q9QU8L8YV",
+          "defenderTag": "#YPG9YJ09J",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 60,
+          "duration": 176
+        }
       },
       {
         "tag": "#QJ280V9V2",
