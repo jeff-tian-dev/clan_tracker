@@ -3,7 +3,7 @@
   "startTime": "20251024T070000.000Z",
   "endTime": "20251027T070000.000Z",
   "capitalTotalLoot": 701754,
-  "raidsCompleted": 7,
+  "raidsCompleted": 8,
   "totalAttacks": 169,
   "enemyDistrictsDestroyed": 64,
   "offensiveReward": 0,
@@ -2548,18 +2548,52 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/RUJkQ0iUaP8KMH4w2lGPvDUUILX-S46Bn0WZ1jhnhfk.png"
         }
       },
-      "attackCount": 23,
+      "attackCount": 31,
       "districtCount": 9,
-      "districtsDestroyed": 6,
+      "districtsDestroyed": 9,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 13550,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#PYLYUGRRP",
+                "name": "\u0411.\u041e.\u0421.\u0421 \u2b50\u2b50\u2b50"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#PYLYUGRRP",
+                "name": "\u0411.\u041e.\u0421.\u0421 \u2b50\u2b50\u2b50"
+              },
+              "destructionPercent": 70,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#Q8C0L920Q",
+                "name": "BaRS"
+              },
+              "destructionPercent": 58,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#Q8C0L920Q",
+                "name": "BaRS"
+              },
+              "destructionPercent": 27,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
@@ -2600,10 +2634,36 @@
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10664,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q8C0L920Q",
+                "name": "BaRS"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Q8C0L920Q",
+                "name": "BaRS"
+              },
+              "destructionPercent": 70,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#Q8C0L920Q",
+                "name": "BaRS"
+              },
+              "destructionPercent": 32,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000003,
@@ -2703,11 +2763,19 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 96,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 10990,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11981,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q8C0L920Q",
+                "name": "BaRS"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#LQJRPC902",
