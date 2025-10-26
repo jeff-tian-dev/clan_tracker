@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/MemvfcNsCKAIJd01S-vNV8_nVwYBGkQOTRp3HgJs0QU.png"
     },
     "clanLevel": 11,
-    "attacks": 30,
-    "stars": 58,
-    "destructionPercentage": 79.64,
+    "attacks": 32,
+    "stars": 63,
+    "destructionPercentage": 86.8,
     "members": [
       {
         "tag": "#QYL88U9P0",
@@ -258,13 +258,39 @@
         "name": "\u24c2\ufe0fBIG COCHY3\u24c2\ufe0f",
         "townhallLevel": 16,
         "mapPosition": 15,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YPG9YJ09J",
+          "defenderTag": "#9U2YP0RY",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 54,
+          "duration": 143
+        }
       },
       {
         "tag": "#2CQLC28UP",
         "name": "gun",
         "townhallLevel": 16,
         "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#2CQLC28UP",
+            "defenderTag": "#GLCCGCYG9",
+            "stars": 2,
+            "destructionPercentage": 79,
+            "order": 55,
+            "duration": 101
+          },
+          {
+            "attackerTag": "#2CQLC28UP",
+            "defenderTag": "#P92G8PRJR",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 56,
+            "duration": 112
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -561,7 +587,15 @@
             "duration": 144
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YPG9YJ09J",
+          "defenderTag": "#P08PU09Y2",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 53,
+          "duration": 141
+        }
       },
       {
         "tag": "#LGGLYVUPP",
@@ -637,9 +671,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/5TzKtdpHVe496umZ-rSjADAH9z8dkQUvGsmAMPlo2iQ.png"
     },
     "clanLevel": 18,
-    "attacks": 22,
-    "stars": 56,
-    "destructionPercentage": 78.6,
+    "attacks": 24,
+    "stars": 62,
+    "destructionPercentage": 86.6,
     "members": [
       {
         "tag": "#LYVVLGCLJ",
@@ -694,7 +728,15 @@
         "name": "Mohammad roni",
         "townhallLevel": 16,
         "mapPosition": 16,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2CQLC28UP",
+          "defenderTag": "#GLCCGCYG9",
+          "stars": 2,
+          "destructionPercentage": 79,
+          "order": 55,
+          "duration": 101
+        }
       },
       {
         "tag": "#LLUPVG8R0",
@@ -863,7 +905,15 @@
             "duration": 92
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2CQLC28UP",
+          "defenderTag": "#P92G8PRJR",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 56,
+          "duration": 112
+        }
       },
       {
         "tag": "#L8P0L82CC",
@@ -1068,6 +1118,24 @@
         "name": "ORION",
         "townhallLevel": 17,
         "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#YPG9YJ09J",
+            "defenderTag": "#P08PU09Y2",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 53,
+            "duration": 141
+          },
+          {
+            "attackerTag": "#YPG9YJ09J",
+            "defenderTag": "#9U2YP0RY",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 54,
+            "duration": 143
+          }
+        ],
         "opponentAttacks": 0
       },
       {

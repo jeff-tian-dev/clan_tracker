@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251024T070000.000Z",
   "endTime": "20251027T070000.000Z",
-  "capitalTotalLoot": 717339,
-  "raidsCompleted": 8,
-  "totalAttacks": 172,
-  "enemyDistrictsDestroyed": 64,
+  "capitalTotalLoot": 722120,
+  "raidsCompleted": 9,
+  "totalAttacks": 173,
+  "enemyDistrictsDestroyed": 65,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -52,10 +52,10 @@
     {
       "tag": "#LJYGRJLQU",
       "name": "BTM/\\SoLjaR",
-      "attacks": 5,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 20156
+      "capitalResourcesLooted": 24937
     },
     {
       "tag": "#UJP2UYRY",
@@ -2426,9 +2426,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/Si54izsut9_JhuL9UPeru-8mwxZvosFRr0aFu9nwCFw.png"
         }
       },
-      "attackCount": 7,
+      "attackCount": 8,
       "districtCount": 9,
-      "districtsDestroyed": 1,
+      "districtsDestroyed": 2,
       "districts": [
         {
           "id": 70000000,
@@ -2461,11 +2461,19 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 66,
-          "stars": 1,
-          "attackCount": 1,
-          "totalLooted": 5025,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9806,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#LJYGRJLQU",
+                "name": "BTM/\\SoLjaR"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#Q2QQL2YVV",
@@ -2954,18 +2962,44 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/xXro3-How4UeBogChbE8uiFRM8iCM1jAQEKbGKKGhmU.png"
         }
       },
-      "attackCount": 24,
+      "attackCount": 28,
       "districtCount": 9,
-      "districtsDestroyed": 7,
+      "districtsDestroyed": 9,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 13445,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QCR2L20QR",
+                "name": "yuriko 4"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QCR2L20QR",
+                "name": "yuriko 4"
+              },
+              "destructionPercent": 82,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#QCR2L20QR",
+                "name": "yuriko 4"
+              },
+              "destructionPercent": 49,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
@@ -3076,11 +3110,19 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 88,
-          "stars": 2,
-          "attackCount": 3,
-          "totalLooted": 10465,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 12305,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#QCR2L20QR",
+                "name": "yuriko 4"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#8CYLRV2JG",
