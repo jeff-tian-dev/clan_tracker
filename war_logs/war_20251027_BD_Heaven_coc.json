@@ -325,7 +325,15 @@
             "duration": 112
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QJ280V9V2",
+          "defenderTag": "#2CQLC28UP",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 65,
+          "duration": 157
+        }
       },
       {
         "tag": "#YQ8L9JVJ2",
@@ -375,14 +383,14 @@
             "duration": 156
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#LLUPVG8R0",
+          "attackerTag": "#QJ280V9V2",
           "defenderTag": "#LYJJ9PLV9",
-          "stars": 2,
-          "destructionPercentage": 90,
-          "order": 15,
-          "duration": 101
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 66,
+          "duration": 112
         }
       },
       {
@@ -723,9 +731,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/5TzKtdpHVe496umZ-rSjADAH9z8dkQUvGsmAMPlo2iQ.png"
     },
     "clanLevel": 18,
-    "attacks": 28,
-    "stars": 69,
-    "destructionPercentage": 95.32,
+    "attacks": 30,
+    "stars": 73,
+    "destructionPercentage": 99.72,
     "members": [
       {
         "tag": "#LYVVLGCLJ",
@@ -1239,6 +1247,24 @@
         "name": "Xtroner's villa",
         "townhallLevel": 17,
         "mapPosition": 18,
+        "attacks": [
+          {
+            "attackerTag": "#QJ280V9V2",
+            "defenderTag": "#2CQLC28UP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 65,
+            "duration": 157
+          },
+          {
+            "attackerTag": "#QJ280V9V2",
+            "defenderTag": "#LYJJ9PLV9",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 66,
+            "duration": 112
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#PRGGL2J2V",
