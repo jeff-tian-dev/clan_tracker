@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251024T070000.000Z",
   "endTime": "20251027T070000.000Z",
-  "capitalTotalLoot": 683359,
+  "capitalTotalLoot": 693019,
   "raidsCompleted": 7,
-  "totalAttacks": 165,
-  "enemyDistrictsDestroyed": 63,
+  "totalAttacks": 167,
+  "enemyDistrictsDestroyed": 64,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -108,10 +108,10 @@
     {
       "tag": "#Q2QQL2YVV",
       "name": "cyan",
-      "attacks": 2,
+      "attacks": 4,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 11088
+      "capitalResourcesLooted": 20748
     },
     {
       "tag": "#Y80PLCRQ9",
@@ -2410,9 +2410,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/Si54izsut9_JhuL9UPeru-8mwxZvosFRr0aFu9nwCFw.png"
         }
       },
-      "attackCount": 0,
+      "attackCount": 2,
       "districtCount": 9,
-      "districtsDestroyed": 0,
+      "districtsDestroyed": 1,
       "districts": [
         {
           "id": 70000000,
@@ -2472,10 +2472,28 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9660,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q2QQL2YVV",
+                "name": "cyan"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Q2QQL2YVV",
+                "name": "cyan"
+              },
+              "destructionPercent": 46,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000007,
@@ -2510,9 +2528,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/RUJkQ0iUaP8KMH4w2lGPvDUUILX-S46Bn0WZ1jhnhfk.png"
         }
       },
-      "attackCount": 17,
+      "attackCount": 23,
       "districtCount": 9,
-      "districtsDestroyed": 4,
+      "districtsDestroyed": 6,
       "districts": [
         {
           "id": 70000000,
@@ -2527,10 +2545,36 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11577,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LQJRPC902",
+                "name": "Eldor 2010.7.10"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LQJRPC902",
+                "name": "Eldor 2010.7.10"
+              },
+              "destructionPercent": 57,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#LQJRPC902",
+                "name": "Eldor 2010.7.10"
+              },
+              "destructionPercent": 18,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000002,
@@ -2588,11 +2632,19 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 76,
-          "stars": 2,
-          "attackCount": 4,
-          "totalLooted": 7745,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 5,
+          "totalLooted": 11777,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#LQJRPC902",
+                "name": "Eldor 2010.7.10"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#QVC829Y8Y",
@@ -2631,10 +2683,28 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 96,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 10990,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LQJRPC902",
+                "name": "Eldor 2010.7.10"
+              },
+              "destructionPercent": 96,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#LQJRPC902",
+                "name": "Eldor 2010.7.10"
+              },
+              "destructionPercent": 31,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000006,
