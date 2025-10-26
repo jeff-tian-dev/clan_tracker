@@ -15,7 +15,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/MemvfcNsCKAIJd01S-vNV8_nVwYBGkQOTRp3HgJs0QU.png"
     },
     "clanLevel": 11,
-    "attacks": 41,
+    "attacks": 42,
     "stars": 75,
     "destructionPercentage": 100.0,
     "members": [
@@ -688,6 +688,16 @@
         "name": "siwi2isuus2",
         "townhallLevel": 15,
         "mapPosition": 21,
+        "attacks": [
+          {
+            "attackerTag": "#LGGLYVUPP",
+            "defenderTag": "#PUUJLPJCY",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 74,
+            "duration": 113
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#YCJY2R8UL",
@@ -1203,7 +1213,7 @@
             "duration": 107
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
           "attackerTag": "#QRP2RLV02",
           "defenderTag": "#PUUJLPJCY",
