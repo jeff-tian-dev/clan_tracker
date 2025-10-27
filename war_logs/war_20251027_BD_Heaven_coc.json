@@ -516,7 +516,7 @@
             "duration": 95
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#PUUJLPJCY",
           "defenderTag": "#QRP2RLV02",
@@ -648,7 +648,7 @@
             "duration": 129
           }
         ],
-        "opponentAttacks": 3,
+        "opponentAttacks": 4,
         "bestOpponentAttack": {
           "attackerTag": "#YL9YY82UL",
           "defenderTag": "#G9CC9G2VQ",
@@ -793,7 +793,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/5TzKtdpHVe496umZ-rSjADAH9z8dkQUvGsmAMPlo2iQ.png"
     },
     "clanLevel": 18,
-    "attacks": 34,
+    "attacks": 36,
     "stars": 75,
     "destructionPercentage": 100.0,
     "members": [
@@ -1158,6 +1158,24 @@
         "name": "TOKEYO MANJI",
         "townhallLevel": 15,
         "mapPosition": 23,
+        "attacks": [
+          {
+            "attackerTag": "#GRJGGGLQJ",
+            "defenderTag": "#QRP2RLV02",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 78,
+            "duration": 145
+          },
+          {
+            "attackerTag": "#GRJGGGLQJ",
+            "defenderTag": "#G9CC9G2VQ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 79,
+            "duration": 143
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#Q2QQL2YVV",
