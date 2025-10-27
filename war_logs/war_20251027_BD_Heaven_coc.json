@@ -15,7 +15,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/MemvfcNsCKAIJd01S-vNV8_nVwYBGkQOTRp3HgJs0QU.png"
     },
     "clanLevel": 11,
-    "attacks": 43,
+    "attacks": 44,
     "stars": 75,
     "destructionPercentage": 100.0,
     "members": [
@@ -24,6 +24,16 @@
         "name": "voldemort",
         "townhallLevel": 15,
         "mapPosition": 20,
+        "attacks": [
+          {
+            "attackerTag": "#QYL88U9P0",
+            "defenderTag": "#GRJGGGLQJ",
+            "stars": 1,
+            "destructionPercentage": 69,
+            "order": 80,
+            "duration": 113
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#G0V8UY9RJ",
@@ -1176,7 +1186,7 @@
             "duration": 143
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
           "attackerTag": "#Q2QQL2YVV",
           "defenderTag": "#GRJGGGLQJ",
