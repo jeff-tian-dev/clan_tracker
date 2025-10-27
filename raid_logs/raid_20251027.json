@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251024T070000.000Z",
   "endTime": "20251027T070000.000Z",
-  "capitalTotalLoot": 849272,
+  "capitalTotalLoot": 859223,
   "raidsCompleted": 10,
-  "totalAttacks": 206,
-  "enemyDistrictsDestroyed": 78,
+  "totalAttacks": 210,
+  "enemyDistrictsDestroyed": 80,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -124,10 +124,10 @@
     {
       "tag": "#Y80PLCRQ9",
       "name": "jerwenzke1",
-      "attacks": 2,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 10424
+      "capitalResourcesLooted": 20375
     },
     {
       "tag": "#Y8GQ89UGJ",
@@ -2774,28 +2774,54 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/k6Izqg14X5bdrU9VKg1QrlJbkZpeluxkyqIliJjz4OI.png"
         }
       },
-      "attackCount": 15,
+      "attackCount": 19,
       "districtCount": 9,
-      "districtsDestroyed": 6,
+      "districtsDestroyed": 8,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 50,
+          "stars": 1,
+          "attackCount": 2,
+          "totalLooted": 4370,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Y80PLCRQ9",
+                "name": "jerwenzke1"
+              },
+              "destructionPercent": 50,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#Y80PLCRQ9",
+                "name": "jerwenzke1"
+              },
+              "destructionPercent": 36,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 89,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 9035,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11189,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#Y80PLCRQ9",
+                "name": "jerwenzke1"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#YJGQR88U8",
@@ -2980,11 +3006,19 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 47,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 4905,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 8332,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#Y80PLCRQ9",
+                "name": "jerwenzke1"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#YJGQR88U8",
