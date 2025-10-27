@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251024T070000.000Z",
   "endTime": "20251027T070000.000Z",
-  "capitalTotalLoot": 823089,
+  "capitalTotalLoot": 849272,
   "raidsCompleted": 10,
-  "totalAttacks": 200,
-  "enemyDistrictsDestroyed": 76,
+  "totalAttacks": 206,
+  "enemyDistrictsDestroyed": 78,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -280,6 +280,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 33776
+    },
+    {
+      "tag": "#YJGQR88U8",
+      "name": "parijat",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 26183
     },
     {
       "tag": "#P08PU09Y2",
@@ -2766,9 +2774,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/k6Izqg14X5bdrU9VKg1QrlJbkZpeluxkyqIliJjz4OI.png"
         }
       },
-      "attackCount": 9,
+      "attackCount": 15,
       "districtCount": 9,
-      "districtsDestroyed": 4,
+      "districtsDestroyed": 6,
       "districts": [
         {
           "id": 70000000,
@@ -2783,29 +2791,73 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 89,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 9035,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YJGQR88U8",
+                "name": "parijat"
+              },
+              "destructionPercent": 89,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#YJGQR88U8",
+                "name": "parijat"
+              },
+              "destructionPercent": 55,
+              "stars": 2
+            }
+          ]
         },
         {
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 8862,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YJGQR88U8",
+                "name": "parijat"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#YJGQR88U8",
+                "name": "parijat"
+              },
+              "destructionPercent": 49,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 68,
-          "stars": 2,
-          "attackCount": 1,
-          "totalLooted": 4795,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 8176,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#YJGQR88U8",
+                "name": "parijat"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#QRP2RLV02",
@@ -2928,10 +2980,20 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
+          "destructionPercent": 47,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 1,
+          "totalLooted": 4905,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YJGQR88U8",
+                "name": "parijat"
+              },
+              "destructionPercent": 47,
+              "stars": 0
+            }
+          ]
         }
       ]
     }
