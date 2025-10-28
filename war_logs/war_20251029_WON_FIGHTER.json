@@ -15,7 +15,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/MemvfcNsCKAIJd01S-vNV8_nVwYBGkQOTRp3HgJs0QU.png"
     },
     "clanLevel": 11,
-    "attacks": 35,
+    "attacks": 38,
     "stars": 60,
     "destructionPercentage": 100.0,
     "members": [
@@ -190,6 +190,24 @@
         "name": "cyan",
         "townhallLevel": 15,
         "mapPosition": 18,
+        "attacks": [
+          {
+            "attackerTag": "#Q2QQL2YVV",
+            "defenderTag": "#PGJQ2U8PY",
+            "stars": 1,
+            "destructionPercentage": 53,
+            "order": 45,
+            "duration": 122
+          },
+          {
+            "attackerTag": "#Q2QQL2YVV",
+            "defenderTag": "#G2PJC8QRC",
+            "stars": 2,
+            "destructionPercentage": 53,
+            "order": 46,
+            "duration": 121
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -353,6 +371,14 @@
             "destructionPercentage": 100,
             "order": 29,
             "duration": 97
+          },
+          {
+            "attackerTag": "#QYCLC0JLL",
+            "defenderTag": "#G2PJC8QRC",
+            "stars": 1,
+            "destructionPercentage": 29,
+            "order": 44,
+            "duration": 30
           }
         ],
         "opponentAttacks": 0
@@ -603,7 +629,7 @@
         "name": "\u661f\u591c\u591c",
         "townhallLevel": 17,
         "mapPosition": 1,
-        "opponentAttacks": 8,
+        "opponentAttacks": 9,
         "bestOpponentAttack": {
           "attackerTag": "#G28CVVRJL",
           "defenderTag": "#PGJQ2U8PY",
@@ -837,7 +863,7 @@
         "name": "Dorian Van",
         "townhallLevel": 17,
         "mapPosition": 2,
-        "opponentAttacks": 5,
+        "opponentAttacks": 7,
         "bestOpponentAttack": {
           "attackerTag": "#G28CVVRJL",
           "defenderTag": "#G2PJC8QRC",
