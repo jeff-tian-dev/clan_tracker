@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/MemvfcNsCKAIJd01S-vNV8_nVwYBGkQOTRp3HgJs0QU.png"
     },
     "clanLevel": 11,
-    "attacks": 21,
-    "stars": 54,
-    "destructionPercentage": 90.0,
+    "attacks": 24,
+    "stars": 60,
+    "destructionPercentage": 100.0,
     "members": [
       {
         "tag": "#UJP2UYRY",
@@ -129,6 +129,14 @@
             "destructionPercentage": 100,
             "order": 5,
             "duration": 164
+          },
+          {
+            "attackerTag": "#PL09LLPUY",
+            "defenderTag": "#GQLVQPRGY",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 24,
+            "duration": 86
           }
         ],
         "opponentAttacks": 0
@@ -324,6 +332,16 @@
         "name": "taz",
         "townhallLevel": 17,
         "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#2R2JYRRU",
+            "defenderTag": "#PGJQ2U8PY",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 25,
+            "duration": 160
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -363,6 +381,16 @@
         "name": "Swift",
         "townhallLevel": 16,
         "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#PRGGL2J2V",
+            "defenderTag": "#GJCQ08GCL",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 26,
+            "duration": 46
+          }
+        ],
         "opponentAttacks": 0
       }
     ]
@@ -385,7 +413,15 @@
         "name": "\u5fd8\u5c18\u5fc6\u58a8",
         "townhallLevel": 11,
         "mapPosition": 19,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PL09LLPUY",
+          "defenderTag": "#GQLVQPRGY",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 24,
+          "duration": 86
+        }
       },
       {
         "tag": "#G0JL98CPG",
@@ -407,7 +443,15 @@
         "name": "shen\u7530\u548f\u7f8e",
         "townhallLevel": 8,
         "mapPosition": 20,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PRGGL2J2V",
+          "defenderTag": "#GJCQ08GCL",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 26,
+          "duration": 46
+        }
       },
       {
         "tag": "#GLQ99G0VV",
@@ -429,7 +473,7 @@
         "name": "\u661f\u591c\u591c",
         "townhallLevel": 17,
         "mapPosition": 1,
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
           "attackerTag": "#G28CVVRJL",
           "defenderTag": "#PGJQ2U8PY",
