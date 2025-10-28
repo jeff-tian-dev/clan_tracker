@@ -1,5 +1,5 @@
 {
-  "state": "preparation",
+  "state": "inWar",
   "teamSize": 20,
   "attacksPerMember": 2,
   "battleModifier": "none",
@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/MemvfcNsCKAIJd01S-vNV8_nVwYBGkQOTRp3HgJs0QU.png"
     },
     "clanLevel": 11,
-    "attacks": 0,
-    "stars": 0,
-    "destructionPercentage": 0.0,
+    "attacks": 4,
+    "stars": 11,
+    "destructionPercentage": 18.8,
     "members": [
       {
         "tag": "#UJP2UYRY",
@@ -129,6 +129,24 @@
         "name": "exofall",
         "townhallLevel": 17,
         "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#G28CVVRJL",
+            "defenderTag": "#PGJQ2U8PY",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 1,
+            "duration": 147
+          },
+          {
+            "attackerTag": "#G28CVVRJL",
+            "defenderTag": "#G2PJC8QRC",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 2,
+            "duration": 154
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -143,6 +161,24 @@
         "name": "Aurelian",
         "townhallLevel": 12,
         "mapPosition": 20,
+        "attacks": [
+          {
+            "attackerTag": "#GGYGQ8098",
+            "defenderTag": "#QVUGV90V2",
+            "stars": 2,
+            "destructionPercentage": 76,
+            "order": 3,
+            "duration": 115
+          },
+          {
+            "attackerTag": "#GGYGQ8098",
+            "defenderTag": "#GUQQU999R",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 4,
+            "duration": 126
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -207,7 +243,15 @@
         "name": "\u661f\u591c\u591c",
         "townhallLevel": 17,
         "mapPosition": 1,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#G28CVVRJL",
+          "defenderTag": "#PGJQ2U8PY",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 1,
+          "duration": 147
+        }
       },
       {
         "tag": "#QVCRC8CQU",
@@ -256,7 +300,15 @@
         "name": "\u7f18\u6765\u5982\u6b64",
         "townhallLevel": 16,
         "mapPosition": 15,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GGYGQ8098",
+          "defenderTag": "#QVUGV90V2",
+          "stars": 2,
+          "destructionPercentage": 76,
+          "order": 3,
+          "duration": 115
+        }
       },
       {
         "tag": "#GQQCLGJJ2",
@@ -282,7 +334,7 @@
       {
         "tag": "#220UG8U8Q",
         "name": "\u00b0Storm Spirit\u00b0",
-        "townhallLevel": 14,
+        "townhallLevel": 15,
         "mapPosition": 14,
         "opponentAttacks": 0
       },
@@ -291,7 +343,15 @@
         "name": "Dorian Van",
         "townhallLevel": 17,
         "mapPosition": 2,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#G28CVVRJL",
+          "defenderTag": "#G2PJC8QRC",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 2,
+          "duration": 154
+        }
       },
       {
         "tag": "#80R88V8Y0",
@@ -305,7 +365,15 @@
         "name": "2333",
         "townhallLevel": 16,
         "mapPosition": 17,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GGYGQ8098",
+          "defenderTag": "#GUQQU999R",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 4,
+          "duration": 126
+        }
       },
       {
         "tag": "#9RLJUPUV8",
