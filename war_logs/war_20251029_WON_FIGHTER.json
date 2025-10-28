@@ -150,7 +150,15 @@
             "duration": 150
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 2,
+        "bestOpponentAttack": {
+          "attackerTag": "#220UG8U8Q",
+          "defenderTag": "#8VQYULVQQ",
+          "stars": 1,
+          "destructionPercentage": 14,
+          "order": 40,
+          "duration": 17
+        }
       },
       {
         "tag": "#PL09LLPUY",
@@ -207,7 +215,15 @@
             "duration": 163
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 2,
+        "bestOpponentAttack": {
+          "attackerTag": "#220UG8U8Q",
+          "defenderTag": "#Y80PLCRQ9",
+          "stars": 1,
+          "destructionPercentage": 4,
+          "order": 39,
+          "duration": 14
+        }
       },
       {
         "tag": "#9U2YP0RY",
@@ -414,7 +430,15 @@
             "duration": 127
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PVUVCGUUQ",
+          "defenderTag": "#2R2JYRRU",
+          "stars": 1,
+          "destructionPercentage": 57,
+          "order": 43,
+          "duration": 123
+        }
       },
       {
         "tag": "#GGYGQ8098",
@@ -510,9 +534,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/gIQBrFNZb598YXDUwqwVSyKqaLIhb3N9q29RhSA5j54.png"
     },
     "clanLevel": 23,
-    "attacks": 3,
-    "stars": 6,
-    "destructionPercentage": 10.1,
+    "attacks": 8,
+    "stars": 9,
+    "destructionPercentage": 13.85,
     "members": [
       {
         "tag": "#GQLVQPRGY",
@@ -677,6 +701,14 @@
             "destructionPercentage": 88,
             "order": 36,
             "duration": 180
+          },
+          {
+            "attackerTag": "#PVUVCGUUQ",
+            "defenderTag": "#2R2JYRRU",
+            "stars": 1,
+            "destructionPercentage": 57,
+            "order": 43,
+            "duration": 123
           }
         ],
         "opponentAttacks": 1,
@@ -772,6 +804,24 @@
         "name": "\u00b0Storm Spirit\u00b0",
         "townhallLevel": 15,
         "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#220UG8U8Q",
+            "defenderTag": "#Y80PLCRQ9",
+            "stars": 1,
+            "destructionPercentage": 4,
+            "order": 39,
+            "duration": 14
+          },
+          {
+            "attackerTag": "#220UG8U8Q",
+            "defenderTag": "#8VQYULVQQ",
+            "stars": 1,
+            "destructionPercentage": 14,
+            "order": 40,
+            "duration": 17
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#QRP2RLV02",
@@ -817,6 +867,24 @@
         "name": "2333",
         "townhallLevel": 16,
         "mapPosition": 17,
+        "attacks": [
+          {
+            "attackerTag": "#GUQQU999R",
+            "defenderTag": "#Y80PLCRQ9",
+            "stars": 1,
+            "destructionPercentage": 4,
+            "order": 41,
+            "duration": 9
+          },
+          {
+            "attackerTag": "#GUQQU999R",
+            "defenderTag": "#8VQYULVQQ",
+            "stars": 1,
+            "destructionPercentage": 12,
+            "order": 42,
+            "duration": 16
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#GGYGQ8098",
