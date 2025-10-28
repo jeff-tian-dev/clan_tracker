@@ -15,7 +15,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/MemvfcNsCKAIJd01S-vNV8_nVwYBGkQOTRp3HgJs0QU.png"
     },
     "clanLevel": 11,
-    "attacks": 38,
+    "attacks": 40,
     "stars": 60,
     "destructionPercentage": 100.0,
     "members": [
@@ -273,6 +273,24 @@
         "name": "gun",
         "townhallLevel": 16,
         "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#2CQLC28UP",
+            "defenderTag": "#PGJQ2U8PY",
+            "stars": 2,
+            "destructionPercentage": 70,
+            "order": 47,
+            "duration": 75
+          },
+          {
+            "attackerTag": "#2CQLC28UP",
+            "defenderTag": "#G2PJC8QRC",
+            "stars": 2,
+            "destructionPercentage": 56,
+            "order": 48,
+            "duration": 52
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -629,7 +647,7 @@
         "name": "\u661f\u591c\u591c",
         "townhallLevel": 17,
         "mapPosition": 1,
-        "opponentAttacks": 9,
+        "opponentAttacks": 10,
         "bestOpponentAttack": {
           "attackerTag": "#G28CVVRJL",
           "defenderTag": "#PGJQ2U8PY",
@@ -863,7 +881,7 @@
         "name": "Dorian Van",
         "townhallLevel": 17,
         "mapPosition": 2,
-        "opponentAttacks": 7,
+        "opponentAttacks": 8,
         "bestOpponentAttack": {
           "attackerTag": "#G28CVVRJL",
           "defenderTag": "#G2PJC8QRC",
