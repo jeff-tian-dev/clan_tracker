@@ -446,7 +446,15 @@
             "duration": 18
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PVUVCGUUQ",
+          "defenderTag": "#Y2PVPPU8C",
+          "stars": 2,
+          "destructionPercentage": 88,
+          "order": 36,
+          "duration": 180
+        }
       },
       {
         "tag": "#PRGGL2J2V",
@@ -484,9 +492,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/gIQBrFNZb598YXDUwqwVSyKqaLIhb3N9q29RhSA5j54.png"
     },
     "clanLevel": 23,
-    "attacks": 2,
-    "stars": 4,
-    "destructionPercentage": 5.7,
+    "attacks": 3,
+    "stars": 6,
+    "destructionPercentage": 10.1,
     "members": [
       {
         "tag": "#GQLVQPRGY",
@@ -643,6 +651,16 @@
         "name": "Moveon",
         "townhallLevel": 17,
         "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#PVUVCGUUQ",
+            "defenderTag": "#Y2PVPPU8C",
+            "stars": 2,
+            "destructionPercentage": 88,
+            "order": 36,
+            "duration": 180
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#YQ8L9JVJ2",
