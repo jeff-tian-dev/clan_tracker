@@ -15,7 +15,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/MemvfcNsCKAIJd01S-vNV8_nVwYBGkQOTRp3HgJs0QU.png"
     },
     "clanLevel": 11,
-    "attacks": 33,
+    "attacks": 35,
     "stars": 60,
     "destructionPercentage": 100.0,
     "members": [
@@ -189,6 +189,24 @@
         "name": "jerwenzke1",
         "townhallLevel": 17,
         "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#Y80PLCRQ9",
+            "defenderTag": "#80R88V8Y0",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 37,
+            "duration": 144
+          },
+          {
+            "attackerTag": "#Y80PLCRQ9",
+            "defenderTag": "#890LY889C",
+            "stars": 2,
+            "destructionPercentage": 83,
+            "order": 38,
+            "duration": 163
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -724,7 +742,7 @@
         "name": "\u840c\u840c\u7eaf\u826f\u4eba",
         "townhallLevel": 17,
         "mapPosition": 5,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#UJP2UYRY",
           "defenderTag": "#890LY889C",
@@ -784,7 +802,7 @@
         "name": "HUDAS",
         "townhallLevel": 17,
         "mapPosition": 7,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#8VQYULVQQ",
           "defenderTag": "#80R88V8Y0",
