@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/MemvfcNsCKAIJd01S-vNV8_nVwYBGkQOTRp3HgJs0QU.png"
     },
     "clanLevel": 11,
-    "attacks": 27,
-    "stars": 60,
-    "destructionPercentage": 86.84,
+    "attacks": 28,
+    "stars": 62,
+    "destructionPercentage": 90.24,
     "members": [
       {
         "tag": "#QYL88U9P0",
@@ -397,7 +397,15 @@
         "name": "taz",
         "townhallLevel": 17,
         "mapPosition": 3,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2L0PQCGQ",
+          "defenderTag": "#2R2JYRRU",
+          "stars": 2,
+          "destructionPercentage": 89,
+          "order": 36,
+          "duration": 113
+        }
       },
       {
         "tag": "#GGYGQ8098",
@@ -422,13 +430,31 @@
             "duration": 159
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PP8QQ9JG9",
+          "defenderTag": "#GGYGQ8098",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 38,
+          "duration": 79
+        }
       },
       {
         "tag": "#G9CC9G2VQ",
         "name": "Grizz",
         "townhallLevel": 14,
         "mapPosition": 23,
+        "attacks": [
+          {
+            "attackerTag": "#G9CC9G2VQ",
+            "defenderTag": "#Y9C02CY0J",
+            "stars": 2,
+            "destructionPercentage": 85,
+            "order": 37,
+            "duration": 143
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -494,7 +520,15 @@
             "duration": 143
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Y82URP2U",
+          "defenderTag": "#PRGGL2J2V",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 39,
+          "duration": 140
+        }
       }
     ]
   },
@@ -507,9 +541,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ffJBcDNoArH6hmnYCIyAFpuQJoECcsDeTuDiTQwuInA.png"
     },
     "clanLevel": 20,
-    "attacks": 8,
-    "stars": 15,
-    "destructionPercentage": 24.72,
+    "attacks": 11,
+    "stars": 23,
+    "destructionPercentage": 36.28,
     "members": [
       {
         "tag": "#8LQ2RRRGJ",
@@ -641,7 +675,15 @@
         "name": "Anto:c",
         "townhallLevel": 14,
         "mapPosition": 20,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#G9CC9G2VQ",
+          "defenderTag": "#Y9C02CY0J",
+          "stars": 2,
+          "destructionPercentage": 85,
+          "order": 37,
+          "duration": 143
+        }
       },
       {
         "tag": "#9YY9U8Q9J",
@@ -734,6 +776,14 @@
             "destructionPercentage": 89,
             "order": 28,
             "duration": 106
+          },
+          {
+            "attackerTag": "#2L0PQCGQ",
+            "defenderTag": "#2R2JYRRU",
+            "stars": 2,
+            "destructionPercentage": 89,
+            "order": 36,
+            "duration": 113
           }
         ],
         "opponentAttacks": 1,
@@ -814,6 +864,16 @@
         "name": "D\u20ac$T\u03c0U\u00a2TO\u03c0",
         "townhallLevel": 16,
         "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#Y82URP2U",
+            "defenderTag": "#PRGGL2J2V",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 39,
+            "duration": 140
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#YQ8L9JVJ2",
@@ -904,6 +964,16 @@
         "name": "Ani",
         "townhallLevel": 13,
         "mapPosition": 24,
+        "attacks": [
+          {
+            "attackerTag": "#PP8QQ9JG9",
+            "defenderTag": "#GGYGQ8098",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 38,
+            "duration": 79
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#GGYGQ8098",
