@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/MemvfcNsCKAIJd01S-vNV8_nVwYBGkQOTRp3HgJs0QU.png"
     },
     "clanLevel": 11,
-    "attacks": 28,
-    "stars": 62,
-    "destructionPercentage": 90.24,
+    "attacks": 29,
+    "stars": 64,
+    "destructionPercentage": 93.4,
     "members": [
       {
         "tag": "#QYL88U9P0",
@@ -147,7 +147,15 @@
             "duration": 180
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Y82URP2U",
+          "defenderTag": "#8VQYULVQQ",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 40,
+          "duration": 151
+        }
       },
       {
         "tag": "#PL09LLPUY",
@@ -453,6 +461,14 @@
             "destructionPercentage": 85,
             "order": 37,
             "duration": 143
+          },
+          {
+            "attackerTag": "#G9CC9G2VQ",
+            "defenderTag": "#Q2CYRGR9G",
+            "stars": 2,
+            "destructionPercentage": 79,
+            "order": 41,
+            "duration": 136
           }
         ],
         "opponentAttacks": 0
@@ -541,9 +557,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ffJBcDNoArH6hmnYCIyAFpuQJoECcsDeTuDiTQwuInA.png"
     },
     "clanLevel": 20,
-    "attacks": 11,
-    "stars": 23,
-    "destructionPercentage": 36.28,
+    "attacks": 12,
+    "stars": 26,
+    "destructionPercentage": 40.28,
     "members": [
       {
         "tag": "#8LQ2RRRGJ",
@@ -565,7 +581,15 @@
         "name": "SRpotato",
         "townhallLevel": 15,
         "mapPosition": 18,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#G9CC9G2VQ",
+          "defenderTag": "#Q2CYRGR9G",
+          "stars": 2,
+          "destructionPercentage": 79,
+          "order": 41,
+          "duration": 136
+        }
       },
       {
         "tag": "#GYRJ0YLLG",
@@ -872,6 +896,14 @@
             "destructionPercentage": 100,
             "order": 39,
             "duration": 140
+          },
+          {
+            "attackerTag": "#Y82URP2U",
+            "defenderTag": "#8VQYULVQQ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 40,
+            "duration": 151
           }
         ],
         "opponentAttacks": 1,
