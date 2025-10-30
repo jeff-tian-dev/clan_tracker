@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/MemvfcNsCKAIJd01S-vNV8_nVwYBGkQOTRp3HgJs0QU.png"
     },
     "clanLevel": 11,
-    "attacks": 25,
-    "stars": 54,
-    "destructionPercentage": 78.84,
+    "attacks": 27,
+    "stars": 60,
+    "destructionPercentage": 86.84,
     "members": [
       {
         "tag": "#QYL88U9P0",
@@ -81,7 +81,7 @@
         "name": "je suis excit\u00e9",
         "townhallLevel": 17,
         "mapPosition": 12,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#GJVL09U",
           "defenderTag": "#Q9QU8L8YV",
@@ -211,7 +211,15 @@
         "name": "\u24c2\ufe0fBIG COCHY3\u24c2\ufe0f",
         "townhallLevel": 16,
         "mapPosition": 13,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QJ9QVPVU0",
+          "defenderTag": "#9U2YP0RY",
+          "stars": 2,
+          "destructionPercentage": 83,
+          "order": 35,
+          "duration": 124
+        }
       },
       {
         "tag": "#2CQLC28UP",
@@ -236,7 +244,15 @@
             "duration": 72
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QJ9QVPVU0",
+          "defenderTag": "#2CQLC28UP",
+          "stars": 2,
+          "destructionPercentage": 75,
+          "order": 33,
+          "duration": 180
+        }
       },
       {
         "tag": "#YQ8L9JVJ2",
@@ -302,7 +318,15 @@
         "name": "Sir Hazelnut\u2122\ufe0f",
         "townhallLevel": 16,
         "mapPosition": 17,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2ULLL98YC",
+          "defenderTag": "#YJ2UV2GY",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 30,
+          "duration": 160
+        }
       },
       {
         "tag": "#QYCLC0JLL",
@@ -358,7 +382,15 @@
             "duration": 136
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#JPRC0C2Y",
+          "defenderTag": "#G28CVVRJL",
+          "stars": 2,
+          "destructionPercentage": 72,
+          "order": 34,
+          "duration": 86
+        }
       },
       {
         "tag": "#2R2JYRRU",
@@ -444,6 +476,24 @@
         "name": "Swift",
         "townhallLevel": 16,
         "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#PRGGL2J2V",
+            "defenderTag": "#GPVJ9R0GG",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 29,
+            "duration": 143
+          },
+          {
+            "attackerTag": "#PRGGL2J2V",
+            "defenderTag": "#GJVL09U",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 31,
+            "duration": 143
+          }
+        ],
         "opponentAttacks": 0
       }
     ]
@@ -457,9 +507,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ffJBcDNoArH6hmnYCIyAFpuQJoECcsDeTuDiTQwuInA.png"
     },
     "clanLevel": 20,
-    "attacks": 3,
-    "stars": 6,
-    "destructionPercentage": 11.52,
+    "attacks": 8,
+    "stars": 15,
+    "destructionPercentage": 24.72,
     "members": [
       {
         "tag": "#8LQ2RRRGJ",
@@ -518,6 +568,16 @@
         "name": "ThreeZx",
         "townhallLevel": 17,
         "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#JPRC0C2Y",
+            "defenderTag": "#G28CVVRJL",
+            "stars": 2,
+            "destructionPercentage": 72,
+            "order": 34,
+            "duration": 86
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#G28CVVRJL",
@@ -566,7 +626,15 @@
             "duration": 135
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PRGGL2J2V",
+          "defenderTag": "#GJVL09U",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 31,
+          "duration": 143
+        }
       },
       {
         "tag": "#Y9C02CY0J",
@@ -595,13 +663,39 @@
         "name": "**Jessy**",
         "townhallLevel": 17,
         "mapPosition": 11,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PRGGL2J2V",
+          "defenderTag": "#GPVJ9R0GG",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 29,
+          "duration": 143
+        }
       },
       {
         "tag": "#2ULLL98YC",
         "name": "CARLITOS PINEDA",
         "townhallLevel": 17,
         "mapPosition": 17,
+        "attacks": [
+          {
+            "attackerTag": "#2ULLL98YC",
+            "defenderTag": "#YJ2UV2GY",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 30,
+            "duration": 160
+          },
+          {
+            "attackerTag": "#2ULLL98YC",
+            "defenderTag": "#Q9QU8L8YV",
+            "stars": 2,
+            "destructionPercentage": 75,
+            "order": 32,
+            "duration": 129
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#QYL88U9P0",
@@ -657,6 +751,24 @@
         "name": "\u26a1J\u0366\u0325 o\u0366\u0325 e\u0366\u0325 l\u0366",
         "townhallLevel": 15,
         "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#QJ9QVPVU0",
+            "defenderTag": "#2CQLC28UP",
+            "stars": 2,
+            "destructionPercentage": 75,
+            "order": 33,
+            "duration": 180
+          },
+          {
+            "attackerTag": "#QJ9QVPVU0",
+            "defenderTag": "#9U2YP0RY",
+            "stars": 2,
+            "destructionPercentage": 83,
+            "order": 35,
+            "duration": 124
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#2CQLC28UP",
