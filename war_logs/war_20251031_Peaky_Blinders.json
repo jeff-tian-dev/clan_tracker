@@ -356,14 +356,14 @@
         "name": "JT",
         "townhallLevel": 14,
         "mapPosition": 24,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#PP8QQ9JG9",
+          "attackerTag": "#JPRC0C2Y",
           "defenderTag": "#QRP2RLV02",
-          "stars": 2,
-          "destructionPercentage": 79,
-          "order": 45,
-          "duration": 81
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 46,
+          "duration": 78
         }
       },
       {
@@ -581,9 +581,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ffJBcDNoArH6hmnYCIyAFpuQJoECcsDeTuDiTQwuInA.png"
     },
     "clanLevel": 20,
-    "attacks": 16,
-    "stars": 31,
-    "destructionPercentage": 49.84,
+    "attacks": 17,
+    "stars": 32,
+    "destructionPercentage": 50.68,
     "members": [
       {
         "tag": "#8LQ2RRRGJ",
@@ -668,6 +668,14 @@
             "destructionPercentage": 72,
             "order": 34,
             "duration": 86
+          },
+          {
+            "attackerTag": "#JPRC0C2Y",
+            "defenderTag": "#QRP2RLV02",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 46,
+            "duration": 78
           }
         ],
         "opponentAttacks": 1,
