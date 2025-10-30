@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/MemvfcNsCKAIJd01S-vNV8_nVwYBGkQOTRp3HgJs0QU.png"
     },
     "clanLevel": 11,
-    "attacks": 29,
-    "stars": 64,
-    "destructionPercentage": 93.4,
+    "attacks": 30,
+    "stars": 65,
+    "destructionPercentage": 93.6,
     "members": [
       {
         "tag": "#QYL88U9P0",
@@ -219,6 +219,16 @@
         "name": "\u24c2\ufe0fBIG COCHY3\u24c2\ufe0f",
         "townhallLevel": 16,
         "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#9U2YP0RY",
+            "defenderTag": "#8L2LP2QG2",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 47,
+            "duration": 95
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#QJ9QVPVU0",
@@ -996,14 +1006,14 @@
         "name": "adrian",
         "townhallLevel": 16,
         "mapPosition": 8,
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#8VQYULVQQ",
+          "attackerTag": "#9U2YP0RY",
           "defenderTag": "#8L2LP2QG2",
-          "stars": 2,
-          "destructionPercentage": 95,
-          "order": 13,
-          "duration": 180
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 47,
+          "duration": 95
         }
       },
       {
