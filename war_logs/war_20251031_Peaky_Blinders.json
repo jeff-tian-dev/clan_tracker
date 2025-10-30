@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/MemvfcNsCKAIJd01S-vNV8_nVwYBGkQOTRp3HgJs0QU.png"
     },
     "clanLevel": 11,
-    "attacks": 17,
-    "stars": 37,
-    "destructionPercentage": 54.36,
+    "attacks": 19,
+    "stars": 40,
+    "destructionPercentage": 58.36,
     "members": [
       {
         "tag": "#QYL88U9P0",
@@ -85,6 +85,14 @@
             "stars": 2,
             "destructionPercentage": 91,
             "order": 19,
+            "duration": 180
+          },
+          {
+            "attackerTag": "#GYGC88RGG",
+            "defenderTag": "#8LQ2RRRGJ",
+            "stars": 2,
+            "destructionPercentage": 84,
+            "order": 21,
             "duration": 180
           }
         ],
@@ -279,6 +287,16 @@
         "name": "Meks",
         "townhallLevel": 16,
         "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#GU2P0YJP2",
+            "defenderTag": "#9YY9U8Q9J",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 20,
+            "duration": 131
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -386,7 +404,7 @@
         "name": "FABIAN 08",
         "townhallLevel": 16,
         "mapPosition": 9,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#8VQYULVQQ",
           "defenderTag": "#8LQ2RRRGJ",
@@ -484,7 +502,15 @@
         "name": "Moucho",
         "townhallLevel": 16,
         "mapPosition": 10,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GU2P0YJP2",
+          "defenderTag": "#9YY9U8Q9J",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 20,
+          "duration": 131
+        }
       },
       {
         "tag": "#GPVJ9R0GG",
