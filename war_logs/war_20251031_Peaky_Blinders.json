@@ -302,14 +302,14 @@
             "duration": 178
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#GPVJ9R0GG",
+          "attackerTag": "#8LQ2RRRGJ",
           "defenderTag": "#LYJJ9PLV9",
-          "stars": 1,
-          "destructionPercentage": 83,
-          "order": 42,
-          "duration": 120
+          "stars": 2,
+          "destructionPercentage": 68,
+          "order": 44,
+          "duration": 142
         }
       },
       {
@@ -573,15 +573,25 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ffJBcDNoArH6hmnYCIyAFpuQJoECcsDeTuDiTQwuInA.png"
     },
     "clanLevel": 20,
-    "attacks": 14,
-    "stars": 28,
-    "destructionPercentage": 47.28,
+    "attacks": 15,
+    "stars": 29,
+    "destructionPercentage": 46.68,
     "members": [
       {
         "tag": "#8LQ2RRRGJ",
         "name": "FABIAN 08",
         "townhallLevel": 16,
         "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#8LQ2RRRGJ",
+            "defenderTag": "#LYJJ9PLV9",
+            "stars": 2,
+            "destructionPercentage": 68,
+            "order": 44,
+            "duration": 142
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#8VQYULVQQ",
