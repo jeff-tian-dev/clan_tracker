@@ -302,7 +302,15 @@
             "duration": 178
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GPVJ9R0GG",
+          "defenderTag": "#LYJJ9PLV9",
+          "stars": 1,
+          "destructionPercentage": 83,
+          "order": 42,
+          "duration": 120
+        }
       },
       {
         "tag": "#J88YJGY9",
@@ -365,7 +373,15 @@
             "duration": 131
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GPVJ9R0GG",
+          "defenderTag": "#GU2P0YJP2",
+          "stars": 1,
+          "destructionPercentage": 92,
+          "order": 43,
+          "duration": 159
+        }
       },
       {
         "tag": "#G28CVVRJL",
@@ -557,9 +573,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ffJBcDNoArH6hmnYCIyAFpuQJoECcsDeTuDiTQwuInA.png"
     },
     "clanLevel": 20,
-    "attacks": 12,
-    "stars": 26,
-    "destructionPercentage": 40.28,
+    "attacks": 14,
+    "stars": 28,
+    "destructionPercentage": 47.28,
     "members": [
       {
         "tag": "#8LQ2RRRGJ",
@@ -729,6 +745,24 @@
         "name": "**Jessy**",
         "townhallLevel": 17,
         "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#GPVJ9R0GG",
+            "defenderTag": "#LYJJ9PLV9",
+            "stars": 1,
+            "destructionPercentage": 83,
+            "order": 42,
+            "duration": 120
+          },
+          {
+            "attackerTag": "#GPVJ9R0GG",
+            "defenderTag": "#GU2P0YJP2",
+            "stars": 1,
+            "destructionPercentage": 92,
+            "order": 43,
+            "duration": 159
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#PRGGL2J2V",
