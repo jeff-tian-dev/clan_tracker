@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/MemvfcNsCKAIJd01S-vNV8_nVwYBGkQOTRp3HgJs0QU.png"
     },
     "clanLevel": 11,
-    "attacks": 21,
-    "stars": 44,
-    "destructionPercentage": 64.44,
+    "attacks": 23,
+    "stars": 49,
+    "destructionPercentage": 71.2,
     "members": [
       {
         "tag": "#QYL88U9P0",
@@ -200,6 +200,24 @@
         "name": "gun",
         "townhallLevel": 16,
         "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#2CQLC28UP",
+            "defenderTag": "#QVYYRRJPG",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 24,
+            "duration": 83
+          },
+          {
+            "attackerTag": "#2CQLC28UP",
+            "defenderTag": "#QJ9QVPVU0",
+            "stars": 2,
+            "destructionPercentage": 69,
+            "order": 25,
+            "duration": 72
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -489,7 +507,15 @@
         "name": "Sebas827",
         "townhallLevel": 15,
         "mapPosition": 14,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2CQLC28UP",
+          "defenderTag": "#QVYYRRJPG",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 24,
+          "duration": 83
+        }
       },
       {
         "tag": "#GJVL09U",
@@ -587,7 +613,15 @@
         "name": "\u26a1J\u0366\u0325 o\u0366\u0325 e\u0366\u0325 l\u0366",
         "townhallLevel": 15,
         "mapPosition": 13,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2CQLC28UP",
+          "defenderTag": "#QJ9QVPVU0",
+          "stars": 2,
+          "destructionPercentage": 69,
+          "order": 25,
+          "duration": 72
+        }
       },
       {
         "tag": "#9P0URP8UV",
