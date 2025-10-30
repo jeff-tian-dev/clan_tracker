@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/MemvfcNsCKAIJd01S-vNV8_nVwYBGkQOTRp3HgJs0QU.png"
     },
     "clanLevel": 11,
-    "attacks": 1,
-    "stars": 2,
-    "destructionPercentage": 3.56,
+    "attacks": 3,
+    "stars": 8,
+    "destructionPercentage": 11.56,
     "members": [
       {
         "tag": "#QYL88U9P0",
@@ -38,6 +38,16 @@
         "name": "JLai",
         "townhallLevel": 15,
         "mapPosition": 18,
+        "attacks": [
+          {
+            "attackerTag": "#GLU9LC2LG",
+            "defenderTag": "#PQC9L8GRL",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 5,
+            "duration": 133
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -45,14 +55,30 @@
         "name": "je suis excit\u00e9",
         "townhallLevel": 17,
         "mapPosition": 12,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GJVL09U",
+          "defenderTag": "#Q9QU8L8YV",
+          "stars": 2,
+          "destructionPercentage": 99,
+          "order": 2,
+          "duration": 117
+        }
       },
       {
         "tag": "#GYGC88RGG",
         "name": "INDxSayan",
         "townhallLevel": 16,
         "mapPosition": 11,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GJVL09U",
+          "defenderTag": "#GYGC88RGG",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 3,
+          "duration": 135
+        }
       },
       {
         "tag": "#8VQYULVQQ",
@@ -160,6 +186,16 @@
         "name": "exofall",
         "townhallLevel": 17,
         "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#G28CVVRJL",
+            "defenderTag": "#JPRC0C2Y",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 4,
+            "duration": 138
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -215,9 +251,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/ffJBcDNoArH6hmnYCIyAFpuQJoECcsDeTuDiTQwuInA.png"
     },
     "clanLevel": 20,
-    "attacks": 0,
-    "stars": 0,
-    "destructionPercentage": 0.0,
+    "attacks": 2,
+    "stars": 5,
+    "destructionPercentage": 7.96,
     "members": [
       {
         "tag": "#8LQ2RRRGJ",
@@ -252,7 +288,15 @@
         "name": "ThreeZx",
         "townhallLevel": 17,
         "mapPosition": 1,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#G28CVVRJL",
+          "defenderTag": "#JPRC0C2Y",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 4,
+          "duration": 138
+        }
       },
       {
         "tag": "#QVYYRRJPG",
@@ -266,6 +310,24 @@
         "name": "Salvador AB",
         "townhallLevel": 17,
         "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#GJVL09U",
+            "defenderTag": "#Q9QU8L8YV",
+            "stars": 2,
+            "destructionPercentage": 99,
+            "order": 2,
+            "duration": 117
+          },
+          {
+            "attackerTag": "#GJVL09U",
+            "defenderTag": "#GYGC88RGG",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 3,
+            "duration": 135
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -393,7 +455,15 @@
         "name": "AndersonSC",
         "townhallLevel": 17,
         "mapPosition": 3,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GLU9LC2LG",
+          "defenderTag": "#PQC9L8GRL",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 5,
+          "duration": 133
+        }
       },
       {
         "tag": "#G0GCQRUCL",
