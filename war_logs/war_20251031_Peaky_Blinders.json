@@ -1,5 +1,5 @@
 {
-  "state": "preparation",
+  "state": "inWar",
   "teamSize": 25,
   "attacksPerMember": 2,
   "battleModifier": "none",
@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/MemvfcNsCKAIJd01S-vNV8_nVwYBGkQOTRp3HgJs0QU.png"
     },
     "clanLevel": 11,
-    "attacks": 0,
-    "stars": 0,
-    "destructionPercentage": 0.0,
+    "attacks": 1,
+    "stars": 2,
+    "destructionPercentage": 3.56,
     "members": [
       {
         "tag": "#QYL88U9P0",
@@ -115,6 +115,16 @@
         "name": "King Killer",
         "townhallLevel": 15,
         "mapPosition": 19,
+        "attacks": [
+          {
+            "attackerTag": "#J88YJGY9",
+            "defenderTag": "#Y9J0VLR88",
+            "stars": 2,
+            "destructionPercentage": 89,
+            "order": 1,
+            "duration": 172
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -291,7 +301,15 @@
         "name": "\u2764\ufe0fERIKIT@ 2\u2764\ufe0f",
         "townhallLevel": 15,
         "mapPosition": 19,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#J88YJGY9",
+          "defenderTag": "#Y9J0VLR88",
+          "stars": 2,
+          "destructionPercentage": 89,
+          "order": 1,
+          "duration": 172
+        }
       },
       {
         "tag": "#2L0PQCGQ",
