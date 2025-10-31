@@ -2,20 +2,28 @@
   "state": "ongoing",
   "startTime": "20251031T070000.000Z",
   "endTime": "20251103T070000.000Z",
-  "capitalTotalLoot": 3395,
+  "capitalTotalLoot": 34332,
   "raidsCompleted": 0,
-  "totalAttacks": 1,
-  "enemyDistrictsDestroyed": 0,
+  "totalAttacks": 9,
+  "enemyDistrictsDestroyed": 2,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
     {
+      "tag": "#9VQYR92Y",
+      "name": "Cole",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 21750
+    },
+    {
       "tag": "#GYGC88RGG",
       "name": "INDxSayan",
-      "attacks": 1,
+      "attacks": 3,
       "attackLimit": 5,
-      "bonusAttackLimit": 0,
-      "capitalResourcesLooted": 3395
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 12582
     }
   ],
   "attackLog": [
@@ -30,9 +38,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/pnuxFzBUzZlOW-N8i2r8s6PvcLQa_q-LIOMLqOy_ECE.png"
         }
       },
-      "attackCount": 1,
+      "attackCount": 9,
       "districtCount": 9,
-      "districtsDestroyed": 0,
+      "districtsDestroyed": 2,
       "districts": [
         {
           "id": 70000000,
@@ -47,10 +55,28 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 73,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 6835,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#9VQYR92Y",
+                "name": "Cole"
+              },
+              "destructionPercent": 73,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#9VQYR92Y",
+                "name": "Cole"
+              },
+              "destructionPercent": 48,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000002,
@@ -74,10 +100,28 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 95,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 7965,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#9VQYR92Y",
+                "name": "Cole"
+              },
+              "destructionPercent": 95,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#9VQYR92Y",
+                "name": "Cole"
+              },
+              "destructionPercent": 50,
+              "stars": 2
+            }
+          ]
         },
         {
           "id": 70000005,
@@ -101,20 +145,54 @@
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10895,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#9VQYR92Y",
+                "name": "Cole"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#9VQYR92Y",
+                "name": "Cole"
+              },
+              "destructionPercent": 89,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#GYGC88RGG",
+                "name": "INDxSayan"
+              },
+              "destructionPercent": 47,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 53,
-          "stars": 1,
-          "attackCount": 1,
-          "totalLooted": 3395,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 8637,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#GYGC88RGG",
+                "name": "INDxSayan"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#GYGC88RGG",
