@@ -684,7 +684,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/hHyH4u7FRkSmSo2MhCDEAvbIugKGzQtoFUOvTNO4ACs.png"
         }
       },
-      "attackCount": 6,
+      "attackCount": 7,
       "districtCount": 9,
       "districtsDestroyed": 1,
       "districts": [
@@ -719,11 +719,19 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 47,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 4580,
+          "destructionPercent": 82,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 9050,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#89JG9RVV2",
+                "name": "mene"
+              },
+              "destructionPercent": 82,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#2PVY9C0GV",
