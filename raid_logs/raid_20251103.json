@@ -2,13 +2,22 @@
   "state": "ongoing",
   "startTime": "20251031T070000.000Z",
   "endTime": "20251103T070000.000Z",
-  "capitalTotalLoot": 0,
+  "capitalTotalLoot": 3395,
   "raidsCompleted": 0,
-  "totalAttacks": 0,
+  "totalAttacks": 1,
   "enemyDistrictsDestroyed": 0,
   "offensiveReward": 0,
   "defensiveReward": 0,
-  "members": [],
+  "members": [
+    {
+      "tag": "#GYGC88RGG",
+      "name": "INDxSayan",
+      "attacks": 1,
+      "attackLimit": 5,
+      "bonusAttackLimit": 0,
+      "capitalResourcesLooted": 3395
+    }
+  ],
   "attackLog": [
     {
       "defender": {
@@ -21,7 +30,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/pnuxFzBUzZlOW-N8i2r8s6PvcLQa_q-LIOMLqOy_ECE.png"
         }
       },
-      "attackCount": 0,
+      "attackCount": 1,
       "districtCount": 9,
       "districtsDestroyed": 0,
       "districts": [
@@ -101,10 +110,20 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 53,
+          "stars": 1,
+          "attackCount": 1,
+          "totalLooted": 3395,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GYGC88RGG",
+                "name": "INDxSayan"
+              },
+              "destructionPercent": 53,
+              "stars": 1
+            }
+          ]
         }
       ]
     }
