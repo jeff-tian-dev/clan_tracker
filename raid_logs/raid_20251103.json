@@ -684,7 +684,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/hHyH4u7FRkSmSo2MhCDEAvbIugKGzQtoFUOvTNO4ACs.png"
         }
       },
-      "attackCount": 13,
+      "attackCount": 14,
       "districtCount": 9,
       "districtsDestroyed": 4,
       "districts": [
@@ -798,11 +798,19 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 38,
-          "stars": 1,
-          "attackCount": 1,
-          "totalLooted": 4775,
+          "destructionPercent": 78,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 9030,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#9GU0VQVGG",
+                "name": "SUSHAN"
+              },
+              "destructionPercent": 78,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#G92R8PGGL",
