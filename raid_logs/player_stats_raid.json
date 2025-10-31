@@ -12797,7 +12797,7 @@
       }
     ]
   },
-  "timestamp": "2025-10-31 11:00:04",
+  "timestamp": "2025-10-31 12:00:03",
   "#LJVP0GRUG": {
     "name": "Agi",
     "tag": "#LJVP0GRUG",
@@ -70302,10 +70302,10 @@
       },
       {
         "date": "20251103",
-        "attacksUsed": 0,
-        "capitalGold": 0,
-        "avgLootPerAttack": "---",
-        "attacksMissed": 6,
+        "attacksUsed": 6,
+        "capitalGold": 17785,
+        "avgLootPerAttack": 2964.2,
+        "attacksMissed": 0,
         "missedRaid": false
       }
     ]
