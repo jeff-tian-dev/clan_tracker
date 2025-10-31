@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251031T070000.000Z",
   "endTime": "20251103T070000.000Z",
-  "capitalTotalLoot": 97203,
+  "capitalTotalLoot": 139256,
   "raidsCompleted": 1,
-  "totalAttacks": 28,
-  "enemyDistrictsDestroyed": 9,
+  "totalAttacks": 36,
+  "enemyDistrictsDestroyed": 12,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -42,6 +42,14 @@
       "capitalResourcesLooted": 12582
     },
     {
+      "tag": "#Q2QQL2YVV",
+      "name": "cyan",
+      "attacks": 2,
+      "attackLimit": 5,
+      "bonusAttackLimit": 0,
+      "capitalResourcesLooted": 10255
+    },
+    {
       "tag": "#Y8GQ89UGJ",
       "name": "SILENT KILLER S",
       "attacks": 6,
@@ -56,6 +64,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 20259
+    },
+    {
+      "tag": "#Q20L2G0JV",
+      "name": "REHAN ALI",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 31798
     }
   ],
   "attackLog": [
@@ -402,9 +418,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/lsF0uvzhnbyLPnllTklk5EC6S0Ayc07m1Kx0VIOI2XY.png"
         }
       },
-      "attackCount": 1,
+      "attackCount": 9,
       "districtCount": 9,
-      "districtsDestroyed": 0,
+      "districtsDestroyed": 3,
       "districts": [
         {
           "id": 70000000,
@@ -428,20 +444,38 @@
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
+          "destructionPercent": 37,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 1,
+          "totalLooted": 2155,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q20L2G0JV",
+                "name": "REHAN ALI"
+              },
+              "destructionPercent": 37,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 47,
-          "stars": 1,
-          "attackCount": 1,
-          "totalLooted": 4415,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11097,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q20L2G0JV",
+                "name": "REHAN ALI"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#Y8GQ89UGJ",
@@ -456,10 +490,28 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 93,
+          "stars": 1,
+          "attackCount": 2,
+          "totalLooted": 10255,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q2QQL2YVV",
+                "name": "cyan"
+              },
+              "destructionPercent": 93,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#Q2QQL2YVV",
+                "name": "cyan"
+              },
+              "destructionPercent": 41,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000005,
@@ -474,19 +526,55 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11427,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q20L2G0JV",
+                "name": "REHAN ALI"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Q20L2G0JV",
+                "name": "REHAN ALI"
+              },
+              "destructionPercent": 59,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11534,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q20L2G0JV",
+                "name": "REHAN ALI"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Q20L2G0JV",
+                "name": "REHAN ALI"
+              },
+              "destructionPercent": 54,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000008,
