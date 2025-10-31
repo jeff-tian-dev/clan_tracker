@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251031T070000.000Z",
   "endTime": "20251103T070000.000Z",
-  "capitalTotalLoot": 139256,
+  "capitalTotalLoot": 164779,
   "raidsCompleted": 1,
-  "totalAttacks": 36,
-  "enemyDistrictsDestroyed": 12,
+  "totalAttacks": 42,
+  "enemyDistrictsDestroyed": 14,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -44,10 +44,10 @@
     {
       "tag": "#Q2QQL2YVV",
       "name": "cyan",
-      "attacks": 2,
+      "attacks": 3,
       "attackLimit": 5,
       "bonusAttackLimit": 0,
-      "capitalResourcesLooted": 10255
+      "capitalResourcesLooted": 14265
     },
     {
       "tag": "#Y8GQ89UGJ",
@@ -72,6 +72,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 31798
+    },
+    {
+      "tag": "#P99GPQVVR",
+      "name": "Mr legend",
+      "attacks": 5,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 21513
     }
   ],
   "attackLog": [
@@ -418,9 +426,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/lsF0uvzhnbyLPnllTklk5EC6S0Ayc07m1Kx0VIOI2XY.png"
         }
       },
-      "attackCount": 9,
+      "attackCount": 15,
       "districtCount": 9,
-      "districtsDestroyed": 3,
+      "districtsDestroyed": 5,
       "districts": [
         {
           "id": 70000000,
@@ -435,20 +443,46 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 54,
+          "stars": 1,
+          "attackCount": 1,
+          "totalLooted": 4735,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#P99GPQVVR",
+                "name": "Mr legend"
+              },
+              "destructionPercent": 54,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 37,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 2155,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10781,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#P99GPQVVR",
+                "name": "Mr legend"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Q2QQL2YVV",
+                "name": "cyan"
+              },
+              "destructionPercent": 60,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#Q20L2G0JV",
@@ -580,10 +614,36 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 12162,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#P99GPQVVR",
+                "name": "Mr legend"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#P99GPQVVR",
+                "name": "Mr legend"
+              },
+              "destructionPercent": 70,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#P99GPQVVR",
+                "name": "Mr legend"
+              },
+              "destructionPercent": 32,
+              "stars": 0
+            }
+          ]
         }
       ]
     }
