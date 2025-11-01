@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251031T070000.000Z",
   "endTime": "20251103T070000.000Z",
-  "capitalTotalLoot": 363139,
+  "capitalTotalLoot": 379670,
   "raidsCompleted": 5,
-  "totalAttacks": 92,
-  "enemyDistrictsDestroyed": 31,
+  "totalAttacks": 98,
+  "enemyDistrictsDestroyed": 33,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -96,6 +96,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 20259
+    },
+    {
+      "tag": "#QYYC0LQ2P",
+      "name": "RedFox",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 16531
     },
     {
       "tag": "#Q20L2G0JV",
@@ -1130,9 +1138,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/vOwKzoTJbxoZOGPtGVQyUV-upnFQ9Sn8n9-aB9CDytM.png"
         }
       },
-      "attackCount": 15,
+      "attackCount": 21,
       "districtCount": 9,
-      "districtsDestroyed": 4,
+      "districtsDestroyed": 6,
       "districts": [
         {
           "id": 70000000,
@@ -1174,10 +1182,36 @@
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 9454,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QYYC0LQ2P",
+                "name": "RedFox"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QYYC0LQ2P",
+                "name": "RedFox"
+              },
+              "destructionPercent": 60,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#QYYC0LQ2P",
+                "name": "RedFox"
+              },
+              "destructionPercent": 31,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000003,
@@ -1210,11 +1244,19 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 78,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 8150,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10537,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#QYYC0LQ2P",
+                "name": "RedFox"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#2R2JYRRU",
@@ -1237,10 +1279,28 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 50,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 4690,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QYYC0LQ2P",
+                "name": "RedFox"
+              },
+              "destructionPercent": 50,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#QYYC0LQ2P",
+                "name": "RedFox"
+              },
+              "destructionPercent": 29,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000006,
