@@ -2,9 +2,9 @@
   "state": "ongoing",
   "startTime": "20251031T070000.000Z",
   "endTime": "20251103T070000.000Z",
-  "capitalTotalLoot": 303072,
+  "capitalTotalLoot": 315597,
   "raidsCompleted": 3,
-  "totalAttacks": 77,
+  "totalAttacks": 80,
   "enemyDistrictsDestroyed": 27,
   "offensiveReward": 0,
   "defensiveReward": 0,
@@ -52,10 +52,10 @@
     {
       "tag": "#PL09LLPUY",
       "name": "Regis\u6881",
-      "attacks": 4,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 13310
+      "capitalResourcesLooted": 21940
     },
     {
       "tag": "#Q2QQL2YVV",
@@ -120,6 +120,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 21664
+    },
+    {
+      "tag": "#2R2JYRRU",
+      "name": "taz",
+      "attacks": 1,
+      "attackLimit": 5,
+      "bonusAttackLimit": 0,
+      "capitalResourcesLooted": 3895
     },
     {
       "tag": "#GGYGQ8098",
@@ -1106,7 +1114,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/vOwKzoTJbxoZOGPtGVQyUV-upnFQ9Sn8n9-aB9CDytM.png"
         }
       },
-      "attackCount": 0,
+      "attackCount": 3,
       "districtCount": 9,
       "districtsDestroyed": 0,
       "districts": [
@@ -1141,10 +1149,20 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 43,
+          "stars": 1,
+          "attackCount": 1,
+          "totalLooted": 3895,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2R2JYRRU",
+                "name": "taz"
+              },
+              "destructionPercent": 43,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000004,
@@ -1168,10 +1186,28 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 88,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 8630,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#PL09LLPUY",
+                "name": "Regis\u6881"
+              },
+              "destructionPercent": 88,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#PL09LLPUY",
+                "name": "Regis\u6881"
+              },
+              "destructionPercent": 24,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000007,
