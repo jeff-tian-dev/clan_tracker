@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251031T070000.000Z",
   "endTime": "20251103T070000.000Z",
-  "capitalTotalLoot": 341234,
+  "capitalTotalLoot": 363139,
   "raidsCompleted": 4,
-  "totalAttacks": 86,
-  "enemyDistrictsDestroyed": 29,
+  "totalAttacks": 92,
+  "enemyDistrictsDestroyed": 31,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -48,6 +48,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 32526
+    },
+    {
+      "tag": "#Q9QU8L8YV",
+      "name": "je suis excit\u00e9",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 21905
     },
     {
       "tag": "#GYGC88RGG",
@@ -1122,9 +1130,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/vOwKzoTJbxoZOGPtGVQyUV-upnFQ9Sn8n9-aB9CDytM.png"
         }
       },
-      "attackCount": 9,
+      "attackCount": 15,
       "districtCount": 9,
-      "districtsDestroyed": 2,
+      "districtsDestroyed": 4,
       "districts": [
         {
           "id": 70000000,
@@ -1273,19 +1281,71 @@
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10910,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q9QU8L8YV",
+                "name": "je suis excit\u00e9"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Q9QU8L8YV",
+                "name": "je suis excit\u00e9"
+              },
+              "destructionPercent": 41,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#Q9QU8L8YV",
+                "name": "je suis excit\u00e9"
+              },
+              "destructionPercent": 25,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10995,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q9QU8L8YV",
+                "name": "je suis excit\u00e9"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Q9QU8L8YV",
+                "name": "je suis excit\u00e9"
+              },
+              "destructionPercent": 63,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#Q9QU8L8YV",
+                "name": "je suis excit\u00e9"
+              },
+              "destructionPercent": 19,
+              "stars": 0
+            }
+          ]
         }
       ]
     }
