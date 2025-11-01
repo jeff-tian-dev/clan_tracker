@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251031T070000.000Z",
   "endTime": "20251103T070000.000Z",
-  "capitalTotalLoot": 411191,
+  "capitalTotalLoot": 426206,
   "raidsCompleted": 6,
-  "totalAttacks": 107,
-  "enemyDistrictsDestroyed": 37,
+  "totalAttacks": 110,
+  "enemyDistrictsDestroyed": 38,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -84,10 +84,10 @@
     {
       "tag": "#L20CLJRGU",
       "name": "Nick",
-      "attacks": 3,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 13394
+      "capitalResourcesLooted": 28409
     },
     {
       "tag": "#Y8GQ89UGJ",
@@ -1494,9 +1494,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/odxeq4ZbP3Eb79qYTCNnM0HJHauWddLUJdzFSl9my-4.png"
         }
       },
-      "attackCount": 2,
+      "attackCount": 5,
       "districtCount": 9,
-      "districtsDestroyed": 1,
+      "districtsDestroyed": 2,
       "districts": [
         {
           "id": 70000000,
@@ -1520,19 +1520,47 @@
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10115,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#L20CLJRGU",
+                "name": "Nick"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#L20CLJRGU",
+                "name": "Nick"
+              },
+              "destructionPercent": 44,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 39,
+          "stars": 1,
+          "attackCount": 1,
+          "totalLooted": 4900,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#L20CLJRGU",
+                "name": "Nick"
+              },
+              "destructionPercent": 39,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000004,
