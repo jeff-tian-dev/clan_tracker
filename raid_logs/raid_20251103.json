@@ -3,7 +3,7 @@
   "startTime": "20251031T070000.000Z",
   "endTime": "20251103T070000.000Z",
   "capitalTotalLoot": 363139,
-  "raidsCompleted": 4,
+  "raidsCompleted": 5,
   "totalAttacks": 92,
   "enemyDistrictsDestroyed": 31,
   "offensiveReward": 0,
@@ -1694,6 +1694,274 @@
               },
               "destructionPercent": 32,
               "stars": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "attacker": {
+        "tag": "#YCCQLQ2P",
+        "name": "Minions",
+        "level": 28,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/Bl14rf3uwF38jFfZ88x3I3-6UG3leWCn2vgz6Okrers.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/Bl14rf3uwF38jFfZ88x3I3-6UG3leWCn2vgz6Okrers.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/Bl14rf3uwF38jFfZ88x3I3-6UG3leWCn2vgz6Okrers.png"
+        }
+      },
+      "attackCount": 19,
+      "districtCount": 9,
+      "districtsDestroyed": 9,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 10,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 14021,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#CVVCLVG",
+                "name": "\u00c9cureuil F\u00e2ch\u00e9"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LYJPCP0P9",
+                "name": "Tar-Toto-Noix"
+              },
+              "destructionPercent": 97,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#GY8GLRUYQ",
+                "name": "Tar-Toto-Citron"
+              },
+              "destructionPercent": 60,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11598,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GPRYU99GV",
+                "name": "Toto-Raid-10"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GPRYU99GV",
+                "name": "Toto-Raid-10"
+              },
+              "destructionPercent": 33,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10283,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LR8VQ28YP",
+                "name": "Macbou Pro"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LR8VQ28YP",
+                "name": "Macbou Pro"
+              },
+              "destructionPercent": 49,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11304,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GY8GLRUYQ",
+                "name": "Tar-Toto-Citron"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GY8GLRUYQ",
+                "name": "Tar-Toto-Citron"
+              },
+              "destructionPercent": 46,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11786,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LR8VQ28YP",
+                "name": "Macbou Pro"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LR8VQ28YP",
+                "name": "Macbou Pro"
+              },
+              "destructionPercent": 45,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11504,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GY8GLRUYQ",
+                "name": "Tar-Toto-Citron"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GY8GLRUYQ",
+                "name": "Tar-Toto-Citron"
+              },
+              "destructionPercent": 53,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 12045,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GPRYU99GV",
+                "name": "Toto-Raid-10"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GPRYU99GV",
+                "name": "Toto-Raid-10"
+              },
+              "destructionPercent": 94,
+              "stars": 2
+            }
+          ]
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11918,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#G9GGLYUR0",
+                "name": "Heizenberg"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GY8GLRUYQ",
+                "name": "Tar-Toto-Citron"
+              },
+              "destructionPercent": 75,
+              "stars": 2
+            }
+          ]
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 12111,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#G9GGLYUR0",
+                "name": "Heizenberg"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LR8VQ28YP",
+                "name": "Macbou Pro"
+              },
+              "destructionPercent": 83,
+              "stars": 1
             }
           ]
         }
