@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251031T070000.000Z",
   "endTime": "20251103T070000.000Z",
-  "capitalTotalLoot": 379670,
+  "capitalTotalLoot": 397797,
   "raidsCompleted": 5,
-  "totalAttacks": 98,
-  "enemyDistrictsDestroyed": 33,
+  "totalAttacks": 104,
+  "enemyDistrictsDestroyed": 35,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -160,6 +160,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 29755
+    },
+    {
+      "tag": "#G9CC9G2VQ",
+      "name": "Grizz",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 18127
     }
   ],
   "attackLog": [
@@ -1138,28 +1146,70 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/vOwKzoTJbxoZOGPtGVQyUV-upnFQ9Sn8n9-aB9CDytM.png"
         }
       },
-      "attackCount": 21,
+      "attackCount": 27,
       "districtCount": 9,
-      "districtsDestroyed": 6,
+      "districtsDestroyed": 8,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 89,
+          "stars": 2,
+          "attackCount": 4,
+          "totalLooted": 11900,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#G9CC9G2VQ",
+                "name": "Grizz"
+              },
+              "destructionPercent": 89,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#G9CC9G2VQ",
+                "name": "Grizz"
+              },
+              "destructionPercent": 74,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#G9CC9G2VQ",
+                "name": "Grizz"
+              },
+              "destructionPercent": 59,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#G9CC9G2VQ",
+                "name": "Grizz"
+              },
+              "destructionPercent": 31,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 94,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 10005,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11280,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#G9CC9G2VQ",
+                "name": "Grizz"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#2R2JYRRU",
@@ -1279,11 +1329,19 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 50,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 4690,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 9642,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#G9CC9G2VQ",
+                "name": "Grizz"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#QYYC0LQ2P",
