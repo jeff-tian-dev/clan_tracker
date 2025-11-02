@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251031T070000.000Z",
   "endTime": "20251103T070000.000Z",
-  "capitalTotalLoot": 505945,
+  "capitalTotalLoot": 515553,
   "raidsCompleted": 7,
-  "totalAttacks": 128,
-  "enemyDistrictsDestroyed": 45,
+  "totalAttacks": 130,
+  "enemyDistrictsDestroyed": 46,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -184,6 +184,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 27938
+    },
+    {
+      "tag": "#RGGG9P29",
+      "name": "Than Na Muk yap",
+      "attacks": 2,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 9608
     },
     {
       "tag": "#GGYGQ8098",
@@ -1818,9 +1826,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/Yoapgh_jG8bhKBOPprgh9HDzBFQruWvOn9eP0yoPqEI.png"
         }
       },
-      "attackCount": 0,
+      "attackCount": 2,
       "districtCount": 9,
-      "districtsDestroyed": 0,
+      "districtsDestroyed": 1,
       "districts": [
         {
           "id": 70000000,
@@ -1898,10 +1906,28 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9608,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#RGGG9P29",
+                "name": "Than Na Muk yap"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#RGGG9P29",
+                "name": "Than Na Muk yap"
+              },
+              "destructionPercent": 75,
+              "stars": 2
+            }
+          ]
         }
       ]
     }
