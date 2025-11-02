@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251031T070000.000Z",
   "endTime": "20251103T070000.000Z",
-  "capitalTotalLoot": 529068,
+  "capitalTotalLoot": 569623,
   "raidsCompleted": 7,
-  "totalAttacks": 134,
-  "enemyDistrictsDestroyed": 47,
+  "totalAttacks": 143,
+  "enemyDistrictsDestroyed": 50,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -84,10 +84,10 @@
     {
       "tag": "#Q2QQL2YVV",
       "name": "cyan",
-      "attacks": 3,
+      "attacks": 6,
       "attackLimit": 5,
-      "bonusAttackLimit": 0,
-      "capitalResourcesLooted": 14265
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 27037
     },
     {
       "tag": "#L20CLJRGU",
@@ -208,6 +208,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 18127
+    },
+    {
+      "tag": "#PRGGL2J2V",
+      "name": "Swift",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 27783
     }
   ],
   "attackLog": [
@@ -1826,9 +1834,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/Yoapgh_jG8bhKBOPprgh9HDzBFQruWvOn9eP0yoPqEI.png"
         }
       },
-      "attackCount": 6,
+      "attackCount": 15,
       "districtCount": 9,
-      "districtsDestroyed": 2,
+      "districtsDestroyed": 5,
       "districts": [
         {
           "id": 70000000,
@@ -1843,56 +1851,138 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
+          "destructionPercent": 39,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 1,
+          "totalLooted": 3030,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q2QQL2YVV",
+                "name": "cyan"
+              },
+              "destructionPercent": 39,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 73,
+          "stars": 2,
+          "attackCount": 1,
+          "totalLooted": 5350,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#PRGGL2J2V",
+                "name": "Swift"
+              },
+              "destructionPercent": 73,
+              "stars": 2
+            }
+          ]
         },
         {
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9135,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#PRGGL2J2V",
+                "name": "Swift"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#PRGGL2J2V",
+                "name": "Swift"
+              },
+              "destructionPercent": 66,
+              "stars": 2
+            }
+          ]
         },
         {
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9742,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q2QQL2YVV",
+                "name": "cyan"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Q2QQL2YVV",
+                "name": "cyan"
+              },
+              "destructionPercent": 54,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 93,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 7705,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#PRGGL2J2V",
+                "name": "Swift"
+              },
+              "destructionPercent": 93,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#PRGGL2J2V",
+                "name": "Swift"
+              },
+              "destructionPercent": 50,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 4,
-          "destructionPercent": 51,
-          "stars": 1,
-          "attackCount": 1,
-          "totalLooted": 3640,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9233,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#PRGGL2J2V",
+                "name": "Swift"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#RGGG9P29",
@@ -2596,9 +2686,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/3svCFldFKv3tFC6UCwhjxBrvQPQkwqibn5ZnehuRoyw.png"
         }
       },
-      "attackCount": 15,
+      "attackCount": 21,
       "districtCount": 9,
-      "districtsDestroyed": 4,
+      "districtsDestroyed": 6,
       "districts": [
         {
           "id": 70000000,
@@ -2613,19 +2703,71 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11346,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QPUVV2GPL",
+                "name": "JAMET"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QPUVV2GPL",
+                "name": "JAMET"
+              },
+              "destructionPercent": 59,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#QPUVV2GPL",
+                "name": "JAMET"
+              },
+              "destructionPercent": 30,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10613,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Y208GJ0YY",
+                "name": "Pemain Clash"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Y208GJ0YY",
+                "name": "Pemain Clash"
+              },
+              "destructionPercent": 80,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#Y208GJ0YY",
+                "name": "Pemain Clash"
+              },
+              "destructionPercent": 34,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000003,
