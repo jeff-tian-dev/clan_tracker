@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251031T070000.000Z",
   "endTime": "20251103T070000.000Z",
-  "capitalTotalLoot": 444273,
+  "capitalTotalLoot": 458059,
   "raidsCompleted": 6,
-  "totalAttacks": 113,
-  "enemyDistrictsDestroyed": 40,
+  "totalAttacks": 116,
+  "enemyDistrictsDestroyed": 41,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -116,10 +116,10 @@
     {
       "tag": "#YG8JU9QC2",
       "name": "Umer Jawaid",
-      "attacks": 3,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 18067
+      "capitalResourcesLooted": 31853
     },
     {
       "tag": "#Q20L2G0JV",
@@ -1502,9 +1502,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/odxeq4ZbP3Eb79qYTCNnM0HJHauWddLUJdzFSl9my-4.png"
         }
       },
-      "attackCount": 8,
+      "attackCount": 11,
       "districtCount": 9,
-      "districtsDestroyed": 4,
+      "districtsDestroyed": 5,
       "districts": [
         {
           "id": 70000000,
@@ -1519,10 +1519,20 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
+          "destructionPercent": 35,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 1,
+          "totalLooted": 2230,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YG8JU9QC2",
+                "name": "Umer Jawaid"
+              },
+              "destructionPercent": 35,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000002,
@@ -1618,10 +1628,28 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11556,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YG8JU9QC2",
+                "name": "Umer Jawaid"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#YG8JU9QC2",
+                "name": "Umer Jawaid"
+              },
+              "destructionPercent": 58,
+              "stars": 2
+            }
+          ]
         },
         {
           "id": 70000007,
