@@ -2686,9 +2686,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/3svCFldFKv3tFC6UCwhjxBrvQPQkwqibn5ZnehuRoyw.png"
         }
       },
-      "attackCount": 21,
+      "attackCount": 25,
       "districtCount": 9,
-      "districtsDestroyed": 6,
+      "districtsDestroyed": 7,
       "districts": [
         {
           "id": 70000000,
@@ -2773,11 +2773,35 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 30,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 2260,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 11469,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#QGVU2C0J0",
+                "name": "RGK ASHHH 96"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QGVU2C0J0",
+                "name": "RGK ASHHH 96"
+              },
+              "destructionPercent": 83,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#QGVU2C0J0",
+                "name": "RGK ASHHH 96"
+              },
+              "destructionPercent": 54,
+              "stars": 1
+            },
             {
               "attacker": {
                 "tag": "#8RPGGGVJ9",
@@ -2835,10 +2859,20 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
+          "destructionPercent": 34,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 1,
+          "totalLooted": 2780,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QGVU2C0J0",
+                "name": "RGK ASHHH 96"
+              },
+              "destructionPercent": 34,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000006,
