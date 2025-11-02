@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251031T070000.000Z",
   "endTime": "20251103T070000.000Z",
-  "capitalTotalLoot": 569623,
+  "capitalTotalLoot": 587372,
   "raidsCompleted": 7,
-  "totalAttacks": 143,
-  "enemyDistrictsDestroyed": 50,
+  "totalAttacks": 149,
+  "enemyDistrictsDestroyed": 53,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -96,6 +96,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 28409
+    },
+    {
+      "tag": "#Y80PLCRQ9",
+      "name": "jerwenzke1",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 17749
     },
     {
       "tag": "#Y8GQ89UGJ",
@@ -1834,28 +1842,62 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/Yoapgh_jG8bhKBOPprgh9HDzBFQruWvOn9eP0yoPqEI.png"
         }
       },
-      "attackCount": 15,
+      "attackCount": 21,
       "districtCount": 9,
-      "districtsDestroyed": 5,
+      "districtsDestroyed": 8,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
+          "destructionPercent": 38,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 2,
+          "totalLooted": 3900,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Y80PLCRQ9",
+                "name": "jerwenzke1"
+              },
+              "destructionPercent": 38,
+              "stars": 0
+            },
+            {
+              "attacker": {
+                "tag": "#Y80PLCRQ9",
+                "name": "jerwenzke1"
+              },
+              "destructionPercent": 5,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 39,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 3030,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11706,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#Y80PLCRQ9",
+                "name": "jerwenzke1"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Y80PLCRQ9",
+                "name": "jerwenzke1"
+              },
+              "destructionPercent": 77,
+              "stars": 1
+            },
             {
               "attacker": {
                 "tag": "#Q2QQL2YVV",
@@ -1870,11 +1912,19 @@
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 4,
-          "destructionPercent": 73,
-          "stars": 2,
-          "attackCount": 1,
-          "totalLooted": 5350,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 8859,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#Y80PLCRQ9",
+                "name": "jerwenzke1"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#PRGGL2J2V",
@@ -1943,11 +1993,19 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 4,
-          "destructionPercent": 93,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 7705,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 9369,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#Y80PLCRQ9",
+                "name": "jerwenzke1"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#PRGGL2J2V",
