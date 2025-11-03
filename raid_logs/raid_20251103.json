@@ -2,9 +2,9 @@
   "state": "ongoing",
   "startTime": "20251031T070000.000Z",
   "endTime": "20251103T070000.000Z",
-  "capitalTotalLoot": 606042,
-  "raidsCompleted": 8,
-  "totalAttacks": 155,
+  "capitalTotalLoot": 626652,
+  "raidsCompleted": 9,
+  "totalAttacks": 160,
   "enemyDistrictsDestroyed": 54,
   "offensiveReward": 0,
   "defensiveReward": 0,
@@ -216,6 +216,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 18127
+    },
+    {
+      "tag": "#LGGLYVUPP",
+      "name": "siwi2isuus2",
+      "attacks": 5,
+      "attackLimit": 5,
+      "bonusAttackLimit": 0,
+      "capitalResourcesLooted": 20610
     },
     {
       "tag": "#Y2PVPPU8C",
@@ -2166,7 +2174,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/nm1hksLLsBXNgJPPbCtSi7lQn3dQto4FtmnTQAGPd94.png"
         }
       },
-      "attackCount": 2,
+      "attackCount": 7,
       "districtCount": 9,
       "districtsDestroyed": 0,
       "districts": [
@@ -2228,19 +2236,63 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 96,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 9780,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LGGLYVUPP",
+                "name": "siwi2isuus2"
+              },
+              "destructionPercent": 96,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#LGGLYVUPP",
+                "name": "siwi2isuus2"
+              },
+              "destructionPercent": 47,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 93,
+          "stars": 2,
+          "attackCount": 3,
+          "totalLooted": 10830,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LGGLYVUPP",
+                "name": "siwi2isuus2"
+              },
+              "destructionPercent": 93,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#LGGLYVUPP",
+                "name": "siwi2isuus2"
+              },
+              "destructionPercent": 53,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#LGGLYVUPP",
+                "name": "siwi2isuus2"
+              },
+              "destructionPercent": 36,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000008,
@@ -2900,19 +2952,59 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/3svCFldFKv3tFC6UCwhjxBrvQPQkwqibn5ZnehuRoyw.png"
         }
       },
-      "attackCount": 28,
+      "attackCount": 33,
       "districtCount": 9,
-      "districtsDestroyed": 8,
+      "districtsDestroyed": 9,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 34,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 2130,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 6,
+          "totalLooted": 13748,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q2LRY2JJ8",
+                "name": "EVOS\u2122batosai"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Q2LRY2JJ8",
+                "name": "EVOS\u2122batosai"
+              },
+              "destructionPercent": 95,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#Q2LRY2JJ8",
+                "name": "EVOS\u2122batosai"
+              },
+              "destructionPercent": 91,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#Q2LRY2JJ8",
+                "name": "EVOS\u2122batosai"
+              },
+              "destructionPercent": 80,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#Q2LRY2JJ8",
+                "name": "EVOS\u2122batosai"
+              },
+              "destructionPercent": 54,
+              "stars": 1
+            },
             {
               "attacker": {
                 "tag": "#Q8PYUPLJJ",
