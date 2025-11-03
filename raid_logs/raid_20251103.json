@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251031T070000.000Z",
   "endTime": "20251103T070000.000Z",
-  "capitalTotalLoot": 626652,
+  "capitalTotalLoot": 646743,
   "raidsCompleted": 9,
-  "totalAttacks": 160,
-  "enemyDistrictsDestroyed": 54,
+  "totalAttacks": 164,
+  "enemyDistrictsDestroyed": 55,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -144,6 +144,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 25305
+    },
+    {
+      "tag": "#L0UJQ0Y89",
+      "name": "doruk",
+      "attacks": 4,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 20091
     },
     {
       "tag": "#Q20L2G0JV",
@@ -2174,9 +2182,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/nm1hksLLsBXNgJPPbCtSi7lQn3dQto4FtmnTQAGPd94.png"
         }
       },
-      "attackCount": 7,
+      "attackCount": 11,
       "districtCount": 9,
-      "districtsDestroyed": 0,
+      "districtsDestroyed": 1,
       "districts": [
         {
           "id": 70000000,
@@ -2209,19 +2217,55 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 99,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 9925,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#L0UJQ0Y89",
+                "name": "doruk"
+              },
+              "destructionPercent": 99,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#L0UJQ0Y89",
+                "name": "doruk"
+              },
+              "destructionPercent": 43,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10166,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#L0UJQ0Y89",
+                "name": "doruk"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#L0UJQ0Y89",
+                "name": "doruk"
+              },
+              "destructionPercent": 60,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000005,
