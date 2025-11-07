@@ -3,7 +3,7 @@
   "startTime": "20251107T070000.000Z",
   "endTime": "20251110T070000.000Z",
   "capitalTotalLoot": 108453,
-  "raidsCompleted": 2,
+  "raidsCompleted": 3,
   "totalAttacks": 24,
   "enemyDistrictsDestroyed": 10,
   "offensiveReward": 0,
@@ -790,19 +790,35 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/3svCFldFKv3tFC6UCwhjxBrvQPQkwqibn5ZnehuRoyw.png"
         }
       },
-      "attackCount": 25,
+      "attackCount": 27,
       "districtCount": 9,
-      "districtsDestroyed": 8,
+      "districtsDestroyed": 9,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 74,
-          "stars": 1,
-          "attackCount": 2,
-          "totalLooted": 6810,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 14120,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#GJVPY008V",
+                "name": "Coc\u98ce\u5b50"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GLUPQ20U9",
+                "name": "Coc\u98ce\u5b50"
+              },
+              "destructionPercent": 98,
+              "stars": 1
+            },
             {
               "attacker": {
                 "tag": "#GJVPY008V",
