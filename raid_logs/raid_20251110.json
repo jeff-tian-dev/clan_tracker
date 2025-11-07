@@ -3,7 +3,7 @@
   "startTime": "20251107T070000.000Z",
   "endTime": "20251110T070000.000Z",
   "capitalTotalLoot": 77572,
-  "raidsCompleted": 0,
+  "raidsCompleted": 1,
   "totalAttacks": 18,
   "enemyDistrictsDestroyed": 8,
   "offensiveReward": 0,
@@ -306,19 +306,27 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/cRTAGcVK5NodZ1gqcUZb2XCnPf8hSGzSGXcurevzIbk.png"
         }
       },
-      "attackCount": 25,
+      "attackCount": 26,
       "districtCount": 9,
-      "districtsDestroyed": 8,
+      "districtsDestroyed": 9,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 79,
-          "stars": 2,
-          "attackCount": 4,
-          "totalLooted": 10100,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 5,
+          "totalLooted": 13745,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#PCLY29VCU",
+                "name": "Rais Fathi 17"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#2VL2UPLQ",
