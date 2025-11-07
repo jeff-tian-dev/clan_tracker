@@ -148,9 +148,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/cRTAGcVK5NodZ1gqcUZb2XCnPf8hSGzSGXcurevzIbk.png"
         }
       },
-      "attackCount": 0,
+      "attackCount": 18,
       "districtCount": 9,
-      "districtsDestroyed": 0,
+      "districtsDestroyed": 5,
       "districts": [
         {
           "id": 70000000,
@@ -165,73 +165,233 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 77,
+          "stars": 1,
+          "attackCount": 2,
+          "totalLooted": 8885,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YQC8YC08Q",
+                "name": "\u0627\u0644\u062b\u0639\u0644\u0648\u0628 \u0647\u0647"
+              },
+              "destructionPercent": 77,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#YQC8YC08Q",
+                "name": "\u0627\u0644\u062b\u0639\u0644\u0648\u0628 \u0647\u0647"
+              },
+              "destructionPercent": 44,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10571,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#92RP28Q2R",
+                "name": "Rais Fathi DZ"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#92RP28Q2R",
+                "name": "Rais Fathi DZ"
+              },
+              "destructionPercent": 78,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#92RP28Q2R",
+                "name": "Rais Fathi DZ"
+              },
+              "destructionPercent": 42,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 91,
+          "stars": 1,
+          "attackCount": 2,
+          "totalLooted": 9965,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YQC8YC08Q",
+                "name": "\u0627\u0644\u062b\u0639\u0644\u0648\u0628 \u0647\u0647"
+              },
+              "destructionPercent": 91,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#QJJG20YCL",
+                "name": "\u0646\u0648\u0631"
+              },
+              "destructionPercent": 52,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 81,
+          "stars": 1,
+          "attackCount": 2,
+          "totalLooted": 9610,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YQC8YC08Q",
+                "name": "\u0627\u0644\u062b\u0639\u0644\u0648\u0628 \u0647\u0647"
+              },
+              "destructionPercent": 81,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#YQC8YC08Q",
+                "name": "\u0627\u0644\u062b\u0639\u0644\u0648\u0628 \u0647\u0647"
+              },
+              "destructionPercent": 49,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11438,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LUUCY8GCL",
+                "name": "amine"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#PCLY29VCU",
+                "name": "Rais Fathi 17"
+              },
+              "destructionPercent": 54,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11427,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#P90Q92CPC",
+                "name": "jk"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QJJG20YCL",
+                "name": "\u0646\u0648\u0631"
+              },
+              "destructionPercent": 34,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11546,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QJJG20YCL",
+                "name": "\u0646\u0648\u0631"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QJJG20YCL",
+                "name": "\u0646\u0648\u0631"
+              },
+              "destructionPercent": 50,
+              "stars": 2
+            }
+          ]
         },
         {
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 12096,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QJJG20YCL",
+                "name": "\u0646\u0648\u0631"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#P90Q92CPC",
+                "name": "jk"
+              },
+              "destructionPercent": 80,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#QJJG20YCL",
+                "name": "\u0646\u0648\u0631"
+              },
+              "destructionPercent": 27,
+              "stars": 0
+            }
+          ]
         }
       ]
     }
