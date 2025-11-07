@@ -778,6 +778,322 @@
           ]
         }
       ]
+    },
+    {
+      "attacker": {
+        "tag": "#2GJPQR8VJ",
+        "name": "\u0623\u0628\u0637\u0627\u0644\u2655\u062d\u0636\u0631\u0645\u0648\u062a\u2655",
+        "level": 18,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/3svCFldFKv3tFC6UCwhjxBrvQPQkwqibn5ZnehuRoyw.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/3svCFldFKv3tFC6UCwhjxBrvQPQkwqibn5ZnehuRoyw.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/3svCFldFKv3tFC6UCwhjxBrvQPQkwqibn5ZnehuRoyw.png"
+        }
+      },
+      "attackCount": 25,
+      "districtCount": 9,
+      "districtsDestroyed": 8,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 10,
+          "destructionPercent": 74,
+          "stars": 1,
+          "attackCount": 2,
+          "totalLooted": 6810,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GJVPY008V",
+                "name": "Coc\u98ce\u5b50"
+              },
+              "destructionPercent": 74,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#GLUPQ20U9",
+                "name": "Coc\u98ce\u5b50"
+              },
+              "destructionPercent": 46,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11370,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GPR9YUG2C",
+                "name": "Coc\u98ce\u5b50"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GJ0RUQVC0",
+                "name": "Coc\u98ce\u5b50"
+              },
+              "destructionPercent": 64,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#GJ0RUQVC0",
+                "name": "Coc\u98ce\u5b50"
+              },
+              "destructionPercent": 38,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10133,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GPR9YUG2C",
+                "name": "Coc\u98ce\u5b50"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GPR9YUG2C",
+                "name": "Coc\u98ce\u5b50"
+              },
+              "destructionPercent": 30,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11415,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GJ0JYVCLV",
+                "name": "Coc\u75af\u72c2"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GGPJYG2GR",
+                "name": "Coc\u98ce\u5b50"
+              },
+              "destructionPercent": 74,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#GPR9YUG2C",
+                "name": "Coc\u98ce\u5b50"
+              },
+              "destructionPercent": 44,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11768,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GJ0JYVCLV",
+                "name": "Coc\u75af\u72c2"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GGPJYG2GR",
+                "name": "Coc\u98ce\u5b50"
+              },
+              "destructionPercent": 68,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#GPR9YUG2C",
+                "name": "Coc\u98ce\u5b50"
+              },
+              "destructionPercent": 19,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11858,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GJURG2P8L",
+                "name": "Coc\u98ce\u5b50"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GGPJYG2GR",
+                "name": "Coc\u98ce\u5b50"
+              },
+              "destructionPercent": 79,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#GGPJYG2GR",
+                "name": "Coc\u98ce\u5b50"
+              },
+              "destructionPercent": 33,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11910,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GJURG2P8L",
+                "name": "Coc\u98ce\u5b50"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GJ0JYVCLV",
+                "name": "Coc\u75af\u72c2"
+              },
+              "destructionPercent": 91,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#GJ0JYVCLV",
+                "name": "Coc\u75af\u72c2"
+              },
+              "destructionPercent": 48,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11975,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GJ0JYVCLV",
+                "name": "Coc\u75af\u72c2"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GJURG2P8L",
+                "name": "Coc\u98ce\u5b50"
+              },
+              "destructionPercent": 83,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#GJ0JYVCLV",
+                "name": "Coc\u75af\u72c2"
+              },
+              "destructionPercent": 48,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11985,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GLUPQ20U9",
+                "name": "Coc\u98ce\u5b50"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GJURG2P8L",
+                "name": "Coc\u98ce\u5b50"
+              },
+              "destructionPercent": 87,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#GJURG2P8L",
+                "name": "Coc\u98ce\u5b50"
+              },
+              "destructionPercent": 18,
+              "stars": 0
+            }
+          ]
+        }
+      ]
     }
   ]
 }
