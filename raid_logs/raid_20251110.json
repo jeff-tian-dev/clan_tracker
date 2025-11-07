@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251107T070000.000Z",
   "endTime": "20251110T070000.000Z",
-  "capitalTotalLoot": 77572,
-  "raidsCompleted": 1,
-  "totalAttacks": 18,
-  "enemyDistrictsDestroyed": 8,
+  "capitalTotalLoot": 108453,
+  "raidsCompleted": 2,
+  "totalAttacks": 24,
+  "enemyDistrictsDestroyed": 10,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -32,6 +32,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 26531
+    },
+    {
+      "tag": "#Y8GQ89UGJ",
+      "name": "SILENT KILLER S",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 30881
     }
   ],
   "attackLog": [
@@ -46,18 +54,44 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/iJstFaKMml5ql_quAFw9ZlzU73lw9Ml8Yr0MAMbxkbA.png"
         }
       },
-      "attackCount": 18,
+      "attackCount": 21,
       "districtCount": 9,
-      "districtsDestroyed": 8,
+      "districtsDestroyed": 9,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 13074,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Y8GQ89UGJ",
+                "name": "SILENT KILLER S"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Y8GQ89UGJ",
+                "name": "SILENT KILLER S"
+              },
+              "destructionPercent": 58,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#Y8GQ89UGJ",
+                "name": "SILENT KILLER S"
+              },
+              "destructionPercent": 23,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
@@ -290,6 +324,132 @@
               "stars": 2
             }
           ]
+        }
+      ]
+    },
+    {
+      "defender": {
+        "tag": "#JJQ9QJR9",
+        "name": "All For One",
+        "level": 26,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/dm20GD2ZT29vfk8wpdjEJ-6ewscAZ5umaKyrelPTlr0.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/dm20GD2ZT29vfk8wpdjEJ-6ewscAZ5umaKyrelPTlr0.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/dm20GD2ZT29vfk8wpdjEJ-6ewscAZ5umaKyrelPTlr0.png"
+        }
+      },
+      "attackCount": 3,
+      "districtCount": 9,
+      "districtsDestroyed": 1,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 10,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 5,
+          "destructionPercent": 55,
+          "stars": 2,
+          "attackCount": 1,
+          "totalLooted": 6255,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Y8GQ89UGJ",
+                "name": "SILENT KILLER S"
+              },
+              "destructionPercent": 55,
+              "stars": 2
+            }
+          ]
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11552,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Y8GQ89UGJ",
+                "name": "SILENT KILLER S"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Y8GQ89UGJ",
+                "name": "SILENT KILLER S"
+              },
+              "destructionPercent": 44,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 4,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
         }
       ]
     }
