@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251107T070000.000Z",
   "endTime": "20251110T070000.000Z",
-  "capitalTotalLoot": 108453,
+  "capitalTotalLoot": 124839,
   "raidsCompleted": 3,
-  "totalAttacks": 24,
-  "enemyDistrictsDestroyed": 10,
+  "totalAttacks": 27,
+  "enemyDistrictsDestroyed": 12,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -16,6 +16,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 26829
+    },
+    {
+      "tag": "#GLU9LC2LG",
+      "name": "JLai",
+      "attacks": 3,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 16386
     },
     {
       "tag": "#2920V9PV",
@@ -40,6 +48,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 30881
+    },
+    {
+      "tag": "#PRGGL2J2V",
+      "name": "Swift",
+      "attacks": 0,
+      "attackLimit": 5,
+      "bonusAttackLimit": 0,
+      "capitalResourcesLooted": 0
     }
   ],
   "attackLog": [
@@ -338,9 +354,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/dm20GD2ZT29vfk8wpdjEJ-6ewscAZ5umaKyrelPTlr0.png"
         }
       },
-      "attackCount": 3,
+      "attackCount": 6,
       "districtCount": 9,
-      "districtsDestroyed": 1,
+      "districtsDestroyed": 3,
       "districts": [
         {
           "id": 70000000,
@@ -373,11 +389,19 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 55,
-          "stars": 2,
-          "attackCount": 1,
-          "totalLooted": 6255,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11277,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#GLU9LC2LG",
+                "name": "JLai"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#Y8GQ89UGJ",
@@ -410,10 +434,28 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11364,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GLU9LC2LG",
+                "name": "JLai"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GLU9LC2LG",
+                "name": "JLai"
+              },
+              "destructionPercent": 55,
+              "stars": 2
+            }
+          ]
         },
         {
           "id": 70000007,
