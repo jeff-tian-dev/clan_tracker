@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251107T070000.000Z",
   "endTime": "20251110T070000.000Z",
-  "capitalTotalLoot": 298482,
+  "capitalTotalLoot": 324343,
   "raidsCompleted": 5,
-  "totalAttacks": 74,
-  "enemyDistrictsDestroyed": 27,
+  "totalAttacks": 78,
+  "enemyDistrictsDestroyed": 28,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -88,6 +88,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 18918
+    },
+    {
+      "tag": "#2R2JYRRU",
+      "name": "taz",
+      "attacks": 4,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 25861
     },
     {
       "tag": "#GGYGQ8098",
@@ -1066,9 +1074,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/Ytsmu7ScbVUB8BE8XuHMQ4fmPkEK6ZOBixSf5-lsLrI.png"
         }
       },
-      "attackCount": 0,
+      "attackCount": 4,
       "districtCount": 9,
-      "districtsDestroyed": 0,
+      "districtsDestroyed": 1,
       "districts": [
         {
           "id": 70000000,
@@ -1083,10 +1091,28 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11556,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2R2JYRRU",
+                "name": "taz"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2R2JYRRU",
+                "name": "taz"
+              },
+              "destructionPercent": 54,
+              "stars": 2
+            }
+          ]
         },
         {
           "id": 70000002,
@@ -1101,10 +1127,20 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 70,
+          "stars": 2,
+          "attackCount": 1,
+          "totalLooted": 7090,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2R2JYRRU",
+                "name": "taz"
+              },
+              "destructionPercent": 70,
+              "stars": 2
+            }
+          ]
         },
         {
           "id": 70000004,
@@ -1128,10 +1164,20 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 71,
+          "stars": 2,
+          "attackCount": 1,
+          "totalLooted": 7215,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2R2JYRRU",
+                "name": "taz"
+              },
+              "destructionPercent": 71,
+              "stars": 2
+            }
+          ]
         },
         {
           "id": 70000007,
