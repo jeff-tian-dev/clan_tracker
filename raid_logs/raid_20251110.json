@@ -2008,9 +2008,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/XOdb-yDSEUENwcRsKRC-iIDpRFfgJ0yfNq7Bicjz0P4.png"
         }
       },
-      "attackCount": 6,
+      "attackCount": 18,
       "districtCount": 9,
-      "districtsDestroyed": 2,
+      "districtsDestroyed": 6,
       "districts": [
         {
           "id": 70000000,
@@ -2034,46 +2034,152 @@
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10385,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LRL82RQQV",
+                "name": "sheigaming~3\u2122"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LRL82RQQV",
+                "name": "sheigaming~3\u2122"
+              },
+              "destructionPercent": 38,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11775,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LGQY00P0L",
+                "name": "sheigaming4\u2122"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LGQY00P0L",
+                "name": "sheigaming4\u2122"
+              },
+              "destructionPercent": 94,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#LGQY00P0L",
+                "name": "sheigaming4\u2122"
+              },
+              "destructionPercent": 52,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 12023,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LRL82RQQV",
+                "name": "sheigaming~3\u2122"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LRL82RQQV",
+                "name": "sheigaming~3\u2122"
+              },
+              "destructionPercent": 47,
+              "stars": 0
+            },
+            {
+              "attacker": {
+                "tag": "#LGQY00P0L",
+                "name": "sheigaming4\u2122"
+              },
+              "destructionPercent": 28,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 95,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 10105,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LRL82RQQV",
+                "name": "sheigaming~3\u2122"
+              },
+              "destructionPercent": 95,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#LRL82RQQV",
+                "name": "sheigaming~3\u2122"
+              },
+              "destructionPercent": 51,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11658,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LGQY00P0L",
+                "name": "sheigaming4\u2122"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LGQY00P0L",
+                "name": "sheigaming4\u2122"
+              },
+              "destructionPercent": 50,
+              "stars": 2
+            }
+          ]
         },
         {
           "id": 70000007,
