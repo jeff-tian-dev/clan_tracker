@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251107T070000.000Z",
   "endTime": "20251110T070000.000Z",
-  "capitalTotalLoot": 337163,
+  "capitalTotalLoot": 394005,
   "raidsCompleted": 5,
-  "totalAttacks": 80,
-  "enemyDistrictsDestroyed": 28,
+  "totalAttacks": 92,
+  "enemyDistrictsDestroyed": 35,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -16,6 +16,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 26829
+    },
+    {
+      "tag": "#GU9YPRYJ",
+      "name": "Master Baker",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 31496
     },
     {
       "tag": "#QYL88U9P0",
@@ -40,6 +48,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 24212
+    },
+    {
+      "tag": "#Q9QU8L8YV",
+      "name": "je suis excit\u00e9",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 25346
     },
     {
       "tag": "#PL09LLPUY",
@@ -1074,18 +1090,36 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/Ytsmu7ScbVUB8BE8XuHMQ4fmPkEK6ZOBixSf5-lsLrI.png"
         }
       },
-      "attackCount": 6,
+      "attackCount": 18,
       "districtCount": 9,
-      "districtsDestroyed": 1,
+      "districtsDestroyed": 8,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 84,
+          "stars": 1,
+          "attackCount": 2,
+          "totalLooted": 10270,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q9QU8L8YV",
+                "name": "je suis excit\u00e9"
+              },
+              "destructionPercent": 84,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#Q9QU8L8YV",
+                "name": "je suis excit\u00e9"
+              },
+              "destructionPercent": 52,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000001,
@@ -1118,20 +1152,46 @@
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10509,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GU9YPRYJ",
+                "name": "Master Baker"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GU9YPRYJ",
+                "name": "Master Baker"
+              },
+              "destructionPercent": 60,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 70,
-          "stars": 2,
-          "attackCount": 1,
-          "totalLooted": 7090,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10353,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q9QU8L8YV",
+                "name": "je suis excit\u00e9"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#2R2JYRRU",
@@ -1146,11 +1206,19 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 69,
-          "stars": 1,
-          "attackCount": 1,
-          "totalLooted": 6630,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10316,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q9QU8L8YV",
+                "name": "je suis excit\u00e9"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#2R2JYRRU",
@@ -1165,20 +1233,46 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10349,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GU9YPRYJ",
+                "name": "Master Baker"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GU9YPRYJ",
+                "name": "Master Baker"
+              },
+              "destructionPercent": 44,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 71,
-          "stars": 2,
-          "attackCount": 1,
-          "totalLooted": 7215,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10671,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q9QU8L8YV",
+                "name": "je suis excit\u00e9"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#2R2JYRRU",
@@ -1193,11 +1287,19 @@
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 57,
-          "stars": 2,
-          "attackCount": 1,
-          "totalLooted": 6190,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10861,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q9QU8L8YV",
+                "name": "je suis excit\u00e9"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#2R2JYRRU",
@@ -1212,10 +1314,28 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10638,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GU9YPRYJ",
+                "name": "Master Baker"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GU9YPRYJ",
+                "name": "Master Baker"
+              },
+              "destructionPercent": 59,
+              "stars": 2
+            }
+          ]
         }
       ]
     }
