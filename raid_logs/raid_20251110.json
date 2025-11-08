@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251107T070000.000Z",
   "endTime": "20251110T070000.000Z",
-  "capitalTotalLoot": 397552,
+  "capitalTotalLoot": 421035,
   "raidsCompleted": 7,
-  "totalAttacks": 93,
-  "enemyDistrictsDestroyed": 36,
+  "totalAttacks": 99,
+  "enemyDistrictsDestroyed": 38,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -80,6 +80,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 30881
+    },
+    {
+      "tag": "#2CQLC28UP",
+      "name": "gun",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 23483
     },
     {
       "tag": "#QYYC0LQ2P",
@@ -1366,9 +1374,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/X_AonGuP0bHszHknRidEIzDmDcVb2hCnHjV-U5AJzRk.png"
         }
       },
-      "attackCount": 0,
+      "attackCount": 6,
       "districtCount": 9,
-      "districtsDestroyed": 0,
+      "districtsDestroyed": 2,
       "districts": [
         {
           "id": 70000000,
@@ -1437,19 +1445,71 @@
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11771,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2CQLC28UP",
+                "name": "gun"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2CQLC28UP",
+                "name": "gun"
+              },
+              "destructionPercent": 94,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#2CQLC28UP",
+                "name": "gun"
+              },
+              "destructionPercent": 39,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11712,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2CQLC28UP",
+                "name": "gun"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2CQLC28UP",
+                "name": "gun"
+              },
+              "destructionPercent": 79,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#2CQLC28UP",
+                "name": "gun"
+              },
+              "destructionPercent": 35,
+              "stars": 0
+            }
+          ]
         }
       ]
     }
