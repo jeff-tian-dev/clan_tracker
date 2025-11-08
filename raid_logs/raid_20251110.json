@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251107T070000.000Z",
   "endTime": "20251110T070000.000Z",
-  "capitalTotalLoot": 255143,
+  "capitalTotalLoot": 272415,
   "raidsCompleted": 4,
-  "totalAttacks": 60,
-  "enemyDistrictsDestroyed": 22,
+  "totalAttacks": 66,
+  "enemyDistrictsDestroyed": 24,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -16,6 +16,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 26829
+    },
+    {
+      "tag": "#QYL88U9P0",
+      "name": "voldemort",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 17272
     },
     {
       "tag": "#GLU9LC2LG",
@@ -670,9 +678,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/QYWRHTYH4bnTFVhuTOFYnp8Uaz1fcKdGGEmJiIckrHo.png"
         }
       },
-      "attackCount": 18,
+      "attackCount": 24,
       "districtCount": 9,
-      "districtsDestroyed": 4,
+      "districtsDestroyed": 6,
       "districts": [
         {
           "id": 70000000,
@@ -687,11 +695,35 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 24,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 2410,
+          "destructionPercent": 93,
+          "stars": 2,
+          "attackCount": 4,
+          "totalLooted": 10650,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#QYL88U9P0",
+                "name": "voldemort"
+              },
+              "destructionPercent": 93,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#QYL88U9P0",
+                "name": "voldemort"
+              },
+              "destructionPercent": 70,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#QYL88U9P0",
+                "name": "voldemort"
+              },
+              "destructionPercent": 43,
+              "stars": 0
+            },
             {
               "attacker": {
                 "tag": "#G9CC9G2VQ",
@@ -706,11 +738,27 @@
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 44,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 3695,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10373,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#QYL88U9P0",
+                "name": "voldemort"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QYL88U9P0",
+                "name": "voldemort"
+              },
+              "destructionPercent": 71,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#G9CC9G2VQ",
@@ -725,11 +773,19 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 86,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 8715,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11069,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#QYL88U9P0",
+                "name": "voldemort"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#G9CC9G2VQ",
