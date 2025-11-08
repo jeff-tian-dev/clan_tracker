@@ -2008,9 +2008,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/XOdb-yDSEUENwcRsKRC-iIDpRFfgJ0yfNq7Bicjz0P4.png"
         }
       },
-      "attackCount": 18,
+      "attackCount": 24,
       "districtCount": 9,
-      "districtsDestroyed": 6,
+      "districtsDestroyed": 8,
       "districts": [
         {
           "id": 70000000,
@@ -2025,10 +2025,44 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 12060,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2009CGCUL",
+                "name": "Nobyen\u26a1"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2009CGCUL",
+                "name": "Nobyen\u26a1"
+              },
+              "destructionPercent": 95,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#2009CGCUL",
+                "name": "Nobyen\u26a1"
+              },
+              "destructionPercent": 60,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#2009CGCUL",
+                "name": "Nobyen\u26a1"
+              },
+              "destructionPercent": 43,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000002,
@@ -2131,11 +2165,27 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 95,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 10105,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 11831,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#2009CGCUL",
+                "name": "Nobyen\u26a1"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2009CGCUL",
+                "name": "Nobyen\u26a1"
+              },
+              "destructionPercent": 96,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#LRL82RQQV",
