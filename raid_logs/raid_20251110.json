@@ -2,9 +2,9 @@
   "state": "ongoing",
   "startTime": "20251107T070000.000Z",
   "endTime": "20251110T070000.000Z",
-  "capitalTotalLoot": 324343,
+  "capitalTotalLoot": 337163,
   "raidsCompleted": 5,
-  "totalAttacks": 78,
+  "totalAttacks": 80,
   "enemyDistrictsDestroyed": 28,
   "offensiveReward": 0,
   "defensiveReward": 0,
@@ -92,10 +92,10 @@
     {
       "tag": "#2R2JYRRU",
       "name": "taz",
-      "attacks": 4,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 25861
+      "capitalResourcesLooted": 38681
     },
     {
       "tag": "#GGYGQ8098",
@@ -1074,7 +1074,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/Ytsmu7ScbVUB8BE8XuHMQ4fmPkEK6ZOBixSf5-lsLrI.png"
         }
       },
-      "attackCount": 4,
+      "attackCount": 6,
       "districtCount": 9,
       "districtsDestroyed": 1,
       "districts": [
@@ -1146,10 +1146,20 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 69,
+          "stars": 1,
+          "attackCount": 1,
+          "totalLooted": 6630,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2R2JYRRU",
+                "name": "taz"
+              },
+              "destructionPercent": 69,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000005,
@@ -1183,10 +1193,20 @@
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 57,
+          "stars": 2,
+          "attackCount": 1,
+          "totalLooted": 6190,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2R2JYRRU",
+                "name": "taz"
+              },
+              "destructionPercent": 57,
+              "stars": 2
+            }
+          ]
         },
         {
           "id": 70000008,
