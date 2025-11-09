@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251107T070000.000Z",
   "endTime": "20251110T070000.000Z",
-  "capitalTotalLoot": 534194,
+  "capitalTotalLoot": 568522,
   "raidsCompleted": 9,
-  "totalAttacks": 128,
-  "enemyDistrictsDestroyed": 47,
+  "totalAttacks": 138,
+  "enemyDistrictsDestroyed": 52,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -58,6 +58,14 @@
       "capitalResourcesLooted": 25346
     },
     {
+      "tag": "#8VQYULVQQ",
+      "name": "Sir Chestnut\u2122\ufe0f",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 19686
+    },
+    {
       "tag": "#PL09LLPUY",
       "name": "Regis\u6881",
       "attacks": 6,
@@ -108,10 +116,10 @@
     {
       "tag": "#YQ8L9JVJ2",
       "name": "Sir Walnut\u2122\ufe0f",
-      "attacks": 2,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 7149
+      "capitalResourcesLooted": 21791
     },
     {
       "tag": "#L0UJQ0Y89",
@@ -1738,9 +1746,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/V1tCtoQb_54oapM2CGr0mLr89ZMVeBcvL13dJTvERxY.png"
         }
       },
-      "attackCount": 8,
+      "attackCount": 18,
       "districtCount": 9,
-      "districtsDestroyed": 2,
+      "districtsDestroyed": 7,
       "districts": [
         {
           "id": 70000000,
@@ -1755,19 +1763,63 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11052,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YQ8L9JVJ2",
+                "name": "Sir Walnut\u2122\ufe0f"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#YQ8L9JVJ2",
+                "name": "Sir Walnut\u2122\ufe0f"
+              },
+              "destructionPercent": 64,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 9410,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YQ8L9JVJ2",
+                "name": "Sir Walnut\u2122\ufe0f"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#8VQYULVQQ",
+                "name": "Sir Chestnut\u2122\ufe0f"
+              },
+              "destructionPercent": 98,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#8VQYULVQQ",
+                "name": "Sir Chestnut\u2122\ufe0f"
+              },
+              "destructionPercent": 43,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000003,
@@ -1800,11 +1852,27 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 4,
-          "destructionPercent": 39,
-          "stars": 1,
-          "attackCount": 1,
-          "totalLooted": 3440,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10123,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#8VQYULVQQ",
+                "name": "Sir Chestnut\u2122\ufe0f"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#8VQYULVQQ",
+                "name": "Sir Chestnut\u2122\ufe0f"
+              },
+              "destructionPercent": 84,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#9VU0VU90G",
@@ -1819,10 +1887,20 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 37,
+          "stars": 1,
+          "attackCount": 1,
+          "totalLooted": 2690,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#YQ8L9JVJ2",
+                "name": "Sir Walnut\u2122\ufe0f"
+              },
+              "destructionPercent": 37,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000006,
@@ -1855,11 +1933,19 @@
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 3,
-          "destructionPercent": 65,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 6580,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 9782,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#8VQYULVQQ",
+                "name": "Sir Chestnut\u2122\ufe0f"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#L0UJQ0Y89",
@@ -1882,11 +1968,19 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 2,
-          "destructionPercent": 88,
-          "stars": 2,
-          "attackCount": 1,
-          "totalLooted": 4985,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 6276,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#8VQYULVQQ",
+                "name": "Sir Chestnut\u2122\ufe0f"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#9VU0VU90G",
