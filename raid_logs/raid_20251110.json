@@ -2,9 +2,9 @@
   "state": "ongoing",
   "startTime": "20251107T070000.000Z",
   "endTime": "20251110T070000.000Z",
-  "capitalTotalLoot": 490851,
+  "capitalTotalLoot": 495311,
   "raidsCompleted": 7,
-  "totalAttacks": 117,
+  "totalAttacks": 119,
   "enemyDistrictsDestroyed": 44,
   "offensiveReward": 0,
   "defensiveReward": 0,
@@ -116,10 +116,10 @@
     {
       "tag": "#L0UJQ0Y89",
       "name": "doruk",
-      "attacks": 1,
+      "attacks": 3,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 3547
+      "capitalResourcesLooted": 8007
     },
     {
       "tag": "#L29JP8GLL",
@@ -1398,7 +1398,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/X_AonGuP0bHszHknRidEIzDmDcVb2hCnHjV-U5AJzRk.png"
         }
       },
-      "attackCount": 24,
+      "attackCount": 26,
       "districtCount": 9,
       "districtsDestroyed": 8,
       "districts": [
@@ -1406,11 +1406,27 @@
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 39,
-          "stars": 0,
-          "attackCount": 2,
-          "totalLooted": 4140,
+          "destructionPercent": 68,
+          "stars": 2,
+          "attackCount": 4,
+          "totalLooted": 8600,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#L0UJQ0Y89",
+                "name": "doruk"
+              },
+              "destructionPercent": 68,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#L0UJQ0Y89",
+                "name": "doruk"
+              },
+              "destructionPercent": 57,
+              "stars": 1
+            },
             {
               "attacker": {
                 "tag": "#QYCLC0JLL",
@@ -2696,6 +2712,192 @@
               },
               "destructionPercent": 46,
               "stars": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "attacker": {
+        "tag": "#8YG82JQQ",
+        "name": "BANGLADESH CAMP",
+        "level": 28,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/VRfG7PZkPDzBdV3tw9l4EkAdmQPYdywBkeC7lvgpHzI.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/VRfG7PZkPDzBdV3tw9l4EkAdmQPYdywBkeC7lvgpHzI.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/VRfG7PZkPDzBdV3tw9l4EkAdmQPYdywBkeC7lvgpHzI.png"
+        }
+      },
+      "attackCount": 10,
+      "districtCount": 9,
+      "districtsDestroyed": 3,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 10,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 5,
+          "destructionPercent": 45,
+          "stars": 1,
+          "attackCount": 1,
+          "totalLooted": 4505,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2UC0UCPVY",
+                "name": "hridoy"
+              },
+              "destructionPercent": 45,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11978,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2UC0UCPVY",
+                "name": "hridoy"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2UC0UCPVY",
+                "name": "hridoy"
+              },
+              "destructionPercent": 98,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#2UC0UCPVY",
+                "name": "hridoy"
+              },
+              "destructionPercent": 31,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 12110,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#9U98PR9UJ",
+                "name": "jahed"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#9U98PR9UJ",
+                "name": "jahed"
+              },
+              "destructionPercent": 90,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#9U98PR9UJ",
+                "name": "jahed"
+              },
+              "destructionPercent": 52,
+              "stars": 2
+            }
+          ]
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11856,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#9U98PR9UJ",
+                "name": "jahed"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#9U98PR9UJ",
+                "name": "jahed"
+              },
+              "destructionPercent": 78,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#9U98PR9UJ",
+                "name": "jahed"
+              },
+              "destructionPercent": 21,
+              "stars": 0
             }
           ]
         }
