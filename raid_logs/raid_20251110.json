@@ -2852,7 +2852,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/VRfG7PZkPDzBdV3tw9l4EkAdmQPYdywBkeC7lvgpHzI.png"
         }
       },
-      "attackCount": 13,
+      "attackCount": 14,
       "districtCount": 9,
       "districtsDestroyed": 3,
       "districts": [
@@ -2976,10 +2976,20 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 50,
+          "stars": 2,
+          "attackCount": 1,
+          "totalLooted": 6035,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#9PQJRCLUR",
+                "name": "Jam Kuddus(RK)"
+              },
+              "destructionPercent": 50,
+              "stars": 2
+            }
+          ]
         },
         {
           "id": 70000007,
