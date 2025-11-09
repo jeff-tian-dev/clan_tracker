@@ -2852,7 +2852,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/VRfG7PZkPDzBdV3tw9l4EkAdmQPYdywBkeC7lvgpHzI.png"
         }
       },
-      "attackCount": 10,
+      "attackCount": 13,
       "districtCount": 9,
       "districtsDestroyed": 3,
       "districts": [
@@ -2878,11 +2878,19 @@
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 45,
-          "stars": 1,
-          "attackCount": 1,
-          "totalLooted": 4505,
+          "destructionPercent": 95,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 9570,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#8PQPCCRGQ",
+                "name": "Night Fury"
+              },
+              "destructionPercent": 95,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#2UC0UCPVY",
@@ -2897,10 +2905,28 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 87,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 9315,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#8PQPCCRGQ",
+                "name": "Night Fury"
+              },
+              "destructionPercent": 87,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#8PQPCCRGQ",
+                "name": "Night Fury"
+              },
+              "destructionPercent": 38,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000004,
