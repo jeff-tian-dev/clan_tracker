@@ -3,7 +3,7 @@
   "startTime": "20251107T070000.000Z",
   "endTime": "20251110T070000.000Z",
   "capitalTotalLoot": 506832,
-  "raidsCompleted": 8,
+  "raidsCompleted": 9,
   "totalAttacks": 122,
   "enemyDistrictsDestroyed": 45,
   "offensiveReward": 0,
@@ -144,6 +144,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 18918
+    },
+    {
+      "tag": "#9VU0VU90G",
+      "name": "Edison123",
+      "attacks": 0,
+      "attackLimit": 5,
+      "bonusAttackLimit": 0,
+      "capitalResourcesLooted": 0
     },
     {
       "tag": "#2R2JYRRU",
@@ -2852,37 +2860,97 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/VRfG7PZkPDzBdV3tw9l4EkAdmQPYdywBkeC7lvgpHzI.png"
         }
       },
-      "attackCount": 17,
+      "attackCount": 25,
       "districtCount": 9,
-      "districtsDestroyed": 5,
+      "districtsDestroyed": 9,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 13457,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2PGVV08CR",
+                "name": "Sumon mia"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2PGVV08CR",
+                "name": "Sumon mia"
+              },
+              "destructionPercent": 76,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#2PGVV08CR",
+                "name": "Sumon mia"
+              },
+              "destructionPercent": 47,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11553,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2PGVV08CR",
+                "name": "Sumon mia"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#9PQJRCLUR",
+                "name": "Jam Kuddus(RK)"
+              },
+              "destructionPercent": 52,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#9PQJRCLUR",
+                "name": "Jam Kuddus(RK)"
+              },
+              "destructionPercent": 25,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 95,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 9570,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10829,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#2PGVV08CR",
+                "name": "Sumon mia"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#8PQPCCRGQ",
@@ -2905,11 +2973,19 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 87,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 9315,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11706,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#2PGVV08CR",
+                "name": "Sumon mia"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#8PQPCCRGQ",
