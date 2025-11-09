@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251107T070000.000Z",
   "endTime": "20251110T070000.000Z",
-  "capitalTotalLoot": 506832,
+  "capitalTotalLoot": 534194,
   "raidsCompleted": 9,
-  "totalAttacks": 122,
-  "enemyDistrictsDestroyed": 45,
+  "totalAttacks": 128,
+  "enemyDistrictsDestroyed": 47,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -148,10 +148,10 @@
     {
       "tag": "#9VU0VU90G",
       "name": "Edison123",
-      "attacks": 0,
+      "attacks": 6,
       "attackLimit": 5,
-      "bonusAttackLimit": 0,
-      "capitalResourcesLooted": 0
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 27362
     },
     {
       "tag": "#2R2JYRRU",
@@ -1738,9 +1738,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/V1tCtoQb_54oapM2CGr0mLr89ZMVeBcvL13dJTvERxY.png"
         }
       },
-      "attackCount": 2,
+      "attackCount": 8,
       "districtCount": 9,
-      "districtsDestroyed": 0,
+      "districtsDestroyed": 2,
       "districts": [
         {
           "id": 70000000,
@@ -1773,19 +1773,47 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9467,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#9VU0VU90G",
+                "name": "Edison123"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#9VU0VU90G",
+                "name": "Edison123"
+              },
+              "destructionPercent": 50,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 39,
+          "stars": 1,
+          "attackCount": 1,
+          "totalLooted": 3440,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#9VU0VU90G",
+                "name": "Edison123"
+              },
+              "destructionPercent": 39,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000005,
@@ -1800,10 +1828,28 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9470,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#9VU0VU90G",
+                "name": "Edison123"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#9VU0VU90G",
+                "name": "Edison123"
+              },
+              "destructionPercent": 56,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000007,
@@ -1836,10 +1882,20 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 2,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 88,
+          "stars": 2,
+          "attackCount": 1,
+          "totalLooted": 4985,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#9VU0VU90G",
+                "name": "Edison123"
+              },
+              "destructionPercent": 88,
+              "stars": 2
+            }
+          ]
         }
       ]
     }
