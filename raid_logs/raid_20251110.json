@@ -2852,9 +2852,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/VRfG7PZkPDzBdV3tw9l4EkAdmQPYdywBkeC7lvgpHzI.png"
         }
       },
-      "attackCount": 14,
+      "attackCount": 17,
       "districtCount": 9,
-      "districtsDestroyed": 3,
+      "districtsDestroyed": 5,
       "districts": [
         {
           "id": 70000000,
@@ -2932,10 +2932,28 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11651,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#V2GRQR89",
+                "name": "G S Rony"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#V2GRQR89",
+                "name": "G S Rony"
+              },
+              "destructionPercent": 46,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000005,
@@ -2976,11 +2994,19 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 50,
-          "stars": 2,
-          "attackCount": 1,
-          "totalLooted": 6035,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11625,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#89V8LY0JY",
+                "name": "Hasan ||"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#9PQJRCLUR",
