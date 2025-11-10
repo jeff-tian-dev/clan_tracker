@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251107T070000.000Z",
   "endTime": "20251110T070000.000Z",
-  "capitalTotalLoot": 609276,
+  "capitalTotalLoot": 617884,
   "raidsCompleted": 10,
-  "totalAttacks": 147,
-  "enemyDistrictsDestroyed": 55,
+  "totalAttacks": 149,
+  "enemyDistrictsDestroyed": 57,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -156,10 +156,10 @@
     {
       "tag": "#QRP2RLV02",
       "name": "JT",
-      "attacks": 3,
+      "attacks": 5,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 16065
+      "capitalResourcesLooted": 24673
     },
     {
       "tag": "#G28CVVRJL",
@@ -2062,9 +2062,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/vW5ctfxegJieZkVKN9wF0ifOBUagW1kMz7LJwdFMGbs.png"
         }
       },
-      "attackCount": 4,
+      "attackCount": 6,
       "districtCount": 9,
-      "districtsDestroyed": 1,
+      "districtsDestroyed": 3,
       "districts": [
         {
           "id": 70000000,
@@ -2115,11 +2115,19 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 68,
-          "stars": 2,
-          "attackCount": 1,
-          "totalLooted": 6845,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10313,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#QRP2RLV02",
+                "name": "JT"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#L20CLJRGU",
@@ -2134,11 +2142,19 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 50,
-          "stars": 2,
-          "attackCount": 1,
-          "totalLooted": 5000,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10140,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#QRP2RLV02",
+                "name": "JT"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#QRP2RLV02",
