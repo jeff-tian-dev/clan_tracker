@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251107T070000.000Z",
   "endTime": "20251110T070000.000Z",
-  "capitalTotalLoot": 568522,
-  "raidsCompleted": 9,
-  "totalAttacks": 138,
-  "enemyDistrictsDestroyed": 52,
+  "capitalTotalLoot": 593211,
+  "raidsCompleted": 10,
+  "totalAttacks": 144,
+  "enemyDistrictsDestroyed": 54,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -80,6 +80,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 19614
+    },
+    {
+      "tag": "#L20CLJRGU",
+      "name": "Nick",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 24689
     },
     {
       "tag": "#Y8GQ89UGJ",
@@ -1746,18 +1754,52 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/V1tCtoQb_54oapM2CGr0mLr89ZMVeBcvL13dJTvERxY.png"
         }
       },
-      "attackCount": 18,
+      "attackCount": 23,
       "districtCount": 9,
-      "districtsDestroyed": 7,
+      "districtsDestroyed": 9,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 9,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 12175,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#L20CLJRGU",
+                "name": "Nick"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#L20CLJRGU",
+                "name": "Nick"
+              },
+              "destructionPercent": 61,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#L20CLJRGU",
+                "name": "Nick"
+              },
+              "destructionPercent": 54,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#L20CLJRGU",
+                "name": "Nick"
+              },
+              "destructionPercent": 23,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
@@ -1887,11 +1929,19 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 4,
-          "destructionPercent": 37,
-          "stars": 1,
-          "attackCount": 1,
-          "totalLooted": 2690,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 8359,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#L20CLJRGU",
+                "name": "Nick"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#YQ8L9JVJ2",
@@ -1990,6 +2040,114 @@
               "stars": 2
             }
           ]
+        }
+      ]
+    },
+    {
+      "defender": {
+        "tag": "#29RL8PG8L",
+        "name": "H\u00f8UnDs~CasTle",
+        "level": 21,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/vW5ctfxegJieZkVKN9wF0ifOBUagW1kMz7LJwdFMGbs.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/vW5ctfxegJieZkVKN9wF0ifOBUagW1kMz7LJwdFMGbs.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/vW5ctfxegJieZkVKN9wF0ifOBUagW1kMz7LJwdFMGbs.png"
+        }
+      },
+      "attackCount": 1,
+      "districtCount": 9,
+      "districtsDestroyed": 0,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 10,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 5,
+          "destructionPercent": 68,
+          "stars": 2,
+          "attackCount": 1,
+          "totalLooted": 6845,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#L20CLJRGU",
+                "name": "Nick"
+              },
+              "destructionPercent": 68,
+              "stars": 2
+            }
+          ]
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 5,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 4,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 4,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
         }
       ]
     }
