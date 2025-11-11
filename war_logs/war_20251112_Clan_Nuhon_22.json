@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/MemvfcNsCKAIJd01S-vNV8_nVwYBGkQOTRp3HgJs0QU.png"
     },
     "clanLevel": 11,
-    "attacks": 13,
-    "stars": 35,
-    "destructionPercentage": 59.25,
+    "attacks": 15,
+    "stars": 41,
+    "destructionPercentage": 69.25,
     "members": [
       {
         "tag": "#QYL88U9P0",
@@ -63,6 +63,24 @@
         "name": "je suis excit\u00e9",
         "townhallLevel": 17,
         "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#Q9QU8L8YV",
+            "defenderTag": "#9QGLJJJC",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 21,
+            "duration": 134
+          },
+          {
+            "attackerTag": "#Q9QU8L8YV",
+            "defenderTag": "#YU8LRLVGL",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 22,
+            "duration": 119
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#G8CUYG8G9",
@@ -424,14 +442,30 @@
             "duration": 135
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q9QU8L8YV",
+          "defenderTag": "#YU8LRLVGL",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 22,
+          "duration": 119
+        }
       },
       {
         "tag": "#9QGLJJJC",
         "name": "Hilmy",
         "townhallLevel": 16,
         "mapPosition": 11,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q9QU8L8YV",
+          "defenderTag": "#9QGLJJJC",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 21,
+          "duration": 134
+        }
       },
       {
         "tag": "#LUQQY8VR8",
