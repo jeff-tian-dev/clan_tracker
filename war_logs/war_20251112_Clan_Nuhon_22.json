@@ -1,5 +1,5 @@
 {
-  "state": "preparation",
+  "state": "inWar",
   "teamSize": 20,
   "attacksPerMember": 2,
   "battleModifier": "none",
@@ -108,7 +108,15 @@
         "name": "JT",
         "townhallLevel": 15,
         "mapPosition": 19,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GRCYJQLLL",
+          "defenderTag": "#QRP2RLV02",
+          "stars": 2,
+          "destructionPercentage": 61,
+          "order": 1,
+          "duration": 131
+        }
       },
       {
         "tag": "#G28CVVRJL",
@@ -170,9 +178,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/DJfwpk5_5EjZGQimPMHX7GiGZ57XRWUUN46WsmDOiwI.png"
     },
     "clanLevel": 20,
-    "attacks": 0,
-    "stars": 0,
-    "destructionPercentage": 0.0,
+    "attacks": 1,
+    "stars": 2,
+    "destructionPercentage": 3.05,
     "members": [
       {
         "tag": "#8G00QPL2J",
@@ -263,6 +271,16 @@
         "name": "ayammm",
         "townhallLevel": 15,
         "mapPosition": 19,
+        "attacks": [
+          {
+            "attackerTag": "#GRCYJQLLL",
+            "defenderTag": "#QRP2RLV02",
+            "stars": 2,
+            "destructionPercentage": 61,
+            "order": 1,
+            "duration": 131
+          }
+        ],
         "opponentAttacks": 0
       },
       {
