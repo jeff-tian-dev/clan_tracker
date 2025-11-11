@@ -45,7 +45,15 @@
         "name": "je suis excit\u00e9",
         "townhallLevel": 17,
         "mapPosition": 9,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#G8CUYG8G9",
+          "defenderTag": "#Q9QU8L8YV",
+          "stars": 2,
+          "destructionPercentage": 82,
+          "order": 4,
+          "duration": 140
+        }
       },
       {
         "tag": "#8VQYULVQQ",
@@ -87,7 +95,15 @@
         "name": "\u24c2\ufe0fBIG COCHY3\u24c2\ufe0f",
         "townhallLevel": 16,
         "mapPosition": 10,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YVPQQJCJQ",
+          "defenderTag": "#9U2YP0RY",
+          "stars": 2,
+          "destructionPercentage": 75,
+          "order": 2,
+          "duration": 89
+        }
       },
       {
         "tag": "#2CQLC28UP",
@@ -158,7 +174,15 @@
         "name": "siwi2isuus2",
         "townhallLevel": 16,
         "mapPosition": 14,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#G8CUYG8G9",
+          "defenderTag": "#LGGLYVUPP",
+          "stars": 2,
+          "destructionPercentage": 88,
+          "order": 3,
+          "duration": 162
+        }
       },
       {
         "tag": "#Y2PVPPU8C",
@@ -178,9 +202,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/DJfwpk5_5EjZGQimPMHX7GiGZ57XRWUUN46WsmDOiwI.png"
     },
     "clanLevel": 20,
-    "attacks": 1,
-    "stars": 2,
-    "destructionPercentage": 3.05,
+    "attacks": 4,
+    "stars": 8,
+    "destructionPercentage": 15.3,
     "members": [
       {
         "tag": "#8G00QPL2J",
@@ -288,6 +312,16 @@
         "name": "Happy Gamer's",
         "townhallLevel": 16,
         "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#YVPQQJCJQ",
+            "defenderTag": "#9U2YP0RY",
+            "stars": 2,
+            "destructionPercentage": 75,
+            "order": 2,
+            "duration": 89
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -309,6 +343,24 @@
         "name": "delion",
         "townhallLevel": 16,
         "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#G8CUYG8G9",
+            "defenderTag": "#LGGLYVUPP",
+            "stars": 2,
+            "destructionPercentage": 88,
+            "order": 3,
+            "duration": 162
+          },
+          {
+            "attackerTag": "#G8CUYG8G9",
+            "defenderTag": "#Q9QU8L8YV",
+            "stars": 2,
+            "destructionPercentage": 82,
+            "order": 4,
+            "duration": 140
+          }
+        ],
         "opponentAttacks": 0
       },
       {
