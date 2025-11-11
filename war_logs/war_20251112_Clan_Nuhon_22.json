@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/MemvfcNsCKAIJd01S-vNV8_nVwYBGkQOTRp3HgJs0QU.png"
     },
     "clanLevel": 11,
-    "attacks": 2,
-    "stars": 6,
-    "destructionPercentage": 10.0,
+    "attacks": 4,
+    "stars": 11,
+    "destructionPercentage": 19.25,
     "members": [
       {
         "tag": "#QYL88U9P0",
@@ -67,6 +67,24 @@
         "name": "cyan",
         "townhallLevel": 15,
         "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#Q2QQL2YVV",
+            "defenderTag": "#QURVLU0Q0",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 7,
+            "duration": 161
+          },
+          {
+            "attackerTag": "#Q2QQL2YVV",
+            "defenderTag": "#G8CUYG8G9",
+            "stars": 2,
+            "destructionPercentage": 85,
+            "order": 8,
+            "duration": 180
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -236,7 +254,15 @@
         "name": "X 4LAN RAWERR",
         "townhallLevel": 15,
         "mapPosition": 18,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q2QQL2YVV",
+          "defenderTag": "#QURVLU0Q0",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 7,
+          "duration": 161
+        }
       },
       {
         "tag": "#8LV2J8UCJ",
@@ -395,7 +421,15 @@
             "duration": 140
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q2QQL2YVV",
+          "defenderTag": "#G8CUYG8G9",
+          "stars": 2,
+          "destructionPercentage": 85,
+          "order": 8,
+          "duration": 180
+        }
       },
       {
         "tag": "#8JJJ228VQ",
