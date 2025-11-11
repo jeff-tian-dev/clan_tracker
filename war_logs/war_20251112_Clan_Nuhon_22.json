@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/MemvfcNsCKAIJd01S-vNV8_nVwYBGkQOTRp3HgJs0QU.png"
     },
     "clanLevel": 11,
-    "attacks": 0,
-    "stars": 0,
-    "destructionPercentage": 0.0,
+    "attacks": 2,
+    "stars": 6,
+    "destructionPercentage": 10.0,
     "members": [
       {
         "tag": "#QYL88U9P0",
@@ -110,6 +110,24 @@
         "name": "gun",
         "townhallLevel": 16,
         "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#2CQLC28UP",
+            "defenderTag": "#QJYJLVG9L",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 5,
+            "duration": 121
+          },
+          {
+            "attackerTag": "#2CQLC28UP",
+            "defenderTag": "#LUQQY8VR8",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 6,
+            "duration": 127
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -232,7 +250,15 @@
         "name": "PRASTA",
         "townhallLevel": 16,
         "mapPosition": 13,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2CQLC28UP",
+          "defenderTag": "#QJYJLVG9L",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 5,
+          "duration": 121
+        }
       },
       {
         "tag": "#PG9UC888L",
@@ -260,7 +286,15 @@
         "name": "bergen",
         "townhallLevel": 16,
         "mapPosition": 12,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2CQLC28UP",
+          "defenderTag": "#LUQQY8VR8",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 6,
+          "duration": 127
+        }
       },
       {
         "tag": "#PQUJLVJR8",
