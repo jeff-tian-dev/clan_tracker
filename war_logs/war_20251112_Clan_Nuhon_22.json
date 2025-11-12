@@ -34,7 +34,15 @@
             "duration": 86
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QJYJLVG9L",
+          "defenderTag": "#QYL88U9P0",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 50,
+          "duration": 131
+        }
       },
       {
         "tag": "#UJP2UYRY",
@@ -231,7 +239,7 @@
         "name": "jerwenzke1",
         "townhallLevel": 17,
         "mapPosition": 8,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#YU8LRLVGL",
           "defenderTag": "#Y80PLCRQ9",
@@ -312,7 +320,15 @@
             "duration": 127
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QJYJLVG9L",
+          "defenderTag": "#2CQLC28UP",
+          "stars": 2,
+          "destructionPercentage": 95,
+          "order": 49,
+          "duration": 125
+        }
       },
       {
         "tag": "#YQ8L9JVJ2",
@@ -493,7 +509,15 @@
             "duration": 162
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 2,
+        "bestOpponentAttack": {
+          "attackerTag": "#QURVLU0Q0",
+          "defenderTag": "#G9CC9G2VQ",
+          "stars": 2,
+          "destructionPercentage": 61,
+          "order": 52,
+          "duration": 154
+        }
       },
       {
         "tag": "#LGGLYVUPP",
@@ -546,9 +570,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/DJfwpk5_5EjZGQimPMHX7GiGZ57XRWUUN46WsmDOiwI.png"
     },
     "clanLevel": 20,
-    "attacks": 16,
-    "stars": 32,
-    "destructionPercentage": 54.3,
+    "attacks": 21,
+    "stars": 39,
+    "destructionPercentage": 67.1,
     "members": [
       {
         "tag": "#8G00QPL2J",
@@ -570,6 +594,16 @@
         "name": "X 4LAN RAWERR",
         "townhallLevel": 15,
         "mapPosition": 18,
+        "attacks": [
+          {
+            "attackerTag": "#QURVLU0Q0",
+            "defenderTag": "#G9CC9G2VQ",
+            "stars": 2,
+            "destructionPercentage": 61,
+            "order": 52,
+            "duration": 154
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#Q2QQL2YVV",
@@ -618,6 +652,24 @@
         "name": "PRASTA",
         "townhallLevel": 16,
         "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#QJYJLVG9L",
+            "defenderTag": "#2CQLC28UP",
+            "stars": 2,
+            "destructionPercentage": 95,
+            "order": 49,
+            "duration": 125
+          },
+          {
+            "attackerTag": "#QJYJLVG9L",
+            "defenderTag": "#QYL88U9P0",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 50,
+            "duration": 131
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#2CQLC28UP",
@@ -747,6 +799,16 @@
         "name": "payah",
         "townhallLevel": 17,
         "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#PQUJLVJR8",
+            "defenderTag": "#Y80PLCRQ9",
+            "stars": 2,
+            "destructionPercentage": 60,
+            "order": 51,
+            "duration": 106
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#YQ8L9JVJ2",
@@ -833,6 +895,14 @@
             "destructionPercentage": 61,
             "order": 1,
             "duration": 131
+          },
+          {
+            "attackerTag": "#GRCYJQLLL",
+            "defenderTag": "#G9CC9G2VQ",
+            "stars": 1,
+            "destructionPercentage": 61,
+            "order": 48,
+            "duration": 104
           }
         ],
         "opponentAttacks": 1,
