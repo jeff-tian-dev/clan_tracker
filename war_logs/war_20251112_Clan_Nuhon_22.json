@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/MemvfcNsCKAIJd01S-vNV8_nVwYBGkQOTRp3HgJs0QU.png"
     },
     "clanLevel": 11,
-    "attacks": 22,
-    "stars": 53,
-    "destructionPercentage": 91.2,
+    "attacks": 29,
+    "stars": 58,
+    "destructionPercentage": 98.3,
     "members": [
       {
         "tag": "#QYL88U9P0",
@@ -41,6 +41,24 @@
         "name": "destroyer",
         "townhallLevel": 17,
         "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#UJP2UYRY",
+            "defenderTag": "#YRPPV8CCV",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 40,
+            "duration": 142
+          },
+          {
+            "attackerTag": "#UJP2UYRY",
+            "defenderTag": "#G8CUYG8G9",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 41,
+            "duration": 121
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#8LV2J8UCJ",
@@ -122,6 +140,24 @@
         "name": "Sir Chestnut\u2122\ufe0f",
         "townhallLevel": 16,
         "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#8VQYULVQQ",
+            "defenderTag": "#P0QR209LP",
+            "stars": 2,
+            "destructionPercentage": 81,
+            "order": 42,
+            "duration": 123
+          },
+          {
+            "attackerTag": "#8VQYULVQQ",
+            "defenderTag": "#LP9UCRL8G",
+            "stars": 2,
+            "destructionPercentage": 85,
+            "order": 43,
+            "duration": 121
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -170,6 +206,14 @@
             "destructionPercentage": 90,
             "order": 37,
             "duration": 180
+          },
+          {
+            "attackerTag": "#L20CLJRGU",
+            "defenderTag": "#8LV2J8UCJ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 38,
+            "duration": 163
           }
         ],
         "opponentAttacks": 1,
@@ -308,6 +352,24 @@
         "name": "JT",
         "townhallLevel": 15,
         "mapPosition": 19,
+        "attacks": [
+          {
+            "attackerTag": "#QRP2RLV02",
+            "defenderTag": "#8G00QPL2J",
+            "stars": 1,
+            "destructionPercentage": 21,
+            "order": 39,
+            "duration": 28
+          },
+          {
+            "attackerTag": "#QRP2RLV02",
+            "defenderTag": "#2GYJ2CRQC",
+            "stars": 1,
+            "destructionPercentage": 22,
+            "order": 44,
+            "duration": 30
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#GRCYJQLLL",
@@ -475,7 +537,7 @@
         "name": "A\u0274\u0262\u0262\u1d00 No.1",
         "townhallLevel": 17,
         "mapPosition": 1,
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
           "attackerTag": "#G28CVVRJL",
           "defenderTag": "#8G00QPL2J",
@@ -523,7 +585,15 @@
             "duration": 81
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#L20CLJRGU",
+          "defenderTag": "#8LV2J8UCJ",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 38,
+          "duration": 163
+        }
       },
       {
         "tag": "#QJYJLVG9L",
@@ -684,14 +754,14 @@
             "duration": 109
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#G9CC9G2VQ",
+          "attackerTag": "#8VQYULVQQ",
           "defenderTag": "#LP9UCRL8G",
           "stars": 2,
-          "destructionPercentage": 71,
-          "order": 23,
-          "duration": 140
+          "destructionPercentage": 85,
+          "order": 43,
+          "duration": 121
         }
       },
       {
@@ -794,7 +864,7 @@
         "name": "fresco",
         "townhallLevel": 17,
         "mapPosition": 2,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#G28CVVRJL",
           "defenderTag": "#2GYJ2CRQC",
@@ -827,14 +897,14 @@
             "duration": 140
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#Q2QQL2YVV",
+          "attackerTag": "#UJP2UYRY",
           "defenderTag": "#G8CUYG8G9",
-          "stars": 2,
-          "destructionPercentage": 85,
-          "order": 8,
-          "duration": 180
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 41,
+          "duration": 121
         }
       },
       {
@@ -875,14 +945,14 @@
             "duration": 90
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#L20CLJRGU",
+          "attackerTag": "#UJP2UYRY",
           "defenderTag": "#YRPPV8CCV",
-          "stars": 2,
-          "destructionPercentage": 90,
-          "order": 37,
-          "duration": 180
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 40,
+          "duration": 142
         }
       },
       {
@@ -890,14 +960,14 @@
         "name": "anggathedoctor3",
         "townhallLevel": 15,
         "mapPosition": 15,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#G9CC9G2VQ",
+          "attackerTag": "#8VQYULVQQ",
           "defenderTag": "#P0QR209LP",
           "stars": 2,
-          "destructionPercentage": 78,
-          "order": 27,
-          "duration": 162
+          "destructionPercentage": 81,
+          "order": 42,
+          "duration": 123
         }
       }
     ]
