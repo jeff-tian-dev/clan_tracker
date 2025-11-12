@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/MemvfcNsCKAIJd01S-vNV8_nVwYBGkQOTRp3HgJs0QU.png"
     },
     "clanLevel": 11,
-    "attacks": 15,
-    "stars": 41,
-    "destructionPercentage": 69.25,
+    "attacks": 17,
+    "stars": 46,
+    "destructionPercentage": 77.8,
     "members": [
       {
         "tag": "#QYL88U9P0",
@@ -165,6 +165,14 @@
             "destructionPercentage": 100,
             "order": 18,
             "duration": 80
+          },
+          {
+            "attackerTag": "#9U2YP0RY",
+            "defenderTag": "#PG9UC888L",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 24,
+            "duration": 104
           }
         ],
         "opponentAttacks": 2,
@@ -311,6 +319,16 @@
         "name": "Grizz",
         "townhallLevel": 15,
         "mapPosition": 18,
+        "attacks": [
+          {
+            "attackerTag": "#G9CC9G2VQ",
+            "defenderTag": "#LP9UCRL8G",
+            "stars": 2,
+            "destructionPercentage": 71,
+            "order": 23,
+            "duration": 140
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -417,7 +435,15 @@
             "duration": 163
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#9U2YP0RY",
+          "defenderTag": "#PG9UC888L",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 24,
+          "duration": 104
+        }
       },
       {
         "tag": "#YU8LRLVGL",
@@ -502,7 +528,15 @@
         "name": "The king",
         "townhallLevel": 16,
         "mapPosition": 16,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#G9CC9G2VQ",
+          "defenderTag": "#LP9UCRL8G",
+          "stars": 2,
+          "destructionPercentage": 71,
+          "order": 23,
+          "duration": 140
+        }
       },
       {
         "tag": "#8R0YUJJVY",
