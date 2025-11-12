@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/MemvfcNsCKAIJd01S-vNV8_nVwYBGkQOTRp3HgJs0QU.png"
     },
     "clanLevel": 11,
-    "attacks": 17,
-    "stars": 46,
-    "destructionPercentage": 77.8,
+    "attacks": 18,
+    "stars": 48,
+    "destructionPercentage": 81.7,
     "members": [
       {
         "tag": "#QYL88U9P0",
@@ -56,7 +56,15 @@
             "duration": 134
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LUQQY8VR8",
+          "defenderTag": "#GLU9LC2LG",
+          "stars": 2,
+          "destructionPercentage": 99,
+          "order": 25,
+          "duration": 180
+        }
       },
       {
         "tag": "#Q9QU8L8YV",
@@ -327,6 +335,14 @@
             "destructionPercentage": 71,
             "order": 23,
             "duration": 140
+          },
+          {
+            "attackerTag": "#G9CC9G2VQ",
+            "defenderTag": "#P0QR209LP",
+            "stars": 2,
+            "destructionPercentage": 78,
+            "order": 27,
+            "duration": 162
           }
         ],
         "opponentAttacks": 0
@@ -336,14 +352,14 @@
         "name": "siwi2isuus2",
         "townhallLevel": 16,
         "mapPosition": 14,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#G8CUYG8G9",
+          "attackerTag": "#LUQQY8VR8",
           "defenderTag": "#LGGLYVUPP",
-          "stars": 2,
-          "destructionPercentage": 88,
-          "order": 3,
-          "duration": 162
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 26,
+          "duration": 124
         }
       },
       {
@@ -364,9 +380,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/DJfwpk5_5EjZGQimPMHX7GiGZ57XRWUUN46WsmDOiwI.png"
     },
     "clanLevel": 20,
-    "attacks": 7,
-    "stars": 10,
-    "destructionPercentage": 18.7,
+    "attacks": 9,
+    "stars": 13,
+    "destructionPercentage": 24.25,
     "members": [
       {
         "tag": "#8G00QPL2J",
@@ -498,6 +514,24 @@
         "name": "bergen",
         "townhallLevel": 16,
         "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#LUQQY8VR8",
+            "defenderTag": "#GLU9LC2LG",
+            "stars": 2,
+            "destructionPercentage": 99,
+            "order": 25,
+            "duration": 180
+          },
+          {
+            "attackerTag": "#LUQQY8VR8",
+            "defenderTag": "#LGGLYVUPP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 26,
+            "duration": 124
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#2CQLC28UP",
@@ -700,7 +734,15 @@
         "name": "anggathedoctor3",
         "townhallLevel": 15,
         "mapPosition": 15,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#G9CC9G2VQ",
+          "defenderTag": "#P0QR209LP",
+          "stars": 2,
+          "destructionPercentage": 78,
+          "order": 27,
+          "duration": 162
+        }
       }
     ]
   }
