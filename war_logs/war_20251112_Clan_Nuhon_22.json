@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/MemvfcNsCKAIJd01S-vNV8_nVwYBGkQOTRp3HgJs0QU.png"
     },
     "clanLevel": 11,
-    "attacks": 18,
-    "stars": 48,
-    "destructionPercentage": 81.7,
+    "attacks": 20,
+    "stars": 51,
+    "destructionPercentage": 86.7,
     "members": [
       {
         "tag": "#QYL88U9P0",
@@ -320,6 +320,24 @@
         "name": "Aurelian",
         "townhallLevel": 13,
         "mapPosition": 20,
+        "attacks": [
+          {
+            "attackerTag": "#GGYGQ8098",
+            "defenderTag": "#QJUVL9RQC",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 28,
+            "duration": 124
+          },
+          {
+            "attackerTag": "#GGYGQ8098",
+            "defenderTag": "#8G00QPL2J",
+            "stars": 1,
+            "destructionPercentage": 13,
+            "order": 29,
+            "duration": 23
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -389,7 +407,7 @@
         "name": "A\u0274\u0262\u0262\u1d00 No.1",
         "townhallLevel": 17,
         "mapPosition": 1,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#G28CVVRJL",
           "defenderTag": "#8G00QPL2J",
@@ -592,7 +610,15 @@
         "name": "zull_57",
         "townhallLevel": 12,
         "mapPosition": 20,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GGYGQ8098",
+          "defenderTag": "#QJUVL9RQC",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 28,
+          "duration": 124
+        }
       },
       {
         "tag": "#GRCYJQLLL",
