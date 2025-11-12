@@ -15,7 +15,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/MemvfcNsCKAIJd01S-vNV8_nVwYBGkQOTRp3HgJs0QU.png"
     },
     "clanLevel": 11,
-    "attacks": 29,
+    "attacks": 31,
     "stars": 58,
     "destructionPercentage": 98.3,
     "members": [
@@ -92,14 +92,14 @@
             "duration": 134
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#LUQQY8VR8",
+          "attackerTag": "#PG9UC888L",
           "defenderTag": "#GLU9LC2LG",
-          "stars": 2,
-          "destructionPercentage": 99,
-          "order": 25,
-          "duration": 180
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 47,
+          "duration": 126
         }
       },
       {
@@ -500,6 +500,24 @@
         "name": "siwi2isuus2",
         "townhallLevel": 16,
         "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#LGGLYVUPP",
+            "defenderTag": "#LP9UCRL8G",
+            "stars": 2,
+            "destructionPercentage": 81,
+            "order": 45,
+            "duration": 88
+          },
+          {
+            "attackerTag": "#LGGLYVUPP",
+            "defenderTag": "#P0QR209LP",
+            "stars": 2,
+            "destructionPercentage": 81,
+            "order": 46,
+            "duration": 112
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#LUQQY8VR8",
@@ -528,9 +546,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/DJfwpk5_5EjZGQimPMHX7GiGZ57XRWUUN46WsmDOiwI.png"
     },
     "clanLevel": 20,
-    "attacks": 15,
-    "stars": 31,
-    "destructionPercentage": 54.25,
+    "attacks": 16,
+    "stars": 32,
+    "destructionPercentage": 54.3,
     "members": [
       {
         "tag": "#8G00QPL2J",
@@ -623,6 +641,14 @@
             "destructionPercentage": 66,
             "order": 11,
             "duration": 163
+          },
+          {
+            "attackerTag": "#PG9UC888L",
+            "defenderTag": "#GLU9LC2LG",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 47,
+            "duration": 126
           }
         ],
         "opponentAttacks": 1,
@@ -754,7 +780,7 @@
             "duration": 109
           }
         ],
-        "opponentAttacks": 3,
+        "opponentAttacks": 4,
         "bestOpponentAttack": {
           "attackerTag": "#8VQYULVQQ",
           "defenderTag": "#LP9UCRL8G",
@@ -960,7 +986,7 @@
         "name": "anggathedoctor3",
         "townhallLevel": 15,
         "mapPosition": 15,
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
           "attackerTag": "#8VQYULVQQ",
           "defenderTag": "#P0QR209LP",
