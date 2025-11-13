@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/MemvfcNsCKAIJd01S-vNV8_nVwYBGkQOTRp3HgJs0QU.png"
     },
     "clanLevel": 11,
-    "attacks": 6,
-    "stars": 12,
-    "destructionPercentage": 27.0,
+    "attacks": 7,
+    "stars": 13,
+    "destructionPercentage": 30.95,
     "members": [
       {
         "tag": "#UJP2UYRY",
@@ -197,6 +197,16 @@
         "name": "doruk",
         "townhallLevel": 17,
         "mapPosition": 5,
+        "attacks": [
+          {
+            "attackerTag": "#L0UJQ0Y89",
+            "defenderTag": "#9RQGPCLL9",
+            "stars": 1,
+            "destructionPercentage": 79,
+            "order": 24,
+            "duration": 145
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#QV98Y29VV",
@@ -624,7 +634,15 @@
         "name": "ALEXANDER",
         "townhallLevel": 16,
         "mapPosition": 10,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#L0UJQ0Y89",
+          "defenderTag": "#9RQGPCLL9",
+          "stars": 1,
+          "destructionPercentage": 79,
+          "order": 24,
+          "duration": 145
+        }
       },
       {
         "tag": "#QUV2YGCVL",
