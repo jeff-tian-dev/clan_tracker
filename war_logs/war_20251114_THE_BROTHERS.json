@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/MemvfcNsCKAIJd01S-vNV8_nVwYBGkQOTRp3HgJs0QU.png"
     },
     "clanLevel": 11,
-    "attacks": 17,
-    "stars": 36,
-    "destructionPercentage": 67.6,
+    "attacks": 22,
+    "stars": 43,
+    "destructionPercentage": 81.2,
     "members": [
       {
         "tag": "#UJP2UYRY",
@@ -113,6 +113,14 @@
             "destructionPercentage": 100,
             "order": 34,
             "duration": 178
+          },
+          {
+            "attackerTag": "#8VQYULVQQ",
+            "defenderTag": "#QUV2YGCVL",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 35,
+            "duration": 155
           }
         ],
         "opponentAttacks": 2,
@@ -276,6 +284,14 @@
             "destructionPercentage": 100,
             "order": 31,
             "duration": 126
+          },
+          {
+            "attackerTag": "#J88YJGY9",
+            "defenderTag": "#GLUG2UYUR",
+            "stars": 2,
+            "destructionPercentage": 93,
+            "order": 37,
+            "duration": 178
           }
         ],
         "opponentAttacks": 0
@@ -380,6 +396,24 @@
         "name": "Aurelian",
         "townhallLevel": 13,
         "mapPosition": 20,
+        "attacks": [
+          {
+            "attackerTag": "#GGYGQ8098",
+            "defenderTag": "#GLL8QU28R",
+            "stars": 1,
+            "destructionPercentage": 68,
+            "order": 36,
+            "duration": 136
+          },
+          {
+            "attackerTag": "#GGYGQ8098",
+            "defenderTag": "#QV98Y29VV",
+            "stars": 1,
+            "destructionPercentage": 83,
+            "order": 38,
+            "duration": 162
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -387,6 +421,16 @@
         "name": "Grizz",
         "townhallLevel": 15,
         "mapPosition": 18,
+        "attacks": [
+          {
+            "attackerTag": "#G9CC9G2VQ",
+            "defenderTag": "#GLL8QU28R",
+            "stars": 2,
+            "destructionPercentage": 73,
+            "order": 39,
+            "duration": 152
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -570,7 +614,15 @@
             "duration": 175
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GGYGQ8098",
+          "defenderTag": "#QV98Y29VV",
+          "stars": 1,
+          "destructionPercentage": 83,
+          "order": 38,
+          "duration": 162
+        }
       },
       {
         "tag": "#Q2C0UJJPV",
@@ -617,7 +669,15 @@
         "name": "MaMaNoseGyi",
         "townhallLevel": 15,
         "mapPosition": 16,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#J88YJGY9",
+          "defenderTag": "#GLUG2UYUR",
+          "stars": 2,
+          "destructionPercentage": 93,
+          "order": 37,
+          "duration": 178
+        }
       },
       {
         "tag": "#GLL8QU28R",
@@ -642,7 +702,15 @@
             "duration": 105
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 2,
+        "bestOpponentAttack": {
+          "attackerTag": "#G9CC9G2VQ",
+          "defenderTag": "#GLL8QU28R",
+          "stars": 2,
+          "destructionPercentage": 73,
+          "order": 39,
+          "duration": 152
+        }
       },
       {
         "tag": "#Q8PQUGRV2",
@@ -815,14 +883,14 @@
             "duration": 140
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#Q2QQL2YVV",
+          "attackerTag": "#8VQYULVQQ",
           "defenderTag": "#QUV2YGCVL",
-          "stars": 1,
-          "destructionPercentage": 77,
-          "order": 2,
-          "duration": 160
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 35,
+          "duration": 155
         }
       },
       {
