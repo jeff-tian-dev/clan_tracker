@@ -1,5 +1,5 @@
 {
-  "state": "preparation",
+  "state": "inWar",
   "teamSize": 20,
   "attacksPerMember": 2,
   "battleModifier": "none",
@@ -50,7 +50,7 @@
       {
         "tag": "#Q2QQL2YVV",
         "name": "cyan",
-        "townhallLevel": 15,
+        "townhallLevel": 16,
         "mapPosition": 16,
         "opponentAttacks": 0
       },
@@ -80,7 +80,15 @@
         "name": "Sir Walnut\u2122\ufe0f",
         "townhallLevel": 17,
         "mapPosition": 4,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#PPP9CY0PR",
+          "defenderTag": "#YQ8L9JVJ2",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 1,
+          "duration": 139
+        }
       },
       {
         "tag": "#L0UJQ0Y89",
@@ -170,9 +178,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Bay-oVtJyqV1CUVYn4eSeuPhrWbm9r-n0ksQL6c_eUE.png"
     },
     "clanLevel": 17,
-    "attacks": 0,
-    "stars": 0,
-    "destructionPercentage": 0.0,
+    "attacks": 1,
+    "stars": 3,
+    "destructionPercentage": 5.0,
     "members": [
       {
         "tag": "#QPLJ28VYR",
@@ -228,6 +236,16 @@
         "name": "@SetH_RollinS",
         "townhallLevel": 17,
         "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#PPP9CY0PR",
+            "defenderTag": "#YQ8L9JVJ2",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 1,
+            "duration": 139
+          }
+        ],
         "opponentAttacks": 0
       },
       {
