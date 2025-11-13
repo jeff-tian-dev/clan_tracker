@@ -24,28 +24,60 @@
         "name": "destroyer",
         "townhallLevel": 17,
         "mapPosition": 6,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#G0YG00LPP",
+          "defenderTag": "#UJP2UYRY",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 11,
+          "duration": 144
+        }
       },
       {
         "tag": "#GLU9LC2LG",
         "name": "JLai",
         "townhallLevel": 16,
         "mapPosition": 11,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GLL8QU28R",
+          "defenderTag": "#GLU9LC2LG",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 14,
+          "duration": 116
+        }
       },
       {
         "tag": "#Q9QU8L8YV",
         "name": "je suis excit\u00e9",
         "townhallLevel": 17,
         "mapPosition": 9,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QUCQU2QJL",
+          "defenderTag": "#Q9QU8L8YV",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 12,
+          "duration": 123
+        }
       },
       {
         "tag": "#8VQYULVQQ",
         "name": "Sir Chestnut\u2122\ufe0f",
         "townhallLevel": 16,
         "mapPosition": 12,
-        "opponentAttacks": 0
+        "opponentAttacks": 2,
+        "bestOpponentAttack": {
+          "attackerTag": "#QV98Y29VV",
+          "defenderTag": "#8VQYULVQQ",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 20,
+          "duration": 114
+        }
       },
       {
         "tag": "#Q2QQL2YVV",
@@ -92,7 +124,15 @@
         "name": "\u24c2\ufe0fBIG COCHY3\u24c2\ufe0f",
         "townhallLevel": 16,
         "mapPosition": 10,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QUCQU2QJL",
+          "defenderTag": "#9U2YP0RY",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 13,
+          "duration": 81
+        }
       },
       {
         "tag": "#2CQLC28UP",
@@ -139,7 +179,15 @@
         "name": "doruk",
         "townhallLevel": 17,
         "mapPosition": 5,
-        "opponentAttacks": 0
+        "opponentAttacks": 2,
+        "bestOpponentAttack": {
+          "attackerTag": "#QV98Y29VV",
+          "defenderTag": "#L0UJQ0Y89",
+          "stars": 2,
+          "destructionPercentage": 95,
+          "order": 21,
+          "duration": 175
+        }
       },
       {
         "tag": "#J88YJGY9",
@@ -175,7 +223,15 @@
         "name": "exofall",
         "townhallLevel": 17,
         "mapPosition": 1,
-        "opponentAttacks": 0
+        "opponentAttacks": 2,
+        "bestOpponentAttack": {
+          "attackerTag": "#L0RGGPUR8",
+          "defenderTag": "#G28CVVRJL",
+          "stars": 2,
+          "destructionPercentage": 99,
+          "order": 18,
+          "duration": 122
+        }
       },
       {
         "tag": "#9VU0VU90G",
@@ -225,14 +281,14 @@
         "name": "\u2b50\u2b505 StarFree\u2b50\u2b50\u2b50",
         "townhallLevel": 17,
         "mapPosition": 3,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#QPLJ28VYR",
+          "attackerTag": "#L0RGGPUR8",
           "defenderTag": "#Y2PVPPU8C",
-          "stars": 1,
-          "destructionPercentage": 82,
-          "order": 4,
-          "duration": 95
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 19,
+          "duration": 86
         }
       }
     ]
@@ -246,9 +302,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Bay-oVtJyqV1CUVYn4eSeuPhrWbm9r-n0ksQL6c_eUE.png"
     },
     "clanLevel": 17,
-    "attacks": 6,
-    "stars": 13,
-    "destructionPercentage": 24.1,
+    "attacks": 17,
+    "stars": 34,
+    "destructionPercentage": 59.7,
     "members": [
       {
         "tag": "#QPLJ28VYR",
@@ -294,6 +350,24 @@
         "name": "ritesH",
         "townhallLevel": 17,
         "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#Q9UGY2C2P",
+            "defenderTag": "#G28CVVRJL",
+            "stars": 1,
+            "destructionPercentage": 88,
+            "order": 16,
+            "duration": 129
+          },
+          {
+            "attackerTag": "#Q9UGY2C2P",
+            "defenderTag": "#L0UJQ0Y89",
+            "stars": 2,
+            "destructionPercentage": 80,
+            "order": 17,
+            "duration": 90
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -309,6 +383,14 @@
             "destructionPercentage": 100,
             "order": 10,
             "duration": 103
+          },
+          {
+            "attackerTag": "#G0YG00LPP",
+            "defenderTag": "#UJP2UYRY",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 11,
+            "duration": 144
           }
         ],
         "opponentAttacks": 1,
@@ -326,6 +408,24 @@
         "name": "II__SARKAR__II",
         "townhallLevel": 16,
         "mapPosition": 19,
+        "attacks": [
+          {
+            "attackerTag": "#QV98Y29VV",
+            "defenderTag": "#8VQYULVQQ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 20,
+            "duration": 114
+          },
+          {
+            "attackerTag": "#QV98Y29VV",
+            "defenderTag": "#L0UJQ0Y89",
+            "stars": 2,
+            "destructionPercentage": 95,
+            "order": 21,
+            "duration": 175
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -372,6 +472,24 @@
         "name": "Aditipw",
         "townhallLevel": 15,
         "mapPosition": 20,
+        "attacks": [
+          {
+            "attackerTag": "#GLL8QU28R",
+            "defenderTag": "#GLU9LC2LG",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 14,
+            "duration": 116
+          },
+          {
+            "attackerTag": "#GLL8QU28R",
+            "defenderTag": "#8VQYULVQQ",
+            "stars": 2,
+            "destructionPercentage": 94,
+            "order": 15,
+            "duration": 105
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -415,6 +533,24 @@
         "name": "LUCIFER",
         "townhallLevel": 16,
         "mapPosition": 18,
+        "attacks": [
+          {
+            "attackerTag": "#QUCQU2QJL",
+            "defenderTag": "#Q9QU8L8YV",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 12,
+            "duration": 123
+          },
+          {
+            "attackerTag": "#QUCQU2QJL",
+            "defenderTag": "#9U2YP0RY",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 13,
+            "duration": 81
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -422,6 +558,24 @@
         "name": "saurabh",
         "townhallLevel": 17,
         "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#L0RGGPUR8",
+            "defenderTag": "#G28CVVRJL",
+            "stars": 2,
+            "destructionPercentage": 99,
+            "order": 18,
+            "duration": 122
+          },
+          {
+            "attackerTag": "#L0RGGPUR8",
+            "defenderTag": "#Y2PVPPU8C",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 19,
+            "duration": 86
+          }
+        ],
         "opponentAttacks": 0
       },
       {
