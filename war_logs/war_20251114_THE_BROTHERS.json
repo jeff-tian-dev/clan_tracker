@@ -15,7 +15,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/MemvfcNsCKAIJd01S-vNV8_nVwYBGkQOTRp3HgJs0QU.png"
     },
     "clanLevel": 11,
-    "attacks": 35,
+    "attacks": 37,
     "stars": 60,
     "destructionPercentage": 100.0,
     "members": [
@@ -181,6 +181,24 @@
         "name": "Nick",
         "townhallLevel": 17,
         "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#L20CLJRGU",
+            "defenderTag": "#Y2Q2GP9J8",
+            "stars": 1,
+            "destructionPercentage": 25,
+            "order": 76,
+            "duration": 61
+          },
+          {
+            "attackerTag": "#L20CLJRGU",
+            "defenderTag": "#L0RGGPUR8",
+            "stars": 1,
+            "destructionPercentage": 35,
+            "order": 77,
+            "duration": 93
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#G0YG00LPP",
@@ -1168,7 +1186,7 @@
             "duration": 86
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
           "attackerTag": "#G28CVVRJL",
           "defenderTag": "#L0RGGPUR8",
@@ -1300,7 +1318,7 @@
             "duration": 86
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
           "attackerTag": "#Y2PVPPU8C",
           "defenderTag": "#Y2Q2GP9J8",
