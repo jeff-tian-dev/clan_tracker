@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251114T070000.000Z",
   "endTime": "20251117T070000.000Z",
-  "capitalTotalLoot": 57484,
+  "capitalTotalLoot": 79991,
   "raidsCompleted": 0,
-  "totalAttacks": 15,
-  "enemyDistrictsDestroyed": 5,
+  "totalAttacks": 20,
+  "enemyDistrictsDestroyed": 6,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -24,6 +24,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 23229
+    },
+    {
+      "tag": "#Y8GQ89UGJ",
+      "name": "SILENT KILLER S",
+      "attacks": 5,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 22507
     },
     {
       "tag": "#9U2YP0RY",
@@ -46,9 +54,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/V_1T-Kmf-sihoCNPgVryifnhZvA5YcbV7cU5V_cdXEM.png"
         }
       },
-      "attackCount": 15,
+      "attackCount": 20,
       "districtCount": 9,
-      "districtsDestroyed": 5,
+      "districtsDestroyed": 6,
       "districts": [
         {
           "id": 70000000,
@@ -168,10 +176,36 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11882,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Y8GQ89UGJ",
+                "name": "SILENT KILLER S"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Y8GQ89UGJ",
+                "name": "SILENT KILLER S"
+              },
+              "destructionPercent": 68,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#Y8GQ89UGJ",
+                "name": "SILENT KILLER S"
+              },
+              "destructionPercent": 41,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000005,
@@ -247,10 +281,28 @@
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 89,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 10625,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Y8GQ89UGJ",
+                "name": "SILENT KILLER S"
+              },
+              "destructionPercent": 89,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#Y8GQ89UGJ",
+                "name": "SILENT KILLER S"
+              },
+              "destructionPercent": 45,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000008,
@@ -512,9 +564,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/_KJy8Dp_ympMs7cYi3QBkNuDOPgiv0A-7VScK231ut4.png"
         }
       },
-      "attackCount": 0,
+      "attackCount": 3,
       "districtCount": 9,
-      "districtsDestroyed": 0,
+      "districtsDestroyed": 1,
       "districts": [
         {
           "id": 70000000,
@@ -529,10 +581,36 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11934,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#9JYLUGCJR",
+                "name": "Craft Spell"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#9JYLUGCJR",
+                "name": "Craft Spell"
+              },
+              "destructionPercent": 82,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#9JYLUGCJR",
+                "name": "Craft Spell"
+              },
+              "destructionPercent": 32,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000002,
