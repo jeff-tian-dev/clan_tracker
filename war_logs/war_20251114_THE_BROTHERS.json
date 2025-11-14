@@ -460,14 +460,14 @@
             "duration": 105
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#Q8PQUGRV2",
+          "attackerTag": "#LRLC99CCQ",
           "defenderTag": "#9VU0VU90G",
-          "stars": 2,
-          "destructionPercentage": 77,
-          "order": 61,
-          "duration": 88
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 68,
+          "duration": 170
         }
       },
       {
@@ -541,14 +541,14 @@
             "duration": 178
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#U9PUP0GL",
+          "attackerTag": "#LRLC99CCQ",
           "defenderTag": "#G9CC9G2VQ",
-          "stars": 2,
-          "destructionPercentage": 82,
-          "order": 66,
-          "duration": 180
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 67,
+          "duration": 173
         }
       },
       {
@@ -628,9 +628,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Bay-oVtJyqV1CUVYn4eSeuPhrWbm9r-n0ksQL6c_eUE.png"
     },
     "clanLevel": 17,
-    "attacks": 33,
-    "stars": 57,
-    "destructionPercentage": 97.65,
+    "attacks": 35,
+    "stars": 59,
+    "destructionPercentage": 99.7,
     "members": [
       {
         "tag": "#QPLJ28VYR",
@@ -703,6 +703,24 @@
         "name": "deepak",
         "townhallLevel": 17,
         "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#LRLC99CCQ",
+            "defenderTag": "#G9CC9G2VQ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 67,
+            "duration": 173
+          },
+          {
+            "attackerTag": "#LRLC99CCQ",
+            "defenderTag": "#9VU0VU90G",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 68,
+            "duration": 170
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#Y2PVPPU8C",
