@@ -15,15 +15,25 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/MemvfcNsCKAIJd01S-vNV8_nVwYBGkQOTRp3HgJs0QU.png"
     },
     "clanLevel": 11,
-    "attacks": 26,
-    "stars": 49,
-    "destructionPercentage": 87.4,
+    "attacks": 28,
+    "stars": 51,
+    "destructionPercentage": 88.85,
     "members": [
       {
         "tag": "#UJP2UYRY",
         "name": "destroyer",
         "townhallLevel": 17,
         "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#UJP2UYRY",
+            "defenderTag": "#GLL8QU28R",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 50,
+            "duration": 85
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#G0YG00LPP",
@@ -194,6 +204,14 @@
             "destructionPercentage": 100,
             "order": 43,
             "duration": 77
+          },
+          {
+            "attackerTag": "#9U2YP0RY",
+            "defenderTag": "#G0YG00LPP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 51,
+            "duration": 84
           }
         ],
         "opponentAttacks": 1,
@@ -657,14 +675,14 @@
             "duration": 144
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#2CQLC28UP",
+          "attackerTag": "#9U2YP0RY",
           "defenderTag": "#G0YG00LPP",
-          "stars": 2,
-          "destructionPercentage": 98,
-          "order": 6,
-          "duration": 180
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 51,
+          "duration": 84
         }
       },
       {
@@ -804,14 +822,14 @@
             "duration": 105
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#G9CC9G2VQ",
+          "attackerTag": "#UJP2UYRY",
           "defenderTag": "#GLL8QU28R",
-          "stars": 2,
-          "destructionPercentage": 73,
-          "order": 39,
-          "duration": 152
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 50,
+          "duration": 85
         }
       },
       {
