@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/MemvfcNsCKAIJd01S-vNV8_nVwYBGkQOTRp3HgJs0QU.png"
     },
     "clanLevel": 11,
-    "attacks": 33,
-    "stars": 59,
-    "destructionPercentage": 98.6,
+    "attacks": 35,
+    "stars": 60,
+    "destructionPercentage": 100.0,
     "members": [
       {
         "tag": "#UJP2UYRY",
@@ -475,6 +475,24 @@
         "name": "taz",
         "townhallLevel": 17,
         "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#2R2JYRRU",
+            "defenderTag": "#Q9UGY2C2P",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 74,
+            "duration": 144
+          },
+          {
+            "attackerTag": "#2R2JYRRU",
+            "defenderTag": "#L0RGGPUR8",
+            "stars": 1,
+            "destructionPercentage": 6,
+            "order": 75,
+            "duration": 12
+          }
+        ],
         "opponentAttacks": 3,
         "bestOpponentAttack": {
           "attackerTag": "#QPLJ28VYR",
@@ -754,14 +772,14 @@
             "duration": 90
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#GU2P0YJP2",
+          "attackerTag": "#2R2JYRRU",
           "defenderTag": "#Q9UGY2C2P",
-          "stars": 2,
-          "destructionPercentage": 72,
-          "order": 53,
-          "duration": 180
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 74,
+          "duration": 144
         }
       },
       {
@@ -1150,7 +1168,7 @@
             "duration": 86
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#G28CVVRJL",
           "defenderTag": "#L0RGGPUR8",
