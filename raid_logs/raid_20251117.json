@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251114T070000.000Z",
   "endTime": "20251117T070000.000Z",
-  "capitalTotalLoot": 83866,
+  "capitalTotalLoot": 91742,
   "raidsCompleted": 0,
-  "totalAttacks": 21,
-  "enemyDistrictsDestroyed": 6,
+  "totalAttacks": 23,
+  "enemyDistrictsDestroyed": 7,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -40,6 +40,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 11817
+    },
+    {
+      "tag": "#J88YJGY9",
+      "name": "King Killer",
+      "attacks": 2,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 7876
     }
   ],
   "attackLog": [
@@ -54,9 +62,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/V_1T-Kmf-sihoCNPgVryifnhZvA5YcbV7cU5V_cdXEM.png"
         }
       },
-      "attackCount": 21,
+      "attackCount": 23,
       "districtCount": 9,
-      "districtsDestroyed": 6,
+      "districtsDestroyed": 7,
       "districts": [
         {
           "id": 70000000,
@@ -308,11 +316,27 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 30,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 3875,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11751,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#J88YJGY9",
+                "name": "King Killer"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#J88YJGY9",
+                "name": "King Killer"
+              },
+              "destructionPercent": 64,
+              "stars": 1
+            },
             {
               "attacker": {
                 "tag": "#Y8GQ89UGJ",
@@ -574,9 +598,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/_KJy8Dp_ympMs7cYi3QBkNuDOPgiv0A-7VScK231ut4.png"
         }
       },
-      "attackCount": 19,
+      "attackCount": 20,
       "districtCount": 9,
-      "districtsDestroyed": 5,
+      "districtsDestroyed": 6,
       "districts": [
         {
           "id": 70000000,
@@ -707,11 +731,19 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 65,
-          "stars": 1,
-          "attackCount": 2,
-          "totalLooted": 7150,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11747,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#PVVQRJQPU",
+                "name": "frosty"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#LLC9URC2R",
