@@ -276,7 +276,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/8Sw3HgwVkJzigVRRK1rlLJd4h400PYREaLjYGoCnpBw.png"
         }
       },
-      "attackCount": 11,
+      "attackCount": 16,
       "districtCount": 9,
       "districtsDestroyed": 4,
       "districts": [
@@ -355,10 +355,52 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 98,
+          "stars": 2,
+          "attackCount": 5,
+          "totalLooted": 11005,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#JVG98Q0R",
+                "name": "Apine miekhazze"
+              },
+              "destructionPercent": 98,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#JVG98Q0R",
+                "name": "Apine miekhazze"
+              },
+              "destructionPercent": 71,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#JVG98Q0R",
+                "name": "Apine miekhazze"
+              },
+              "destructionPercent": 53,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#JVG98Q0R",
+                "name": "Apine miekhazze"
+              },
+              "destructionPercent": 33,
+              "stars": 0
+            },
+            {
+              "attacker": {
+                "tag": "#JVG98Q0R",
+                "name": "Apine miekhazze"
+              },
+              "destructionPercent": 24,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000006,
