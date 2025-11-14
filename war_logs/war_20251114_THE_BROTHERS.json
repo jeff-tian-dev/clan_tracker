@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/MemvfcNsCKAIJd01S-vNV8_nVwYBGkQOTRp3HgJs0QU.png"
     },
     "clanLevel": 11,
-    "attacks": 24,
-    "stars": 47,
-    "destructionPercentage": 86.4,
+    "attacks": 26,
+    "stars": 49,
+    "destructionPercentage": 87.4,
     "members": [
       {
         "tag": "#UJP2UYRY",
@@ -448,7 +448,15 @@
             "duration": 162
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#9RQGPCLL9",
+          "defenderTag": "#GGYGQ8098",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 48,
+          "duration": 123
+        }
       },
       {
         "tag": "#G9CC9G2VQ",
@@ -480,6 +488,24 @@
         "name": "siwi2isuus2",
         "townhallLevel": 16,
         "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#LGGLYVUPP",
+            "defenderTag": "#GLUG2UYUR",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 46,
+            "duration": 160
+          },
+          {
+            "attackerTag": "#LGGLYVUPP",
+            "defenderTag": "#QV98Y29VV",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 47,
+            "duration": 141
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -508,9 +534,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Bay-oVtJyqV1CUVYn4eSeuPhrWbm9r-n0ksQL6c_eUE.png"
     },
     "clanLevel": 17,
-    "attacks": 21,
-    "stars": 42,
-    "destructionPercentage": 74.4,
+    "attacks": 22,
+    "stars": 45,
+    "destructionPercentage": 79.4,
     "members": [
       {
         "tag": "#QPLJ28VYR",
@@ -656,14 +682,14 @@
             "duration": 175
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#G9CC9G2VQ",
+          "attackerTag": "#LGGLYVUPP",
           "defenderTag": "#QV98Y29VV",
-          "stars": 2,
-          "destructionPercentage": 87,
-          "order": 41,
-          "duration": 178
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 47,
+          "duration": 141
         }
       },
       {
@@ -737,14 +763,14 @@
             "duration": 180
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#J88YJGY9",
+          "attackerTag": "#LGGLYVUPP",
           "defenderTag": "#GLUG2UYUR",
-          "stars": 2,
-          "destructionPercentage": 93,
-          "order": 37,
-          "duration": 178
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 46,
+          "duration": 160
         }
       },
       {
@@ -936,6 +962,16 @@
         "name": "ALEXANDER",
         "townhallLevel": 16,
         "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#9RQGPCLL9",
+            "defenderTag": "#GGYGQ8098",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 48,
+            "duration": 123
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#8VQYULVQQ",
