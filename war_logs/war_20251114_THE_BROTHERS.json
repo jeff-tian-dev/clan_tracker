@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/MemvfcNsCKAIJd01S-vNV8_nVwYBGkQOTRp3HgJs0QU.png"
     },
     "clanLevel": 11,
-    "attacks": 28,
-    "stars": 51,
-    "destructionPercentage": 88.85,
+    "attacks": 30,
+    "stars": 55,
+    "destructionPercentage": 92.9,
     "members": [
       {
         "tag": "#UJP2UYRY",
@@ -360,6 +360,24 @@
         "name": "Meks",
         "townhallLevel": 17,
         "mapPosition": 8,
+        "attacks": [
+          {
+            "attackerTag": "#GU2P0YJP2",
+            "defenderTag": "#QPLJ28VYR",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 52,
+            "duration": 140
+          },
+          {
+            "attackerTag": "#GU2P0YJP2",
+            "defenderTag": "#Q9UGY2C2P",
+            "stars": 2,
+            "destructionPercentage": 72,
+            "order": 53,
+            "duration": 180
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#QUV2YGCVL",
@@ -587,14 +605,14 @@
             "duration": 95
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#GLU9LC2LG",
+          "attackerTag": "#GU2P0YJP2",
           "defenderTag": "#QPLJ28VYR",
-          "stars": 1,
-          "destructionPercentage": 91,
-          "order": 33,
-          "duration": 171
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 52,
+          "duration": 140
         }
       },
       {
@@ -650,7 +668,15 @@
             "duration": 90
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GU2P0YJP2",
+          "defenderTag": "#Q9UGY2C2P",
+          "stars": 2,
+          "destructionPercentage": 72,
+          "order": 53,
+          "duration": 180
+        }
       },
       {
         "tag": "#G0YG00LPP",
