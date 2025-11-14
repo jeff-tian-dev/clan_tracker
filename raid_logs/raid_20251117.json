@@ -2,9 +2,9 @@
   "state": "ongoing",
   "startTime": "20251114T070000.000Z",
   "endTime": "20251117T070000.000Z",
-  "capitalTotalLoot": 79991,
+  "capitalTotalLoot": 83866,
   "raidsCompleted": 0,
-  "totalAttacks": 20,
+  "totalAttacks": 21,
   "enemyDistrictsDestroyed": 6,
   "offensiveReward": 0,
   "defensiveReward": 0,
@@ -28,10 +28,10 @@
     {
       "tag": "#Y8GQ89UGJ",
       "name": "SILENT KILLER S",
-      "attacks": 5,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 22507
+      "capitalResourcesLooted": 26382
     },
     {
       "tag": "#9U2YP0RY",
@@ -54,7 +54,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/V_1T-Kmf-sihoCNPgVryifnhZvA5YcbV7cU5V_cdXEM.png"
         }
       },
-      "attackCount": 20,
+      "attackCount": 21,
       "districtCount": 9,
       "districtsDestroyed": 6,
       "districts": [
@@ -308,10 +308,20 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
+          "destructionPercent": 30,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 1,
+          "totalLooted": 3875,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#Y8GQ89UGJ",
+                "name": "SILENT KILLER S"
+              },
+              "destructionPercent": 30,
+              "stars": 0
+            }
+          ]
         }
       ]
     }
@@ -564,9 +574,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/_KJy8Dp_ympMs7cYi3QBkNuDOPgiv0A-7VScK231ut4.png"
         }
       },
-      "attackCount": 3,
+      "attackCount": 19,
       "districtCount": 9,
-      "districtsDestroyed": 1,
+      "districtsDestroyed": 5,
       "districts": [
         {
           "id": 70000000,
@@ -616,64 +626,206 @@
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10115,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2RPURV09L",
+                "name": "\u9e21kingofkang\u9e21"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2RPURV09L",
+                "name": "\u9e21kingofkang\u9e21"
+              },
+              "destructionPercent": 46,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 96,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 10775,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LLC9URC2R",
+                "name": "DEV"
+              },
+              "destructionPercent": 96,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#LLC9URC2R",
+                "name": "DEV"
+              },
+              "destructionPercent": 44,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 94,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 10605,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2RPURV09L",
+                "name": "\u9e21kingofkang\u9e21"
+              },
+              "destructionPercent": 94,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#2RPURV09L",
+                "name": "\u9e21kingofkang\u9e21"
+              },
+              "destructionPercent": 30,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 65,
+          "stars": 1,
+          "attackCount": 2,
+          "totalLooted": 7150,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LLC9URC2R",
+                "name": "DEV"
+              },
+              "destructionPercent": 65,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#LLC9URC2R",
+                "name": "DEV"
+              },
+              "destructionPercent": 43,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11622,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2RPURV09L",
+                "name": "\u9e21kingofkang\u9e21"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2RPURV09L",
+                "name": "\u9e21kingofkang\u9e21"
+              },
+              "destructionPercent": 60,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11720,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LLC9URC2R",
+                "name": "DEV"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QP0YCVJ2J",
+                "name": "IZZAT SAHAR"
+              },
+              "destructionPercent": 54,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#QP0YCVJ2J",
+                "name": "IZZAT SAHAR"
+              },
+              "destructionPercent": 31,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11985,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QP0YCVJ2J",
+                "name": "IZZAT SAHAR"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LLC9URC2R",
+                "name": "DEV"
+              },
+              "destructionPercent": 79,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#QP0YCVJ2J",
+                "name": "IZZAT SAHAR"
+              },
+              "destructionPercent": 42,
+              "stars": 1
+            }
+          ]
         }
       ]
     }
