@@ -182,9 +182,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/8Sw3HgwVkJzigVRRK1rlLJd4h400PYREaLjYGoCnpBw.png"
         }
       },
-      "attackCount": 5,
+      "attackCount": 11,
       "districtCount": 9,
-      "districtsDestroyed": 2,
+      "districtsDestroyed": 4,
       "districts": [
         {
           "id": 70000000,
@@ -199,10 +199,36 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11670,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2YJLJLY8G",
+                "name": "FAZLIE EST 19XX"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2YJLJLY8G",
+                "name": "FAZLIE EST 19XX"
+              },
+              "destructionPercent": 54,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#2YJLJLY8G",
+                "name": "FAZLIE EST 19XX"
+              },
+              "destructionPercent": 24,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000002,
@@ -244,10 +270,36 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11904,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2YJLJLY8G",
+                "name": "FAZLIE EST 19XX"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2YJLJLY8G",
+                "name": "FAZLIE EST 19XX"
+              },
+              "destructionPercent": 91,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#2YJLJLY8G",
+                "name": "FAZLIE EST 19XX"
+              },
+              "destructionPercent": 43,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000007,

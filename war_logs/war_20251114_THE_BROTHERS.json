@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/MemvfcNsCKAIJd01S-vNV8_nVwYBGkQOTRp3HgJs0QU.png"
     },
     "clanLevel": 11,
-    "attacks": 30,
-    "stars": 55,
-    "destructionPercentage": 92.9,
+    "attacks": 31,
+    "stars": 57,
+    "destructionPercentage": 97.3,
     "members": [
       {
         "tag": "#UJP2UYRY",
@@ -295,9 +295,17 @@
             "destructionPercentage": 79,
             "order": 24,
             "duration": 145
+          },
+          {
+            "attackerTag": "#L0UJQ0Y89",
+            "defenderTag": "#Y2Q2GP9J8",
+            "stars": 2,
+            "destructionPercentage": 88,
+            "order": 55,
+            "duration": 173
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
           "attackerTag": "#QV98Y29VV",
           "defenderTag": "#L0UJQ0Y89",
@@ -578,7 +586,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Bay-oVtJyqV1CUVYn4eSeuPhrWbm9r-n0ksQL6c_eUE.png"
     },
     "clanLevel": 17,
-    "attacks": 23,
+    "attacks": 24,
     "stars": 46,
     "destructionPercentage": 82.65,
     "members": [
@@ -620,6 +628,16 @@
         "name": "Asif",
         "townhallLevel": 17,
         "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#YRJ9JVYJV",
+            "defenderTag": "#L0UJQ0Y89",
+            "stars": 2,
+            "destructionPercentage": 92,
+            "order": 54,
+            "duration": 122
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#G28CVVRJL",
@@ -1080,7 +1098,15 @@
         "name": "mohit",
         "townhallLevel": 17,
         "mapPosition": 7,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#L0UJQ0Y89",
+          "defenderTag": "#Y2Q2GP9J8",
+          "stars": 2,
+          "destructionPercentage": 88,
+          "order": 55,
+          "duration": 173
+        }
       }
     ]
   }
