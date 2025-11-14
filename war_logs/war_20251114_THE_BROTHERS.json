@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/MemvfcNsCKAIJd01S-vNV8_nVwYBGkQOTRp3HgJs0QU.png"
     },
     "clanLevel": 11,
-    "attacks": 23,
-    "stars": 44,
-    "destructionPercentage": 81.4,
+    "attacks": 24,
+    "stars": 47,
+    "destructionPercentage": 86.4,
     "members": [
       {
         "tag": "#UJP2UYRY",
@@ -156,7 +156,15 @@
             "duration": 176
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GLUG2UYUR",
+          "defenderTag": "#Q2QQL2YVV",
+          "stars": 2,
+          "destructionPercentage": 94,
+          "order": 45,
+          "duration": 180
+        }
       },
       {
         "tag": "#L20CLJRGU",
@@ -178,6 +186,16 @@
         "name": "\u24c2\ufe0fBIG COCHY3\u24c2\ufe0f",
         "townhallLevel": 16,
         "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#9U2YP0RY",
+            "defenderTag": "#QCUGPUCG9",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 43,
+            "duration": 77
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#QUCQU2QJL",
@@ -294,14 +312,30 @@
             "duration": 178
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GLUG2UYUR",
+          "defenderTag": "#J88YJGY9",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 44,
+          "duration": 148
+        }
       },
       {
         "tag": "#QRP2RLV02",
         "name": "JT",
         "townhallLevel": 15,
         "mapPosition": 19,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#U9PUP0GL",
+          "defenderTag": "#QRP2RLV02",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 42,
+          "duration": 121
+        }
       },
       {
         "tag": "#GU2P0YJP2",
@@ -474,9 +508,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/Bay-oVtJyqV1CUVYn4eSeuPhrWbm9r-n0ksQL6c_eUE.png"
     },
     "clanLevel": 17,
-    "attacks": 18,
-    "stars": 34,
-    "destructionPercentage": 59.7,
+    "attacks": 21,
+    "stars": 42,
+    "destructionPercentage": 74.4,
     "members": [
       {
         "tag": "#QPLJ28VYR",
@@ -685,6 +719,24 @@
         "name": "MaMaNoseGyi",
         "townhallLevel": 15,
         "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#GLUG2UYUR",
+            "defenderTag": "#J88YJGY9",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 44,
+            "duration": 148
+          },
+          {
+            "attackerTag": "#GLUG2UYUR",
+            "defenderTag": "#Q2QQL2YVV",
+            "stars": 2,
+            "destructionPercentage": 94,
+            "order": 45,
+            "duration": 180
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#J88YJGY9",
@@ -763,7 +815,15 @@
         "name": "NITISH_DEVIL",
         "townhallLevel": 16,
         "mapPosition": 11,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#9U2YP0RY",
+          "defenderTag": "#QCUGPUCG9",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 43,
+          "duration": 77
+        }
       },
       {
         "tag": "#9VQ92R22U",
@@ -851,6 +911,16 @@
         "name": "15114",
         "townhallLevel": 15,
         "mapPosition": 17,
+        "attacks": [
+          {
+            "attackerTag": "#U9PUP0GL",
+            "defenderTag": "#QRP2RLV02",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 42,
+            "duration": 121
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#9VU0VU90G",
