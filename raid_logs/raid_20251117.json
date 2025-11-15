@@ -772,9 +772,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/_KJy8Dp_ympMs7cYi3QBkNuDOPgiv0A-7VScK231ut4.png"
         }
       },
-      "attackCount": 20,
+      "attackCount": 22,
       "districtCount": 9,
-      "districtsDestroyed": 6,
+      "districtsDestroyed": 8,
       "districts": [
         {
           "id": 70000000,
@@ -851,11 +851,19 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 96,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 10775,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11817,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#VLCCJ88R",
+                "name": "yolo"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#LLC9URC2R",
@@ -878,11 +886,19 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 94,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 10605,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 12353,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#VLCCJ88R",
+                "name": "yolo"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#2RPURV09L",
