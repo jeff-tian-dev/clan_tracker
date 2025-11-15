@@ -2286,9 +2286,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/03ftuoRSLNHBCg11Id-4Ft96q6_ho4l6qZZN3s_8qQc.png"
         }
       },
-      "attackCount": 14,
+      "attackCount": 21,
       "districtCount": 9,
-      "districtsDestroyed": 5,
+      "districtsDestroyed": 6,
       "districts": [
         {
           "id": 70000000,
@@ -2338,10 +2338,36 @@
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10394,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#V02082R8",
+                "name": "checkskiller"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#V02082R8",
+                "name": "checkskiller"
+              },
+              "destructionPercent": 70,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#V02082R8",
+                "name": "checkskiller"
+              },
+              "destructionPercent": 35,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000003,
@@ -2417,10 +2443,36 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 92,
+          "stars": 1,
+          "attackCount": 3,
+          "totalLooted": 9250,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#V02082R8",
+                "name": "checkskiller"
+              },
+              "destructionPercent": 92,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#V02082R8",
+                "name": "checkskiller"
+              },
+              "destructionPercent": 68,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#V02082R8",
+                "name": "checkskiller"
+              },
+              "destructionPercent": 27,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000006,
@@ -2453,11 +2505,19 @@
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 27,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 2945,
+          "destructionPercent": 73,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 8075,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#P0UYP088U",
+                "name": "warrlord\""
+              },
+              "destructionPercent": 73,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#2JC2RRGR8",
