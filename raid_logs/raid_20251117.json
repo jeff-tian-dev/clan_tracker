@@ -2,13 +2,21 @@
   "state": "ongoing",
   "startTime": "20251114T070000.000Z",
   "endTime": "20251117T070000.000Z",
-  "capitalTotalLoot": 135656,
-  "raidsCompleted": 1,
-  "totalAttacks": 37,
-  "enemyDistrictsDestroyed": 11,
+  "capitalTotalLoot": 149801,
+  "raidsCompleted": 2,
+  "totalAttacks": 41,
+  "enemyDistrictsDestroyed": 13,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
+    {
+      "tag": "#QYL88U9P0",
+      "name": "voldemort",
+      "attacks": 1,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 890
+    },
     {
       "tag": "#GYGC88RGG",
       "name": "INDxSayan",
@@ -24,6 +32,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 23229
+    },
+    {
+      "tag": "#Q2QQL2YVV",
+      "name": "cyan",
+      "attacks": 3,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 13255
     },
     {
       "tag": "#Y8GQ89UGJ",
@@ -426,9 +442,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/FFCLxvPr0rs9oRuUDfUaNPXTcwdBFHfnw83jfbQocP0.png"
         }
       },
-      "attackCount": 8,
+      "attackCount": 12,
       "districtCount": 9,
-      "districtsDestroyed": 2,
+      "districtsDestroyed": 4,
       "districts": [
         {
           "id": 70000000,
@@ -452,11 +468,27 @@
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 45,
-          "stars": 1,
-          "attackCount": 1,
-          "totalLooted": 4010,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10550,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#Q2QQL2YVV",
+                "name": "cyan"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Q2QQL2YVV",
+                "name": "cyan"
+              },
+              "destructionPercent": 75,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#LRGGC2YJQ",
@@ -514,11 +546,27 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 23,
-          "stars": 1,
-          "attackCount": 1,
-          "totalLooted": 3115,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10720,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#QYL88U9P0",
+                "name": "voldemort"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#Q2QQL2YVV",
+                "name": "cyan"
+              },
+              "destructionPercent": 99,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#LRGGC2YJQ",
@@ -598,9 +646,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/8Sw3HgwVkJzigVRRK1rlLJd4h400PYREaLjYGoCnpBw.png"
         }
       },
-      "attackCount": 16,
+      "attackCount": 22,
       "districtCount": 9,
-      "districtsDestroyed": 4,
+      "districtsDestroyed": 5,
       "districts": [
         {
           "id": 70000000,
@@ -650,10 +698,28 @@
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 60,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 5460,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#28QYLPY0C",
+                "name": "SabrI_yinK"
+              },
+              "destructionPercent": 60,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#28QYLPY0C",
+                "name": "SabrI_yinK"
+              },
+              "destructionPercent": 30,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000003,
@@ -668,10 +734,44 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 12278,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#28QYLPY0C",
+                "name": "SabrI_yinK"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#28QYLPY0C",
+                "name": "SabrI_yinK"
+              },
+              "destructionPercent": 94,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#28QYLPY0C",
+                "name": "SabrI_yinK"
+              },
+              "destructionPercent": 72,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#28QYLPY0C",
+                "name": "SabrI_yinK"
+              },
+              "destructionPercent": 25,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000005,
@@ -834,18 +934,52 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/_KJy8Dp_ympMs7cYi3QBkNuDOPgiv0A-7VScK231ut4.png"
         }
       },
-      "attackCount": 22,
+      "attackCount": 26,
       "districtCount": 9,
-      "districtsDestroyed": 8,
+      "districtsDestroyed": 9,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 13697,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2RPGPV29L",
+                "name": "spen"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2RPGPV29L",
+                "name": "spen"
+              },
+              "destructionPercent": 94,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#2RPGPV29L",
+                "name": "spen"
+              },
+              "destructionPercent": 61,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#2RPGPV29L",
+                "name": "spen"
+              },
+              "destructionPercent": 43,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
