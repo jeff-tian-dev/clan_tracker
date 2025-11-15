@@ -2,9 +2,9 @@
   "state": "ongoing",
   "startTime": "20251114T070000.000Z",
   "endTime": "20251117T070000.000Z",
-  "capitalTotalLoot": 219877,
+  "capitalTotalLoot": 223102,
   "raidsCompleted": 3,
-  "totalAttacks": 59,
+  "totalAttacks": 60,
   "enemyDistrictsDestroyed": 19,
   "offensiveReward": 0,
   "defensiveReward": 0,
@@ -12,10 +12,10 @@
     {
       "tag": "#QYL88U9P0",
       "name": "voldemort",
-      "attacks": 1,
+      "attacks": 2,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 890
+      "capitalResourcesLooted": 4115
     },
     {
       "tag": "#Q9QU8L8YV",
@@ -806,7 +806,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/a8DLz4_M0oo8mn-3ujGvCaF4tf5tGytpngg3CzahkKU.png"
         }
       },
-      "attackCount": 2,
+      "attackCount": 3,
       "districtCount": 9,
       "districtsDestroyed": 1,
       "districts": [
@@ -868,10 +868,20 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
+          "destructionPercent": 32,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 1,
+          "totalLooted": 3225,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QYL88U9P0",
+                "name": "voldemort"
+              },
+              "destructionPercent": 32,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000007,
@@ -924,9 +934,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/8Sw3HgwVkJzigVRRK1rlLJd4h400PYREaLjYGoCnpBw.png"
         }
       },
-      "attackCount": 23,
+      "attackCount": 27,
       "districtCount": 9,
-      "districtsDestroyed": 6,
+      "districtsDestroyed": 7,
       "districts": [
         {
           "id": 70000000,
@@ -1011,10 +1021,44 @@
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 11514,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#P0VJJ9VU",
+                "name": "SABRI"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#P0VJJ9VU",
+                "name": "SABRI"
+              },
+              "destructionPercent": 79,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#P0VJJ9VU",
+                "name": "SABRI"
+              },
+              "destructionPercent": 48,
+              "stars": 0
+            },
+            {
+              "attacker": {
+                "tag": "#P0VJJ9VU",
+                "name": "SABRI"
+              },
+              "destructionPercent": 30,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000004,
