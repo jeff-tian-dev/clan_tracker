@@ -2,20 +2,20 @@
   "state": "ongoing",
   "startTime": "20251114T070000.000Z",
   "endTime": "20251117T070000.000Z",
-  "capitalTotalLoot": 223102,
+  "capitalTotalLoot": 238150,
   "raidsCompleted": 3,
-  "totalAttacks": 60,
-  "enemyDistrictsDestroyed": 19,
+  "totalAttacks": 64,
+  "enemyDistrictsDestroyed": 20,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
     {
       "tag": "#QYL88U9P0",
       "name": "voldemort",
-      "attacks": 2,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 4115
+      "capitalResourcesLooted": 19163
     },
     {
       "tag": "#Q9QU8L8YV",
@@ -806,9 +806,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/a8DLz4_M0oo8mn-3ujGvCaF4tf5tGytpngg3CzahkKU.png"
         }
       },
-      "attackCount": 3,
+      "attackCount": 7,
       "districtCount": 9,
-      "districtsDestroyed": 1,
+      "districtsDestroyed": 2,
       "districts": [
         {
           "id": 70000000,
@@ -868,11 +868,27 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 4,
-          "destructionPercent": 32,
-          "stars": 0,
-          "attackCount": 1,
-          "totalLooted": 3225,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 10343,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#QYL88U9P0",
+                "name": "voldemort"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#QYL88U9P0",
+                "name": "voldemort"
+              },
+              "destructionPercent": 89,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#QYL88U9P0",
@@ -887,10 +903,28 @@
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 86,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 7930,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QYL88U9P0",
+                "name": "voldemort"
+              },
+              "destructionPercent": 86,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#QYL88U9P0",
+                "name": "voldemort"
+              },
+              "destructionPercent": 34,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000008,
