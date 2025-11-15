@@ -2,9 +2,9 @@
   "state": "ongoing",
   "startTime": "20251114T070000.000Z",
   "endTime": "20251117T070000.000Z",
-  "capitalTotalLoot": 273073,
+  "capitalTotalLoot": 276168,
   "raidsCompleted": 3,
-  "totalAttacks": 70,
+  "totalAttacks": 71,
   "enemyDistrictsDestroyed": 22,
   "offensiveReward": 0,
   "defensiveReward": 0,
@@ -76,10 +76,10 @@
     {
       "tag": "#PG9CR2U",
       "name": "pakattackk",
-      "attacks": 0,
+      "attacks": 1,
       "attackLimit": 5,
       "bonusAttackLimit": 0,
-      "capitalResourcesLooted": 0
+      "capitalResourcesLooted": 3095
     },
     {
       "tag": "#GQGQ2LYYL",
@@ -822,7 +822,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/a8DLz4_M0oo8mn-3ujGvCaF4tf5tGytpngg3CzahkKU.png"
         }
       },
-      "attackCount": 13,
+      "attackCount": 14,
       "districtCount": 9,
       "districtsDestroyed": 4,
       "districts": [
@@ -931,10 +931,20 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
+          "destructionPercent": 31,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 1,
+          "totalLooted": 3095,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#PG9CR2U",
+                "name": "pakattackk"
+              },
+              "destructionPercent": 31,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000006,
