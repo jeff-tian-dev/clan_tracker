@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251114T070000.000Z",
   "endTime": "20251117T070000.000Z",
-  "capitalTotalLoot": 238150,
+  "capitalTotalLoot": 273073,
   "raidsCompleted": 3,
-  "totalAttacks": 64,
-  "enemyDistrictsDestroyed": 20,
+  "totalAttacks": 70,
+  "enemyDistrictsDestroyed": 22,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -88,6 +88,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 18276
+    },
+    {
+      "tag": "#2R2JYRRU",
+      "name": "taz",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 34923
     },
     {
       "tag": "#LRGGC2YJQ",
@@ -806,9 +814,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/a8DLz4_M0oo8mn-3ujGvCaF4tf5tGytpngg3CzahkKU.png"
         }
       },
-      "attackCount": 7,
+      "attackCount": 13,
       "districtCount": 9,
-      "districtsDestroyed": 2,
+      "districtsDestroyed": 4,
       "districts": [
         {
           "id": 70000000,
@@ -823,37 +831,93 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11340,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2R2JYRRU",
+                "name": "taz"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2R2JYRRU",
+                "name": "taz"
+              },
+              "destructionPercent": 40,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9233,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2R2JYRRU",
+                "name": "taz"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#2R2JYRRU",
+                "name": "taz"
+              },
+              "destructionPercent": 53,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000003,
           "name": "Balloon Lagoon",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 82,
+          "stars": 2,
+          "attackCount": 1,
+          "totalLooted": 7160,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2R2JYRRU",
+                "name": "taz"
+              },
+              "destructionPercent": 82,
+              "stars": 2
+            }
+          ]
         },
         {
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 83,
+          "stars": 2,
+          "attackCount": 1,
+          "totalLooted": 7190,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2R2JYRRU",
+                "name": "taz"
+              },
+              "destructionPercent": 83,
+              "stars": 2
+            }
+          ]
         },
         {
           "id": 70000005,
