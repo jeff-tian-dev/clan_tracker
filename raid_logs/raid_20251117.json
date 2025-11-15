@@ -1704,7 +1704,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/03ftuoRSLNHBCg11Id-4Ft96q6_ho4l6qZZN3s_8qQc.png"
         }
       },
-      "attackCount": 13,
+      "attackCount": 14,
       "districtCount": 9,
       "districtsDestroyed": 5,
       "districts": [
@@ -1871,10 +1871,20 @@
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
+          "destructionPercent": 27,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 1,
+          "totalLooted": 2945,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#2JC2RRGR8",
+                "name": "yOme14"
+              },
+              "destructionPercent": 27,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000008,

@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/MemvfcNsCKAIJd01S-vNV8_nVwYBGkQOTRp3HgJs0QU.png"
     },
     "clanLevel": 11,
-    "attacks": 10,
-    "stars": 16,
-    "destructionPercentage": 29.4,
+    "attacks": 12,
+    "stars": 20,
+    "destructionPercentage": 37.9,
     "members": [
       {
         "tag": "#GLU9LC2LG",
@@ -134,13 +134,39 @@
         "name": "\u24c2\ufe0fBIG COCHY3\u24c2\ufe0f",
         "townhallLevel": 16,
         "mapPosition": 10,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2YPCU98U",
+          "defenderTag": "#9U2YP0RY",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 27,
+          "duration": 139
+        }
       },
       {
         "tag": "#2CQLC28UP",
         "name": "gun",
         "townhallLevel": 16,
         "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#2CQLC28UP",
+            "defenderTag": "#YUQYGRJRJ",
+            "stars": 2,
+            "destructionPercentage": 87,
+            "order": 24,
+            "duration": 164
+          },
+          {
+            "attackerTag": "#2CQLC28UP",
+            "defenderTag": "#YRPL2UCGJ",
+            "stars": 2,
+            "destructionPercentage": 83,
+            "order": 25,
+            "duration": 151
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#PVQPJ90R",
@@ -204,14 +230,14 @@
         "name": "83c",
         "townhallLevel": 17,
         "mapPosition": 2,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#GGLPPU0PY",
+          "attackerTag": "#U88VGU9C",
           "defenderTag": "#QYCLC0JLL",
-          "stars": 2,
-          "destructionPercentage": 85,
-          "order": 5,
-          "duration": 179
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 28,
+          "duration": 154
         }
       },
       {
@@ -259,14 +285,14 @@
             "duration": 155
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 4,
         "bestOpponentAttack": {
-          "attackerTag": "#U88VGU9C",
+          "attackerTag": "#2L80P92L9",
           "defenderTag": "#G28CVVRJL",
-          "stars": 2,
-          "destructionPercentage": 99,
-          "order": 23,
-          "duration": 180
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 31,
+          "duration": 172
         }
       },
       {
@@ -281,7 +307,15 @@
         "name": "taz",
         "townhallLevel": 17,
         "mapPosition": 3,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2L80P92L9",
+          "defenderTag": "#2R2JYRRU",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 30,
+          "duration": 173
+        }
       },
       {
         "tag": "#GGYGQ8098",
@@ -327,7 +361,15 @@
         "name": "\u2b50\u2b505 StarFree\u2b50\u2b50\u2b50",
         "townhallLevel": 17,
         "mapPosition": 4,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#80J0JQ2P8",
+          "defenderTag": "#Y2PVPPU8C",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 26,
+          "duration": 138
+        }
       }
     ]
   },
@@ -340,15 +382,33 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/eOvwEdkZLdOiTObQdkliSyEH8_m2qga3awjlhfmn_Zk.png"
     },
     "clanLevel": 13,
-    "attacks": 13,
-    "stars": 27,
-    "destructionPercentage": 48.0,
+    "attacks": 19,
+    "stars": 38,
+    "destructionPercentage": 63.8,
     "members": [
       {
         "tag": "#2L80P92L9",
         "name": "Chase",
         "townhallLevel": 17,
         "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#2L80P92L9",
+            "defenderTag": "#2R2JYRRU",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 30,
+            "duration": 173
+          },
+          {
+            "attackerTag": "#2L80P92L9",
+            "defenderTag": "#G28CVVRJL",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 31,
+            "duration": 172
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#G28CVVRJL",
@@ -364,6 +424,16 @@
         "name": "vLizzy",
         "townhallLevel": 17,
         "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#2YPCU98U",
+            "defenderTag": "#9U2YP0RY",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 27,
+            "duration": 139
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -500,6 +570,24 @@
         "name": "Lucky",
         "townhallLevel": 17,
         "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#80J0JQ2P8",
+            "defenderTag": "#Y2PVPPU8C",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 26,
+            "duration": 138
+          },
+          {
+            "attackerTag": "#80J0JQ2P8",
+            "defenderTag": "#G28CVVRJL",
+            "stars": 2,
+            "destructionPercentage": 82,
+            "order": 29,
+            "duration": 142
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -540,6 +628,14 @@
             "destructionPercentage": 99,
             "order": 23,
             "duration": 180
+          },
+          {
+            "attackerTag": "#U88VGU9C",
+            "defenderTag": "#QYCLC0JLL",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 28,
+            "duration": 154
           }
         ],
         "opponentAttacks": 3,
@@ -572,7 +668,15 @@
         "name": "IMMORTAL WORLD",
         "townhallLevel": 16,
         "mapPosition": 11,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2CQLC28UP",
+          "defenderTag": "#YUQYGRJRJ",
+          "stars": 2,
+          "destructionPercentage": 87,
+          "order": 24,
+          "duration": 164
+        }
       },
       {
         "tag": "#GC9QCPVQ8",
@@ -618,7 +722,15 @@
         "name": "ThUndEr",
         "townhallLevel": 16,
         "mapPosition": 12,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#2CQLC28UP",
+          "defenderTag": "#YRPL2UCGJ",
+          "stars": 2,
+          "destructionPercentage": 83,
+          "order": 25,
+          "duration": 151
+        }
       },
       {
         "tag": "#9QPC2YVC8",
