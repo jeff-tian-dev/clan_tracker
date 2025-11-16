@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/MemvfcNsCKAIJd01S-vNV8_nVwYBGkQOTRp3HgJs0QU.png"
     },
     "clanLevel": 11,
-    "attacks": 24,
-    "stars": 42,
-    "destructionPercentage": 75.8,
+    "attacks": 26,
+    "stars": 45,
+    "destructionPercentage": 80.8,
     "members": [
       {
         "tag": "#GLU9LC2LG",
@@ -300,6 +300,16 @@
         "name": "83c",
         "townhallLevel": 17,
         "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#QYCLC0JLL",
+            "defenderTag": "#80J0JQ2P8",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 54,
+            "duration": 132
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#U88VGU9C",
@@ -510,6 +520,16 @@
         "name": "siwi2isuus2",
         "townhallLevel": 16,
         "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#LGGLYVUPP",
+            "defenderTag": "#PQYU9Y9VQ",
+            "stars": 2,
+            "destructionPercentage": 89,
+            "order": 53,
+            "duration": 129
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#YRPL2UCGJ",
@@ -664,7 +684,7 @@
             "duration": 175
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
           "attackerTag": "#9VU0VU90G",
           "defenderTag": "#PQYU9Y9VQ",
@@ -818,7 +838,15 @@
             "duration": 142
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#QYCLC0JLL",
+          "defenderTag": "#80J0JQ2P8",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 54,
+          "duration": 132
+        }
       },
       {
         "tag": "#L2QV98Y2G",

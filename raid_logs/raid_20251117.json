@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251114T070000.000Z",
   "endTime": "20251117T070000.000Z",
-  "capitalTotalLoot": 475071,
+  "capitalTotalLoot": 485088,
   "raidsCompleted": 7,
-  "totalAttacks": 119,
-  "enemyDistrictsDestroyed": 42,
+  "totalAttacks": 125,
+  "enemyDistrictsDestroyed": 44,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -120,6 +120,14 @@
       "attackLimit": 5,
       "bonusAttackLimit": 1,
       "capitalResourcesLooted": 24773
+    },
+    {
+      "tag": "#GGJGUUG8Q",
+      "name": "Cristy",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 10017
     },
     {
       "tag": "#UJLGUG8G",
@@ -1494,28 +1502,62 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/5btM8u_ZyJPT3IU1d7AMxDvcimvBUOS3VFzn-fU3rho.png"
         }
       },
-      "attackCount": 15,
+      "attackCount": 21,
       "districtCount": 9,
-      "districtsDestroyed": 6,
+      "districtsDestroyed": 8,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 60,
+          "stars": 1,
+          "attackCount": 3,
+          "totalLooted": 4915,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GGJGUUG8Q",
+                "name": "Cristy"
+              },
+              "destructionPercent": 60,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#GGJGUUG8Q",
+                "name": "Cristy"
+              },
+              "destructionPercent": 51,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#GGJGUUG8Q",
+                "name": "Cristy"
+              },
+              "destructionPercent": 36,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 97,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 10770,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11912,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#GGJGUUG8Q",
+                "name": "Cristy"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#UJLGUG8G",
@@ -1619,11 +1661,27 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 4,
-          "destructionPercent": 47,
-          "stars": 1,
-          "attackCount": 1,
-          "totalLooted": 5010,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 8970,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#GGJGUUG8Q",
+                "name": "Cristy"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GGJGUUG8Q",
+                "name": "Cristy"
+              },
+              "destructionPercent": 68,
+              "stars": 2
+            },
             {
               "attacker": {
                 "tag": "#UJLGUG8G",
