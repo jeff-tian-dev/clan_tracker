@@ -15,7 +15,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/MemvfcNsCKAIJd01S-vNV8_nVwYBGkQOTRp3HgJs0QU.png"
     },
     "clanLevel": 11,
-    "attacks": 23,
+    "attacks": 24,
     "stars": 42,
     "destructionPercentage": 75.8,
     "members": [
@@ -42,7 +42,15 @@
             "duration": 156
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YRPL2UCGJ",
+          "defenderTag": "#GLU9LC2LG",
+          "stars": 2,
+          "destructionPercentage": 90,
+          "order": 48,
+          "duration": 162
+        }
       },
       {
         "tag": "#Q9QU8L8YV",
@@ -259,6 +267,14 @@
             "destructionPercentage": 100,
             "order": 37,
             "duration": 152
+          },
+          {
+            "attackerTag": "#J88YJGY9",
+            "defenderTag": "#PQYU9Y9VQ",
+            "stars": 2,
+            "destructionPercentage": 93,
+            "order": 46,
+            "duration": 145
           }
         ],
         "opponentAttacks": 1,
@@ -470,7 +486,15 @@
         "name": "siwi2isuus2",
         "townhallLevel": 16,
         "mapPosition": 16,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YRPL2UCGJ",
+          "defenderTag": "#LGGLYVUPP",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 47,
+          "duration": 164
+        }
       },
       {
         "tag": "#Y2PVPPU8C",
@@ -498,9 +522,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/eOvwEdkZLdOiTObQdkliSyEH8_m2qga3awjlhfmn_Zk.png"
     },
     "clanLevel": 13,
-    "attacks": 22,
-    "stars": 43,
-    "destructionPercentage": 72.3,
+    "attacks": 24,
+    "stars": 48,
+    "destructionPercentage": 81.8,
     "members": [
       {
         "tag": "#2L80P92L9",
@@ -598,7 +622,7 @@
         "name": "Riger",
         "townhallLevel": 16,
         "mapPosition": 14,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#9VU0VU90G",
           "defenderTag": "#PQYU9Y9VQ",
@@ -910,6 +934,24 @@
         "name": "ThUndEr",
         "townhallLevel": 16,
         "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#YRPL2UCGJ",
+            "defenderTag": "#LGGLYVUPP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 47,
+            "duration": 164
+          },
+          {
+            "attackerTag": "#YRPL2UCGJ",
+            "defenderTag": "#GLU9LC2LG",
+            "stars": 2,
+            "destructionPercentage": 90,
+            "order": 48,
+            "duration": 162
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#2CQLC28UP",
