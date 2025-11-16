@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251114T070000.000Z",
   "endTime": "20251117T070000.000Z",
-  "capitalTotalLoot": 428110,
+  "capitalTotalLoot": 466199,
   "raidsCompleted": 5,
-  "totalAttacks": 109,
-  "enemyDistrictsDestroyed": 38,
+  "totalAttacks": 117,
+  "enemyDistrictsDestroyed": 41,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -116,10 +116,18 @@
     {
       "tag": "#LYJJ9PLV9",
       "name": "Phantom",
-      "attacks": 2,
+      "attacks": 4,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 6733
+      "capitalResourcesLooted": 15901
+    },
+    {
+      "tag": "#UJLGUG8G",
+      "name": "Bacon",
+      "attacks": 6,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 28921
     },
     {
       "tag": "#J88YJGY9",
@@ -1486,9 +1494,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/5btM8u_ZyJPT3IU1d7AMxDvcimvBUOS3VFzn-fU3rho.png"
         }
       },
-      "attackCount": 5,
+      "attackCount": 13,
       "districtCount": 9,
-      "districtsDestroyed": 2,
+      "districtsDestroyed": 5,
       "districts": [
         {
           "id": 70000000,
@@ -1503,19 +1511,55 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 97,
+          "stars": 2,
+          "attackCount": 2,
+          "totalLooted": 10770,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#UJLGUG8G",
+                "name": "Bacon"
+              },
+              "destructionPercent": 97,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#UJLGUG8G",
+                "name": "Bacon"
+              },
+              "destructionPercent": 52,
+              "stars": 2
+            }
+          ]
         },
         {
           "id": 70000002,
           "name": "Wizard Valley",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9278,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#UJLGUG8G",
+                "name": "Bacon"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#UJLGUG8G",
+                "name": "Bacon"
+              },
+              "destructionPercent": 50,
+              "stars": 2
+            }
+          ]
         },
         {
           "id": 70000003,
@@ -1548,11 +1592,19 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 4,
-          "destructionPercent": 62,
-          "stars": 2,
-          "attackCount": 1,
-          "totalLooted": 5945,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9808,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#UJLGUG8G",
+                "name": "Bacon"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#GGYGQ8098",
@@ -1567,10 +1619,20 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 47,
+          "stars": 1,
+          "attackCount": 1,
+          "totalLooted": 5010,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#UJLGUG8G",
+                "name": "Bacon"
+              },
+              "destructionPercent": 47,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000006,
@@ -1603,10 +1665,28 @@
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 3,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 9168,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LYJJ9PLV9",
+                "name": "Phantom"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LYJJ9PLV9",
+                "name": "Phantom"
+              },
+              "destructionPercent": 56,
+              "stars": 2
+            }
+          ]
         },
         {
           "id": 70000008,
@@ -2286,9 +2366,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/03ftuoRSLNHBCg11Id-4Ft96q6_ho4l6qZZN3s_8qQc.png"
         }
       },
-      "attackCount": 21,
+      "attackCount": 23,
       "districtCount": 9,
-      "districtsDestroyed": 6,
+      "districtsDestroyed": 8,
       "districts": [
         {
           "id": 70000000,
@@ -2443,11 +2523,19 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 92,
-          "stars": 1,
-          "attackCount": 3,
-          "totalLooted": 9250,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 4,
+          "totalLooted": 11777,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#9LQQ8JLQ2",
+                "name": "ONE PUNCH_"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#V02082R8",
@@ -2505,11 +2593,19 @@
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 73,
-          "stars": 2,
-          "attackCount": 2,
-          "totalLooted": 8075,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11714,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#9LQQ8JLQ2",
+                "name": "ONE PUNCH_"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#P0UYP088U",

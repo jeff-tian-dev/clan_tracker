@@ -12069,11 +12069,11 @@
       },
       {
         "date": "20251116",
-        "attacksUsed": 0,
-        "starsEarned": 0,
-        "destruction": 0,
-        "attacksMissed": 2,
-        "zeroParticipation": true
+        "attacksUsed": 1,
+        "starsEarned": 3,
+        "destruction": 100,
+        "attacksMissed": 1,
+        "zeroParticipation": false
       }
     ]
   },
@@ -36619,7 +36619,7 @@
       }
     ]
   },
-  "timestamp": "2025-11-15 19:00:03",
+  "timestamp": "2025-11-15 20:00:04",
   "#GPPQ0JCJR": {
     "name": "Goujii",
     "tag": "#GPPQ0JCJR",
@@ -107865,6 +107865,20 @@
   "#GGJQJ8UYY": {
     "name": "-Lost-",
     "tag": "#GGJQJ8UYY",
+    "history": [
+      {
+        "date": "20251116",
+        "attacksUsed": "---",
+        "starsEarned": "---",
+        "destruction": "---",
+        "attacksMissed": 0,
+        "zeroParticipation": true
+      }
+    ]
+  },
+  "#92PU8J9VR": {
+    "name": "nehm",
+    "tag": "#92PU8J9VR",
     "history": [
       {
         "date": "20251116",

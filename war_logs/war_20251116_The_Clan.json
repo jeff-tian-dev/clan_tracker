@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/MemvfcNsCKAIJd01S-vNV8_nVwYBGkQOTRp3HgJs0QU.png"
     },
     "clanLevel": 11,
-    "attacks": 16,
-    "stars": 26,
-    "destructionPercentage": 48.0,
+    "attacks": 17,
+    "stars": 29,
+    "destructionPercentage": 53.0,
     "members": [
       {
         "tag": "#GLU9LC2LG",
@@ -215,6 +215,16 @@
         "name": "King Killer",
         "townhallLevel": 16,
         "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#J88YJGY9",
+            "defenderTag": "#LRQ0UVGC0",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 37,
+            "duration": 152
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#LCQCYU0GV",
@@ -517,7 +527,15 @@
         "name": "Abhijit",
         "townhallLevel": 16,
         "mapPosition": 16,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#J88YJGY9",
+          "defenderTag": "#LRQ0UVGC0",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 37,
+          "duration": 152
+        }
       },
       {
         "tag": "#QGJG29L0",
