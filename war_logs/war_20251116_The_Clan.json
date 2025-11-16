@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/MemvfcNsCKAIJd01S-vNV8_nVwYBGkQOTRp3HgJs0QU.png"
     },
     "clanLevel": 11,
-    "attacks": 21,
-    "stars": 38,
-    "destructionPercentage": 67.8,
+    "attacks": 23,
+    "stars": 42,
+    "destructionPercentage": 75.8,
     "members": [
       {
         "tag": "#GLU9LC2LG",
@@ -89,6 +89,24 @@
         "name": "cyan",
         "townhallLevel": 16,
         "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#Q2QQL2YVV",
+            "defenderTag": "#2YPCU98U",
+            "stars": 2,
+            "destructionPercentage": 79,
+            "order": 44,
+            "duration": 177
+          },
+          {
+            "attackerTag": "#Q2QQL2YVV",
+            "defenderTag": "#GC9QCPVQ8",
+            "stars": 2,
+            "destructionPercentage": 81,
+            "order": 45,
+            "duration": 179
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#LCQCYU0GV",
@@ -540,7 +558,15 @@
             "duration": 131
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q2QQL2YVV",
+          "defenderTag": "#2YPCU98U",
+          "stars": 2,
+          "destructionPercentage": 79,
+          "order": 44,
+          "duration": 177
+        }
       },
       {
         "tag": "#LC2QJL8UY",
@@ -821,7 +847,15 @@
         "name": "Ro Rush",
         "townhallLevel": 17,
         "mapPosition": 13,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q2QQL2YVV",
+          "defenderTag": "#GC9QCPVQ8",
+          "stars": 2,
+          "destructionPercentage": 81,
+          "order": 45,
+          "duration": 179
+        }
       },
       {
         "tag": "#LCQCYU0GV",
