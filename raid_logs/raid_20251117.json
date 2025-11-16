@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251114T070000.000Z",
   "endTime": "20251117T070000.000Z",
-  "capitalTotalLoot": 466199,
-  "raidsCompleted": 5,
-  "totalAttacks": 117,
-  "enemyDistrictsDestroyed": 41,
+  "capitalTotalLoot": 475071,
+  "raidsCompleted": 6,
+  "totalAttacks": 119,
+  "enemyDistrictsDestroyed": 42,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -116,10 +116,10 @@
     {
       "tag": "#LYJJ9PLV9",
       "name": "Phantom",
-      "attacks": 4,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 15901
+      "capitalResourcesLooted": 24773
     },
     {
       "tag": "#UJLGUG8G",
@@ -1494,9 +1494,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/5btM8u_ZyJPT3IU1d7AMxDvcimvBUOS3VFzn-fU3rho.png"
         }
       },
-      "attackCount": 13,
+      "attackCount": 15,
       "districtCount": 9,
-      "districtsDestroyed": 5,
+      "districtsDestroyed": 6,
       "districts": [
         {
           "id": 70000000,
@@ -1692,10 +1692,28 @@
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 3,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 8872,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#LYJJ9PLV9",
+                "name": "Phantom"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#LYJJ9PLV9",
+                "name": "Phantom"
+              },
+              "destructionPercent": 46,
+              "stars": 0
+            }
+          ]
         }
       ]
     }
@@ -2366,18 +2384,60 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/03ftuoRSLNHBCg11Id-4Ft96q6_ho4l6qZZN3s_8qQc.png"
         }
       },
-      "attackCount": 23,
+      "attackCount": 28,
       "districtCount": 9,
-      "districtsDestroyed": 8,
+      "districtsDestroyed": 9,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 5,
+          "totalLooted": 13763,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GC28Q9LCC",
+                "name": "TUBA LAMI KAAYO"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GC28Q9LCC",
+                "name": "TUBA LAMI KAAYO"
+              },
+              "destructionPercent": 95,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#GC28Q9LCC",
+                "name": "TUBA LAMI KAAYO"
+              },
+              "destructionPercent": 77,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#GC28Q9LCC",
+                "name": "TUBA LAMI KAAYO"
+              },
+              "destructionPercent": 66,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#GC28Q9LCC",
+                "name": "TUBA LAMI KAAYO"
+              },
+              "destructionPercent": 42,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
