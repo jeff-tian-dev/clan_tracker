@@ -90,7 +90,15 @@
             "duration": 172
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YUQYGRJRJ",
+          "defenderTag": "#8VQYULVQQ",
+          "stars": 2,
+          "destructionPercentage": 96,
+          "order": 49,
+          "duration": 129
+        }
       },
       {
         "tag": "#Q2QQL2YVV",
@@ -479,7 +487,15 @@
             "duration": 174
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#YUQYGRJRJ",
+          "defenderTag": "#G9CC9G2VQ",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 50,
+          "duration": 82
+        }
       },
       {
         "tag": "#LGGLYVUPP",
@@ -522,9 +538,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/eOvwEdkZLdOiTObQdkliSyEH8_m2qga3awjlhfmn_Zk.png"
     },
     "clanLevel": 13,
-    "attacks": 24,
-    "stars": 48,
-    "destructionPercentage": 81.8,
+    "attacks": 26,
+    "stars": 53,
+    "destructionPercentage": 91.6,
     "members": [
       {
         "tag": "#2L80P92L9",
@@ -856,6 +872,24 @@
         "name": "IMMORTAL WORLD",
         "townhallLevel": 16,
         "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#YUQYGRJRJ",
+            "defenderTag": "#8VQYULVQQ",
+            "stars": 2,
+            "destructionPercentage": 96,
+            "order": 49,
+            "duration": 129
+          },
+          {
+            "attackerTag": "#YUQYGRJRJ",
+            "defenderTag": "#G9CC9G2VQ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 50,
+            "duration": 82
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#2CQLC28UP",

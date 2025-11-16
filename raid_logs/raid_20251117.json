@@ -2712,6 +2712,232 @@
           ]
         }
       ]
+    },
+    {
+      "attacker": {
+        "tag": "#2GY2QLJRC",
+        "name": "TOP_KING",
+        "level": 14,
+        "badgeUrls": {
+          "small": "https://api-assets.clashofclans.com/badges/70/9Dtq5TBnhHq5rzGUQyGnvXTVexfdVx5ASWgh33D-_n0.png",
+          "large": "https://api-assets.clashofclans.com/badges/512/9Dtq5TBnhHq5rzGUQyGnvXTVexfdVx5ASWgh33D-_n0.png",
+          "medium": "https://api-assets.clashofclans.com/badges/200/9Dtq5TBnhHq5rzGUQyGnvXTVexfdVx5ASWgh33D-_n0.png"
+        }
+      },
+      "attackCount": 14,
+      "districtCount": 9,
+      "districtsDestroyed": 8,
+      "districts": [
+        {
+          "id": 70000000,
+          "name": "Capital Peak",
+          "districtHallLevel": 10,
+          "destructionPercent": 0,
+          "stars": 0,
+          "attackCount": 0,
+          "totalLooted": 0
+        },
+        {
+          "id": 70000001,
+          "name": "Barbarian Camp",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11832,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#G8V900JUQ",
+                "name": "\u2728\u5ff5\u5974\u5a07\u2728"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#G8V900JUQ",
+                "name": "\u2728\u5ff5\u5974\u5a07\u2728"
+              },
+              "destructionPercent": 49,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000002,
+          "name": "Wizard Valley",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 10241,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#G8V900JUQ",
+                "name": "\u2728\u5ff5\u5974\u5a07\u2728"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GLVUY0JCY",
+                "name": "Recall 1"
+              },
+              "destructionPercent": 50,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000003,
+          "name": "Balloon Lagoon",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11145,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GLVUY0JCY",
+                "name": "Recall 1"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GLVUY0JCY",
+                "name": "Recall 1"
+              },
+              "destructionPercent": 42,
+              "stars": 0
+            }
+          ]
+        },
+        {
+          "id": 70000004,
+          "name": "Builder's Workshop",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 12032,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GLVUY0JCY",
+                "name": "Recall 1"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GLVUY0JCY",
+                "name": "Recall 1"
+              },
+              "destructionPercent": 60,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000005,
+          "name": "Dragon Cliffs",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11516,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GR9PUC28R",
+                "name": "Recall 43"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GR9PUC28R",
+                "name": "Recall 43"
+              },
+              "destructionPercent": 58,
+              "stars": 1
+            }
+          ]
+        },
+        {
+          "id": 70000006,
+          "name": "Golem Quarry",
+          "districtHallLevel": 5,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 1,
+          "totalLooted": 11373,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QQQQVVCLY",
+                "name": "Recall"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            }
+          ]
+        },
+        {
+          "id": 70000007,
+          "name": "Skeleton Park",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 12137,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GLVUY0JCY",
+                "name": "Recall 1"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GR9PUC28R",
+                "name": "Recall 43"
+              },
+              "destructionPercent": 75,
+              "stars": 2
+            }
+          ]
+        },
+        {
+          "id": 70000008,
+          "name": "Goblin Mines",
+          "districtHallLevel": 4,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 1,
+          "totalLooted": 11544,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QQQQVVCLY",
+                "name": "Recall"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            }
+          ]
+        }
+      ]
     }
   ]
 }
