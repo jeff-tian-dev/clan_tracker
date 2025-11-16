@@ -2,9 +2,9 @@
   "state": "ongoing",
   "startTime": "20251114T070000.000Z",
   "endTime": "20251117T070000.000Z",
-  "capitalTotalLoot": 543662,
+  "capitalTotalLoot": 547712,
   "raidsCompleted": 8,
-  "totalAttacks": 140,
+  "totalAttacks": 141,
   "enemyDistrictsDestroyed": 49,
   "offensiveReward": 0,
   "defensiveReward": 0,
@@ -164,10 +164,10 @@
     {
       "tag": "#GU2P0YJP2",
       "name": "Meks",
-      "attacks": 5,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 22045
+      "capitalResourcesLooted": 26095
     },
     {
       "tag": "#G28CVVRJL",
@@ -1834,7 +1834,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/pzz8TRmccLr3uNclg1BHzgj-s6wgAU4NHGsIUokmNlw.png"
         }
       },
-      "attackCount": 12,
+      "attackCount": 13,
       "districtCount": 9,
       "districtsDestroyed": 4,
       "districts": [
@@ -1851,10 +1851,20 @@
           "id": 70000001,
           "name": "Barbarian Camp",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
+          "destructionPercent": 40,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 1,
+          "totalLooted": 4050,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GU2P0YJP2",
+                "name": "Meks"
+              },
+              "destructionPercent": 40,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000002,

@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/MemvfcNsCKAIJd01S-vNV8_nVwYBGkQOTRp3HgJs0QU.png"
     },
     "clanLevel": 11,
-    "attacks": 32,
-    "stars": 57,
-    "destructionPercentage": 98.05,
+    "attacks": 34,
+    "stars": 58,
+    "destructionPercentage": 99.7,
     "members": [
       {
         "tag": "#GLU9LC2LG",
@@ -138,6 +138,24 @@
         "name": "Nick",
         "townhallLevel": 17,
         "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#L20CLJRGU",
+            "defenderTag": "#2YPCU98U",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 70,
+            "duration": 177
+          },
+          {
+            "attackerTag": "#L20CLJRGU",
+            "defenderTag": "#YUQYGRJRJ",
+            "stars": 2,
+            "destructionPercentage": 99,
+            "order": 71,
+            "duration": 180
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#LC2QJL8UY",
@@ -680,13 +698,13 @@
             "duration": 131
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#Q2QQL2YVV",
+          "attackerTag": "#L20CLJRGU",
           "defenderTag": "#2YPCU98U",
-          "stars": 2,
-          "destructionPercentage": 79,
-          "order": 44,
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 70,
           "duration": 177
         }
       },
@@ -1050,14 +1068,14 @@
             "duration": 82
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#2CQLC28UP",
+          "attackerTag": "#L20CLJRGU",
           "defenderTag": "#YUQYGRJRJ",
           "stars": 2,
-          "destructionPercentage": 87,
-          "order": 24,
-          "duration": 164
+          "destructionPercentage": 99,
+          "order": 71,
+          "duration": 180
         }
       },
       {
