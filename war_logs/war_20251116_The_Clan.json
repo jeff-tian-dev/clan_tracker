@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/MemvfcNsCKAIJd01S-vNV8_nVwYBGkQOTRp3HgJs0QU.png"
     },
     "clanLevel": 11,
-    "attacks": 19,
-    "stars": 35,
-    "destructionPercentage": 63.0,
+    "attacks": 21,
+    "stars": 38,
+    "destructionPercentage": 67.8,
     "members": [
       {
         "tag": "#GLU9LC2LG",
@@ -291,7 +291,15 @@
             "duration": 180
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#9QPC2YVC8",
+          "defenderTag": "#QRP2RLV02",
+          "stars": 1,
+          "destructionPercentage": 46,
+          "order": 43,
+          "duration": 135
+        }
       },
       {
         "tag": "#GU2P0YJP2",
@@ -346,6 +354,24 @@
         "name": "Edison123",
         "townhallLevel": 15,
         "mapPosition": 17,
+        "attacks": [
+          {
+            "attackerTag": "#9VU0VU90G",
+            "defenderTag": "#QGJG29L0",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 41,
+            "duration": 166
+          },
+          {
+            "attackerTag": "#9VU0VU90G",
+            "defenderTag": "#PQYU9Y9VQ",
+            "stars": 2,
+            "destructionPercentage": 95,
+            "order": 42,
+            "duration": 163
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -454,9 +480,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/eOvwEdkZLdOiTObQdkliSyEH8_m2qga3awjlhfmn_Zk.png"
     },
     "clanLevel": 13,
-    "attacks": 21,
-    "stars": 42,
-    "destructionPercentage": 70.0,
+    "attacks": 22,
+    "stars": 43,
+    "destructionPercentage": 72.3,
     "members": [
       {
         "tag": "#2L80P92L9",
@@ -546,7 +572,15 @@
         "name": "Riger",
         "townhallLevel": 16,
         "mapPosition": 14,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#9VU0VU90G",
+          "defenderTag": "#PQYU9Y9VQ",
+          "stars": 2,
+          "destructionPercentage": 95,
+          "order": 42,
+          "duration": 163
+        }
       },
       {
         "tag": "#LRQ0UVGC0",
@@ -568,14 +602,14 @@
         "name": "dude",
         "townhallLevel": 15,
         "mapPosition": 17,
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#QRP2RLV02",
+          "attackerTag": "#9VU0VU90G",
           "defenderTag": "#QGJG29L0",
-          "stars": 2,
-          "destructionPercentage": 99,
-          "order": 36,
-          "duration": 180
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 41,
+          "duration": 166
         }
       },
       {
@@ -865,6 +899,14 @@
             "destructionPercentage": 100,
             "order": 40,
             "duration": 94
+          },
+          {
+            "attackerTag": "#9QPC2YVC8",
+            "defenderTag": "#QRP2RLV02",
+            "stars": 1,
+            "destructionPercentage": 46,
+            "order": 43,
+            "duration": 135
           }
         ],
         "opponentAttacks": 2,
