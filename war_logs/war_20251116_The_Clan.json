@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/MemvfcNsCKAIJd01S-vNV8_nVwYBGkQOTRp3HgJs0QU.png"
     },
     "clanLevel": 11,
-    "attacks": 34,
-    "stars": 58,
-    "destructionPercentage": 99.7,
+    "attacks": 36,
+    "stars": 60,
+    "destructionPercentage": 100.0,
     "members": [
       {
         "tag": "#GLU9LC2LG",
@@ -57,6 +57,16 @@
         "name": "je suis excit\u00e9",
         "townhallLevel": 17,
         "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#Q9QU8L8YV",
+            "defenderTag": "#YUQYGRJRJ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 72,
+            "duration": 140
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#L2QV98Y2G",
@@ -617,6 +627,16 @@
         "name": "\u2b50\u2b505 StarFree\u2b50\u2b50\u2b50",
         "townhallLevel": 17,
         "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#Y2PVPPU8C",
+            "defenderTag": "#PQYU9Y9VQ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 73,
+            "duration": 134
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#80J0JQ2P8",
@@ -764,14 +784,14 @@
             "duration": 175
           }
         ],
-        "opponentAttacks": 3,
+        "opponentAttacks": 4,
         "bestOpponentAttack": {
-          "attackerTag": "#9VU0VU90G",
+          "attackerTag": "#Y2PVPPU8C",
           "defenderTag": "#PQYU9Y9VQ",
-          "stars": 2,
-          "destructionPercentage": 95,
-          "order": 42,
-          "duration": 163
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 73,
+          "duration": 134
         }
       },
       {
@@ -1068,14 +1088,14 @@
             "duration": 82
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#L20CLJRGU",
+          "attackerTag": "#Q9QU8L8YV",
           "defenderTag": "#YUQYGRJRJ",
-          "stars": 2,
-          "destructionPercentage": 99,
-          "order": 71,
-          "duration": 180
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 72,
+          "duration": 140
         }
       },
       {
