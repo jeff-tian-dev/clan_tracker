@@ -2042,18 +2042,60 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/8Sw3HgwVkJzigVRRK1rlLJd4h400PYREaLjYGoCnpBw.png"
         }
       },
-      "attackCount": 27,
+      "attackCount": 33,
       "districtCount": 9,
-      "districtsDestroyed": 7,
+      "districtsDestroyed": 8,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 92,
+          "stars": 2,
+          "attackCount": 5,
+          "totalLooted": 12370,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#8LR9J8G82",
+                "name": "\u1d57\u02b3\u1d58\u02e2;\u1d50\u1d49\u1d49"
+              },
+              "destructionPercent": 92,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#8LR9J8G82",
+                "name": "\u1d57\u02b3\u1d58\u02e2;\u1d50\u1d49\u1d49"
+              },
+              "destructionPercent": 83,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#8LR9J8G82",
+                "name": "\u1d57\u02b3\u1d58\u02e2;\u1d50\u1d49\u1d49"
+              },
+              "destructionPercent": 71,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#8LR9J8G82",
+                "name": "\u1d57\u02b3\u1d58\u02e2;\u1d50\u1d49\u1d49"
+              },
+              "destructionPercent": 59,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#8LR9J8G82",
+                "name": "\u1d57\u02b3\u1d58\u02e2;\u1d50\u1d49\u1d49"
+              },
+              "destructionPercent": 41,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
@@ -2215,11 +2257,19 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 98,
-          "stars": 2,
-          "attackCount": 5,
-          "totalLooted": 11005,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 6,
+          "totalLooted": 11939,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#8LR9J8G82",
+                "name": "\u1d57\u02b3\u1d58\u02e2;\u1d50\u1d49\u1d49"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#JVG98Q0R",

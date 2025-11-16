@@ -328,7 +328,7 @@
             "duration": 110
           }
         ],
-        "opponentAttacks": 3,
+        "opponentAttacks": 4,
         "bestOpponentAttack": {
           "attackerTag": "#U88VGU9C",
           "defenderTag": "#QYCLC0JLL",
@@ -427,7 +427,7 @@
             "duration": 155
           }
         ],
-        "opponentAttacks": 5,
+        "opponentAttacks": 8,
         "bestOpponentAttack": {
           "attackerTag": "#2L80P92L9",
           "defenderTag": "#G28CVVRJL",
@@ -620,7 +620,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/eOvwEdkZLdOiTObQdkliSyEH8_m2qga3awjlhfmn_Zk.png"
     },
     "clanLevel": 13,
-    "attacks": 33,
+    "attacks": 37,
     "stars": 60,
     "destructionPercentage": 100.0,
     "members": [
@@ -1073,6 +1073,14 @@
             "destructionPercentage": 100,
             "order": 65,
             "duration": 169
+          },
+          {
+            "attackerTag": "#GC9QCPVQ8",
+            "defenderTag": "#G28CVVRJL",
+            "stars": 2,
+            "destructionPercentage": 77,
+            "order": 66,
+            "duration": 180
           }
         ],
         "opponentAttacks": 2,
@@ -1123,6 +1131,24 @@
         "name": "tabbyyyyy rush",
         "townhallLevel": 17,
         "mapPosition": 18,
+        "attacks": [
+          {
+            "attackerTag": "#GGYC2U9GP",
+            "defenderTag": "#QYCLC0JLL",
+            "stars": 2,
+            "destructionPercentage": 87,
+            "order": 68,
+            "duration": 180
+          },
+          {
+            "attackerTag": "#GGYC2U9GP",
+            "defenderTag": "#G28CVVRJL",
+            "stars": 2,
+            "destructionPercentage": 79,
+            "order": 69,
+            "duration": 180
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#G9CC9G2VQ",
@@ -1212,6 +1238,14 @@
             "destructionPercentage": 100,
             "order": 64,
             "duration": 149
+          },
+          {
+            "attackerTag": "#QVCJPQV8Y",
+            "defenderTag": "#G28CVVRJL",
+            "stars": 2,
+            "destructionPercentage": 81,
+            "order": 67,
+            "duration": 159
           }
         ],
         "opponentAttacks": 3,
