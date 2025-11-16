@@ -2,10 +2,10 @@
   "state": "ongoing",
   "startTime": "20251114T070000.000Z",
   "endTime": "20251117T070000.000Z",
-  "capitalTotalLoot": 517817,
+  "capitalTotalLoot": 543662,
   "raidsCompleted": 8,
-  "totalAttacks": 134,
-  "enemyDistrictsDestroyed": 47,
+  "totalAttacks": 140,
+  "enemyDistrictsDestroyed": 49,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
@@ -156,10 +156,18 @@
     {
       "tag": "#QYCLC0JLL",
       "name": "83c",
-      "attacks": 3,
+      "attacks": 4,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 8681
+      "capitalResourcesLooted": 12481
+    },
+    {
+      "tag": "#GU2P0YJP2",
+      "name": "Meks",
+      "attacks": 5,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 22045
     },
     {
       "tag": "#G28CVVRJL",
@@ -1826,9 +1834,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/pzz8TRmccLr3uNclg1BHzgj-s6wgAU4NHGsIUokmNlw.png"
         }
       },
-      "attackCount": 6,
+      "attackCount": 12,
       "districtCount": 9,
-      "districtsDestroyed": 2,
+      "districtsDestroyed": 4,
       "districts": [
         {
           "id": 70000000,
@@ -1915,10 +1923,36 @@
           "id": 70000005,
           "name": "Dragon Cliffs",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11246,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GU2P0YJP2",
+                "name": "Meks"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GU2P0YJP2",
+                "name": "Meks"
+              },
+              "destructionPercent": 84,
+              "stars": 2
+            },
+            {
+              "attacker": {
+                "tag": "#QYCLC0JLL",
+                "name": "83c"
+              },
+              "destructionPercent": 51,
+              "stars": 2
+            }
+          ]
         },
         {
           "id": 70000006,
@@ -1951,19 +1985,47 @@
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 2,
+          "totalLooted": 11069,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GU2P0YJP2",
+                "name": "Meks"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GU2P0YJP2",
+                "name": "Meks"
+              },
+              "destructionPercent": 40,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000008,
           "name": "Goblin Mines",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
+          "destructionPercent": 28,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 1,
+          "totalLooted": 3530,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GU2P0YJP2",
+                "name": "Meks"
+              },
+              "destructionPercent": 28,
+              "stars": 0
+            }
+          ]
         }
       ]
     }

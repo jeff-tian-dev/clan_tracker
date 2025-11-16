@@ -42,14 +42,14 @@
             "duration": 156
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#YRPL2UCGJ",
+          "attackerTag": "#GC9QCPVQ8",
           "defenderTag": "#GLU9LC2LG",
-          "stars": 2,
-          "destructionPercentage": 90,
-          "order": 48,
-          "duration": 162
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 65,
+          "duration": 169
         }
       },
       {
@@ -90,14 +90,14 @@
             "duration": 172
           }
         ],
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#YUQYGRJRJ",
+          "attackerTag": "#QVCJPQV8Y",
           "defenderTag": "#8VQYULVQQ",
-          "stars": 2,
-          "destructionPercentage": 96,
-          "order": 49,
-          "duration": 129
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 64,
+          "duration": 149
         }
       },
       {
@@ -620,9 +620,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/eOvwEdkZLdOiTObQdkliSyEH8_m2qga3awjlhfmn_Zk.png"
     },
     "clanLevel": 13,
-    "attacks": 31,
-    "stars": 58,
-    "destructionPercentage": 99.3,
+    "attacks": 33,
+    "stars": 60,
+    "destructionPercentage": 100.0,
     "members": [
       {
         "tag": "#2L80P92L9",
@@ -1065,6 +1065,16 @@
         "name": "Ro Rush",
         "townhallLevel": 17,
         "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#GC9QCPVQ8",
+            "defenderTag": "#GLU9LC2LG",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 65,
+            "duration": 169
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#Y80PLCRQ9",
@@ -1194,6 +1204,16 @@
         "name": "Ro",
         "townhallLevel": 17,
         "mapPosition": 3,
+        "attacks": [
+          {
+            "attackerTag": "#QVCJPQV8Y",
+            "defenderTag": "#8VQYULVQQ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 64,
+            "duration": 149
+          }
+        ],
         "opponentAttacks": 3,
         "bestOpponentAttack": {
           "attackerTag": "#2R2JYRRU",
