@@ -399,7 +399,7 @@
             "duration": 155
           }
         ],
-        "opponentAttacks": 4,
+        "opponentAttacks": 5,
         "bestOpponentAttack": {
           "attackerTag": "#2L80P92L9",
           "defenderTag": "#G28CVVRJL",
@@ -592,7 +592,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/eOvwEdkZLdOiTObQdkliSyEH8_m2qga3awjlhfmn_Zk.png"
     },
     "clanLevel": 13,
-    "attacks": 28,
+    "attacks": 29,
     "stars": 58,
     "destructionPercentage": 99.3,
     "members": [
@@ -953,6 +953,16 @@
         "name": "PAVI KAINTH",
         "townhallLevel": 11,
         "mapPosition": 20,
+        "attacks": [
+          {
+            "attackerTag": "#R0G9V90U9",
+            "defenderTag": "#G28CVVRJL",
+            "stars": 0,
+            "destructionPercentage": 27,
+            "order": 58,
+            "duration": 44
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#GGYGQ8098",

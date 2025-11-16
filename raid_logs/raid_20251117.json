@@ -2,13 +2,21 @@
   "state": "ongoing",
   "startTime": "20251114T070000.000Z",
   "endTime": "20251117T070000.000Z",
-  "capitalTotalLoot": 493769,
+  "capitalTotalLoot": 508073,
   "raidsCompleted": 8,
-  "totalAttacks": 128,
-  "enemyDistrictsDestroyed": 45,
+  "totalAttacks": 132,
+  "enemyDistrictsDestroyed": 46,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
+    {
+      "tag": "#GU9YPRYJ",
+      "name": "Master Baker",
+      "attacks": 4,
+      "attackLimit": 5,
+      "bonusAttackLimit": 1,
+      "capitalResourcesLooted": 14304
+    },
     {
       "tag": "#QYL88U9P0",
       "name": "voldemort",
@@ -1818,9 +1826,9 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/pzz8TRmccLr3uNclg1BHzgj-s6wgAU4NHGsIUokmNlw.png"
         }
       },
-      "attackCount": 0,
+      "attackCount": 4,
       "districtCount": 9,
-      "districtsDestroyed": 0,
+      "districtsDestroyed": 1,
       "districts": [
         {
           "id": 70000000,
@@ -1862,10 +1870,36 @@
           "id": 70000004,
           "name": "Builder's Workshop",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 3,
+          "totalLooted": 11149,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GU9YPRYJ",
+                "name": "Master Baker"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
+            {
+              "attacker": {
+                "tag": "#GU9YPRYJ",
+                "name": "Master Baker"
+              },
+              "destructionPercent": 68,
+              "stars": 1
+            },
+            {
+              "attacker": {
+                "tag": "#GU9YPRYJ",
+                "name": "Master Baker"
+              },
+              "destructionPercent": 39,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000005,
@@ -1880,10 +1914,20 @@
           "id": 70000006,
           "name": "Golem Quarry",
           "districtHallLevel": 5,
-          "destructionPercent": 0,
+          "destructionPercent": 44,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 1,
+          "totalLooted": 3155,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#GU9YPRYJ",
+                "name": "Master Baker"
+              },
+              "destructionPercent": 44,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000007,
