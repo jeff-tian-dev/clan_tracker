@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/r4vtzr_Zh3UtWFD9VbQX5hLEnkkzsPAFSnZJ4wZS-wM.png"
     },
     "clanLevel": 12,
-    "attacks": 26,
-    "stars": 62,
-    "destructionPercentage": 54.775,
+    "attacks": 30,
+    "stars": 72,
+    "destructionPercentage": 62.75,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -229,6 +229,16 @@
         "name": "\u24c2\ufe0fBIG COCHY3\u24c2\ufe0f",
         "townhallLevel": 16,
         "mapPosition": 22,
+        "attacks": [
+          {
+            "attackerTag": "#9U2YP0RY",
+            "defenderTag": "#2RRCV22RU",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 53,
+            "duration": 110
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#Q2U0RQLG9",
@@ -349,6 +359,24 @@
         "name": "Phantom",
         "townhallLevel": 17,
         "mapPosition": 21,
+        "attacks": [
+          {
+            "attackerTag": "#LYJJ9PLV9",
+            "defenderTag": "#PVLJ2R2PY",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 51,
+            "duration": 150
+          },
+          {
+            "attackerTag": "#LYJJ9PLV9",
+            "defenderTag": "#QP2VC0LLC",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 54,
+            "duration": 165
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#Q2U0RQLG9",
@@ -662,6 +690,16 @@
         "name": "Grizz",
         "townhallLevel": 15,
         "mapPosition": 34,
+        "attacks": [
+          {
+            "attackerTag": "#G9CC9G2VQ",
+            "defenderTag": "#G8RRY0LPP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 52,
+            "duration": 156
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -1106,7 +1144,15 @@
             "duration": 89
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#9U2YP0RY",
+          "defenderTag": "#2RRCV22RU",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 53,
+          "duration": 110
+        }
       },
       {
         "tag": "#LY8RPLPVP",
@@ -1226,14 +1272,30 @@
         "name": "SolidoglawaS",
         "townhallLevel": 17,
         "mapPosition": 35,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#G9CC9G2VQ",
+          "defenderTag": "#G8RRY0LPP",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 52,
+          "duration": 156
+        }
       },
       {
         "tag": "#QP2VC0LLC",
         "name": "Beau",
         "townhallLevel": 17,
         "mapPosition": 16,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LYJJ9PLV9",
+          "defenderTag": "#QP2VC0LLC",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 54,
+          "duration": 165
+        }
       },
       {
         "tag": "#GJ2YUYG9L",
@@ -1255,14 +1317,14 @@
         "name": "edwin20...",
         "townhallLevel": 17,
         "mapPosition": 18,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#Q2QQL2YVV",
+          "attackerTag": "#LYJJ9PLV9",
           "defenderTag": "#PVLJ2R2PY",
-          "stars": 2,
-          "destructionPercentage": 81,
-          "order": 7,
-          "duration": 180
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 51,
+          "duration": 150
         }
       },
       {

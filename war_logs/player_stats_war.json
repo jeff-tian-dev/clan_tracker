@@ -1487,11 +1487,11 @@
       },
       {
         "date": "20251118",
-        "attacksUsed": 0,
-        "starsEarned": 0,
-        "destruction": 0,
-        "attacksMissed": 2,
-        "zeroParticipation": true
+        "attacksUsed": 2,
+        "starsEarned": 6,
+        "destruction": 200,
+        "attacksMissed": 0,
+        "zeroParticipation": false
       }
     ]
   },
@@ -2983,11 +2983,11 @@
       },
       {
         "date": "20251118",
-        "attacksUsed": 0,
-        "starsEarned": 0,
-        "destruction": 0,
-        "attacksMissed": 2,
-        "zeroParticipation": true
+        "attacksUsed": 1,
+        "starsEarned": 3,
+        "destruction": 100,
+        "attacksMissed": 1,
+        "zeroParticipation": false
       }
     ]
   },
@@ -37435,7 +37435,7 @@
       }
     ]
   },
-  "timestamp": "2025-11-17 17:00:04",
+  "timestamp": "2025-11-17 18:00:04",
   "#GPPQ0JCJR": {
     "name": "Goujii",
     "tag": "#GPPQ0JCJR",
@@ -72870,11 +72870,11 @@
       },
       {
         "date": "20251118",
-        "attacksUsed": 0,
-        "starsEarned": 0,
-        "destruction": 0,
-        "attacksMissed": 2,
-        "zeroParticipation": true
+        "attacksUsed": 1,
+        "starsEarned": 3,
+        "destruction": 100,
+        "attacksMissed": 1,
+        "zeroParticipation": false
       }
     ]
   },
@@ -111735,6 +111735,20 @@
   "#YP8GL9U2G": {
     "name": "⭐R.Y.Z.E.N⭐",
     "tag": "#YP8GL9U2G",
+    "history": [
+      {
+        "date": "20251118",
+        "attacksUsed": "---",
+        "starsEarned": "---",
+        "destruction": "---",
+        "attacksMissed": 0,
+        "zeroParticipation": true
+      }
+    ]
+  },
+  "#L9GCJC8L": {
+    "name": "The great B",
+    "tag": "#L9GCJC8L",
     "history": [
       {
         "date": "20251118",
