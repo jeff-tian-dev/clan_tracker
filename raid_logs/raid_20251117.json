@@ -2,13 +2,21 @@
   "state": "ongoing",
   "startTime": "20251114T070000.000Z",
   "endTime": "20251117T070000.000Z",
-  "capitalTotalLoot": 608206,
-  "raidsCompleted": 9,
-  "totalAttacks": 158,
+  "capitalTotalLoot": 612261,
+  "raidsCompleted": 10,
+  "totalAttacks": 159,
   "enemyDistrictsDestroyed": 55,
   "offensiveReward": 0,
   "defensiveReward": 0,
   "members": [
+    {
+      "tag": "#8880L0C",
+      "name": "Thomas Cat",
+      "attacks": 1,
+      "attackLimit": 5,
+      "bonusAttackLimit": 0,
+      "capitalResourcesLooted": 4055
+    },
     {
       "tag": "#GU9YPRYJ",
       "name": "Master Baker",
@@ -2182,7 +2190,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/gIQBrFNZb598YXDUwqwVSyKqaLIhb3N9q29RhSA5j54.png"
         }
       },
-      "attackCount": 3,
+      "attackCount": 4,
       "districtCount": 9,
       "districtsDestroyed": 1,
       "districts": [
@@ -2253,10 +2261,20 @@
           "id": 70000007,
           "name": "Skeleton Park",
           "districtHallLevel": 4,
-          "destructionPercent": 0,
-          "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "destructionPercent": 36,
+          "stars": 1,
+          "attackCount": 1,
+          "totalLooted": 4055,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#8880L0C",
+                "name": "Thomas Cat"
+              },
+              "destructionPercent": 36,
+              "stars": 1
+            }
+          ]
         },
         {
           "id": 70000008,
@@ -2308,19 +2326,27 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/8Sw3HgwVkJzigVRRK1rlLJd4h400PYREaLjYGoCnpBw.png"
         }
       },
-      "attackCount": 33,
+      "attackCount": 34,
       "districtCount": 9,
-      "districtsDestroyed": 8,
+      "districtsDestroyed": 9,
       "districts": [
         {
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 92,
-          "stars": 2,
-          "attackCount": 5,
-          "totalLooted": 12370,
+          "destructionPercent": 100,
+          "stars": 3,
+          "attackCount": 6,
+          "totalLooted": 13883,
           "attacks": [
+            {
+              "attacker": {
+                "tag": "#JL22R8VU",
+                "name": "DaRkLiGht"
+              },
+              "destructionPercent": 100,
+              "stars": 3
+            },
             {
               "attacker": {
                 "tag": "#8LR9J8G82",
