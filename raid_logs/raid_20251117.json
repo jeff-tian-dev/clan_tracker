@@ -2,9 +2,9 @@
   "state": "ongoing",
   "startTime": "20251114T070000.000Z",
   "endTime": "20251117T070000.000Z",
-  "capitalTotalLoot": 582314,
+  "capitalTotalLoot": 585224,
   "raidsCompleted": 8,
-  "totalAttacks": 150,
+  "totalAttacks": 152,
   "enemyDistrictsDestroyed": 53,
   "offensiveReward": 0,
   "defensiveReward": 0,
@@ -156,10 +156,10 @@
     {
       "tag": "#QYCLC0JLL",
       "name": "83c",
-      "attacks": 4,
+      "attacks": 6,
       "attackLimit": 5,
       "bonusAttackLimit": 1,
-      "capitalResourcesLooted": 12481
+      "capitalResourcesLooted": 15391
     },
     {
       "tag": "#GU2P0YJP2",
@@ -1842,7 +1842,7 @@
           "medium": "https://api-assets.clashofclans.com/badges/200/pzz8TRmccLr3uNclg1BHzgj-s6wgAU4NHGsIUokmNlw.png"
         }
       },
-      "attackCount": 22,
+      "attackCount": 24,
       "districtCount": 9,
       "districtsDestroyed": 8,
       "districts": [
@@ -1850,10 +1850,28 @@
           "id": 70000000,
           "name": "Capital Peak",
           "districtHallLevel": 10,
-          "destructionPercent": 0,
+          "destructionPercent": 33,
           "stars": 0,
-          "attackCount": 0,
-          "totalLooted": 0
+          "attackCount": 2,
+          "totalLooted": 2910,
+          "attacks": [
+            {
+              "attacker": {
+                "tag": "#QYCLC0JLL",
+                "name": "83c"
+              },
+              "destructionPercent": 33,
+              "stars": 0
+            },
+            {
+              "attacker": {
+                "tag": "#QYCLC0JLL",
+                "name": "83c"
+              },
+              "destructionPercent": 23,
+              "stars": 0
+            }
+          ]
         },
         {
           "id": 70000001,
