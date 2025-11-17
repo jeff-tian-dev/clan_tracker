@@ -1,5 +1,5 @@
 {
-  "state": "preparation",
+  "state": "inWar",
   "teamSize": 40,
   "attacksPerMember": 2,
   "battleModifier": "none",
@@ -15,16 +15,24 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/r4vtzr_Zh3UtWFD9VbQX5hLEnkkzsPAFSnZJ4wZS-wM.png"
     },
     "clanLevel": 12,
-    "attacks": 0,
-    "stars": 0,
-    "destructionPercentage": 0.0,
+    "attacks": 1,
+    "stars": 2,
+    "destructionPercentage": 2.3,
     "members": [
       {
         "tag": "#RUVPQQR0",
         "name": "Badboy101",
         "townhallLevel": 13,
         "mapPosition": 39,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GCUPQ8G9J",
+          "defenderTag": "#RUVPQQR0",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 2,
+          "duration": 151
+        }
       },
       {
         "tag": "#QYL88U9P0",
@@ -50,7 +58,7 @@
       {
         "tag": "#Q9QU8L8YV",
         "name": "je suis excit\u00e9",
-        "townhallLevel": 17,
+        "townhallLevel": 18,
         "mapPosition": 18,
         "opponentAttacks": 0
       },
@@ -171,6 +179,16 @@
         "name": "-Lost-",
         "townhallLevel": 17,
         "mapPosition": 20,
+        "attacks": [
+          {
+            "attackerTag": "#GGJQJ8UYY",
+            "defenderTag": "#GJ2YUYG9L",
+            "stars": 2,
+            "destructionPercentage": 92,
+            "order": 4,
+            "duration": 161
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -204,7 +222,7 @@
       {
         "tag": "#QRP2RLV02",
         "name": "JT",
-        "townhallLevel": 15,
+        "townhallLevel": 16,
         "mapPosition": 35,
         "opponentAttacks": 0
       },
@@ -232,7 +250,7 @@
       {
         "tag": "#G28CVVRJL",
         "name": "exofall",
-        "townhallLevel": 17,
+        "townhallLevel": 18,
         "mapPosition": 1,
         "opponentAttacks": 0
       },
@@ -255,14 +273,30 @@
         "name": "t\u00e0zi",
         "townhallLevel": 17,
         "mapPosition": 9,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#L0Y082V8Q",
+          "defenderTag": "#LUPC8JLVG",
+          "stars": 1,
+          "destructionPercentage": 51,
+          "order": 5,
+          "duration": 121
+        }
       },
       {
         "tag": "#GGYGQ8098",
         "name": "Aurelian",
         "townhallLevel": 13,
         "mapPosition": 40,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GCUPQ8G9J",
+          "defenderTag": "#GGYGQ8098",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 1,
+          "duration": 158
+        }
       },
       {
         "tag": "#LLJL8R9UY",
@@ -297,7 +331,15 @@
         "name": "nehm",
         "townhallLevel": 17,
         "mapPosition": 10,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GPLGJYPJ",
+          "defenderTag": "#92PU8J9VR",
+          "stars": 2,
+          "destructionPercentage": 88,
+          "order": 3,
+          "duration": 180
+        }
       }
     ]
   },
@@ -310,9 +352,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/OU3s0O_AuscIaBFfbe3fkt0pj1ccYGpgSmkcKa_DQy0.png"
     },
     "clanLevel": 22,
-    "attacks": 0,
-    "stars": 0,
-    "destructionPercentage": 0.0,
+    "attacks": 4,
+    "stars": 9,
+    "destructionPercentage": 8.475,
     "members": [
       {
         "tag": "#2YLPYPJU2",
@@ -333,6 +375,16 @@
         "name": "TSmoke",
         "townhallLevel": 17,
         "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#GPLGJYPJ",
+            "defenderTag": "#92PU8J9VR",
+            "stars": 2,
+            "destructionPercentage": 88,
+            "order": 3,
+            "duration": 180
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -429,7 +481,7 @@
       {
         "tag": "#J0JYGL8",
         "name": "ThatOneTallGuy",
-        "townhallLevel": 17,
+        "townhallLevel": 18,
         "mapPosition": 1,
         "opponentAttacks": 0
       },
@@ -438,13 +490,41 @@
         "name": "Leet",
         "townhallLevel": 17,
         "mapPosition": 11,
+        "attacks": [
+          {
+            "attackerTag": "#L0Y082V8Q",
+            "defenderTag": "#LUPC8JLVG",
+            "stars": 1,
+            "destructionPercentage": 51,
+            "order": 5,
+            "duration": 121
+          }
+        ],
         "opponentAttacks": 0
       },
       {
         "tag": "#GCUPQ8G9J",
         "name": "Zyne",
-        "townhallLevel": 16,
+        "townhallLevel": 17,
         "mapPosition": 40,
+        "attacks": [
+          {
+            "attackerTag": "#GCUPQ8G9J",
+            "defenderTag": "#GGYGQ8098",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 1,
+            "duration": 158
+          },
+          {
+            "attackerTag": "#GCUPQ8G9J",
+            "defenderTag": "#RUVPQQR0",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 2,
+            "duration": 151
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -506,9 +586,17 @@
       {
         "tag": "#GJ2YUYG9L",
         "name": "jmac",
-        "townhallLevel": 17,
+        "townhallLevel": 18,
         "mapPosition": 6,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GGJQJ8UYY",
+          "defenderTag": "#GJ2YUYG9L",
+          "stars": 2,
+          "destructionPercentage": 92,
+          "order": 4,
+          "duration": 161
+        }
       },
       {
         "tag": "#PVLJ2R2PY",
@@ -548,7 +636,7 @@
       {
         "tag": "#QCV999QPQ",
         "name": "Bryan",
-        "townhallLevel": 17,
+        "townhallLevel": 18,
         "mapPosition": 4,
         "opponentAttacks": 0
       },
