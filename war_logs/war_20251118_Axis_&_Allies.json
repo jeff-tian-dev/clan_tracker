@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/r4vtzr_Zh3UtWFD9VbQX5hLEnkkzsPAFSnZJ4wZS-wM.png"
     },
     "clanLevel": 12,
-    "attacks": 36,
-    "stars": 86,
-    "destructionPercentage": 75.15,
+    "attacks": 37,
+    "stars": 88,
+    "destructionPercentage": 77.325,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -39,7 +39,15 @@
         "name": "voldemort",
         "townhallLevel": 15,
         "mapPosition": 36,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#RC2VV8Y9",
+          "defenderTag": "#QYL88U9P0",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 65,
+          "duration": 91
+        }
       },
       {
         "tag": "#UJP2UYRY",
@@ -448,6 +456,14 @@
             "destructionPercentage": 77,
             "order": 9,
             "duration": 161
+          },
+          {
+            "attackerTag": "#J88YJGY9",
+            "defenderTag": "#GQYC9L09J",
+            "stars": 2,
+            "destructionPercentage": 87,
+            "order": 64,
+            "duration": 180
           }
         ],
         "opponentAttacks": 0
@@ -844,9 +860,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/OU3s0O_AuscIaBFfbe3fkt0pj1ccYGpgSmkcKa_DQy0.png"
     },
     "clanLevel": 22,
-    "attacks": 27,
-    "stars": 56,
-    "destructionPercentage": 52.275,
+    "attacks": 28,
+    "stars": 59,
+    "destructionPercentage": 54.775,
     "members": [
       {
         "tag": "#2YLPYPJU2",
@@ -987,7 +1003,15 @@
         "name": "ugh",
         "townhallLevel": 17,
         "mapPosition": 29,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#J88YJGY9",
+          "defenderTag": "#GQYC9L09J",
+          "stars": 2,
+          "destructionPercentage": 87,
+          "order": 64,
+          "duration": 180
+        }
       },
       {
         "tag": "#RC2VV8Y9",
@@ -1002,6 +1026,14 @@
             "destructionPercentage": 100,
             "order": 57,
             "duration": 119
+          },
+          {
+            "attackerTag": "#RC2VV8Y9",
+            "defenderTag": "#QYL88U9P0",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 65,
+            "duration": 91
           }
         ],
         "opponentAttacks": 0
