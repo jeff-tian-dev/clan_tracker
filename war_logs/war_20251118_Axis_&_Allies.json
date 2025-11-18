@@ -15,7 +15,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/r4vtzr_Zh3UtWFD9VbQX5hLEnkkzsPAFSnZJ4wZS-wM.png"
     },
     "clanLevel": 12,
-    "attacks": 44,
+    "attacks": 45,
     "stars": 98,
     "destructionPercentage": 84.225,
     "members": [
@@ -763,6 +763,14 @@
             "destructionPercentage": 64,
             "order": 75,
             "duration": 77
+          },
+          {
+            "attackerTag": "#LUPC8JLVG",
+            "defenderTag": "#J0JYGL8",
+            "stars": 1,
+            "destructionPercentage": 61,
+            "order": 76,
+            "duration": 82
           }
         ],
         "opponentAttacks": 1,
@@ -1275,7 +1283,7 @@
         "name": "ThatOneTallGuy",
         "townhallLevel": 18,
         "mapPosition": 1,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#G28CVVRJL",
           "defenderTag": "#J0JYGL8",
