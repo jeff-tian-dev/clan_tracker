@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/r4vtzr_Zh3UtWFD9VbQX5hLEnkkzsPAFSnZJ4wZS-wM.png"
     },
     "clanLevel": 12,
-    "attacks": 45,
-    "stars": 98,
-    "destructionPercentage": 84.225,
+    "attacks": 49,
+    "stars": 105,
+    "destructionPercentage": 90.425,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -258,6 +258,24 @@
         "name": "SILENT KILLER S",
         "townhallLevel": 17,
         "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#Y8GQ89UGJ",
+            "defenderTag": "#YV2GQR0RP",
+            "stars": 2,
+            "destructionPercentage": 96,
+            "order": 79,
+            "duration": 167
+          },
+          {
+            "attackerTag": "#Y8GQ89UGJ",
+            "defenderTag": "#RC2VV8Y9",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 81,
+            "duration": 112
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#QGP2CJ0YJ",
@@ -379,7 +397,7 @@
         "name": "RedFox",
         "townhallLevel": 16,
         "mapPosition": 38,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#L2G8G29GC",
           "defenderTag": "#QYYC0LQ2P",
@@ -452,6 +470,24 @@
         "name": "doruk",
         "townhallLevel": 17,
         "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#L0UJQ0Y89",
+            "defenderTag": "#J09UQC9R",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 77,
+            "duration": 142
+          },
+          {
+            "attackerTag": "#L0UJQ0Y89",
+            "defenderTag": "#29YL9RYJL",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 78,
+            "duration": 168
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -948,7 +984,7 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/OU3s0O_AuscIaBFfbe3fkt0pj1ccYGpgSmkcKa_DQy0.png"
     },
     "clanLevel": 22,
-    "attacks": 31,
+    "attacks": 32,
     "stars": 65,
     "destructionPercentage": 60.675,
     "members": [
@@ -1012,14 +1048,14 @@
         "name": "Gypsy Danger",
         "townhallLevel": 16,
         "mapPosition": 21,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#LUPC8JLVG",
+          "attackerTag": "#L0UJQ0Y89",
           "defenderTag": "#J09UQC9R",
-          "stars": 2,
-          "destructionPercentage": 64,
-          "order": 75,
-          "duration": 77
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 77,
+          "duration": 142
         }
       },
       {
@@ -1034,7 +1070,15 @@
         "name": "Jayizzel",
         "townhallLevel": 16,
         "mapPosition": 23,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#L0UJQ0Y89",
+          "defenderTag": "#29YL9RYJL",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 78,
+          "duration": 168
+        }
       },
       {
         "tag": "#QGP2CJ0YJ",
@@ -1132,7 +1176,15 @@
             "duration": 91
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Y8GQ89UGJ",
+          "defenderTag": "#RC2VV8Y9",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 81,
+          "duration": 112
+        }
       },
       {
         "tag": "#GY20R0L9Q",
@@ -1253,14 +1305,14 @@
         "name": "6th Sense",
         "townhallLevel": 16,
         "mapPosition": 26,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#9VU0VU90G",
+          "attackerTag": "#Y8GQ89UGJ",
           "defenderTag": "#YV2GQR0RP",
           "stars": 2,
-          "destructionPercentage": 84,
-          "order": 10,
-          "duration": 105
+          "destructionPercentage": 96,
+          "order": 79,
+          "duration": 167
         }
       },
       {
@@ -1438,6 +1490,14 @@
             "destructionPercentage": 57,
             "order": 63,
             "duration": 154
+          },
+          {
+            "attackerTag": "#G0U8U9PRL",
+            "defenderTag": "#QYYC0LQ2P",
+            "stars": 2,
+            "destructionPercentage": 65,
+            "order": 80,
+            "duration": 149
           }
         ],
         "opponentAttacks": 1,
