@@ -498,7 +498,15 @@
             "duration": 180
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#JL8VU2V8",
+          "defenderTag": "#YQ8L9JVJ2",
+          "stars": 2,
+          "destructionPercentage": 73,
+          "order": 102,
+          "duration": 96
+        }
       },
       {
         "tag": "#LYJJ9PLV9",
@@ -811,7 +819,15 @@
         "name": "amaan yt",
         "townhallLevel": 17,
         "mapPosition": 5,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#J0JYGL8",
+          "defenderTag": "#PPCJUJL9G",
+          "stars": 2,
+          "destructionPercentage": 97,
+          "order": 101,
+          "duration": 141
+        }
       },
       {
         "tag": "#G28CVVRJL",
@@ -836,14 +852,14 @@
             "duration": 161
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#Y0GP09Q8R",
+          "attackerTag": "#J0JYGL8",
           "defenderTag": "#G28CVVRJL",
           "stars": 2,
-          "destructionPercentage": 73,
-          "order": 33,
-          "duration": 180
+          "destructionPercentage": 87,
+          "order": 100,
+          "duration": 104
         }
       },
       {
@@ -1016,14 +1032,14 @@
             "duration": 165
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#GY82YGVLJ",
+          "attackerTag": "#JL8VU2V8",
           "defenderTag": "#G9CC9G2VQ",
-          "stars": 1,
-          "destructionPercentage": 90,
-          "order": 83,
-          "duration": 118
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 103,
+          "duration": 98
         }
       },
       {
@@ -1136,9 +1152,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/OU3s0O_AuscIaBFfbe3fkt0pj1ccYGpgSmkcKa_DQy0.png"
     },
     "clanLevel": 22,
-    "attacks": 41,
-    "stars": 80,
-    "destructionPercentage": 77.575,
+    "attacks": 45,
+    "stars": 86,
+    "destructionPercentage": 82.425,
     "members": [
       {
         "tag": "#2YLPYPJU2",
@@ -1514,6 +1530,24 @@
         "name": "The Taint",
         "townhallLevel": 17,
         "mapPosition": 7,
+        "attacks": [
+          {
+            "attackerTag": "#JL8VU2V8",
+            "defenderTag": "#YQ8L9JVJ2",
+            "stars": 2,
+            "destructionPercentage": 73,
+            "order": 102,
+            "duration": 96
+          },
+          {
+            "attackerTag": "#JL8VU2V8",
+            "defenderTag": "#G9CC9G2VQ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 103,
+            "duration": 98
+          }
+        ],
         "opponentAttacks": 3,
         "bestOpponentAttack": {
           "attackerTag": "#QYCLC0JLL",
@@ -1529,6 +1563,24 @@
         "name": "ThatOneTallGuy",
         "townhallLevel": 18,
         "mapPosition": 1,
+        "attacks": [
+          {
+            "attackerTag": "#J0JYGL8",
+            "defenderTag": "#G28CVVRJL",
+            "stars": 2,
+            "destructionPercentage": 87,
+            "order": 100,
+            "duration": 104
+          },
+          {
+            "attackerTag": "#J0JYGL8",
+            "defenderTag": "#PPCJUJL9G",
+            "stars": 2,
+            "destructionPercentage": 97,
+            "order": 101,
+            "duration": 141
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#G28CVVRJL",
