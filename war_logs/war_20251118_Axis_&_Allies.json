@@ -366,7 +366,15 @@
         "name": "pakattackk",
         "townhallLevel": 17,
         "mapPosition": 28,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GJ2YUYG9L",
+          "defenderTag": "#PG9CR2U",
+          "stars": 2,
+          "destructionPercentage": 65,
+          "order": 98,
+          "duration": 100
+        }
       },
       {
         "tag": "#2CQLC28UP",
@@ -548,7 +556,15 @@
             "duration": 168
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GJ2YUYG9L",
+          "defenderTag": "#L0UJQ0Y89",
+          "stars": 2,
+          "destructionPercentage": 85,
+          "order": 99,
+          "duration": 163
+        }
       },
       {
         "tag": "#GGJGUUG8Q",
@@ -1120,9 +1136,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/OU3s0O_AuscIaBFfbe3fkt0pj1ccYGpgSmkcKa_DQy0.png"
     },
     "clanLevel": 22,
-    "attacks": 39,
-    "stars": 76,
-    "destructionPercentage": 73.825,
+    "attacks": 41,
+    "stars": 80,
+    "destructionPercentage": 77.575,
     "members": [
       {
         "tag": "#2YLPYPJU2",
@@ -1824,6 +1840,24 @@
         "name": "jmac",
         "townhallLevel": 18,
         "mapPosition": 6,
+        "attacks": [
+          {
+            "attackerTag": "#GJ2YUYG9L",
+            "defenderTag": "#PG9CR2U",
+            "stars": 2,
+            "destructionPercentage": 65,
+            "order": 98,
+            "duration": 100
+          },
+          {
+            "attackerTag": "#GJ2YUYG9L",
+            "defenderTag": "#L0UJQ0Y89",
+            "stars": 2,
+            "destructionPercentage": 85,
+            "order": 99,
+            "duration": 163
+          }
+        ],
         "opponentAttacks": 3,
         "bestOpponentAttack": {
           "attackerTag": "#8VQYULVQQ",
