@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/r4vtzr_Zh3UtWFD9VbQX5hLEnkkzsPAFSnZJ4wZS-wM.png"
     },
     "clanLevel": 12,
-    "attacks": 35,
-    "stars": 83,
-    "destructionPercentage": 72.65,
+    "attacks": 36,
+    "stars": 86,
+    "destructionPercentage": 75.15,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -255,6 +255,14 @@
             "destructionPercentage": 100,
             "order": 53,
             "duration": 110
+          },
+          {
+            "attackerTag": "#9U2YP0RY",
+            "defenderTag": "#Q82CUJGQP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 62,
+            "duration": 77
           }
         ],
         "opponentAttacks": 1,
@@ -631,7 +639,15 @@
             "duration": 130
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#G0U8U9PRL",
+          "defenderTag": "#9VU0VU90G",
+          "stars": 2,
+          "destructionPercentage": 57,
+          "order": 63,
+          "duration": 154
+        }
       },
       {
         "tag": "#2R2JYRRU",
@@ -828,9 +844,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/OU3s0O_AuscIaBFfbe3fkt0pj1ccYGpgSmkcKa_DQy0.png"
     },
     "clanLevel": 22,
-    "attacks": 26,
-    "stars": 54,
-    "destructionPercentage": 50.85,
+    "attacks": 27,
+    "stars": 56,
+    "destructionPercentage": 52.275,
     "members": [
       {
         "tag": "#2YLPYPJU2",
@@ -1278,6 +1294,16 @@
         "name": "Jst4fun",
         "townhallLevel": 15,
         "mapPosition": 31,
+        "attacks": [
+          {
+            "attackerTag": "#G0U8U9PRL",
+            "defenderTag": "#9VU0VU90G",
+            "stars": 2,
+            "destructionPercentage": 57,
+            "order": 63,
+            "duration": 154
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#L8Q80JYUQ",
@@ -1503,7 +1529,15 @@
         "name": "Solikin321",
         "townhallLevel": 17,
         "mapPosition": 15,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#9U2YP0RY",
+          "defenderTag": "#Q82CUJGQP",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 62,
+          "duration": 77
+        }
       },
       {
         "tag": "#G00CUQY2V",
