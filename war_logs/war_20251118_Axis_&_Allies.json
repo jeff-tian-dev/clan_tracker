@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/r4vtzr_Zh3UtWFD9VbQX5hLEnkkzsPAFSnZJ4wZS-wM.png"
     },
     "clanLevel": 12,
-    "attacks": 51,
-    "stars": 107,
-    "destructionPercentage": 90.85,
+    "attacks": 53,
+    "stars": 109,
+    "destructionPercentage": 92.075,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -997,6 +997,24 @@
         "name": "nehm",
         "townhallLevel": 17,
         "mapPosition": 10,
+        "attacks": [
+          {
+            "attackerTag": "#92PU8J9VR",
+            "defenderTag": "#Q0QGQ2UPU",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 86,
+            "duration": 76
+          },
+          {
+            "attackerTag": "#92PU8J9VR",
+            "defenderTag": "#G0U8U9PRL",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 87,
+            "duration": 82
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#GPLGJYPJ",
@@ -1534,14 +1552,14 @@
             "duration": 149
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#L8Q80JYUQ",
+          "attackerTag": "#92PU8J9VR",
           "defenderTag": "#G0U8U9PRL",
-          "stars": 2,
-          "destructionPercentage": 74,
-          "order": 44,
-          "duration": 111
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 87,
+          "duration": 82
         }
       },
       {
@@ -1883,14 +1901,14 @@
         "name": "7th Heaven",
         "townhallLevel": 15,
         "mapPosition": 30,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#J88YJGY9",
+          "attackerTag": "#92PU8J9VR",
           "defenderTag": "#Q0QGQ2UPU",
-          "stars": 2,
-          "destructionPercentage": 77,
-          "order": 9,
-          "duration": 161
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 86,
+          "duration": 76
         }
       },
       {
