@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/r4vtzr_Zh3UtWFD9VbQX5hLEnkkzsPAFSnZJ4wZS-wM.png"
     },
     "clanLevel": 12,
-    "attacks": 30,
-    "stars": 72,
-    "destructionPercentage": 62.75,
+    "attacks": 35,
+    "stars": 83,
+    "destructionPercentage": 72.65,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -94,6 +94,24 @@
         "name": "je suis excit\u00e9",
         "townhallLevel": 18,
         "mapPosition": 18,
+        "attacks": [
+          {
+            "attackerTag": "#Q9QU8L8YV",
+            "defenderTag": "#JL8VU2V8",
+            "stars": 1,
+            "destructionPercentage": 85,
+            "order": 58,
+            "duration": 164
+          },
+          {
+            "attackerTag": "#Q9QU8L8YV",
+            "defenderTag": "#LY8RPLPVP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 60,
+            "duration": 131
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#GPC28JJCJ",
@@ -511,7 +529,15 @@
             "duration": 105
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GY20R0L9Q",
+          "defenderTag": "#L8Q80JYUQ",
+          "stars": 2,
+          "destructionPercentage": 89,
+          "order": 56,
+          "duration": 134
+        }
       },
       {
         "tag": "#QRP2RLV02",
@@ -698,6 +724,14 @@
             "destructionPercentage": 100,
             "order": 52,
             "duration": 156
+          },
+          {
+            "attackerTag": "#G9CC9G2VQ",
+            "defenderTag": "#G00CUQY2V",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 55,
+            "duration": 165
           }
         ],
         "opponentAttacks": 0
@@ -725,14 +759,14 @@
             "duration": 120
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#GGJ20LVQV",
+          "attackerTag": "#RC2VV8Y9",
           "defenderTag": "#LGGLYVUPP",
-          "stars": 1,
-          "destructionPercentage": 92,
-          "order": 21,
-          "duration": 103
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 57,
+          "duration": 119
         }
       },
       {
@@ -740,6 +774,24 @@
         "name": "\u2b50\u2b505 StarFree\u2b50\u2b50\u2b50",
         "townhallLevel": 17,
         "mapPosition": 4,
+        "attacks": [
+          {
+            "attackerTag": "#Y2PVPPU8C",
+            "defenderTag": "#JL8VU2V8",
+            "stars": 2,
+            "destructionPercentage": 96,
+            "order": 59,
+            "duration": 168
+          },
+          {
+            "attackerTag": "#Y2PVPPU8C",
+            "defenderTag": "#Y9P2PYRP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 61,
+            "duration": 158
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#QCV999QPQ",
@@ -776,9 +828,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/OU3s0O_AuscIaBFfbe3fkt0pj1ccYGpgSmkcKa_DQy0.png"
     },
     "clanLevel": 22,
-    "attacks": 24,
-    "stars": 50,
-    "destructionPercentage": 48.425,
+    "attacks": 26,
+    "stars": 54,
+    "destructionPercentage": 50.85,
     "members": [
       {
         "tag": "#2YLPYPJU2",
@@ -800,7 +852,15 @@
         "name": "jason",
         "townhallLevel": 17,
         "mapPosition": 14,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Y2PVPPU8C",
+          "defenderTag": "#Y9P2PYRP",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 61,
+          "duration": 158
+        }
       },
       {
         "tag": "#GPLGJYPJ",
@@ -918,6 +978,16 @@
         "name": "BoBo.1",
         "townhallLevel": 17,
         "mapPosition": 27,
+        "attacks": [
+          {
+            "attackerTag": "#RC2VV8Y9",
+            "defenderTag": "#LGGLYVUPP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 57,
+            "duration": 119
+          }
+        ],
         "opponentAttacks": 0
       },
       {
@@ -933,6 +1003,14 @@
             "destructionPercentage": 74,
             "order": 32,
             "duration": 91
+          },
+          {
+            "attackerTag": "#GY20R0L9Q",
+            "defenderTag": "#L8Q80JYUQ",
+            "stars": 2,
+            "destructionPercentage": 89,
+            "order": 56,
+            "duration": 134
           }
         ],
         "opponentAttacks": 1,
@@ -1038,7 +1116,15 @@
         "name": "The Taint",
         "townhallLevel": 17,
         "mapPosition": 7,
-        "opponentAttacks": 0
+        "opponentAttacks": 2,
+        "bestOpponentAttack": {
+          "attackerTag": "#Y2PVPPU8C",
+          "defenderTag": "#JL8VU2V8",
+          "stars": 2,
+          "destructionPercentage": 96,
+          "order": 59,
+          "duration": 168
+        }
       },
       {
         "tag": "#J0JYGL8",
@@ -1177,7 +1263,15 @@
             "duration": 170
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q9QU8L8YV",
+          "defenderTag": "#LY8RPLPVP",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 60,
+          "duration": 131
+        }
       },
       {
         "tag": "#G0U8U9PRL",
@@ -1416,7 +1510,15 @@
         "name": "13 Warrior",
         "townhallLevel": 15,
         "mapPosition": 34,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#G9CC9G2VQ",
+          "defenderTag": "#G00CUQY2V",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 55,
+          "duration": 165
+        }
       },
       {
         "tag": "#Y28G2RGUC",
