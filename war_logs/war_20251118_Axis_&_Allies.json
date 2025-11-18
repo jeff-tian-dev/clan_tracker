@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/r4vtzr_Zh3UtWFD9VbQX5hLEnkkzsPAFSnZJ4wZS-wM.png"
     },
     "clanLevel": 12,
-    "attacks": 39,
-    "stars": 90,
-    "destructionPercentage": 77.625,
+    "attacks": 42,
+    "stars": 95,
+    "destructionPercentage": 81.875,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -193,6 +193,24 @@
         "name": "Nick",
         "townhallLevel": 17,
         "mapPosition": 13,
+        "attacks": [
+          {
+            "attackerTag": "#L20CLJRGU",
+            "defenderTag": "#GPVP9V008",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 70,
+            "duration": 154
+          },
+          {
+            "attackerTag": "#L20CLJRGU",
+            "defenderTag": "#Q2U0RQLG9",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 72,
+            "duration": 162
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#LY8RPLPVP",
@@ -704,16 +722,24 @@
             "destructionPercentage": 100,
             "order": 69,
             "duration": 146
+          },
+          {
+            "attackerTag": "#2R2JYRRU",
+            "defenderTag": "#L2VP89UCJ",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 71,
+            "duration": 151
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#Y0GP09Q8R",
+          "attackerTag": "#QCV999QPQ",
           "defenderTag": "#2R2JYRRU",
-          "stars": 1,
-          "destructionPercentage": 62,
-          "order": 31,
-          "duration": 161
+          "stars": 2,
+          "destructionPercentage": 99,
+          "order": 73,
+          "duration": 180
         }
       },
       {
@@ -896,9 +922,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/OU3s0O_AuscIaBFfbe3fkt0pj1ccYGpgSmkcKa_DQy0.png"
     },
     "clanLevel": 22,
-    "attacks": 30,
-    "stars": 64,
-    "destructionPercentage": 59.75,
+    "attacks": 31,
+    "stars": 65,
+    "destructionPercentage": 60.675,
     "members": [
       {
         "tag": "#2YLPYPJU2",
@@ -1145,7 +1171,15 @@
             "duration": 121
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#L20CLJRGU",
+          "defenderTag": "#Q2U0RQLG9",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 72,
+          "duration": 162
+        }
       },
       {
         "tag": "#Y0GP09Q8R",
@@ -1568,14 +1602,14 @@
         "name": "sa du gyi",
         "townhallLevel": 17,
         "mapPosition": 12,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#2G8QJR0Q9",
+          "attackerTag": "#L20CLJRGU",
           "defenderTag": "#GPVP9V008",
-          "stars": 2,
-          "destructionPercentage": 70,
-          "order": 47,
-          "duration": 89
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 70,
+          "duration": 154
         }
       },
       {
@@ -1598,6 +1632,14 @@
             "destructionPercentage": 100,
             "order": 16,
             "duration": 164
+          },
+          {
+            "attackerTag": "#QCV999QPQ",
+            "defenderTag": "#2R2JYRRU",
+            "stars": 2,
+            "destructionPercentage": 99,
+            "order": 73,
+            "duration": 180
           }
         ],
         "opponentAttacks": 1,
@@ -1678,14 +1720,14 @@
             "duration": 163
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#2G8QJR0Q9",
+          "attackerTag": "#2R2JYRRU",
           "defenderTag": "#L2VP89UCJ",
-          "stars": 2,
-          "destructionPercentage": 60,
-          "order": 48,
-          "duration": 82
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 71,
+          "duration": 151
         }
       },
       {
