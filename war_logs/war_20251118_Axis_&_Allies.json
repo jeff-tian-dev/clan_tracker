@@ -553,7 +553,15 @@
             "duration": 137
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GPVP9V008",
+          "defenderTag": "#GGJQJ8UYY",
+          "stars": 1,
+          "destructionPercentage": 71,
+          "order": 82,
+          "duration": 110
+        }
       },
       {
         "tag": "#Q92LJCPJU",
@@ -890,7 +898,15 @@
             "duration": 165
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GY82YGVLJ",
+          "defenderTag": "#G9CC9G2VQ",
+          "stars": 1,
+          "destructionPercentage": 90,
+          "order": 83,
+          "duration": 118
+        }
       },
       {
         "tag": "#LGGLYVUPP",
@@ -984,9 +1000,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/OU3s0O_AuscIaBFfbe3fkt0pj1ccYGpgSmkcKa_DQy0.png"
     },
     "clanLevel": 22,
-    "attacks": 32,
-    "stars": 65,
-    "destructionPercentage": 60.675,
+    "attacks": 34,
+    "stars": 67,
+    "destructionPercentage": 64.7,
     "members": [
       {
         "tag": "#2YLPYPJU2",
@@ -1581,6 +1597,16 @@
         "name": "Champion10",
         "townhallLevel": 16,
         "mapPosition": 28,
+        "attacks": [
+          {
+            "attackerTag": "#GY82YGVLJ",
+            "defenderTag": "#G9CC9G2VQ",
+            "stars": 1,
+            "destructionPercentage": 90,
+            "order": 83,
+            "duration": 118
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#9VU0VU90G",
@@ -1696,6 +1722,16 @@
         "name": "sa du gyi",
         "townhallLevel": 17,
         "mapPosition": 12,
+        "attacks": [
+          {
+            "attackerTag": "#GPVP9V008",
+            "defenderTag": "#GGJQJ8UYY",
+            "stars": 1,
+            "destructionPercentage": 71,
+            "order": 82,
+            "duration": 110
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#L20CLJRGU",
