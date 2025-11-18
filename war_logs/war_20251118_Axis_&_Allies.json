@@ -186,7 +186,15 @@
             "duration": 166
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q82CUJGQP",
+          "defenderTag": "#Q2QQL2YVV",
+          "stars": 1,
+          "destructionPercentage": 76,
+          "order": 96,
+          "duration": 86
+        }
       },
       {
         "tag": "#L20CLJRGU",
@@ -572,7 +580,15 @@
             "duration": 180
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GQYC9L09J",
+          "defenderTag": "#J88YJGY9",
+          "stars": 2,
+          "destructionPercentage": 69,
+          "order": 93,
+          "duration": 107
+        }
       },
       {
         "tag": "#GGJQJ8UYY",
@@ -612,7 +628,15 @@
         "name": "XXCCDD",
         "townhallLevel": 17,
         "mapPosition": 30,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GQYC9L09J",
+          "defenderTag": "#Q92LJCPJU",
+          "stars": 2,
+          "destructionPercentage": 76,
+          "order": 94,
+          "duration": 151
+        }
       },
       {
         "tag": "#YJ2UV2GY",
@@ -715,7 +739,15 @@
         "name": "faruk Khan",
         "townhallLevel": 17,
         "mapPosition": 26,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#Q82CUJGQP",
+          "defenderTag": "#QRY9UV89U",
+          "stars": 2,
+          "destructionPercentage": 50,
+          "order": 95,
+          "duration": 88
+        }
       },
       {
         "tag": "#GU2P0YJP2",
@@ -1080,9 +1112,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/OU3s0O_AuscIaBFfbe3fkt0pj1ccYGpgSmkcKa_DQy0.png"
     },
     "clanLevel": 22,
-    "attacks": 34,
-    "stars": 67,
-    "destructionPercentage": 64.7,
+    "attacks": 38,
+    "stars": 74,
+    "destructionPercentage": 71.475,
     "members": [
       {
         "tag": "#2YLPYPJU2",
@@ -1255,6 +1287,24 @@
         "name": "ugh",
         "townhallLevel": 17,
         "mapPosition": 29,
+        "attacks": [
+          {
+            "attackerTag": "#GQYC9L09J",
+            "defenderTag": "#J88YJGY9",
+            "stars": 2,
+            "destructionPercentage": 69,
+            "order": 93,
+            "duration": 107
+          },
+          {
+            "attackerTag": "#GQYC9L09J",
+            "defenderTag": "#Q92LJCPJU",
+            "stars": 2,
+            "destructionPercentage": 76,
+            "order": 94,
+            "duration": 151
+          }
+        ],
         "opponentAttacks": 2,
         "bestOpponentAttack": {
           "attackerTag": "#Y80PLCRQ9",
@@ -1891,6 +1941,24 @@
         "name": "Solikin321",
         "townhallLevel": 17,
         "mapPosition": 15,
+        "attacks": [
+          {
+            "attackerTag": "#Q82CUJGQP",
+            "defenderTag": "#QRY9UV89U",
+            "stars": 2,
+            "destructionPercentage": 50,
+            "order": 95,
+            "duration": 88
+          },
+          {
+            "attackerTag": "#Q82CUJGQP",
+            "defenderTag": "#Q2QQL2YVV",
+            "stars": 1,
+            "destructionPercentage": 76,
+            "order": 96,
+            "duration": 86
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#9U2YP0RY",
