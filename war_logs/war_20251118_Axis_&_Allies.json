@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/r4vtzr_Zh3UtWFD9VbQX5hLEnkkzsPAFSnZJ4wZS-wM.png"
     },
     "clanLevel": 12,
-    "attacks": 49,
-    "stars": 105,
-    "destructionPercentage": 90.425,
+    "attacks": 51,
+    "stars": 107,
+    "destructionPercentage": 90.85,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -226,6 +226,24 @@
         "name": "jerwenzke1",
         "townhallLevel": 17,
         "mapPosition": 16,
+        "attacks": [
+          {
+            "attackerTag": "#Y80PLCRQ9",
+            "defenderTag": "#YV2GQR0RP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 84,
+            "duration": 151
+          },
+          {
+            "attackerTag": "#Y80PLCRQ9",
+            "defenderTag": "#GQYC9L09J",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 85,
+            "duration": 145
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#L2VP89UCJ",
@@ -1159,14 +1177,14 @@
         "name": "ugh",
         "townhallLevel": 17,
         "mapPosition": 29,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#J88YJGY9",
+          "attackerTag": "#Y80PLCRQ9",
           "defenderTag": "#GQYC9L09J",
-          "stars": 2,
-          "destructionPercentage": 87,
-          "order": 64,
-          "duration": 180
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 85,
+          "duration": 145
         }
       },
       {
@@ -1321,14 +1339,14 @@
         "name": "6th Sense",
         "townhallLevel": 16,
         "mapPosition": 26,
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#Y8GQ89UGJ",
+          "attackerTag": "#Y80PLCRQ9",
           "defenderTag": "#YV2GQR0RP",
-          "stars": 2,
-          "destructionPercentage": 96,
-          "order": 79,
-          "duration": 167
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 84,
+          "duration": 151
         }
       },
       {
