@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/r4vtzr_Zh3UtWFD9VbQX5hLEnkkzsPAFSnZJ4wZS-wM.png"
     },
     "clanLevel": 12,
-    "attacks": 55,
-    "stars": 114,
-    "destructionPercentage": 96.175,
+    "attacks": 56,
+    "stars": 115,
+    "destructionPercentage": 96.525,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -267,6 +267,14 @@
             "destructionPercentage": 100,
             "order": 22,
             "duration": 151
+          },
+          {
+            "attackerTag": "#LQVP22Y9C",
+            "defenderTag": "#QJU2CULJR",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 90,
+            "duration": 144
           }
         ],
         "opponentAttacks": 0
@@ -1950,14 +1958,14 @@
         "name": "Lymp Dickson",
         "townhallLevel": 15,
         "mapPosition": 32,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#LGGLYVUPP",
+          "attackerTag": "#LQVP22Y9C",
           "defenderTag": "#QJU2CULJR",
-          "stars": 2,
-          "destructionPercentage": 86,
-          "order": 40,
-          "duration": 168
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 90,
+          "duration": 144
         }
       }
     ]
