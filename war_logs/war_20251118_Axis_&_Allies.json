@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/r4vtzr_Zh3UtWFD9VbQX5hLEnkkzsPAFSnZJ4wZS-wM.png"
     },
     "clanLevel": 12,
-    "attacks": 42,
-    "stars": 95,
-    "destructionPercentage": 81.875,
+    "attacks": 44,
+    "stars": 98,
+    "destructionPercentage": 84.225,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -554,6 +554,14 @@
             "destructionPercentage": 100,
             "order": 66,
             "duration": 91
+          },
+          {
+            "attackerTag": "#QYCLC0JLL",
+            "defenderTag": "#2YLPYPJU2",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 74,
+            "duration": 81
           }
         ],
         "opponentAttacks": 1,
@@ -747,6 +755,16 @@
         "name": "t\u00e0zi",
         "townhallLevel": 17,
         "mapPosition": 9,
+        "attacks": [
+          {
+            "attackerTag": "#LUPC8JLVG",
+            "defenderTag": "#J09UQC9R",
+            "stars": 2,
+            "destructionPercentage": 64,
+            "order": 75,
+            "duration": 77
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#L0Y082V8Q",
@@ -931,14 +949,14 @@
         "name": "WJH3RD",
         "townhallLevel": 16,
         "mapPosition": 20,
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#L8Q80JYUQ",
+          "attackerTag": "#QYCLC0JLL",
           "defenderTag": "#2YLPYPJU2",
-          "stars": 2,
-          "destructionPercentage": 70,
-          "order": 46,
-          "duration": 105
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 74,
+          "duration": 81
         }
       },
       {
@@ -986,7 +1004,15 @@
         "name": "Gypsy Danger",
         "townhallLevel": 16,
         "mapPosition": 21,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#LUPC8JLVG",
+          "defenderTag": "#J09UQC9R",
+          "stars": 2,
+          "destructionPercentage": 64,
+          "order": 75,
+          "duration": 77
+        }
       },
       {
         "tag": "#GVPGC289",
