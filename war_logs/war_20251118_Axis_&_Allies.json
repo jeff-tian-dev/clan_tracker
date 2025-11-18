@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/r4vtzr_Zh3UtWFD9VbQX5hLEnkkzsPAFSnZJ4wZS-wM.png"
     },
     "clanLevel": 12,
-    "attacks": 37,
-    "stars": 88,
-    "destructionPercentage": 77.325,
+    "attacks": 38,
+    "stars": 89,
+    "destructionPercentage": 77.425,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -313,7 +313,15 @@
             "duration": 128
           }
         ],
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GPC28JJCJ",
+          "defenderTag": "#2CQLC28UP",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 67,
+          "duration": 179
+        }
       },
       {
         "tag": "#2G8QJR0Q9",
@@ -520,6 +528,16 @@
         "name": "83c",
         "townhallLevel": 17,
         "mapPosition": 2,
+        "attacks": [
+          {
+            "attackerTag": "#QYCLC0JLL",
+            "defenderTag": "#JL8VU2V8",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 66,
+            "duration": 91
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#QGP2CJ0YJ",
@@ -568,7 +586,15 @@
         "name": "JT",
         "townhallLevel": 16,
         "mapPosition": 35,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#G8RRY0LPP",
+          "defenderTag": "#QRP2RLV02",
+          "stars": 2,
+          "destructionPercentage": 99,
+          "order": 68,
+          "duration": 180
+        }
       },
       {
         "tag": "#QRY9UV89U",
@@ -860,9 +886,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/OU3s0O_AuscIaBFfbe3fkt0pj1ccYGpgSmkcKa_DQy0.png"
     },
     "clanLevel": 22,
-    "attacks": 28,
-    "stars": 59,
-    "destructionPercentage": 54.775,
+    "attacks": 30,
+    "stars": 64,
+    "destructionPercentage": 59.75,
     "members": [
       {
         "tag": "#2YLPYPJU2",
@@ -1164,14 +1190,14 @@
         "name": "The Taint",
         "townhallLevel": 17,
         "mapPosition": 7,
-        "opponentAttacks": 2,
+        "opponentAttacks": 3,
         "bestOpponentAttack": {
-          "attackerTag": "#Y2PVPPU8C",
+          "attackerTag": "#QYCLC0JLL",
           "defenderTag": "#JL8VU2V8",
-          "stars": 2,
-          "destructionPercentage": 96,
-          "order": 59,
-          "duration": 168
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 66,
+          "duration": 91
         }
       },
       {
@@ -1359,6 +1385,14 @@
             "destructionPercentage": 84,
             "order": 11,
             "duration": 145
+          },
+          {
+            "attackerTag": "#GPC28JJCJ",
+            "defenderTag": "#2CQLC28UP",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 67,
+            "duration": 179
           }
         ],
         "opponentAttacks": 1,
@@ -1424,6 +1458,16 @@
         "name": "SolidoglawaS",
         "townhallLevel": 17,
         "mapPosition": 35,
+        "attacks": [
+          {
+            "attackerTag": "#G8RRY0LPP",
+            "defenderTag": "#QRP2RLV02",
+            "stars": 2,
+            "destructionPercentage": 99,
+            "order": 68,
+            "duration": 180
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#G9CC9G2VQ",
