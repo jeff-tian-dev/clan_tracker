@@ -15,9 +15,9 @@
       "medium": "https://api-assets.clashofclans.com/badges/200/r4vtzr_Zh3UtWFD9VbQX5hLEnkkzsPAFSnZJ4wZS-wM.png"
     },
     "clanLevel": 12,
-    "attacks": 56,
-    "stars": 115,
-    "destructionPercentage": 96.525,
+    "attacks": 58,
+    "stars": 119,
+    "destructionPercentage": 99.925,
     "members": [
       {
         "tag": "#RUVPQQR0",
@@ -722,6 +722,24 @@
         "name": "Meks",
         "townhallLevel": 17,
         "mapPosition": 14,
+        "attacks": [
+          {
+            "attackerTag": "#GU2P0YJP2",
+            "defenderTag": "#GGJ20LVQV",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 91,
+            "duration": 100
+          },
+          {
+            "attackerTag": "#GU2P0YJP2",
+            "defenderTag": "#GVPGC289",
+            "stars": 3,
+            "destructionPercentage": 100,
+            "order": 92,
+            "duration": 104
+          }
+        ],
         "opponentAttacks": 1,
         "bestOpponentAttack": {
           "attackerTag": "#LY8RPLPVP",
@@ -1141,7 +1159,15 @@
         "name": "J!NTAN",
         "townhallLevel": 14,
         "mapPosition": 37,
-        "opponentAttacks": 0
+        "opponentAttacks": 1,
+        "bestOpponentAttack": {
+          "attackerTag": "#GU2P0YJP2",
+          "defenderTag": "#GVPGC289",
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 92,
+          "duration": 104
+        }
       },
       {
         "tag": "#29YL9RYJL",
@@ -1214,14 +1240,14 @@
             "duration": 103
           }
         ],
-        "opponentAttacks": 1,
+        "opponentAttacks": 2,
         "bestOpponentAttack": {
-          "attackerTag": "#QYYC0LQ2P",
+          "attackerTag": "#GU2P0YJP2",
           "defenderTag": "#GGJ20LVQV",
-          "stars": 2,
-          "destructionPercentage": 64,
-          "order": 89,
-          "duration": 101
+          "stars": 3,
+          "destructionPercentage": 100,
+          "order": 91,
+          "duration": 100
         }
       },
       {
